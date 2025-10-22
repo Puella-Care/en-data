@@ -1,0 +1,2600 @@
+[
+  {
+    "cardId": 10011,
+    "cardName": "環 いろは",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10012,
+    "cardName": "環 いろは"
+  },
+  {
+    "cardId": 10013,
+    "cardName": "環 いろは"
+  },
+  {
+    "cardId": 10014,
+    "cardName": "環 いろは"
+  },
+  {
+    "cardId": 10015,
+    "cardName": "環 いろは",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10022,
+    "cardName": "七海 やちよ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10023,
+    "cardName": "七海 やちよ"
+  },
+  {
+    "cardId": 10024,
+    "cardName": "七海 やちよ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10025,
+    "cardName": "七海 やちよ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10032,
+    "cardName": "由比 鶴乃",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10033,
+    "cardName": "由比 鶴乃"
+  },
+  {
+    "cardId": 10034,
+    "cardName": "由比 鶴乃"
+  },
+  {
+    "cardId": 10035,
+    "cardName": "由比 鶴乃",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10042,
+    "cardName": "二葉 さな",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10043,
+    "cardName": "二葉 さな",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10044,
+    "cardName": "二葉 さな",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10045,
+    "cardName": "二葉 さな",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10052,
+    "cardName": "深月 フェリシア",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10053,
+    "cardName": "深月 フェリシア"
+  },
+  {
+    "cardId": 10054,
+    "cardName": "深月 フェリシア",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10055,
+    "cardName": "深月 フェリシア",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 10064,
+    "cardName": "梓 みふゆ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10065,
+    "cardName": "梓 みふゆ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10074,
+    "cardName": "里見 灯花",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10075,
+    "cardName": "里見 灯花",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10084,
+    "cardName": "アリナ・グレイ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10085,
+    "cardName": "アリナ・グレイ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10094,
+    "cardName": "水波 レナ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10095,
+    "cardName": "水波 レナ"
+  },
+  {
+    "cardId": 10104,
+    "cardName": "十咎 ももこ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10105,
+    "cardName": "十咎 ももこ"
+  },
+  {
+    "cardId": 10113,
+    "cardName": "秋野 かえで",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10114,
+    "cardName": "秋野 かえで"
+  },
+  {
+    "cardId": 10115,
+    "cardName": "秋野 かえで"
+  },
+  {
+    "cardId": 10124,
+    "cardName": "御園 かりん",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10125,
+    "cardName": "御園 かりん",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10133,
+    "cardName": "竜城 明日香",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10134,
+    "cardName": "竜城 明日香"
+  },
+  {
+    "cardId": 10135,
+    "cardName": "竜城 明日香"
+  },
+  {
+    "cardId": 10144,
+    "cardName": "柊 ねむ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10145,
+    "cardName": "柊 ねむ",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 10154,
+    "cardName": "環 うい",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10155,
+    "cardName": "環 うい",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10164,
+    "cardName": "Oh?",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10165,
+    "cardName": "Oh?",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10174,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10175,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10184,
+    "cardName": "天音 月夜",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 10185,
+    "cardName": "天音 月夜",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 10193,
+    "cardName": "天音 月咲",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 10194,
+    "cardName": "天音 月咲",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 10195,
+    "cardName": "天音 月咲",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 10204,
+    "cardName": "佐鳥 かごめ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10205,
+    "cardName": "佐鳥 かごめ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10214,
+    "cardName": "紅晴 結菜",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10215,
+    "cardName": "紅晴 結菜",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 10224,
+    "cardName": "煌里 ひかる",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10225,
+    "cardName": "煌里 ひかる",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10234,
+    "cardName": "笠音 アオ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10235,
+    "cardName": "笠音 アオ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10244,
+    "cardName": "大庭 樹里",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10245,
+    "cardName": "大庭 樹里",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10254,
+    "cardName": "時女 静香",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10255,
+    "cardName": "時女 静香",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 10264,
+    "cardName": "広江 ちはる",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10265,
+    "cardName": "広江 ちはる",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10274,
+    "cardName": "土岐 すなお",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10275,
+    "cardName": "土岐 すなお",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 10284,
+    "cardName": "藍家 ひめな",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10285,
+    "cardName": "藍家 ひめな",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10294,
+    "cardName": "宮尾 時雨",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10295,
+    "cardName": "宮尾 時雨",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10304,
+    "cardName": "安積 はぐむ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10305,
+    "cardName": "安積 はぐむ",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 10314,
+    "cardName": "神楽 燦",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10315,
+    "cardName": "神楽 燦",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10324,
+    "cardName": "遊狩 ミユリ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10325,
+    "cardName": "遊狩 ミユリ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10334,
+    "cardName": "氷室 ラビ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10335,
+    "cardName": "氷室 ラビ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10344,
+    "cardName": "三浦 旭",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10345,
+    "cardName": "三浦 旭",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 10354,
+    "cardName": "栗栖 アレクサンドラ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10355,
+    "cardName": "栗栖 アレクサンドラ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10364,
+    "cardName": "有愛 うらら",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10365,
+    "cardName": "有愛 うらら",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 10374,
+    "cardName": "里見 那由他",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10375,
+    "cardName": "里見 那由他",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 10384,
+    "cardName": "八雲 みかげ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10385,
+    "cardName": "八雲 みかげ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 10394,
+    "cardName": "佐和 月出里",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 10395,
+    "cardName": "佐和 月出里",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 10404,
+    "cardName": "篠目 ヨヅル",
+    "illustrator": "富士フジノ"
+  },
+  {
+    "cardId": 10405,
+    "cardName": "篠目 ヨヅル",
+    "illustrator": "富士フジノ"
+  },
+  {
+    "cardId": 10414,
+    "cardName": "リヴィア・メディロス",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10415,
+    "cardName": "リヴィア・メディロス",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10424,
+    "cardName": "Kyubert",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10425,
+    "cardName": "Kyubert",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10434,
+    "cardName": "黒江",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 10435,
+    "cardName": "黒江",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10444,
+    "cardName": "瀬奈 みこと",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10445,
+    "cardName": "瀬奈 みこと",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10454,
+    "cardName": "水名 露",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10455,
+    "cardName": "水名 露",
+    "illustrator": "Enjison"
+  },
+  {
+    "cardId": 10464,
+    "cardName": "千鶴",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 10465,
+    "cardName": "千鶴",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 10473,
+    "cardName": "くろ",
+    "illustrator": "―"
+  },
+  {
+    "cardId": 10474,
+    "cardName": "くろ",
+    "illustrator": "―"
+  },
+  {
+    "cardId": 10484,
+    "cardName": "エボニー",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10485,
+    "cardName": "エボニー",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 10494,
+    "cardName": "オルガ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 10495,
+    "cardName": "オルガ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 10504,
+    "cardName": "ガンヒルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 10505,
+    "cardName": "ガンヒルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 10514,
+    "cardName": "ヘルカ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 10515,
+    "cardName": "ヘルカ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 10524,
+    "cardName": "トヨ",
+    "illustrator": "千里GAN"
+  },
+  {
+    "cardId": 10525,
+    "cardName": "トヨ",
+    "illustrator": "千里GAN"
+  },
+  {
+    "cardId": 10534,
+    "cardName": "アマリュリス",
+    "illustrator": "さくら小春（QP:flapper）"
+  },
+  {
+    "cardId": 10535,
+    "cardName": "アマリュリス",
+    "illustrator": "さくら小春（QP:flapper）"
+  },
+  {
+    "cardId": 11014,
+    "cardName": "環 いろは",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 11015,
+    "cardName": "環 いろは",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11024,
+    "cardName": "やちよ・みふゆ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11025,
+    "cardName": "やちよ・みふゆ",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 11033,
+    "cardName": "ウワサの鶴乃"
+  },
+  {
+    "cardId": 11034,
+    "cardName": "ウワサの鶴乃",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11035,
+    "cardName": "ウワサの鶴乃",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 11044,
+    "cardName": "ウワサのさな",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11045,
+    "cardName": "ウワサのさな",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11053,
+    "cardName": "フェリシアちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 11054,
+    "cardName": "フェリシアちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 11055,
+    "cardName": "フェリシアちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 11064,
+    "cardName": "梓 みふゆ",
+    "illustrator": "Enjison"
+  },
+  {
+    "cardId": 11065,
+    "cardName": "梓 みふゆ",
+    "illustrator": "Enjison"
+  },
+  {
+    "cardId": 11074,
+    "cardName": "灯花・ねむ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11075,
+    "cardName": "灯花・ねむ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 11084,
+    "cardName": "ホーリーアリナ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11085,
+    "cardName": "ホーリーアリナ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 11094,
+    "cardName": "レナちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 11095,
+    "cardName": "レナちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 11104,
+    "cardName": "十咎 ももこ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11105,
+    "cardName": "十咎 ももこ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11124,
+    "cardName": "かりん・アリナ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11125,
+    "cardName": "かりん・アリナ",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 11134,
+    "cardName": "竜城 明日香",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11135,
+    "cardName": "竜城 明日香",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 11164,
+    "cardName": "和泉 十七夜",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 11165,
+    "cardName": "和泉 十七夜",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 11174,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11175,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11184,
+    "cardName": "天音姉妹",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11185,
+    "cardName": "天音姉妹",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11204,
+    "cardName": "佐鳥 かごめ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11205,
+    "cardName": "佐鳥 かごめ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 11214,
+    "cardName": "結菜・樹里",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 11215,
+    "cardName": "結菜・樹里",
+    "illustrator": "Enjison"
+  },
+  {
+    "cardId": 11254,
+    "cardName": "時女 静香",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 11255,
+    "cardName": "時女 静香",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11334,
+    "cardName": "氷室 ラビ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11335,
+    "cardName": "氷室 ラビ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11374,
+    "cardName": "那由他・みかげ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11375,
+    "cardName": "那由他・みかげ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 11394,
+    "cardName": "佐和 月出里",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11395,
+    "cardName": "佐和 月出里",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11434,
+    "cardName": "黒江",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 11435,
+    "cardName": "黒江",
+    "illustrator": "Enjison"
+  },
+  {
+    "cardId": 11444,
+    "cardName": "ウワサのみこと",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 11445,
+    "cardName": "ウワサのみこと",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 12014,
+    "cardName": "いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 12015,
+    "cardName": "いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 12024,
+    "cardName": "七海 やちよ",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 12025,
+    "cardName": "七海 やちよ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 12034,
+    "cardName": "鶴乃・フェリシア",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 12035,
+    "cardName": "鶴乃・フェリシア",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 12094,
+    "cardName": "レナ・かえで",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 12095,
+    "cardName": "レナ・かえで",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 12104,
+    "cardName": "ももこ・みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 12105,
+    "cardName": "ももこ・みたま",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 12164,
+    "cardName": "和泉 十七夜",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 12165,
+    "cardName": "和泉 十七夜",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 12174,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 12175,
+    "cardName": "八雲 みたま",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 13014,
+    "cardName": "いろは・やちよ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 13015,
+    "cardName": "いろは・やちよ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 13024,
+    "cardName": "七海 やちよ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 13025,
+    "cardName": "七海 やちよ",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 13034,
+    "cardName": "ウワサの鶴乃",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 13035,
+    "cardName": "ウワサの鶴乃",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 13094,
+    "cardName": "水波 レナ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 13095,
+    "cardName": "水波 レナ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 14014,
+    "cardName": "いろは・うい",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 14015,
+    "cardName": "いろは・うい",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 14024,
+    "cardName": "七海 やちよ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 14025,
+    "cardName": "七海 やちよ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 15014,
+    "cardName": "環 いろは",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 15015,
+    "cardName": "環 いろは",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 15024,
+    "cardName": "七海 やちよ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 15025,
+    "cardName": "七海 やちよ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 16014,
+    "cardName": "∞いろは",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 16015,
+    "cardName": "∞いろは",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 17014,
+    "cardName": "無限大いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 17015,
+    "cardName": "無限大いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 18014,
+    "cardName": "いろは・黒江",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 18015,
+    "cardName": "いろは・黒江",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 20014,
+    "cardName": "鹿目 まどか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20015,
+    "cardName": "鹿目 まどか",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 20024,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20025,
+    "cardName": "暁美 ほむら",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 20034,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20035,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 20044,
+    "cardName": "美樹 さやか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20045,
+    "cardName": "美樹 さやか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20054,
+    "cardName": "巴 マミ"
+  },
+  {
+    "cardId": 20055,
+    "cardName": "巴 マミ"
+  },
+  {
+    "cardId": 20064,
+    "cardName": "佐倉 杏子"
+  },
+  {
+    "cardId": 20065,
+    "cardName": "佐倉 杏子"
+  },
+  {
+    "cardId": 20074,
+    "cardName": "百江 なぎさ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20075,
+    "cardName": "百江 なぎさ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20093,
+    "cardName": "愛生 まばゆ",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 20094,
+    "cardName": "愛生 まばゆ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 20095,
+    "cardName": "愛生 まばゆ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 21004,
+    "cardName": "鹿目 まどか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 21005,
+    "cardName": "鹿目 まどか",
+    "illustrator": "蒼樹うめ"
+  },
+  {
+    "cardId": 21014,
+    "cardName": "アルティメットまどか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 21015,
+    "cardName": "アルティメットまどか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 21023,
+    "cardName": "まどか先輩",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21024,
+    "cardName": "まどか先輩",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21025,
+    "cardName": "まどか先輩",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21034,
+    "cardName": "究極まどか先輩",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21035,
+    "cardName": "究極まどか先輩",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21044,
+    "cardName": "まどか・いろは",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 21045,
+    "cardName": "まどか・いろは",
+    "illustrator": "ササギコウシ・ふてね"
+  },
+  {
+    "cardId": 21054,
+    "cardName": "鹿目 まどか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 21055,
+    "cardName": "鹿目 まどか",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 21064,
+    "cardName": "鹿目 まどか",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 21065,
+    "cardName": "鹿目 まどか",
+    "illustrator": "―"
+  },
+  {
+    "cardId": 21074,
+    "cardName": "まどか先輩・いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 21075,
+    "cardName": "まどか先輩・いろはちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 22014,
+    "cardName": "悪魔ほむらちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 22015,
+    "cardName": "悪魔ほむらちゃん",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 22024,
+    "cardName": "悪魔ほむら",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 22025,
+    "cardName": "悪魔ほむら",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 22034,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 22035,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 23004,
+    "cardName": "暁美 ほむら",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 23005,
+    "cardName": "暁美 ほむら",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 23014,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 23015,
+    "cardName": "暁美 ほむら",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 24004,
+    "cardName": "美樹 さやか",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 24005,
+    "cardName": "美樹 さやか",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 24014,
+    "cardName": "美樹 さやか",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 24015,
+    "cardName": "美樹 さやか",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 24024,
+    "cardName": "美樹 さやか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 24025,
+    "cardName": "美樹 さやか",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25004,
+    "cardName": "ホーリーマミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25005,
+    "cardName": "ホーリーマミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25014,
+    "cardName": "巴 マミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25015,
+    "cardName": "巴 マミ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 25024,
+    "cardName": "ホーリーマミ",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 25025,
+    "cardName": "ホーリーマミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25034,
+    "cardName": "巴 マミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 25035,
+    "cardName": "巴 マミ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 26004,
+    "cardName": "佐倉 杏子",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 26005,
+    "cardName": "佐倉 杏子",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 26014,
+    "cardName": "佐倉 杏子",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 26015,
+    "cardName": "佐倉 杏子",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 26024,
+    "cardName": "佐倉 杏子",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 26025,
+    "cardName": "佐倉 杏子",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 27004,
+    "cardName": "百江 なぎさ",
+    "illustrator": "ふてね"
+  },
+  {
+    "cardId": 27005,
+    "cardName": "百江 なぎさ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 27014,
+    "cardName": "百江 なぎさ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 27015,
+    "cardName": "百江 なぎさ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 30012,
+    "cardName": "矢宵 かのこ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 30013,
+    "cardName": "矢宵 かのこ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 30014,
+    "cardName": "矢宵 かのこ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 30015,
+    "cardName": "矢宵 かのこ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 30022,
+    "cardName": "空穂 夏希",
+    "illustrator": "八重樫南"
+  },
+  {
+    "cardId": 30023,
+    "cardName": "空穂 夏希",
+    "illustrator": "八重樫南"
+  },
+  {
+    "cardId": 30024,
+    "cardName": "空穂 夏希",
+    "illustrator": "八重樫南"
+  },
+  {
+    "cardId": 30025,
+    "cardName": "空穂 夏希",
+    "illustrator": "八重樫南"
+  },
+  {
+    "cardId": 30032,
+    "cardName": "都 ひなの",
+    "illustrator": "GENJIN"
+  },
+  {
+    "cardId": 30033,
+    "cardName": "都 ひなの",
+    "illustrator": "GENJIN"
+  },
+  {
+    "cardId": 30034,
+    "cardName": "都 ひなの",
+    "illustrator": "GENJIN"
+  },
+  {
+    "cardId": 30035,
+    "cardName": "都 ひなの"
+  },
+  {
+    "cardId": 30042,
+    "cardName": "美凪 ささら",
+    "illustrator": "戸流ケイ"
+  },
+  {
+    "cardId": 30043,
+    "cardName": "美凪 ささら",
+    "illustrator": "戸流ケイ"
+  },
+  {
+    "cardId": 30044,
+    "cardName": "美凪 ささら",
+    "illustrator": "戸流ケイ"
+  },
+  {
+    "cardId": 30045,
+    "cardName": "美凪 ささら",
+    "illustrator": "戸流ケイ"
+  },
+  {
+    "cardId": 30053,
+    "cardName": "常盤 ななか",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 30054,
+    "cardName": "常盤 ななか",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 30055,
+    "cardName": "常盤 ななか",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 30062,
+    "cardName": "木崎 衣美里",
+    "illustrator": "ニャン☆ぷぅ"
+  },
+  {
+    "cardId": 30063,
+    "cardName": "木崎 衣美里",
+    "illustrator": "ニャン☆ぷぅ"
+  },
+  {
+    "cardId": 30064,
+    "cardName": "木崎 衣美里",
+    "illustrator": "ニャン☆ぷぅ"
+  },
+  {
+    "cardId": 30065,
+    "cardName": "木崎 衣美里",
+    "illustrator": "ニャン☆ぷぅ"
+  },
+  {
+    "cardId": 30072,
+    "cardName": "保澄 雫",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 30073,
+    "cardName": "保澄 雫",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 30074,
+    "cardName": "保澄 雫",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 30075,
+    "cardName": "保澄 雫",
+    "illustrator": "伊坂わさび"
+  },
+  {
+    "cardId": 30082,
+    "cardName": "志伸 あきら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30083,
+    "cardName": "志伸 あきら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30084,
+    "cardName": "志伸 あきら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30085,
+    "cardName": "志伸 あきら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30092,
+    "cardName": "胡桃 まなか",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30093,
+    "cardName": "胡桃 まなか",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30094,
+    "cardName": "胡桃 まなか",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30095,
+    "cardName": "胡桃 まなか",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30103,
+    "cardName": "阿見 莉愛",
+    "illustrator": "Nardack"
+  },
+  {
+    "cardId": 30104,
+    "cardName": "阿見 莉愛",
+    "illustrator": "Nardack"
+  },
+  {
+    "cardId": 30105,
+    "cardName": "阿見 莉愛",
+    "illustrator": "Nardack"
+  },
+  {
+    "cardId": 30112,
+    "cardName": "夏目 かこ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 30113,
+    "cardName": "夏目 かこ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 30114,
+    "cardName": "夏目 かこ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 30115,
+    "cardName": "夏目 かこ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 30123,
+    "cardName": "純 美雨",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 30124,
+    "cardName": "純 美雨",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 30125,
+    "cardName": "純 美雨",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 30133,
+    "cardName": "伊吹 れいら",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30134,
+    "cardName": "伊吹 れいら",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30135,
+    "cardName": "伊吹 れいら",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30142,
+    "cardName": "桑水 せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30143,
+    "cardName": "桑水 せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30144,
+    "cardName": "桑水 せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30145,
+    "cardName": "桑水 せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30154,
+    "cardName": "相野 みと",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30155,
+    "cardName": "相野 みと",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 30164,
+    "cardName": "粟根 こころ",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 30165,
+    "cardName": "粟根 こころ",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 30174,
+    "cardName": "七瀬 ゆきか",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 30175,
+    "cardName": "七瀬 ゆきか",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 30184,
+    "cardName": "更紗 帆奈",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 30185,
+    "cardName": "更紗 帆奈",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 30193,
+    "cardName": "毬子 あやか",
+    "illustrator": "あｆろ"
+  },
+  {
+    "cardId": 30194,
+    "cardName": "毬子 あやか",
+    "illustrator": "あｆろ"
+  },
+  {
+    "cardId": 30195,
+    "cardName": "毬子 あやか",
+    "illustrator": "あｆろ"
+  },
+  {
+    "cardId": 30204,
+    "cardName": "眞尾 ひみか",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 30205,
+    "cardName": "眞尾 ひみか",
+    "illustrator": "PAPA"
+  },
+  {
+    "cardId": 30212,
+    "cardName": "鈴鹿 さくや",
+    "illustrator": "ヒゲ"
+  },
+  {
+    "cardId": 30213,
+    "cardName": "鈴鹿 さくや",
+    "illustrator": "ヒゲ"
+  },
+  {
+    "cardId": 30214,
+    "cardName": "鈴鹿 さくや",
+    "illustrator": "ヒゲ"
+  },
+  {
+    "cardId": 30224,
+    "cardName": "伊並 満",
+    "illustrator": "あらたまい"
+  },
+  {
+    "cardId": 30225,
+    "cardName": "伊並 満",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 30233,
+    "cardName": "江利 あいみ",
+    "illustrator": "かんざきひろ"
+  },
+  {
+    "cardId": 30234,
+    "cardName": "江利 あいみ",
+    "illustrator": "かんざきひろ"
+  },
+  {
+    "cardId": 30235,
+    "cardName": "江利 あいみ",
+    "illustrator": "かんざきひろ"
+  },
+  {
+    "cardId": 30244,
+    "cardName": "若菜 つむぎ",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30245,
+    "cardName": "若菜 つむぎ",
+    "illustrator": "くらは"
+  },
+  {
+    "cardId": 30254,
+    "cardName": "五十鈴 れん",
+    "illustrator": "さくら小春（QP:flapper）"
+  },
+  {
+    "cardId": 30255,
+    "cardName": "五十鈴 れん",
+    "illustrator": "さくら小春（QP:flapper）"
+  },
+  {
+    "cardId": 30264,
+    "cardName": "静海 このは",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30265,
+    "cardName": "静海 このは",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30273,
+    "cardName": "遊佐 葉月",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30274,
+    "cardName": "遊佐 葉月",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30275,
+    "cardName": "遊佐 葉月",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30282,
+    "cardName": "三栗 あやめ",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30283,
+    "cardName": "三栗 あやめ",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30284,
+    "cardName": "三栗 あやめ",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30285,
+    "cardName": "三栗 あやめ",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 30293,
+    "cardName": "加賀見 まさら",
+    "illustrator": "H2SO4"
+  },
+  {
+    "cardId": 30294,
+    "cardName": "加賀見 まさら",
+    "illustrator": "H2SO4"
+  },
+  {
+    "cardId": 30295,
+    "cardName": "加賀見 まさら",
+    "illustrator": "H2SO4"
+  },
+  {
+    "cardId": 30302,
+    "cardName": "春名 このみ",
+    "illustrator": "アマネシキ"
+  },
+  {
+    "cardId": 30303,
+    "cardName": "春名 このみ",
+    "illustrator": "アマネシキ"
+  },
+  {
+    "cardId": 30304,
+    "cardName": "春名 このみ",
+    "illustrator": "アマネシキ"
+  },
+  {
+    "cardId": 30305,
+    "cardName": "春名 このみ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 30313,
+    "cardName": "綾野 梨花",
+    "illustrator": "マシマサキ"
+  },
+  {
+    "cardId": 30314,
+    "cardName": "綾野 梨花",
+    "illustrator": "マシマサキ"
+  },
+  {
+    "cardId": 30315,
+    "cardName": "綾野 梨花",
+    "illustrator": "マシマサキ"
+  },
+  {
+    "cardId": 30324,
+    "cardName": "梢 麻友",
+    "illustrator": "植田 亮"
+  },
+  {
+    "cardId": 30325,
+    "cardName": "梢 麻友",
+    "illustrator": "植田 亮"
+  },
+  {
+    "cardId": 30334,
+    "cardName": "史乃 沙優希",
+    "illustrator": "夜ノみつき"
+  },
+  {
+    "cardId": 30335,
+    "cardName": "史乃 沙優希",
+    "illustrator": "夜ノみつき"
+  },
+  {
+    "cardId": 30343,
+    "cardName": "恵 萌花",
+    "illustrator": "GENJIN"
+  },
+  {
+    "cardId": 30344,
+    "cardName": "恵 萌花",
+    "illustrator": "GENJIN"
+  },
+  {
+    "cardId": 30354,
+    "cardName": "千秋 理子",
+    "illustrator": "らぐほのえりか"
+  },
+  {
+    "cardId": 30355,
+    "cardName": "千秋 理子",
+    "illustrator": "らぐほのえりか"
+  },
+  {
+    "cardId": 30363,
+    "cardName": "由貴 真里愛",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 30364,
+    "cardName": "由貴 真里愛",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 30373,
+    "cardName": "安名 メル",
+    "illustrator": "katsutake"
+  },
+  {
+    "cardId": 30374,
+    "cardName": "安名 メル",
+    "illustrator": "katsutake"
+  },
+  {
+    "cardId": 30375,
+    "cardName": "安名 メル",
+    "illustrator": "katsutake"
+  },
+  {
+    "cardId": 30384,
+    "cardName": "古町 みくら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30385,
+    "cardName": "古町 みくら",
+    "illustrator": "おちゃう"
+  },
+  {
+    "cardId": 30393,
+    "cardName": "三穂野 せいら",
+    "illustrator": "みやま零"
+  },
+  {
+    "cardId": 30394,
+    "cardName": "三穂野 せいら",
+    "illustrator": "みやま零"
+  },
+  {
+    "cardId": 30403,
+    "cardName": "吉良 てまり",
+    "illustrator": "なかじまゆか"
+  },
+  {
+    "cardId": 30404,
+    "cardName": "吉良 てまり",
+    "illustrator": "なかじまゆか"
+  },
+  {
+    "cardId": 30413,
+    "cardName": "柚希 ほとり",
+    "illustrator": "桜木蓮"
+  },
+  {
+    "cardId": 30414,
+    "cardName": "柚希 ほとり",
+    "illustrator": "桜木蓮"
+  },
+  {
+    "cardId": 30423,
+    "cardName": "枇々木 めぐる",
+    "illustrator": "兎塚エイジ"
+  },
+  {
+    "cardId": 30424,
+    "cardName": "枇々木 めぐる",
+    "illustrator": "兎塚エイジ"
+  },
+  {
+    "cardId": 30434,
+    "cardName": "万年桜のウワサ",
+    "illustrator": "藤ちょこ"
+  },
+  {
+    "cardId": 30435,
+    "cardName": "万年桜のウワサ",
+    "illustrator": "藤ちょこ"
+  },
+  {
+    "cardId": 30443,
+    "cardName": "智珠 らんか",
+    "illustrator": "がおう"
+  },
+  {
+    "cardId": 30444,
+    "cardName": "智珠 らんか",
+    "illustrator": "がおう"
+  },
+  {
+    "cardId": 30453,
+    "cardName": "柚希 りおん",
+    "illustrator": "桜木蓮"
+  },
+  {
+    "cardId": 30454,
+    "cardName": "柚希 りおん",
+    "illustrator": "桜木蓮"
+  },
+  {
+    "cardId": 30463,
+    "cardName": "観鳥 令",
+    "illustrator": "凪良"
+  },
+  {
+    "cardId": 30464,
+    "cardName": "観鳥 令",
+    "illustrator": "凪良"
+  },
+  {
+    "cardId": 30465,
+    "cardName": "観鳥 令",
+    "illustrator": "凪良"
+  },
+  {
+    "cardId": 30473,
+    "cardName": "青葉 ちか",
+    "illustrator": "U35"
+  },
+  {
+    "cardId": 30474,
+    "cardName": "青葉 ちか",
+    "illustrator": "U35"
+  },
+  {
+    "cardId": 30483,
+    "cardName": "由良 蛍",
+    "illustrator": "Tiv"
+  },
+  {
+    "cardId": 30484,
+    "cardName": "由良 蛍",
+    "illustrator": "Tiv"
+  },
+  {
+    "cardId": 30494,
+    "cardName": "雪野 かなえ",
+    "illustrator": "NOCO"
+  },
+  {
+    "cardId": 30495,
+    "cardName": "雪野 かなえ",
+    "illustrator": "NOCO"
+  },
+  {
+    "cardId": 30504,
+    "cardName": "香春 ゆうな",
+    "illustrator": "柴乃櫂人"
+  },
+  {
+    "cardId": 30505,
+    "cardName": "香春 ゆうな",
+    "illustrator": "柴乃櫂人"
+  },
+  {
+    "cardId": 30514,
+    "cardName": "飾利 潤",
+    "illustrator": "ヤスダスズヒト"
+  },
+  {
+    "cardId": 30515,
+    "cardName": "飾利 潤",
+    "illustrator": "ヤスダスズヒト"
+  },
+  {
+    "cardId": 30524,
+    "cardName": "アシュリー・テイラー",
+    "illustrator": "紅緒"
+  },
+  {
+    "cardId": 30525,
+    "cardName": "アシュリー・テイラー",
+    "illustrator": "紅緒"
+  },
+  {
+    "cardId": 30534,
+    "cardName": "牧野 郁美",
+    "illustrator": "植田亮"
+  },
+  {
+    "cardId": 30535,
+    "cardName": "牧野 郁美",
+    "illustrator": "植田亮"
+  },
+  {
+    "cardId": 30544,
+    "cardName": "三輪 みつね",
+    "illustrator": "文倉十"
+  },
+  {
+    "cardId": 30545,
+    "cardName": "三輪 みつね",
+    "illustrator": "文倉十"
+  },
+  {
+    "cardId": 30554,
+    "cardName": "桐野 紗枝",
+    "illustrator": "らぐほのえりか"
+  },
+  {
+    "cardId": 30555,
+    "cardName": "桐野 紗枝",
+    "illustrator": "らぐほのえりか"
+  },
+  {
+    "cardId": 30564,
+    "cardName": "水樹 塁",
+    "illustrator": "ファルまろ"
+  },
+  {
+    "cardId": 30565,
+    "cardName": "水樹 塁",
+    "illustrator": "ファルまろ"
+  },
+  {
+    "cardId": 30574,
+    "cardName": "真井 あかり",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 30575,
+    "cardName": "真井 あかり",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 30584,
+    "cardName": "南津 涼子",
+    "illustrator": "あずーる"
+  },
+  {
+    "cardId": 30585,
+    "cardName": "南津 涼子",
+    "illustrator": "あずーる"
+  },
+  {
+    "cardId": 30594,
+    "cardName": "入名 クシュ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 30595,
+    "cardName": "入名 クシュ",
+    "illustrator": "茨乃"
+  },
+  {
+    "cardId": 35014,
+    "cardName": "梨花・れん",
+    "illustrator": "マシマサキ、さくら小春（QP:flapper）"
+  },
+  {
+    "cardId": 35015,
+    "cardName": "梨花・れん",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 35024,
+    "cardName": "万年桜のウワサ",
+    "illustrator": "藤ちょこ"
+  },
+  {
+    "cardId": 35025,
+    "cardName": "万年桜のウワサ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 35034,
+    "cardName": "このは・葉月",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 35035,
+    "cardName": "このは・葉月",
+    "illustrator": "ゆーげん"
+  },
+  {
+    "cardId": 35044,
+    "cardName": "まさら・こころ",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 35045,
+    "cardName": "まさら・こころ",
+    "illustrator": "ダリク"
+  },
+  {
+    "cardId": 35054,
+    "cardName": "れいら・せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 35055,
+    "cardName": "れいら・せいか",
+    "illustrator": "ハノカゲ"
+  },
+  {
+    "cardId": 39001,
+    "cardName": "黒"
+  },
+  {
+    "cardId": 39014,
+    "cardName": "ユゥ",
+    "illustrator": "劇団イヌカレー（泥犬）"
+  },
+  {
+    "cardId": 39015,
+    "cardName": "ユゥ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 39024,
+    "cardName": "シィ",
+    "illustrator": "劇団イヌカレー（泥犬）"
+  },
+  {
+    "cardId": 39025,
+    "cardName": "シィ",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 40013,
+    "cardName": "美国 織莉子",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40014,
+    "cardName": "美国 織莉子",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40015,
+    "cardName": "美国 織莉子",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40024,
+    "cardName": "呉 キリカ",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40025,
+    "cardName": "呉 キリカ",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40033,
+    "cardName": "千歳 ゆま",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40034,
+    "cardName": "千歳 ゆま",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40035,
+    "cardName": "千歳 ゆま",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40044,
+    "cardName": "美国 織莉子",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40045,
+    "cardName": "美国 織莉子",
+    "illustrator": "ムラ黒江"
+  },
+  {
+    "cardId": 40114,
+    "cardName": "かずみ",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40115,
+    "cardName": "かずみ",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40123,
+    "cardName": "御崎 海香",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40124,
+    "cardName": "御崎 海香",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40125,
+    "cardName": "御崎 海香",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40133,
+    "cardName": "牧 カオル",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40134,
+    "cardName": "牧 カオル",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40135,
+    "cardName": "牧 カオル",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40144,
+    "cardName": "昴 かずみ",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40145,
+    "cardName": "昴 かずみ",
+    "illustrator": "天杉貴志"
+  },
+  {
+    "cardId": 40214,
+    "cardName": "タルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40215,
+    "cardName": "タルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40224,
+    "cardName": "リズ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40225,
+    "cardName": "リズ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40233,
+    "cardName": "メリッサ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40234,
+    "cardName": "メリッサ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40235,
+    "cardName": "メリッサ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40244,
+    "cardName": "ミヌゥ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40245,
+    "cardName": "ミヌゥ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40253,
+    "cardName": "コルボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40254,
+    "cardName": "コルボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40255,
+    "cardName": "コルボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40264,
+    "cardName": "エリザ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40265,
+    "cardName": "エリザ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40273,
+    "cardName": "ラピヌ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40274,
+    "cardName": "ラピヌ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40275,
+    "cardName": "ラピヌ",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40284,
+    "cardName": "タルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40285,
+    "cardName": "タルト",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40294,
+    "cardName": "ペレネル",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40295,
+    "cardName": "ペレネル",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 40314,
+    "cardName": "天乃 鈴音",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40315,
+    "cardName": "天乃 鈴音",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40324,
+    "cardName": "日向 茉莉",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40325,
+    "cardName": "日向 茉莉",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40333,
+    "cardName": "成見 亜里紗",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40334,
+    "cardName": "成見 亜里紗",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40335,
+    "cardName": "成見 亜里紗",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40343,
+    "cardName": "詩音 千里",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40344,
+    "cardName": "詩音 千里",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40345,
+    "cardName": "詩音 千里",
+    "illustrator": "千里GAN"
+  },
+  {
+    "cardId": 40353,
+    "cardName": "奏 遥香",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40354,
+    "cardName": "奏 遥香",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40355,
+    "cardName": "奏 遥香",
+    "illustrator": "GAN"
+  },
+  {
+    "cardId": 40364,
+    "cardName": "美琴 椿",
+    "illustrator": "千里GAN"
+  },
+  {
+    "cardId": 40365,
+    "cardName": "美琴 椿",
+    "illustrator": "千里GAN"
+  },
+  {
+    "cardId": 40413,
+    "cardName": "戦場ヶ原 ひたぎ"
+  },
+  {
+    "cardId": 40414,
+    "cardName": "戦場ヶ原 ひたぎ",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 40415,
+    "cardName": "戦場ヶ原 ひたぎ",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40424,
+    "cardName": "八九寺 真宵",
+    "illustrator": "いもあん"
+  },
+  {
+    "cardId": 40425,
+    "cardName": "八九寺 真宵",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40434,
+    "cardName": "神原 駿河",
+    "illustrator": "一十九二"
+  },
+  {
+    "cardId": 40435,
+    "cardName": "神原 駿河",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40444,
+    "cardName": "千石 撫子",
+    "illustrator": "くろにゃん"
+  },
+  {
+    "cardId": 40445,
+    "cardName": "千石 撫子",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40454,
+    "cardName": "羽川 翼",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 40455,
+    "cardName": "羽川 翼",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40464,
+    "cardName": "忍野 忍",
+    "illustrator": "鮠水ちか"
+  },
+  {
+    "cardId": 40465,
+    "cardName": "忍野 忍",
+    "illustrator": "渡辺明夫"
+  },
+  {
+    "cardId": 40514,
+    "cardName": "高町 なのは"
+  },
+  {
+    "cardId": 40515,
+    "cardName": "高町 なのは"
+  },
+  {
+    "cardId": 40524,
+    "cardName": "フェイト"
+  },
+  {
+    "cardId": 40525,
+    "cardName": "フェイト"
+  },
+  {
+    "cardId": 40533,
+    "cardName": "八神 はやて"
+  },
+  {
+    "cardId": 40534,
+    "cardName": "八神 はやて"
+  },
+  {
+    "cardId": 40535,
+    "cardName": "八神 はやて",
+    "illustrator": "ササギコウシ"
+  },
+  {
+    "cardId": 40614,
+    "cardName": "錦木 千束",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 40615,
+    "cardName": "錦木 千束",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 40624,
+    "cardName": "井ノ上 たきな",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 40625,
+    "cardName": "井ノ上 たきな",
+    "illustrator": "ぷにゃん"
+  },
+  {
+    "cardId": 41214,
+    "cardName": "イザボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 41215,
+    "cardName": "イザボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 41224,
+    "cardName": "イザボー",
+    "illustrator": "枡狐/蛙空"
+  },
+  {
+    "cardId": 41225,
+    "cardName": "イザボー",
+    "illustrator": "枡狐/蛙空"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "patrolAreaId": 1011011,
+    "areaName": "繁華街",
+    "conditionDescription": "メイン1章をクリア"
+  },
+  {
+    "patrolAreaId": 1011012,
+    "areaName": "繁華街"
+  },
+  {
+    "patrolAreaId": 1011013,
+    "areaName": "繁華街"
+  },
+  {
+    "patrolAreaId": 1011014,
+    "areaName": "繁華街"
+  },
+  {
+    "patrolAreaId": 1011015,
+    "areaName": "繁華街"
+  },
+  {
+    "patrolAreaId": 1011016,
+    "areaName": "繁華街"
+  },
+  {
+    "patrolAreaId": 1011021,
+    "areaName": "鏡屋敷",
+    "conditionDescription": "メイン第1部2章5話をクリア"
+  },
+  {
+    "patrolAreaId": 1011022,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011023,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011024,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011025,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011026,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011027,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011028,
+    "areaName": "鏡屋敷"
+  },
+  {
+    "patrolAreaId": 1011031,
+    "areaName": "キモチ結界",
+    "conditionDescription": "メイン第2部序章をクリア"
+  },
+  {
+    "patrolAreaId": 1011032,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011033,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011034,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011035,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011036,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011037,
+    "areaName": "キモチ結界"
+  },
+  {
+    "patrolAreaId": 1011038,
+    "areaName": "キモチ結界"
+  }
+]
