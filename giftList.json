@@ -1,422 +1,422 @@
 [
   {
     "id": 111,
-    "name": "フレイムオーブ"
+    "name": "Flame Orb"
   },
   {
     "id": 112,
-    "name": "フレイムオーブ＋"
+    "name": "Flame Orb +"
   },
   {
     "id": 113,
-    "name": "フレイムオーブ＋＋"
+    "name": "Flame Orb ++"
   },
   {
     "id": 121,
-    "name": "アクアオーブ"
+    "name": "Aqua Orb"
   },
   {
     "id": 122,
-    "name": "アクアオーブ＋"
+    "name": "Aqua Orb +"
   },
   {
     "id": 123,
-    "name": "アクアオーブ＋＋"
+    "name": "Aqua Orb ++"
   },
   {
     "id": 131,
-    "name": "フォレストオーブ"
+    "name": "Forest Orb"
   },
   {
     "id": 132,
-    "name": "フォレストオーブ＋"
+    "name": "Forest Orb +"
   },
   {
     "id": 133,
-    "name": "フォレストオーブ＋＋"
+    "name": "Forest Orb ++"
   },
   {
     "id": 141,
-    "name": "ライトオーブ"
+    "name": "Light Orb"
   },
   {
     "id": 142,
-    "name": "ライトオーブ＋"
+    "name": "Light Orb +"
   },
   {
     "id": 143,
-    "name": "ライトオーブ＋＋"
+    "name": "Light Orb ++"
   },
   {
     "id": 151,
-    "name": "ダークオーブ"
+    "name": "Dark Orb"
   },
   {
     "id": 152,
-    "name": "ダークオーブ＋"
+    "name": "Dark Orb +"
   },
   {
     "id": 153,
-    "name": "ダークオーブ＋＋"
+    "name": "Dark Orb ++"
   },
   {
     "id": 211,
-    "name": "フレイムブック"
+    "name": "Flame Book"
   },
   {
     "id": 212,
-    "name": "フレイムブック＋"
+    "name": "Flame Book +"
   },
   {
     "id": 213,
-    "name": "フレイムブック＋＋"
+    "name": "Flame Book ++"
   },
   {
     "id": 221,
-    "name": "アクアブック"
+    "name": "Aqua Book"
   },
   {
     "id": 222,
-    "name": "アクアブック＋"
+    "name": "Aqua Book +"
   },
   {
     "id": 223,
-    "name": "アクアブック＋＋"
+    "name": "Aqua Book ++"
   },
   {
     "id": 231,
-    "name": "フォレストブック"
+    "name": "Forest Book"
   },
   {
     "id": 232,
-    "name": "フォレストブック＋"
+    "name": "Forest Book +"
   },
   {
     "id": 233,
-    "name": "フォレストブック＋＋"
+    "name": "Forest Book ++"
   },
   {
     "id": 241,
-    "name": "ライトブック"
+    "name": "Light Book"
   },
   {
     "id": 242,
-    "name": "ライトブック＋"
+    "name": "Light Book +"
   },
   {
     "id": 243,
-    "name": "ライトブック＋＋"
+    "name": "Light Book ++"
   },
   {
     "id": 251,
-    "name": "ダークブック"
+    "name": "Dark Book"
   },
   {
     "id": 252,
-    "name": "ダークブック＋"
+    "name": "Dark Book +"
   },
   {
     "id": 253,
-    "name": "ダークブック＋＋"
+    "name": "Dark Book ++"
   },
   {
     "id": 301,
-    "name": "燕尾の羽"
+    "name": "Swallowtail Feather"
   },
   {
     "id": 302,
-    "name": "鏡の招待状"
+    "name": "Mirrors Invitation"
   },
   {
     "id": 303,
-    "name": "立ち耳の包装紙"
+    "name": "Bunny Ear Wrapping Paper"
   },
   {
     "id": 304,
-    "name": "羊の角笛"
+    "name": "Sheep Warhorn"
   },
   {
     "id": 305,
-    "name": "屋上の鍵"
+    "name": "Rooftop Key"
   },
   {
     "id": 306,
-    "name": "振子のネジ"
+    "name": "Pendulum Screw"
   },
   {
     "id": 307,
-    "name": "子守の台座"
+    "name": "Babysitter's Pedestal"
   },
   {
     "id": 308,
-    "name": "イキガミの毛玉"
+    "name": "Saintly Fuzzball"
   },
   {
     "id": 309,
-    "name": "ゴムの浮き輪"
+    "name": "Rubber Swim Tube"
   },
   {
     "id": 310,
-    "name": "流浪の杭"
+    "name": "Vagrant's Stake"
   },
   {
     "id": 401,
-    "name": "砂場の巻貝"
+    "name": "Sandbox Shell"
   },
   {
     "id": 402,
-    "name": "南京錠の鎖"
+    "name": "Padlock Chain"
   },
   {
     "id": 403,
-    "name": "絵馬の水引"
+    "name": "Plaque Cord"
   },
   {
     "id": 404,
-    "name": "オウルのバケツ"
+    "name": "Owl Bucket"
   },
   {
     "id": 405,
-    "name": "メールのグライダー"
+    "name": "Mail Goats' Glider"
   },
   {
     "id": 406,
-    "name": "スタッフのキースイッチ"
+    "name": "Staff's Key Switch"
   },
   {
     "id": 407,
-    "name": "マスコットのタテガミ"
+    "name": "Mascot's Mane"
   },
   {
     "id": 408,
-    "name": "クマの襟巻"
+    "name": "Bear's Scarf"
   },
   {
     "id": 501,
-    "name": "砂場のシャベル"
+    "name": "Sandbox Shovel"
   },
   {
     "id": 502,
-    "name": "階段のモニュメント"
+    "name": "Staircase Monument"
   },
   {
     "id": 503,
-    "name": "マチビト馬の車輪"
+    "name": "Commoner's Horse Wheel"
   },
   {
     "id": 504,
-    "name": "リュトンのリボン"
+    "name": "Rhyton's Ribbon"
   },
   {
     "id": 505,
-    "name": "人工知能のコード"
+    "name": "AI Code"
   },
   {
     "id": 506,
-    "name": "キュレーターのフード"
+    "name": "Curator's Hood"
   },
   {
     "id": 507,
-    "name": "ビッグフェリスのタービン"
+    "name": "Ferris Wheel Turbine"
   },
   {
     "id": 508,
-    "name": "スピーカーのベル"
+    "name": "Speaker Bell"
   },
   {
     "id": 509,
-    "name": "クマのボルト"
+    "name": "Bear's Bolt"
   },
   {
     "id": 551,
-    "name": "レインボーオーブ"
+    "name": "Rainbow Orb"
   },
   {
     "id": 552,
-    "name": "立ち耳の綿"
+    "name": "Bunny Ear Cotton"
   },
   {
     "id": 553,
-    "name": "羊の角"
+    "name": "Sheep Horn"
   },
   {
     "id": 554,
-    "name": "屋上のバルーン"
+    "name": "Rooftop Balloon"
   },
   {
     "id": 555,
-    "name": "振子の重心"
+    "name": "Pendulum Bob"
   },
   {
     "id": 556,
-    "name": "子守の取っ手"
+    "name": "Babysitter's Handle"
   },
   {
     "id": 557,
-    "name": "イキガミの水瓶"
+    "name": "Saintly Water Jar"
   },
   {
     "id": 558,
-    "name": "ゴムのフラッグ"
+    "name": "Rubber Flag"
   },
   {
     "id": 559,
-    "name": "流浪の藁"
+    "name": "Wanderer's Straw"
   },
   {
     "id": 601,
-    "name": "三色のビー玉"
+    "name": "Tricolor Marble"
   },
   {
     "id": 602,
-    "name": "海香の覚醒書"
+    "name": "Umika's Book of Awakening"
   },
   {
     "id": 603,
-    "name": "海香の魔導書"
+    "name": "Umika's Book of Magia"
   },
   {
     "id": 604,
-    "name": "メリッサの髪飾り"
+    "name": "Melissa's Hair Clip"
   },
   {
     "id": 605,
-    "name": "メリッサの錬金薬"
+    "name": "Melissa's Elixir"
   },
   {
     "id": 606,
-    "name": "雫のチャーム"
+    "name": "Water Charm"
   },
   {
     "id": 607,
-    "name": "亜里紗のリボン"
+    "name": "Arisa's Ribbon"
   },
   {
     "id": 608,
-    "name": "亜里紗のキャンディ"
+    "name": "Arisa's Candy"
   },
   {
     "id": 609,
-    "name": "拡張ユニット"
+    "name": "Expansion Unit"
   },
   {
     "id": 610,
-    "name": "魔導書のページ"
+    "name": "Tome Page"
   },
   {
     "id": 611,
-    "name": "怪獣のツノ"
+    "name": "Monster Horn"
   },
   {
     "id": 612,
-    "name": "りおん色のお友だち"
+    "name": "Rion-Hued Friend"
   },
   {
     "id": 613,
-    "name": "りおん色のおうち"
+    "name": "Rion-Hued House"
   },
   {
     "id": 811,
-    "name": "嫌悪の欠片"
+    "name": "Fragment of Disgust"
   },
   {
     "id": 812,
-    "name": "嫌悪の欠片＋"
+    "name": "Fragment of Disgust +"
   },
   {
     "id": 813,
-    "name": "嫌悪の欠片＋＋"
+    "name": "Fragment of Disgust ++"
   },
   {
     "id": 821,
-    "name": "悲嘆の欠片"
+    "name": "Fragment of Grief"
   },
   {
     "id": 822,
-    "name": "悲嘆の欠片＋"
+    "name": "Fragment of Grief +"
   },
   {
     "id": 823,
-    "name": "悲嘆の欠片＋＋"
+    "name": "Fragment of Grief ++"
   },
   {
     "id": 831,
-    "name": "激怒の欠片"
+    "name": "Fragment of Rage"
   },
   {
     "id": 832,
-    "name": "激怒の欠片＋"
+    "name": "Fragment of Rage +"
   },
   {
     "id": 833,
-    "name": "激怒の欠片＋＋"
+    "name": "Fragment of Rage ++"
   },
   {
     "id": 841,
-    "name": "恐怖の欠片"
+    "name": "Fragment of Fear"
   },
   {
     "id": 842,
-    "name": "恐怖の欠片＋"
+    "name": "Fragment of Fear +"
   },
   {
     "id": 843,
-    "name": "恐怖の欠片＋＋"
+    "name": "Fragment of Fear ++"
   },
   {
     "id": 851,
-    "name": "驚嘆の欠片"
+    "name": "Fragment of Wonder"
   },
   {
     "id": 852,
-    "name": "驚嘆の欠片＋"
+    "name": "Fragment of Wonder +"
   },
   {
     "id": 853,
-    "name": "驚嘆の欠片＋＋"
+    "name": "Fragment of Wonder ++"
   },
   {
     "id": 861,
-    "name": "期待の欠片"
+    "name": "Fragment of Expectation"
   },
   {
     "id": 862,
-    "name": "期待の欠片＋"
+    "name": "Fragment of Expectation +"
   },
   {
     "id": 863,
-    "name": "期待の欠片＋＋"
+    "name": "Fragment of Expectation ++"
   },
   {
     "id": 871,
-    "name": "恍惚の欠片"
+    "name": "Fragment of Ecstasy"
   },
   {
     "id": 872,
-    "name": "恍惚の欠片＋"
+    "name": "Fragment of Ecstasy +"
   },
   {
     "id": 873,
-    "name": "恍惚の欠片＋＋"
+    "name": "Fragment of Ecstasy ++"
   },
   {
     "id": 881,
-    "name": "敬愛の欠片"
+    "name": "Fragment of Respect"
   },
   {
     "id": 882,
-    "name": "敬愛の欠片＋"
+    "name": "Fragment of Respect +"
   },
   {
     "id": 883,
-    "name": "敬愛の欠片＋＋"
+    "name": "Fragment of Respect ++"
   },
   {
     "id": 901,
-    "name": "慈愛の欠片"
+    "name": "Fragment of Compassion"
   },
   {
     "id": 902,
-    "name": "偏愛の欠片"
+    "name": "Fragment of Obsession"
   }
 ]
