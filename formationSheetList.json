@@ -1,103 +1,103 @@
 [
   {
     "id": 111,
-    "name": "ブレイブ・エシュロン",
-    "description": "中央の魔法少女が強化される魔法陣形"
+    "name": "Brave Echelon",
+    "description": "Boosts Center"
   },
   {
     "id": 121,
-    "name": "ブライト・ファランクス",
-    "description": "前方中央と後方の魔法少女が強化される魔法陣形"
+    "name": "Bright Phalanx",
+    "description": "Boosts Front Center + Rear"
   },
   {
     "id": 131,
-    "name": "マイティ・クロス",
-    "description": "前方と後方の魔法少女が強化される魔法陣形"
+    "name": "Mighty Cross",
+    "description": "Boosts Front Center + Rear"
   },
   {
     "id": 141,
-    "name": "アトリビュート・デルタ[火]",
-    "description": "前方中央と後方左右の火属性の魔法少女が強化される魔法陣形"
+    "name": "Attribute Delta (Flame)",
+    "description": "Boosts Front Center + Rear Top/Bottom (Flame)"
   },
   {
     "id": 151,
-    "name": "アトリビュート・デルタ[水]",
-    "description": "前方中央と後方左右の水属性の魔法少女が強化される魔法陣形"
+    "name": "Attribute Delta (Aqua)",
+    "description": "Boosts Front Center + Rear Top/Bottom (Aqua)"
   },
   {
     "id": 161,
-    "name": "アトリビュート・デルタ[木]",
-    "description": "前方中央と後方左右の木属性の魔法少女が強化される魔法陣形"
+    "name": "Attribute Delta (Forest)",
+    "description": "Boosts Front Center + Rear Top/Bottom (Forest)"
   },
   {
     "id": 171,
-    "name": "アトリビュート・デルタ[光]",
-    "description": "前方中央と後方左右の光属性の魔法少女が強化される魔法陣形"
+    "name": "Attribute Delta (Light)",
+    "description": "Boosts Front Center + Rear Top/Bottom (Light)"
   },
   {
     "id": 181,
-    "name": "アトリビュート・デルタ[闇]",
-    "description": "前方中央と後方左右の闇属性の魔法少女が強化される魔法陣形"
+    "name": "Attribute Delta (Dark)",
+    "description": "Boosts Front Center + Rear Top/Bottom (Dark)"
   },
   {
     "id": 191,
-    "name": "ユニオン・アサルト",
-    "description": "神浜の魔法少女が用いる魔法陣形"
+    "name": "Union Assault",
+    "description": "Boosts the Magical Girls from Kamihama"
   },
   {
     "id": 201,
-    "name": "トリコロール・レイド",
-    "description": "前方左右と中央の火・水・木属性の魔法少女が強化される魔法陣形"
+    "name": "Tricolor Raid",
+    "description": "Boosts Front Top (Flame) + Center (Aqua) + Front Bottom (Forest)"
   },
   {
     "id": 211,
-    "name": "デュオ・レゾナンス",
-    "description": "前方中央と中央の火・水属性の魔法少女が強化される魔法陣形"
+    "name": "Duo Resonance",
+    "description": "Boosts Front Center (Aqua) + Center (Flame)"
   },
   {
     "id": 221,
-    "name": "ブレイブ・クロス",
-    "description": "中央の魔法少女が強化される魔法陣形"
+    "name": "Brave Cross",
+    "description": "Boosts Center"
   },
   {
     "id": 231,
-    "name": "プロミネンス・ヴァンガード",
-    "description": "前方中央と後方左右の火属性の魔法少女が強化される魔法陣形"
+    "name": "Prominence Vanguard",
+    "description": "Boosts Front Center + Rear Top/Bottom (Flame)"
   },
   {
     "id": 234,
-    "name": "ルーセント・ヴァンガード",
-    "description": "前方中央と後方左右の光属性の魔法少女が強化される魔法陣形"
+    "name": "Lucent Vanguard",
+    "description": "Boosts Front Center + Rear Top/Bottom (Light)"
   },
   {
     "id": 235,
-    "name": "エクリプス・ヴァンガード",
-    "description": "前方中央と後方左右の闇属性の魔法少女が強化される魔法陣形"
+    "name": "Eclipse Vanguard",
+    "description": "Boosts Front Center + Rear Top/Bottom (Dark)"
   },
   {
     "id": 241,
-    "name": "マーメイド・デュエット",
-    "description": "前方中央と後方中央の水属性の魔法少女が強化される魔法陣形"
+    "name": "Mermaid Duet",
+    "description": "Boosts Front Center + Rear Center (Aqua)"
   },
   {
     "id": 253,
-    "name": "グランディール・ストライク",
-    "description": "前方左右と後方中央の木属性の魔法少女が強化される魔法陣形"
+    "name": "Grandir Strike",
+    "description": "Boosts Front Top/Bottom + Rear Center (Forest)"
   },
   {
     "id": 261,
-    "name": "ガーディアン・フォース",
-    "description": "前方左右と後方左右の魔法少女が強化される魔法陣形"
+    "name": "Guardian Force",
+    "description": "Boosts Front Top/Bottom + Rear Top/Bottom"
   },
   {
     "id": 271,
-    "name": "マイティ・エシュロン",
-    "description": "中央の魔法少女が強化される魔法陣形"
+    "name": "Mighty Echelon",
+    "description": "Boosts Center"
   },
   {
     "id": 283,
-    "name": "ヴァルト・パラディーゾ",
-    "description": "中央と前後方左右の木属性の魔法少女が強化される魔法陣形"
+    "name": "Wald Paradiso",
+    "description": "Boosts All (Forest)"
   },
   {
     "id": 911,
