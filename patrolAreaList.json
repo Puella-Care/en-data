@@ -1,93 +1,93 @@
 [
   {
     "patrolAreaId": 1011011,
-    "areaName": "繁華街",
-    "conditionDescription": "メイン1章をクリア"
+    "areaName": "Downtown",
+    "conditionDescription": "Clear Main Story Chapter 1"
   },
   {
     "patrolAreaId": 1011012,
-    "areaName": "繁華街"
+    "areaName": "Downtown"
   },
   {
     "patrolAreaId": 1011013,
-    "areaName": "繁華街"
+    "areaName": "Downtown"
   },
   {
     "patrolAreaId": 1011014,
-    "areaName": "繁華街"
+    "areaName": "Downtown"
   },
   {
     "patrolAreaId": 1011015,
-    "areaName": "繁華街"
+    "areaName": "Downtown"
   },
   {
     "patrolAreaId": 1011016,
-    "areaName": "繁華街"
+    "areaName": "Downtown"
   },
   {
     "patrolAreaId": 1011021,
-    "areaName": "鏡屋敷",
-    "conditionDescription": "メイン第1部2章5話をクリア"
+    "areaName": "Mirror Mansion",
+    "conditionDescription": "Clear Main Story Arc 1 Chapter 2 Episode 5"
   },
   {
     "patrolAreaId": 1011022,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011023,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011024,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011025,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011026,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011027,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011028,
-    "areaName": "鏡屋敷"
+    "areaName": "Mirror Mansion"
   },
   {
     "patrolAreaId": 1011031,
-    "areaName": "キモチ結界",
-    "conditionDescription": "メイン第2部序章をクリア"
+    "areaName": "Kimochi Labyrinth",
+    "conditionDescription": "Clear Main Story Arc 2 Prologue"
   },
   {
     "patrolAreaId": 1011032,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011033,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011034,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011035,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011036,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011037,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   },
   {
     "patrolAreaId": 1011038,
-    "areaName": "キモチ結界"
+    "areaName": "Kimochi Labyrinth"
   }
 ]
