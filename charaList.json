@@ -1,724 +1,724 @@
 [
   {
     "id": 1001,
-    "name": "環 いろは",
-    "kana": "たまき いろは",
-    "description": "不思議な夢の真相を探るべく、神浜市にやってきた魔法少女。＠お人好しな性格で、気遣いが行き過ぎてしまうことも多々ある。＠最新の流行には疎く、スマホの扱いもぎこちない。＠日頃は控えめだが、ここ一番では芯の強さを見せる。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "麻倉もも"
+    "name": "Iroha Tamaki",
+    "kana": "Iroha Tamaki",
+    "description": "Iroha came to Kamihama to investigate strange dreams she was having. Kind-hearted, she tends to worry too much about others. She's not up on the latest trends and isn't good with her phone. Usually reserved, she can be a fighter when it matters most.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1002,
-    "name": "七海 やちよ",
-    "kana": "ななみ やちよ",
-    "description": "７年間、神浜市で魔女と戦ってきたベテランの魔法少女。＠神浜市や魔法少女についての情報に精通している。他の魔法少女とも＠距離を置き、神浜市で発生している「噂」をファイリングしている。",
-    "school": "神浜市立大学",
-    "designer": "蒼樹うめ",
-    "voiceActor": "雨宮天"
+    "name": "Yachiyo Nanami",
+    "kana": "Yachiyo Nanami",
+    "description": "A seasoned Magical Girl who has fought witches for 7 years in Kamihama. Yachiyo is well informed about the city and Magical Girls in general. She keeps her distance from other Magical Girls while she compiles files on the Rumors of Kamihama City.",
+    "school": "Kamihama University",
+    "designer": "aokiume",
+    "voiceActor": "Sora Amamiya"
   },
   {
     "id": 1003,
-    "name": "由比 鶴乃",
-    "kana": "ゆい つるの",
-    "description": "元気いっぱいで猪突猛進な魔法少女。由緒正しい歴史ある生家と＠その隆盛を導いた祖父や曾祖父を敬愛してやまない。＠一方で、現在は没落した由比家をどうにか再興しようと奮闘しており＠そのために最強の魔法少女になることを目指している。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "夏川椎菜"
+    "name": "Tsuruno Yui",
+    "kana": "Tsuruno Yui",
+    "description": "A reckless Magical Girl who's full of energy. Tsuruno loves her family, especially her grandfather and great-grandfather, who lead the Yuis to their former prosperity. She fights to become the strongest Magical Girl in order to restore the Yui name.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Shiina Natsukawa"
   },
   {
     "id": 1004,
-    "name": "二葉 さな",
-    "kana": "ふたば さな",
-    "description": "常にネガティブ思考の魔法少女。＠家族や周囲から拒絶され、まったく自分に自信が持てなくなっているが、＠他者に対しては優しく、そして自分を必要としてくれる人には従順で、＠気に入るといつもヒッソリとそばに付き添っている。",
-    "school": "水名女学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "小倉唯"
+    "name": "Sana Futaba",
+    "kana": "Sana Futaba",
+    "description": "A pessimistic Magical Girl, Sana was rejected by her family and those around her, so she has hardly any self-confidence. However, she'll quietly stand by the people who need her, ready to help them when the time comes.",
+    "school": "Mizuna Girls' Academy",
+    "designer": "aokiume",
+    "voiceActor": "Yui Ogura"
   },
   {
     "id": 1005,
-    "name": "深月 フェリシア",
-    "kana": "みつき ふぇりしあ",
-    "description": "元気で勝気で自由気ままな魔法少女。＠魔女を両親の仇として心底憎んでおり、＠そのため「傭兵」を生業として、神浜の各地で＠魔女との戦いを繰り広げている。＠ワイルドな口調はバトル系少年漫画の影響。＠ただ、心根は優しく動物が大好き。",
-    "school": "中央学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "佐倉綾音"
+    "name": "Felicia Mitsuki",
+    "kana": "Felicia Mitsuki",
+    "description": "Felicia is a spirited Magical Girl, full of energy and determination, who hates Witches for taking the lives of her parents. She now works as a mercenary, hunting Witches all across Kamihama. Her tough talk hides a kind heart and a love of animals.",
+    "school": "Chuo Academy",
+    "designer": "aokiume",
+    "voiceActor": "Ayane Sakura"
   },
   {
     "id": 1006,
-    "name": "梓 みふゆ",
-    "kana": "あずさ みふゆ",
-    "description": "７年間、やちよのパートナーとして魔女と戦ってきたベテランの魔法少女。自身の魔力が衰えていることを実感してから、ひとりの女性としての幸福を得るために、マギウスの翼の幹部になった。優しいが心は弱く、判断を誤ることが間々ある。",
+    "name": "Mifuyu Azusa",
+    "kana": "Mifuyu Azusa",
+    "description": "Seven years ago, she fought as Yachiyo’s partner. After noticing her magic was weakening, she joined the Wings of the Magius as one of their leaders, hoping to secure happiness for herself. Though kind and gentle, her spirit is weak, which leads her to sometimes make bad decisions.",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "中原麻衣"
+    "designer": "aokiume",
+    "voiceActor": "Mai Nakahara"
   },
   {
     "id": 1007,
-    "name": "里見 灯花",
-    "kana": "さとみ とうか",
-    "description": "魔女化のない世界を作ろうとしている魔法少女。入院していた里見メディカルセンターの院長の娘で、幼くして天体物理学を修めた理系の天才。普段は無数の機器に囲まれながら研究を続けており、夢は宇宙の全てを知ること。",
-    "school": "聖リリアンナ学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "釘宮理恵"
+    "name": "Touka Satomi",
+    "kana": "Touka Satomi",
+    "description": "A Magical Girl who is working to create a world without Witches. The daughter, and patient of the director of the Satomi Medical Center, Touka is an astrophysics prodigy. Surrounded by a wall of gadgets and devices, she continues to research her one dream...to know everything about the universe.",
+    "school": "Saint Liliana Academy",
+    "designer": "aokiume",
+    "voiceActor": "Rie Kugimiya"
   },
   {
     "id": 1008,
-    "name": "アリナ・グレイ",
-    "kana": "ありな・ぐれい",
-    "description": "魔女化のない世界を作ろうとしている魔法少女。生と死というテーマに取り憑かれた天才芸術家で、スランプ時は自分を題材にしたこともある。自身の目的こそが至上で努力を惜しまない彼女は、魔女を最高のアートにすることを夢見ている。",
-    "school": "栄総合学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "竹達彩奈"
+    "name": "Alina Gray",
+    "kana": "Alina Gray",
+    "description": "A Magical Girl who is trying to create a world where no one has to become a Witch, Alina is an artistic genius obsessed with life and death who pours herself into her work, dreaming of making masterpieces featuring Witches themselves. She's used herself as a subject for her art when in a creative slump.",
+    "school": "Sakae Academy",
+    "designer": "aokiume",
+    "voiceActor": "Ayana Taketatsu"
   },
   {
     "id": 1009,
-    "name": "水波 レナ",
-    "kana": "みなみ れな",
-    "description": "思っていることを素直に表現できない、不器用な魔法少女。＠日頃は自信のなさを勝気な態度で隠しているため、付き合いの浅い＠うちは何かと誤解されやすい。＠ツンケンした態度に相反して、食の好みは子供っぽく甘党。＠趣味は女性アイドルの追っかけ。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "石原夏織"
+    "name": "Rena Minami",
+    "kana": "Rena Minami",
+    "description": "A Magical Girl who has trouble opening up to others. Rena acts cocky to make up for her lack of self-confidence, which leads people who don't know her well to misunderstanding her. She's a picky eater and loves sweets. She is also a big fan of idols.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Kaori Ishihara"
   },
   {
     "id": 1010,
-    "name": "十咎 ももこ",
-    "kana": "とがめ ももこ",
-    "description": "ひよっこ魔法少女たちのピンチを救ってくれる、姉御肌な魔法少女。＠男兄弟に挟まれており、本人もざっくばらんで男っぽい性格。＠しかし実は、ぬいぐるみなどの可愛いものが好き。＠可愛いものに憧れる気持ちから、女性アイドルのファンでもある。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "小松未可子"
+    "name": "Momoko Togame",
+    "kana": "Momoko Togame",
+    "description": "A Magical Girl who is always looking out for rookies. The middle child, Momoko was influenced by her two brothers' boyishness, but she loves cute, girly things like stuffed animals. Because she loves cute things she's also a fan of female idols.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Mikako Komatsu"
   },
   {
     "id": 1011,
-    "name": "秋野 かえで",
-    "kana": "あきの かえで",
-    "description": "とっても怖がりで心配性な魔法少女。しかし、優しく友達思いで＠チームのメンバーのためには困難にも立ち向かっていく。＠動植物や虫など、自然が大好きで、家では家庭菜園に勤しんでいる。＠また、上手くはないが、クレーンゲームも趣味の一つ。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "大橋彩香"
+    "name": "Kaede Akino",
+    "kana": "Kaede Akino",
+    "description": "A worrywart, Kaede is easily scared. She is also kind, caring, and ready to take risks for her friends. She loves animals, plants, and insects, and nature in general. She enjoys gardening, and though she's not good at them, she likes UFO Catchers.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Ayaka Oohashi"
   },
   {
     "id": 1012,
-    "name": "御園 かりん",
-    "kana": "みその かりん",
-    "description": "自称、ハロウィンが生んだ魔法少女。＠夢見がちで都合良く解釈しようとする性格と、漫画の読み描きという趣味が相まって、魔法少女としての設定を作ってしまった。＠“怪盗少女マジカルきりん”というお気に入りの漫画に影響されている。",
-    "school": "栄総合学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "金元寿子"
+    "name": "Karin Misono",
+    "kana": "Karin Misono",
+    "description": "The \"Magical Girl born of Halloween\". Or that's what she says at least... Karin loves reading and drawing manga so much that she's event created her own Magical Girl persona. She's heavily influenced by her favorite manga, Phantom Thief Magical Kirin.",
+    "school": "Sakae Academy",
+    "designer": "aokiume",
+    "voiceActor": "Hisako Kanemoto"
   },
   {
     "id": 1013,
-    "name": "竜城 明日香",
-    "kana": "たつき あすか",
-    "description": "薙刀術の師範代で、免許皆伝を目指して日々稽古を重ねている魔法＠少女。長い歴史を持つ武術道場「竜真館」の一人娘。＠規律を守り、常に清廉を旨としているが、迂闊でそそっかしい一面も＠持ち、そのことで騒動を引き起こしてしまうことがある。",
-    "school": "水名女学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "瀬戸麻沙美"
+    "name": "Asuka Tatsuki",
+    "kana": "Asuka Tatsuki",
+    "description": "An assistant Naginata instructor at the Ryushinkan Dojo and Magical Girl. As the only child of the Dojo Master, she trains hard everyday. She is disciplined, but also absentminded, and that absentmindedness can get her into trouble.",
+    "school": "Mizuna Girls' Academy",
+    "designer": "aokiume",
+    "voiceActor": "Asami Seto"
   },
   {
     "id": 1014,
-    "name": "柊 ねむ",
-    "kana": "ひいらぎ ねむ",
-    "description": "魔女化のない世界を作ろうとしている魔法少女。自己承認欲求を満たすために物語を書き始め、ネット上で掲載すると天才作家と呼ばれるようになった。だが、今まで誰も彼女には接触できていない。夢は世界中に自分の物語を具現化させること。",
-    "school": "参京院教育学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "諸星すみれ"
+    "name": "Nemu Hiiragi",
+    "kana": "Nemu Hiiragi",
+    "description": "A Magical Girl who is working to create a world without Witches. Nemu started writing stories just trying to seek some approval, it wasn't until she posted those same stories online that she become known as a literary genius. Her dream is to wrap the world in her stories...literally.",
+    "school": "Sankyoin Academy",
+    "designer": "aokiume",
+    "voiceActor": "Sumire Morohoshi"
   },
   {
     "id": 1015,
-    "name": "環 うい",
-    "kana": "たまき うい",
-    "description": "幸せのために何ができるのか迷い続ける魔法少女。外を知らずに育ち、魔法少女としても初心者なので、周りに負けないように努力を続けている。相手の良い面を見つけるのが上手で、人を嫌いになることがない。灯花＆ねむの幼馴染でいろはの妹。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "石見舞菜香"
+    "name": "Ui Tamaki",
+    "kana": "Ui Tamaki",
+    "description": "A Magical Girl who is struggling to figure out what she can do to make everyone happy. She grew up knowing little of the outside, which is why she tries so hard to keep up with others. Skilled at finding the good in people, she dislikes no one. Touka and Nemu are her close friends, and Iroha is her sister.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Manaka Iwami"
   },
   {
     "id": 1016,
-    "name": "Oh?",
-    "kana": "いずみ かなぎ",
-    "description": "平等と平和を望む魔法少女。利他的で正義感に溢れており、その佇まいや言葉の強さから人々を惹きつけるカリスマ性を持つ。貧しい家族を養うために生活費を稼がなければならず、アルバイトを掛け持ちしながらバイト三昧の日々を送っている。",
-    "school": "大東学院",
-    "designer": "ササギコウシ",
-    "voiceActor": "千本木彩花"
+    "name": "Kanagi Izumi",
+    "kana": "Oh?",
+    "description": "A Magical Girl whose goal is peace and equality. Altruistic and strong of moral character, her powerful words and demeanor lead her a certain kind of charisma that draws people to her. She devotes herself to her multiple part-time jobs to help support her struggling family.",
+    "school": "Daito Academy",
+    "designer": "Koushi Sasagi",
+    "voiceActor": "Sayaka Senbongi"
   },
   {
     "id": 1017,
-    "name": "八雲 みたま",
-    "kana": "やくも みたま",
-    "description": "神浜市のはずれで調整屋を営んでいる魔法少女。魔力の調整やアイテムの販売を通してグリーフシードを得ているため、滅多に戦うことはない。普段は笑顔で気軽にみんなと接しているが、彼女の素性を知る魔法少女は少ない。",
-    "school": "大東学院",
-    "designer": "ぷにゃん",
-    "voiceActor": "堀江由衣"
+    "name": "Mitama Yakumo",
+    "kana": "Mitama Yakumo",
+    "description": "A Magical Girl who operates as a Coordinator in the outskirts of Kamihama. Unable to fight for herself, she accepts Grief Seeds in exchange for items and providing magical adjustments. Though she usually has a sunny disposition and a friendly smile, very few Magical Girls know her true nature.",
+    "school": "Daito Academy",
+    "designer": "Punyan",
+    "voiceActor": "Yui Horie"
   },
   {
     "id": 1018,
-    "name": "天音 月夜",
-    "kana": "あまね つくよ",
-    "description": "月咲の双子の姉にあたる、解放を望む魔法少女。＠普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。＠後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。",
-    "school": "水名女学園",
-    "designer": "鮠水ちか",
-    "voiceActor": "内田真礼"
+    "name": "Tsukuyo Amane",
+    "kana": "Tsukuyo Amane",
+    "description": "Tsukasa's twin sister, Tsukuyo hopes to liberate Magical Girls. Constant training in music, calligraphy, and dance has granted her considerable skills. Though she is admired by her peers, she doesn't have any friends she feels she can open up to. She can only be at peace when she is with her sister Tsukasa.",
+    "school": "Mizuna Girls' Academy",
+    "designer": "Chika Hayami",
+    "voiceActor": "Maaya Uchida"
   },
   {
     "id": 1019,
-    "name": "天音 月咲",
-    "kana": "あまね つかさ",
-    "description": "月夜の双子の妹にあたる、解放を望む魔法少女。＠実家の竹細工工房で、父とその弟子のために、家事や家計を一手に引き受けている。＠明るく友人が多い性格だが、自身の本音をさらけ出せるのは月夜だけだと思っている。",
-    "school": "工匠学舎",
-    "designer": "鮠水ちか",
-    "voiceActor": "内田彩"
+    "name": "Tsukasa Amane",
+    "kana": "Tsukasa Amane",
+    "description": "Tsukuyo's twin sister, Tsukasa hopes to liberate Magical Girls. Born into a family of traditional bamboo craftsmen, she runs the household to support her father and his apprentice. Though she is cheerful and has many friends, Tsukuyo is the only one she can open up to.",
+    "school": "Kosho Academy",
+    "designer": "Chika Hayami",
+    "voiceActor": "Aya Uchida"
   },
   {
     "id": 1020,
-    "name": "佐鳥 かごめ",
-    "kana": "さとり かごめ",
+    "name": "Kagome Satori",
+    "kana": "Kagome Satori",
     "description": "魔法少女の存在を周知させるために活動を続ける魔法少女。幼い頃からの親友である「アルちゃん」というマンドラゴラのぬいぐるみと一緒に、情報を集めて手記をまとめている。かつては極度のあがり症で、ぬいぐるみを介して話していた。",
-    "school": "春方此花学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "高尾奏音"
+    "school": "East Konohana Academy",
+    "designer": "aokiume",
+    "voiceActor": "Kanon Takao"
   },
   {
     "id": 1021,
-    "name": "紅晴 結菜",
-    "kana": "くれは ゆな",
+    "name": "Yuna Kureha",
+    "kana": "Yuna Kureha",
     "description": "プロミストブラッドを率いる姉妹の長女で、戦略的な戦いが得意な魔法少女。自身の恨みを受け入れてからは険呑とした空気を隠さず、感情が高ぶりやすくなった。しかしそれは敵にだけであり、仲間には激甘。頭を冷やせる氷菓子が好き。",
-    "school": "虎屋町学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "涼本あきほ"
+    "school": "Torayamachi Academy",
+    "designer": "aokiume",
+    "voiceActor": "Akiho Suzumoto"
   },
   {
     "id": 1022,
-    "name": "煌里 ひかる",
-    "kana": "きらり ひかる",
+    "name": "Hikaru Kirari",
+    "kana": "Hikaru Kirari",
     "description": "プロミストブラッドに所属する従者のような魔法少女。信頼する人のためなら危険も厭わず戦い、日々のサポートも欠かさない。だが、自分の面倒は見られず、ひとりになると自堕落になり、何事にも気合いが入らなくなってしまう。",
-    "school": "虎屋町学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "和泉風花"
+    "school": "Torayamachi Academy",
+    "designer": "aokiume",
+    "voiceActor": "Fuuka Izumi"
   },
   {
     "id": 1023,
-    "name": "笠音 アオ",
-    "kana": "かさね あお",
+    "name": "Ao Kasane",
+    "kana": "Ao Kasane",
     "description": "プロミストブラッドを率いる姉妹の三女で、頭脳戦が得意な魔法少女。人を食った態度で挑発するが、内心では冷静沈着に周囲を分析している慎重派。このため、衝動的に行動する姉たちに辟易することも。ゲームや読書など、ひとり遊びが好き。",
-    "school": "蛇の宮中学・高等学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "天野聡美"
+    "school": "Janomiya Secondary School",
+    "designer": "aokiume",
+    "voiceActor": "Satomi Amano"
   },
   {
     "id": 1024,
-    "name": "大庭 樹里",
-    "kana": "おおば じゅり",
+    "name": "Juri Oba",
+    "kana": "Juri Oba",
     "description": "プロミストブラッドを率いる姉妹の次女で、戦闘を得意とする魔法少女。気性が荒く恐れられているが、仲間には情が厚く信頼されている。ただ、命を軽んじる節がある上に苛立ちが溜まると爆発するので要注意。ちなみにゲームは好きだけど下手。",
-    "school": "竜ケ崎学院",
-    "designer": "蒼樹うめ",
-    "voiceActor": "松本花雪"
+    "school": "Ryugasaki Academy",
+    "designer": "aokiume",
+    "voiceActor": "Kayuki Matsumoto"
   },
   {
     "id": 1025,
-    "name": "時女 静香",
-    "kana": "ときめ しずか",
+    "name": "Shizuka Tokime",
+    "kana": "Shizuka Tokime",
     "description": "時女一族を引っ張る本家出身の魔法少女。閉鎖された秘境で生まれ育ち、日の本のために巫（かんなぎ）と呼ばれる魔法少女になることが決まっていた。都会での生活は初めてなので、みんなに助けてもらっている。昔から釣りが得意。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "内田秀"
+    "designer": "aokiume",
+    "voiceActor": "Shuu Uchida"
   },
   {
     "id": 1026,
-    "name": "広江 ちはる",
-    "kana": "ひろえ ちはる",
+    "name": "Chiharu Hiroe",
+    "kana": "Chiharu Hiroe",
     "description": "時女一族に所属する嗅覚が鋭い魔法少女。母親と共に時女集落に行き自身の血脈を知った。無鉄砲で正義感が強く、悪意に対する嗅覚も鋭いが、事件や悪意が多い場所では、混ざってしまって役に立たない。宿無し探偵、等々力耕一が好き。",
     "school": "松宮市立第一中学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "相良茉優"
+    "designer": "aokiume",
+    "voiceActor": "Mayu Sagara"
   },
   {
     "id": 1027,
-    "name": "土岐 すなお",
-    "kana": "とき すなお",
+    "name": "Sunao Toki",
+    "kana": "Sunao Toki",
     "description": "時女一族に所属する暗殺者だった魔法少女。心配性で思いやりがあり聞き上手。村や集落では大人から非常に愛されており、年下からはお姉さんとして甘えられている。今も過去の自分に苦しめられており、時々暗い影を見せることがある。",
-    "school": "霧峰村立霧峰中学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "大西亜玖璃"
+    "school": "Matsumiya Municipal First Middle School",
+    "designer": "aokiume",
+    "voiceActor": "Aguri Onishi"
   },
   {
     "id": 1028,
-    "name": "藍家 ひめな",
-    "kana": "あいか ひめな",
+    "name": "Himena Aika",
+    "kana": "Himena Aika",
     "description": "天性のカリスマでネオマギウスのトップに登りつめた魔法少女。自由な恋愛を周囲に認めさせるため、天辺を目指している。底抜けに明るく誰とでも馴染める性格だが、恋愛に関しては純粋で幼馴染の恋人を一途に想い続けている。",
-    "school": "神浜未来アカデミー",
-    "designer": "蒼樹うめ",
-    "voiceActor": "首藤志奈"
+    "school": "Kamihama Future Academy",
+    "designer": "aokiume",
+    "voiceActor": "Yukina Shuto"
   },
   {
     "id": 1029,
-    "name": "宮尾 時雨",
-    "kana": "みやび しぐれ",
+    "name": "Shigure Miyabi",
+    "kana": "Shigure Miyabi",
     "description": "ネオマギウスに所属する警戒心が強い魔法少女。心を許した相手としか話さず、常にひとりで周囲に憐れまれている。だが、人より魔法少女が優れているという思想が彼女を支えている。警戒する要因である母親のことは大好きだけど大嫌い。",
-    "school": "工匠学舎",
-    "designer": "蒼樹うめ",
-    "voiceActor": "鬼頭明里"
+    "school": "Kosho Academy",
+    "designer": "aokiume",
+    "voiceActor": "Akari Kito"
   },
   {
     "id": 1030,
-    "name": "安積 はぐむ",
-    "kana": "あずみ はぐむ",
+    "name": "Hagumu Azumi",
+    "kana": "Hagumu Azumi",
     "description": "ネオマギウスに所属する自分に自信が持てない魔法少女。マルチタスクが苦手で、複数のことを同時に頼まれると慌ててしまう。自己評価が低く流されがちだが、周囲の人に認めて欲しいという思いを抱えている。裁縫などチマチマしたことが好き。",
-    "school": "大東学院",
-    "designer": "蒼樹うめ",
-    "voiceActor": "高柳知葉"
+    "school": "Daito Academy",
+    "designer": "aokiume",
+    "voiceActor": "Tomoyo Takayanagi"
   },
   {
     "id": 1031,
-    "name": "神楽 燦",
-    "kana": "かぐら さん",
+    "name": "San Kagura",
+    "kana": "San Kagura",
     "description": "ネオマギウスのナンバー２を務め、神聖なものや強い存在に惹かれる魔法少女。ネオマギウス内では鬼教官と恐れられているが、地元で所属している青年会では妹のように可愛がられる一面もある。",
-    "school": "宝崎市立光塚中等教育学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "ファイルーズあい"
+    "school": "Takarazaki Municipal Middle School",
+    "designer": "aokiume",
+    "voiceActor": "Ai Fairouz"
   },
   {
     "id": 1032,
-    "name": "遊狩 ミユリ",
-    "kana": "ゆかり みゆり",
+    "name": "Miyuri Yukari",
+    "kana": "Miyuri Yukari",
     "description": "ネオマギウスに所属する恥ずかしがり屋な魔法少女。緊張すると意識が飛んでしまうため、戦闘時は暴走しないよう燦がコントロールしている。その性質を生かし、燦の秘密兵器として動いている。他人の足の鑑賞が趣味。Mっ気がある。",
-    "school": "宝崎市立光塚中等教育学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "飯田ヒカル"
+    "school": "Takarazaki Municipal Middle School",
+    "designer": "aokiume",
+    "voiceActor": "Hikaru Iida"
   },
   {
     "id": 1033,
-    "name": "氷室 ラビ",
-    "kana": "ひむろ らび",
+    "name": "Rabi Himuro",
+    "kana": "Rabi Himuro",
     "description": "里見那由他のもとで使用人として働く、無口な魔法少女。里見太助の思想に同調する魔法少女と一緒に神浜市に来た。表情の変化があまりなく、無感動・無感情に見えるが、幼い子には甘い一面もある。趣味は土いじりと読書。",
-    "school": "湯国市立岩切山高等学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "指出毬亜"
+    "school": "Yukuni Municipal High School",
+    "designer": "aokiume",
+    "voiceActor": "Maria Sashide"
   },
   {
     "id": 1034,
-    "name": "三浦 旭",
-    "kana": "みうら あさひ",
+    "name": "Asahi Miura",
+    "kana": "Asahi Miura",
     "description": "時女一族に身を寄せている、実直な魔法少女。堅物で融通が利かないように見えるが、情にもろい一面もある。兼業で猟師業を営む家庭で育ち、狩りの腕前はかなりのもの。大のミリタリー好きだが、その趣味は隠しているつもり。",
-    "school": "湯国市立湯国学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "入江麻衣子"
+    "school": "Yukuni Municipal Academy",
+    "designer": "aokiume",
+    "voiceActor": "Maiko Irie"
   },
   {
     "id": 1035,
-    "name": "栗栖 アレクサンドラ",
-    "kana": "くるす あれくさんどら",
+    "name": "Alexandra Kurusu",
+    "kana": "Alexandra Kurusu",
     "description": "ネオマギウスに身を寄せている、居場所を失った魔法少女。幼い頃から合唱団に入り、以前は部活でも歌うほどの歌好きだった。おっとりとした人好きのする雰囲気や、それに反して物怖じせずに突き進むところが信頼される一因になっている。",
-    "school": "湯の花国際中学・高等学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "早瀬莉花"
+    "school": "Yunohana International Secondary School",
+    "designer": "aokiume",
+    "voiceActor": "Marika Hayase"
   },
   {
     "id": 1036,
-    "name": "有愛 うらら",
-    "kana": "ゆめ うらら",
+    "name": "Urara Yume",
+    "kana": "Urara Yume",
     "description": "プロミストブラッドに身を寄せている、前向きで頑張り屋の魔法少女。周囲の役に立ちたいと頑張るほどドジしてしまうのが悩みだが、その一生懸命な姿勢は周囲から好かれている。大道芸の素質に恵まれ、地元ではプロとして活動していた。",
-    "school": "湯国青波学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "丸岡和佳奈"
+    "school": "Yukuni Aonami Academy",
+    "designer": "aokiume",
+    "voiceActor": "Wakana Maruoka"
   },
   {
     "id": 1037,
-    "name": "里見 那由他",
-    "kana": "さとみ なゆた",
+    "name": "Nayuta Satomi",
+    "kana": "Nayuta Satomi",
     "description": "神浜市で民俗学者の父親を探している魔法少女。世間に魔法少女の存在を周知するために父親をサポートしてきた。ツンケンとして頑固な一面もあるが、人の良さと一所懸命さが覆い隠している。同じ里見姓の灯花とは従姉妹だが距離を取っている。",
-    "school": "宝崎順心学園",
-    "designer": "蒼樹うめ",
-    "voiceActor": "春花らん"
+    "school": "Takarazaki Junshin Academy",
+    "designer": "aokiume",
+    "voiceActor": "Ran Haruka"
   },
   {
     "id": 1038,
-    "name": "八雲 みかげ",
-    "kana": "やくも みかげ",
+    "name": "Mikage Yakumo",
+    "kana": "Mikage Yakumo",
     "description": "姉が抱える神浜市への恨みを消そうとしている魔法少女。マイペースで周りを振り回す節があるものの、無邪気で人からは好かれる性質。駄菓子屋や公園ではひとりで遊んでいる姿が目撃されているが、親友と呼べる友だちもいる。おねだり上手。",
-    "school": "大東学院",
-    "designer": "ぷにゃん",
-    "voiceActor": "進藤あまね"
+    "school": "Daito Academy",
+    "designer": "Punyan",
+    "voiceActor": "Amane Shindo"
   },
   {
     "id": 1039,
-    "name": "佐和 月出里",
-    "kana": "さわ すだち",
+    "name": "Sudachi Sawa",
+    "kana": "Sudachi Sawa",
     "description": "ピュエラケア（出張調整屋）として神浜に来た、サポート役の魔法少女。学校に通わず自宅学習をしながら調整の腕を磨いている。頑張り屋で人懐っこい性格で周りからの評判は悪くないが、身内に対しては年相応に甘えることが多い。",
     "school": "―",
-    "designer": "渡辺明夫",
-    "voiceActor": "汐入あすか"
+    "designer": "Akio Watanabe",
+    "voiceActor": "Asuka Shioiri"
   },
   {
     "id": 1040,
-    "name": "篠目 ヨヅル",
-    "kana": "ささめ よづる",
+    "name": "Yozuru Sasame",
+    "kana": "Yozuru Sasame",
     "description": "ピュエラケア（出張調整屋）として神浜に来た、紳士的で献身的な魔法少女。リヴィアに調整の力を見出された。サービス精神旺盛で周囲からの評判もいいが、その態度はすべて計算。リヴィアから教わった「生きるための手段」である。",
     "school": "―",
-    "designer": "富士フジノ",
-    "voiceActor": "若松来海"
+    "designer": "Fujino Fuji",
+    "voiceActor": "Wakamatsu Kurumi"
   },
   {
     "id": 1041,
-    "name": "リヴィア・メディロス",
-    "kana": "りう゛ぃあ・めでぃろす",
+    "name": "Livia Medeiros",
+    "kana": "Livia Medeiros",
     "description": "ピュエラケア（出張調整屋）として神浜に来た、みたまに先生と呼ばれる魔法少女。調整をしながら全国各地を回り、魔女と戦えずとも才能がある少女に調整技術を伝えてきた。その素性は謎が多く、周囲に彼女の過去を知る者は誰もいない。",
     "school": "―",
-    "designer": "ササギコウシ",
-    "voiceActor": "黒木ほの香"
+    "designer": "Sasagi Koushi",
+    "voiceActor": "Honoka Kuroki"
   },
   {
     "id": 1042,
     "name": "Kyubert",
-    "kana": "",
+    "kana": "Lil Kyubey",
     "description": "神浜市内だけにいる、キュゥべえと思われる個体。その見た目は他の個体にはない幼さで、当初は町をうろつく姿が目撃されていたが、現在はみかづき荘の住人と居る姿が多く見られる。何を目的にしているかは不明であり、非常に謎が多い。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "加藤英美里"
+    "designer": "aokiume",
+    "voiceActor": "Emiri Katou"
   },
   {
     "id": 1043,
-    "name": "黒江",
-    "kana": "くろえ",
+    "name": "Kuroe",
+    "kana": "Kuroe",
     "description": "宝崎市に住む魔法少女。いろはと一緒に魔女と戦うこともあるが、定期的に情報交換をする程度の仲。命がけで戦うことに恐れを抱き、魔法少女であることから救われたいと感じている。とある噂をきっかけに、神浜市へと執着し始める。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "花澤香菜"
+    "designer": "aokiume",
+    "voiceActor": "Kana Hanazawa"
   },
   {
     "id": 1044,
-    "name": "瀬奈 みこと",
-    "kana": "せな みこと",
+    "name": "Mikoto Sena",
+    "kana": "Mikoto Sena",
     "description": "自らに暗示をかけ、現実から目を背けてきた魔法少女。表向きはにこやかで人懐っこいが、誰かを不幸にする判断を躊躇なく下すような冷酷さも持ち合わせている。外出時に幸福を味わい、帰宅すると不幸を味わう日々を送り続ける。",
-    "school": "大東学院",
-    "designer": "ぷにゃん",
-    "voiceActor": "本渡楓"
+    "school": "Daito Academy",
+    "designer": "Punyan",
+    "voiceActor": "Kaede Hondo"
   },
   {
     "id": 1045,
-    "name": "水名 露",
-    "kana": "みずな つゆ",
+    "name": "Tsuyu Mizuna",
+    "kana": "Tsuyu Mizuna",
     "description": "かつて、相磨の国で北養を治めていた水名正綱の娘であり、西の戦神子と呼ばれた魔法少女。一騎当千として恐れられつつも、領民は姫とは思えないほど気軽に接していた。普段は真面目で冷静だが好きな物語や幸若舞のことになると緩くなる。",
     "school": "―",
-    "designer": "七森龍",
-    "voiceActor": "羊宮妃那"
+    "designer": "Ryo Nanamori",
+    "voiceActor": "Hina Yomiya"
   },
   {
     "id": 1046,
-    "name": "千鶴",
-    "kana": "ちづる",
+    "name": "Chizuru",
+    "kana": "Chizuru",
     "description": "かつて、相磨の国で泰党と呼ばれた賊の頭領、万守山右衛門の娘であり東の戦神子と呼ばれた魔法少女。数多くの盗みを働き、不幸な民に富を分け与えた。狭い里で育ったせいか外の人間への憧れが強く、水名と手を取り合える日を楽しみにしていた。",
     "school": "―",
-    "designer": "ササギコウシ",
-    "voiceActor": "立花日菜"
+    "designer": "Sasagi Koushi",
+    "voiceActor": "Hina Tachibana"
   },
   {
     "id": 1047,
-    "name": "くろ",
-    "kana": "くろ",
+    "name": "Kuro",
+    "kana": "Kuro",
     "description": "宝崎市に住む魔法少女。過去に魔女との戦いで苦戦していたところ、黒いフードの魔法少女に救われた。自分への自信のなさから体面を取り繕う癖があり、挙動不審に見えることがある。今の目標は「ひとりで生きる」こと。",
-    "school": "宝崎市立第一中学校",
-    "designer": "劇団イヌカレー（泥犬）",
-    "voiceActor": "城内由茄子"
+    "school": "Takarazaki Municipal First Middle School",
+    "designer": "Gekidan InuCurry (Doroinu)",
+    "voiceActor": "Yukako Kiuchi"
   },
   {
     "id": 1048,
-    "name": "エボニー",
-    "kana": "えぼにー",
+    "name": "Ebony",
+    "kana": "Ebony",
     "description": "ファラオに忠誠を誓う一族に生まれた魔法少女。幼い頃より王朝への服従を誓わされ、大人たちによって強制的に魔法少女の契約を結ばされた。自分は本当にファラオに尽くすためだけに生まれてきたのかと密かに疑問に感じている。",
     "school": "―",
-    "designer": "ぷにゃん",
-    "voiceActor": "楠木ともり"
+    "designer": "Punyan",
+    "voiceActor": "Tomori Kusunoki"
   },
   {
     "id": 1049,
-    "name": "オルガ",
-    "kana": "おるが",
+    "name": "Olga",
+    "kana": "Olga",
     "description": "とある部族の首長の娘であった魔法少女。一族がフィヨルドにある集落「イスヴィーク」の一派に滅ぼされ、妹のガンヒルトと共に囚われてしまうが、それでも陽気さは失わず、妹を励ましながら懸命に生きている。",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "安済知佳"
+    "designer": "Masugitsune/Kawazu-ku",
+    "voiceActor": "Chika Anzai"
   },
   {
     "id": 1050,
-    "name": "ガンヒルト",
-    "kana": "がんひると",
+    "name": "Gunhild",
+    "kana": "Gunhild",
     "description": "オルガの妹である魔法少女。基本的には内気な性格だが、頭脳明晰で胆力もあり、身体能力も抜群。一方で、大好きな姉を盛り立てることが自分の人生だと考え、姉の夢を実現するために勢力拡大を目論む。",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "富田美憂"
+    "designer": "Masugitsune/Kawazu-ku",
+    "voiceActor": "Miyu Tomita"
   },
   {
     "id": 1051,
-    "name": "ヘルカ",
-    "kana": "へるか",
+    "name": "Heruka",
+    "kana": "Heruka",
     "description": "チベットの尼僧院で暮らす魔法少女。モンゴル軍によって故郷を焼き払われ、幼馴染みのドルマと一緒に尼僧院へ身を寄せることになった。しかし、モンゴル軍に対して憎しみが抱けず、復讐より毎日を楽しく過ごせればそれでいいと思っている。",
     "school": "―",
-    "designer": "茨乃",
-    "voiceActor": "若山詩音"
+    "designer": "Shino",
+    "voiceActor": "Shion Wakayama"
   },
   {
     "id": 1052,
-    "name": "トヨ",
-    "kana": "とよ",
+    "name": "Toyo",
+    "kana": "Toyo",
     "description": "鬼道の才を持つ魔法少女。周囲からは「祟り神の子」と呼ばれ、災いの源として忌避されていた。邪馬台国の女王ヒミコへ尊敬の念を抱いており、少しでも近づけるよう鬼道の修行に打ち込んでいる。とってもタケノコが好き。",
     "school": "―",
-    "designer": "千里GAN",
-    "voiceActor": "山田美沙希"
+    "designer": "GAN",
+    "voiceActor": "Misaki Yamada"
   },
   {
     "id": 1053,
-    "name": "アマリュリス",
-    "kana": "あまりゅりす",
+    "name": "Amaryllis",
+    "kana": "Amaryllis",
     "description": "ポンペイの名家に侍女として仕える古代ローマ時代の魔法少女。天災で町が壊滅する悲劇を経験し、３年前の過去に生まれ変わった。歴史を変え、人々を惨劇から救うため「ローマの平和」のただなかを奔走する。盤上ゲームを密かに愛好している。",
     "school": "―",
-    "designer": "さくら小春（QP:flapper）",
-    "voiceActor": "鈴代紗弓"
+    "designer": "Sakura Koharu（QP:flapper）",
+    "voiceActor": "Sayumi Suzushiro"
   },
   {
     "id": 1101,
-    "name": "環 いろは",
-    "kana": "たまき いろは",
-    "title": "水着ver.",
-    "description": "友だちと一緒に夏休みを謳歌する魔法少女。この水着は魔法少女の衣装でありいつでも戦闘が可能。だが泳ぐのが苦手なので、水中戦に備えて浮き輪を武器にしている。緊急時は浮き輪をスクリューのように回転させて離脱も可能。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "麻倉もも"
+    "name": "Iroha Tamaki",
+    "kana": "Iroha Tamaki ",
+    "title": "(Swimsuit)",
+    "description": "A Magical Girl enjoying summer vacation with her friends. Her swimsuit is her Magical Girl outfit, so she can fight at any time, but she’s equipped with a swim float in case of water battles as she’s not a confident swimmer... She can also use it to escape in an emergency by twisting it like a screw.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1102,
-    "name": "やちよ・みふゆ",
-    "kana": "やちよ・みふゆ",
-    "title": "始まりver.",
+    "name": "Yachiyo & Mifuyu",
+    "kana": "Yachiyo & Mifuyu",
+    "title": "(Starting Out)",
     "description": "タッグを組み、共に強くなることを約束した、なりたての魔法少女。お互いに第一印象は悪かったが、戦いに翻弄される中で手を取り合い、気付けば親友になっていた。そろって忙しいふたりにとって、合間を縫って駄菓子屋に行くのが楽しみ。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "雨宮天、中原麻衣"
+    "designer": "aokiume",
+    "voiceActor": "Sora Amamiya & Mai Nakahara"
   },
   {
     "id": 1103,
-    "name": "ウワサの鶴乃",
-    "kana": "うわさの つるの",
-    "description": "キレーションランドのウワサ（キレートマスコット）と一体化した魔法少女。のんびりダラーっと楽しく過ごして、悩みを全て吹き飛ばせる遊園地を守ろうとしている。フードコートのメニューの発案では、他のウワサを驚かせた。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "夏川椎菜"
+    "name": "Uwasa Tsuruno",
+    "kana": "Uwasa Tsuruno",
+    "description": "A Magical Girl who serves the mascot (Uwasa) of Chelation Land. She spends her time completely relaxed, protecting the theme park that rids it’s visitors of all worries. Her suggestions for the food court menu impressed all the other Uwasa.",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Shiina Natsukawa"
   },
   {
     "id": 1104,
-    "name": "ウワサのさな",
-    "kana": "うわさの さな",
+    "name": "Uwasa Sana",
+    "kana": "Uwasa Sana",
     "description": "名無し人工知能のウワサ（アイ）と一体化した魔法少女。偶然誕生した寂しがりなウワサを倒そうとしている。睡眠や食事を必要としないなど、ウワサの特殊な体質に戸惑っているが、脳内でアイと話せることに気付いてからは癒されている。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "小倉唯（アイ：咲々木瞳）"
+    "designer": "aokiume",
+    "voiceActor": "Yui Ogura (Ai: Hitomi Sasaki)"
   },
   {
     "id": 1105,
-    "name": "フェリシアちゃん",
-    "kana": "ふぇりしあちゃん",
+    "name": "Felicia-chan",
+    "kana": "Felicia-chan",
     "description": "マギレポ世界の中でいろはちゃんたちと一緒に暮らしている魔法少女。時に狂犬として暴れ、時に変装して潜伏し、時に美少女として現れることもあるが、ボーっとしながら丸いお口を開けて、チョウチョを眺めていることも多い。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "PAPA",
-    "voiceActor": "佐倉綾音"
+    "voiceActor": "Ayane Sakura"
   },
   {
     "id": 1106,
-    "name": "梓 みふゆ",
-    "kana": "あずさ みふゆ",
-    "title": "おとぎ話ver.",
+    "name": "Mifuyu Azusa",
+    "kana": "Mifuyu Azusa",
+    "title": "(Fairy Tale)",
     "description": "タイムカプセルを見つけたことがきっかけで心が小学生に戻ってしまった魔法少女。19歳の記憶はあっても泣き虫のまま。変身後の姿もかつてクリスマスに演じた「火の魔王」に影響されている。変身ヒロインに憧れていたことはお母様には内緒。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "中原麻衣"
+    "designer": "aokiume",
+    "voiceActor": "Mai Nakahara"
   },
   {
     "id": 1107,
-    "name": "灯花・ねむ",
-    "kana": "とうか・ねむ",
-    "title": "聖夜ver.",
+    "name": "Touka & Nemu",
+    "kana": "Touka & Nemu",
+    "title": "(Holy Night)",
     "description": "ある強い想いがきっかけで、聖夜がモチーフの姿に変身した魔法少女。不思議な日記を通してクリスマスを巡りながら、自分たちの身に起きた不思議な現象を調べている。口には出さないが、自分たちの格好は気に入っている。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "釘宮理恵、諸星すみれ"
+    "designer": "aokiume",
+    "voiceActor": "Rie Kugimiya/Sumire Morohoshi"
   },
   {
     "id": 1108,
-    "name": "ホーリーアリナ",
-    "kana": "ほーりーありな",
-    "description": "人類の根底に宿ったテーマを自身のアートとして表現しようとしている魔法少女。必要なエネルギーを得るために、凍えている人を温めては、代償として寿命を奪う。同時に対象のデスマスクを作成するが、直接関係のない芸術活動でしかない。",
-    "school": "栄総合学園",
-    "designer": "f4samurai・劇団イヌカレー（泥犬）",
-    "voiceActor": "竹達彩奈"
+    "name": "Holy Alina",
+    "kana": "Holy Alina",
+    "description": "A Magical Girl dressed in her own art, based on the nature of mankind. In order to gather the energy needed for this form, she warms those with frozen hearts in exchange for years off of their life. She also creates a death mask of her target, that’s just an unrelated artistic pursuit.",
+    "school": "Sakae Academy",
+    "designer": "f4samurai & Gekidan InuCurry (Doroinu)",
+    "voiceActor": "Ayana Taketatsu"
   },
   {
     "id": 1109,
-    "name": "レナちゃん",
-    "kana": "れなちゃん",
-    "title": "アイドルver.",
+    "name": "Rena-chan",
+    "kana": "Rena-chan",
+    "title": "(Idol)",
     "description": "マギレポ世界で、ももこやかえでと楽しく過ごしている魔法少女。スカウトされて、ご当地アイドル「カミハ☆マギカ」のメンバーになった。「アイドル好き」と「アイドルになる」の間にまたがる荒波にもまれながら、今日もレッスンに励んでいる。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "PAPA",
-    "voiceActor": "石原夏織"
+    "voiceActor": "Kaori Ishihara"
   },
   {
     "id": 1110,
-    "name": "十咎 ももこ",
-    "kana": "とがめ ももこ",
-    "title": "シスターver.",
+    "name": "Momoko Togame",
+    "kana": "Momoko Togame",
+    "title": "(Sister)",
     "description": "ハロウィンパーティの演劇でシスター役になった魔法少女。自分には上品なシスターは似合わないと思っているが、悩める人と真摯に向き合う姿は、本人が思うより様になっている。毎日家での練習も欠かさないが、家族に見られるのは恥ずかしい。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "小松未可子"
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
+    "voiceActor": "Mikako Komatsu"
   },
   {
     "id": 1112,
-    "name": "かりん・アリナ",
-    "kana": "かりん・ありな",
-    "title": "ハロウィンver.",
+    "name": "Karin & Alina",
+    "kana": "Karin & Alina",
+    "title": "(Halloween)",
     "description": "ハロウィンを守るかぼちゃの王様と、振り回される幽霊従者の魔法少女コンビ。王様は自分を心優しいと思っているが、幽霊からすると“暴君”で、早く離れたいと思っている。その幽霊の足は透けているが“変身”した姿であって死んではいない。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "金元寿子、竹達彩奈"
+    "designer": "aokiume",
+    "voiceActor": "Hisako Kanemoto & Ayana Taketatsu"
   },
   {
     "id": 1113,
-    "name": "竜城 明日香",
-    "kana": "たつき あすか",
-    "title": "新春龍神ver.",
-    "description": "竜城家の始祖と伝わる龍神のような姿になった魔法少女。「明鏡止水」を新年の抱負として掲げているが、今のところ達成できる見込みはない。持っているのは打出の小槌だが、振っても願いを叶えてくれないので、自力でどうにかするべく奮闘中。",
+    "name": "Asuka Tatsuki",
+    "kana": "Asuka Tatsuki",
+    "title": "(Dragon God)",
+    "description": "A Magical Girl who has taken a form embodying the Tatsuki family's ancestral Dragon God. Her New Year's resolution was to \"find inner peace,\" but for now, it seems like an endless uphill battle. Though she wields the mythical Magic Mallet, its deafness to her prayers means she’ll have to fulfill them on her own.",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "瀬戸麻沙美"
+    "designer": "aokiume",
+    "voiceActor": "Asami Seto"
   },
   {
     "id": 1116,
-    "name": "和泉 十七夜",
-    "kana": "いずみ かなぎ",
-    "title": "ヴァンパイアver.",
+    "name": "Kanagi Izumi",
+    "kana": "Kanagi Izumi",
+    "title": "(Vampire)",
     "description": "ハロウィンパーティの演劇で吸血鬼役になった魔法少女。演じる役に共感し、死者が帰ってくるハロウィンにも思うところがある様子。血液を使って戦うため、貧血にならないような食生活を心がけた結果、家族に心配されてしまった。",
-    "school": "大東学院",
-    "designer": "ササギコウシ",
-    "voiceActor": "千本木彩花"
+    "school": "Daito Academy",
+    "designer": "Sasagi Koushi",
+    "voiceActor": "Sayaka Senbongi"
   },
   {
     "id": 1117,
-    "name": "八雲 みたま",
-    "kana": "やくも みたま",
-    "title": "晴着ver.",
-    "description": "新年早々遊びに商売に精を出す魔法少女。やちよに借りた着物がお気に入りで、試しにソウルジェムを調整して魔法少女の力を着物に込めたところ、そのままの姿で戦えるようになった。武器のかるたで、お手付きした敵を直接攻める。",
-    "school": "大東学院",
-    "designer": "ぷにゃん",
-    "voiceActor": "堀江由衣"
+    "name": "Mitama Yakumo",
+    "kana": "Mitama Yakumo",
+    "title": "(Kimono)",
+    "description": "A Magical Girl who works hard and plays hard from the first day of the year. She is very fond the kimono that she got from Yachiyo, so she infused it with magic in order to wear it in battle. With her cards as her weapon, she attacks those who fail to play her game correctly.",
+    "school": "Daito Academy",
+    "designer": "Punyan",
+    "voiceActor": "Yui Horie"
   },
   {
     "id": 1118,
-    "name": "天音姉妹",
-    "kana": "あまね しまい",
-    "title": "水着ver.",
-    "description": "夏休みを謳歌する双子の魔法少女。＠バナナボートと水鉄砲を駆使して戦いながら、息ぴったりのコンビネーションを発揮する。家のことやマギウスの翼の活動は都合をつけて休んでいるので、海で遊んでいることは周りに秘密。",
+    "name": "Amane Sisters",
+    "kana": "Amane Sisters",
+    "title": "(Swimsuit)",
+    "description": "Twin Magical Girls who sing the praises of summer. With one steering the banana boat and the other wielding a water gun, these two prove to be quite the combo. Since they're skipping out on their duties of the workshop and the Magius, they'd prefer to keep their ocean escapades a secret.",
     "school": "―",
-    "designer": "鮠水ちか",
-    "voiceActor": "内田真礼、内田彩"
+    "designer": "Chika Hayami",
+    "voiceActor": "Maaya Uchida & Aya Uchida"
   },
   {
     "id": 1120,
-    "name": "佐鳥 かごめ",
-    "kana": "さとり かごめ",
-    "title": "百鬼夜行ver.",
+    "name": "Kagome Satori",
+    "kana": "Kagome Satori",
+    "title": "(Demon Parade)",
     "description": "取材地での不思議な体験を経て、姿が変わった魔法少女。怖いことが苦手なのに、自分が妖怪の類になってしまったようで困惑している。妖怪のアルちゃんの中には話せる個体もいるが、片言なので、意思疎通に時間がかかるらしい。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "高尾奏音"
+    "designer": "aokiume",
+    "voiceActor": "Kanon Takao"
   },
   {
     "id": 1121,
-    "name": "結菜・樹里",
-    "kana": "ゆな・じゅり",
-    "title": "ヴァンパイアver.",
+    "name": "Yuna & Juri",
+    "kana": "Yuna & Juri",
+    "title": "(Vampire)",
     "description": "ハロウィンに暴虐を決意したことで吸血鬼となった義姉妹の魔法少女。自分たちの罪によって死んだ仲間の霊と対面し、彼女たちから罰を受けつつ贖罪をしようとしている。吸い込んだ血液を溜めて攻撃に使うため、貧血の心配はない。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "涼本あきほ、松本花雪"
+    "designer": "aokiume",
+    "voiceActor": "Akiho Suzumoto & Kayuki Matsumoto"
   },
   {
     "id": 1125,
-    "name": "時女 静香",
-    "kana": "ときめ しずか",
-    "title": "初日の出ver.",
+    "name": "Shizuka Tokime",
+    "kana": "Shizuka Tokime",
+    "title": "(First Sunrise)",
     "description": "時女一族を新たな門出に導びかんとする魔法少女。縁起の良い初日の出に、日の本の平和と一族の平穏を祈願する。丸餅と角餅、鶏肉派と鰤派…様々なお雑煮があることを知りいろんな組み合わせを楽しんでいる。こたつに入ると抜け出せなくなる。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "内田秀"
+    "designer": "aokiume",
+    "voiceActor": "Shuu Uchida"
   },
   {
     "id": 1133,
-    "name": "氷室 ラビ",
-    "kana": "ひむろ らび",
-    "title": "キモチver.",
+    "name": "Rabi Himuro",
+    "kana": "Rabi Himuro",
+    "title": "(Kimochi)",
     "description": "すべてを諦め、キモチとひとつになった魔法少女。巨大な諦念に飲み込まれており、大好きな人たちが苦しみつづけるくらいであれば、その前にすべての魔法少女に安らかな死を与えた方が幸福であると考えている。",
-    "school": "湯国市立岩切山高等学校",
-    "designer": "蒼樹うめ",
-    "voiceActor": "指出毬亜"
+    "school": "Yukuni Municipal High School",
+    "designer": "aokiume",
+    "voiceActor": "Maria Sashide"
   },
   {
     "id": 1137,
-    "name": "那由他・みかげ",
-    "kana": "なゆた・みかげ",
-    "title": "クリスマスver.",
+    "name": "Nayuta & Mikage",
+    "kana": "Nayuta & Mikage",
+    "title": "(Christmas)",
     "description": "イタリアの伝承に登場する魔法使い「ベファーナ」の姿になった、仲良しの魔法少女。お菓子のクリスマスプレゼントを届けるため、ほうきにまたがって神浜の空を飛び回る。厳しい寒さに耐えられるよう、服の下にはカイロを装着している。",
     "school": "―",
-    "designer": "蒼樹うめ、ぷにゃん",
-    "voiceActor": "春花らん、進藤あまね"
+    "designer": "aokiume & Punyan",
+    "voiceActor": "Ran Haruka & Amane Shindo"
   },
   {
     "id": 1139,
-    "name": "佐和 月出里",
-    "kana": "さわ すだち",
-    "title": "バレンタインver.",
+    "name": "Sudachi Sawa",
+    "kana": "Sudachi Sawa",
+    "title": "(Valentine)",
     "description": "バレンタインを控える宝崎市に来た、出張調整屋の魔法少女。調整屋のイメージ改善を行うため、バレンタインにちなんだお菓子のような格好で宣伝をする。この衣装になると、武器がヨヅルとお揃いのステッキになるので、密かに喜んでいる。",
     "school": "―",
-    "designer": "渡辺明夫",
-    "voiceActor": "汐入あすか"
+    "designer": "Akio Watanabe",
+    "voiceActor": "Shioiri Asuka"
   },
   {
     "id": 1143,
-    "name": "黒江",
-    "kana": "くろえ",
-    "title": "水着ver.",
+    "name": "Kuroe",
+    "kana": "Kuroe",
+    "title": "(Swimsuit)",
     "description": "夏の海を漂う魔法少女。暑い夏には家で本を読んでいたいインドア派だが、兄の誘いで海の家に来たところ、気づけば海でSUPをすることになっていた。元新体操部なため、SUPヨガはそれなりにできる。また、泳ぐことは得意じゃない。",
     "school": "―",
-    "designer": "蒼樹うめ",
-    "voiceActor": "花澤香菜"
+    "designer": "aokiume",
+    "voiceActor": "Kana Hanazawa"
   },
   {
     "id": 1144,
-    "name": "ウワサのみこと",
-    "kana": "うわさのみこと",
+    "name": "Uwasa Mikoto",
+    "kana": "Uwasa Mikoto",
     "description": "みことがねむの体を乗っ取り具現化させたウワサ。みことはウワサの体を手に入れ、自由を得た。“瀬奈みこと”の人格である白いみことと、ウワサの人格である黒いみことは別に存在していたが、ひとつになることで強い力を手に入れた。",
     "school": "―",
-    "designer": "ぷにゃん",
-    "voiceActor": "本渡楓"
+    "designer": "Punyan",
+    "voiceActor": "Kaede Hondo"
   },
   {
     "id": 1201,
-    "name": "いろはちゃん",
-    "kana": "いろはちゃん",
+    "name": "Iroha-chan",
+    "kana": "Iroha-chan",
     "description": "マギレコの魅力をお届けするべく、常に最新情報を追い続けている神浜市の魔法少女。まどか先輩に振り回される中で成長し、今となっては顔芸も達者になった。またプレイヤーきっての引き弱で、いつも★４が手に入らずにもだえている。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "PAPA",
-    "voiceActor": "麻倉もも"
+    "voiceActor": "Momo Asakura"
   },
   {
     "id": 1202,
-    "name": "七海 やちよ",
-    "kana": "ななみ やちよ",
-    "title": "七夕ver.",
-    "description": "伝承の少女に共感したことで星々の輝きを身に纏った魔法少女。扇からこぼれる星屑は本人に力を与えるだけでなく、輝きを見た者に幸福感を与える。戦う姿を目撃した人に天女と見間違われたあとで、魔法少女たちの間で話題にもなった。",
-    "school": "神浜市立大学",
-    "designer": "蒼樹うめ",
-    "voiceActor": "雨宮天"
+    "name": "Yachiyo Nanami",
+    "kana": "Yachiyo Nanami",
+    "title": "(Tanabata)",
+    "description": "A Magical Girl who became clad in starlight after empathizing with a girl of legend. The stardust spilling from her fan not only grants her power, but also bestows serenity upon those witnessing its glow. After being mistaken for a celestial maiden during a battle, she's now a hot topic among fellow Magical Girls.",
+    "school": "Kamihama University",
+    "designer": "aokiume",
+    "voiceActor": "Sora Amamiya"
   },
   {
     "id": 1203,
@@ -727,17 +727,17 @@
     "title": "宅配ver.",
     "description": "クリスマスが永遠に続く不思議な地で、「世界の果て」を目指して旅するふたりの魔法少女。カスタムバイク「スーパートナカイさん２号」で、みんなに笑顔を配達しながら旅を続けている。背中のオカモチはクリスマスの魔法がかかった特別製。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "夏川椎菜、佐倉綾音"
   },
   {
     "id": 1209,
     "name": "レナ・かえで",
     "kana": "れな かえで",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "夏の海で遊ぶのが大好きな、仲良しの魔法少女。＠水着を用意して海を満喫する気満々のふたりだが、海へ行くたびにトラブルに巻き込まれては、ももこに慰められている。ビーチボールとパラソルを使った緩急のある攻撃が得意。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "石原夏織、大橋彩香"
   },
   {
@@ -747,7 +747,7 @@
     "title": "人魚ver.",
     "description": "巫にまつわる伝承を調べるなかで、人魚の力を得た魔法少女。水着をもとにした人魚の格好がお気に入りのみたまに対し、ももこは気恥ずかしさを感じている。みたまの提案で、ふたりが人魚になるときは誰もいない静かな海で、と約束した。",
     "school": "―",
-    "designer": "蒼樹うめ、ぷにゃん",
+    "designer": "aokiume、ぷにゃん",
     "voiceActor": "小松未可子、堀江由衣"
   },
   {
@@ -756,7 +756,7 @@
     "kana": "いずみ かなぎ",
     "title": "常闇ver.",
     "description": "滅びの果てにある平等を信じる魔法少女。調整によって悲しみを取り込んだことにより、常に悲しみに囚われている。神浜市に生きる人々にとって共通の敵となり、一致団結させることを目的としており、そのためであれば自分の命も投げ打つ覚悟。",
-    "school": "大東学院",
+    "school": "Daito Academy",
     "designer": "ササギコウシ",
     "voiceActor": "千本木彩花"
   },
@@ -766,8 +766,8 @@
     "kana": "やくも みたま",
     "title": "常闇ver.",
     "description": "抗うことを諦めて愛するものさえ壊すことを選んだ魔法少女。調整によって悲しみを取り込んだことにより、常に悲しみに囚われている。一度は見えた希望が枯れた今、最小限の被害でかつての願いを形にすることだけが残された道となった。",
-    "school": "大東学院",
-    "designer": "ぷにゃん",
+    "school": "Daito Academy",
+    "designer": "Punyan",
     "voiceActor": "堀江由衣"
   },
   {
@@ -777,7 +777,7 @@
     "title": "決戦ver.",
     "description": "かつて強大な魔女と戦った際に背中を支えてくれた力を、一時的に手に入れた魔法少女。出会いこそ敵同士だったが、共に行動をする中で親密になり、いつしか切っても切れない絆で結ばれていた。羽は力を宿した瞬間など、一瞬しか現れない。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "麻倉もも、雨宮天"
   },
   {
@@ -787,7 +787,7 @@
     "title": "アニメver.",
     "description": "神浜市のベテラン魔法少女。大学生。神浜市や魔法少女についての情報に精通し、チームには属さずひとりで活動。テリトリー意識が強く、実力の伴わない他の地域の魔法少女には厳しく接する。神浜市で発生している「噂」をファイリングしている。",
     "school": "神浜市立大学",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "雨宮天"
   },
   {
@@ -796,8 +796,8 @@
     "kana": "うわさの つるの",
     "title": "アニメver.",
     "description": "キレートマスコットのウワサと一体化した魔法少女。誰もがリラックスできるような遊園地にするため、訪れた魔法少女にはのんびりすることを持ち掛ける。それでものんびりしない相手には鋭く光る電撃と遊具を使った変則技で強制的に従わせる。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
     "voiceActor": "夏川椎菜"
   },
   {
@@ -806,8 +806,8 @@
     "kana": "みなみ れな",
     "title": "アニメver.",
     "description": "ももこ、かえでとチームで活動する魔法少女。思っていることを素直に表現できない不器用な性格なため、誤解されやすく友だちが少ない。かえでと喧嘩することもしばしばだが、お揃いのストラップを大事にするなど可愛らしい一面もある。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
     "voiceActor": "石原夏織"
   },
   {
@@ -817,7 +817,7 @@
     "title": "巫女ver.",
     "description": "正月の神社を巫女服でお手伝いする、仲良し姉妹の魔法少女。境内の案内から神楽まで互いに支え合いながら巫女として神社に仕えている。不安なことは、神社に関する用語を覚えることと、同級生と遭遇するかもしれないこと。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "麻倉もも、石見舞菜香"
   },
   {
@@ -827,7 +827,7 @@
     "title": "おとぎ話ver.",
     "description": "タイムカプセルがきっかけとなり、心が小学生に戻ってしまった魔法少女。当時から大人びており、よく観察しないと普段との違いが判らない。変身後は昔演じた「氷の女王」の影響を受けている。ただ、当時から演技は上手ではなかった。",
     "school": "神浜市立大学",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "雨宮天"
   },
   {
@@ -836,8 +836,8 @@
     "kana": "たまき いろは",
     "title": "アニメver.",
     "description": "宝崎市に住む魔法少女。しっかり者な性格だが、まわりに気をつかいすぎてしまう面もあり、クラスでは少し浮いてしまっている。消えた妹を探すべく、とある噂を手掛かりに神浜市へ向かうことになる。",
-    "school": "神浜市立大附属学校",
-    "designer": "蒼樹うめ",
+    "school": "Kamihama University Affiliated School",
+    "designer": "aokiume",
     "voiceActor": "麻倉もも"
   },
   {
@@ -847,7 +847,7 @@
     "title": "ヒストリアver.",
     "description": "多くの希望を集めたことにより姿を変えた魔法少女。手にした槍は希望の持ち主である魔法少女たちの色を反映させ、豊かな色彩を放っている。伝え聞くところによると、その槍で未来への障壁を打ち砕き、希望を届ける役割を持っているらしい。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "雨宮天"
   },
   {
@@ -856,7 +856,7 @@
     "kana": "いんふぃにっといろは",
     "description": "救いを求める魔法少女に、明日を与える力を身に付けた少女。三位一体となって成立したこの姿の中には、目には見えないふたりの姿が隠されている。普段は他の少女たちと共同生活を送って慌ただしく過ごしているが、その理由はわからない。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "麻倉もも"
   },
   {
@@ -874,7 +874,7 @@
     "kana": "いろは・くろえ",
     "description": "同じ宝崎市の出身で、互いに信頼し合っている魔法少女。密かにいろはに憧れる黒江は、いつか人に必要とされる存在になれたらと思っている。緊張するという理由で黒江は断ってきたが、今度みかづき荘へ遊びに行くことをいろはと約束した。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "麻倉もも、花澤香菜"
   },
   {
@@ -883,7 +883,7 @@
     "kana": "かなめ まどか",
     "description": "途方もない素質をもった見滝原市で活躍する魔法少女。＠見滝原中学校の２年生。家族は父、母、弟。＠おっとりしていて他者への思いやりがある優しい性格で周囲に人が＠絶えない。戦闘時では弓を武器として使っている。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧"
   },
   {
@@ -892,7 +892,7 @@
     "kana": "あけみ ほむら",
     "description": "鹿目まどかのクラスに転校してきた、謎めいた魔法少女。＠まどかを絶望の運命から救うため、同じ時を繰り返し、＠誰にも頼ることなく「ワルプルギスの夜」の打倒を目指す。＠神浜市に向かった暁美ほむらとは異なる時間軸に属している。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
@@ -902,7 +902,7 @@
     "title": "眼鏡ver.",
     "description": "まどかを守れる存在になることを願った気弱な魔法少女。＠見滝原中学校の２年生。まどかが魔女化する未来を変えるために＠同じ時を繰り返している。＠とあるきっかけから、神浜市で未来を変える希望を探すことになる。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
@@ -911,7 +911,7 @@
     "kana": "みき さやか",
     "description": "真っ直ぐで正義感が強い魔法少女。見滝原中学校の２年生で、クラスメイトのまどかとは親友。先輩のマミを魔法少女として尊敬しており、武器を量産する戦闘スタイルが似ている。以前は幼馴染の上条恭介が入院していた病院に、よく通っていた。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "喜多村英梨"
   },
   {
@@ -920,7 +920,7 @@
     "kana": "ともえ まみ",
     "description": "鹿目まどかたちよりも前から見滝原市で魔女たちと戦い続けている＠魔法少女。見滝原中学校の３年生。＠魔法少女としてもまどかたちのよき先輩でもあり、人を救えることを＠誇りに思っている。紅茶好き。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "水橋かおり"
   },
   {
@@ -929,7 +929,7 @@
     "kana": "さくら きょうこ",
     "description": "風見野市出身の魔法少女。＠学校に通っている様子はなく、どこに住んでいるかも分からない。＠勝気な性格とドライな価値観から、他の少女たちと衝突することが多い。＠普段はいつも何かを食べている。＠武器は多関節の槍。結界魔法も使える。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "野中藍"
   },
   {
@@ -938,7 +938,7 @@
     "kana": "ももえ なぎさ",
     "description": "かつて希望を運び、いつか呪いを振りまいた者。やがて「円環の理」に導かれ、今はその使者となって神浜へと舞い降りた。チーズに対して強い執着を持ち、使命があるにも関わらず、ふとした拍子で頭の中はチーズでいっぱいになってしまう。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "阿澄佳奈"
   },
   {
@@ -947,7 +947,7 @@
     "kana": "あき まばゆ",
     "description": "同じ時を繰り返す不思議な現象に巻き込まれた魔法少女。見滝原中学校の３年生。ケーキ屋のレコンパンスで叔母の咲笑と共に暮らしている。ひとりで映画を見るのを好み、レンタルビデオ店や映画館に足しげく通っている。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "早見沙織"
   },
   {
@@ -957,7 +957,7 @@
     "title": "晴着ver.",
     "description": "見滝原市で活動している中学２年生の魔法少女。魔法少女の祈りの力を着物に込めて、そのままの姿で戦うことができる。武器も羽子板に変わり、遠近両方の攻撃を可能にしている。その羽子板をよく見ると、よく知る者の姿をしているとか。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧"
   },
   {
@@ -966,7 +966,7 @@
     "kana": "あるてぃめっと まどか",
     "description": "過去と未来と現在から遍く宇宙の向こうまで、魔法少女たちを見守り続ける女神様。全ての魔法少女たちを知り尽くして祝福を授ける彼女には、知らないことは何もない。しかし彼女は、生まれてはじめて知らない魔法少女を見つけてしまった。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧"
   },
   {
@@ -993,7 +993,7 @@
     "kana": "まどか・いろは",
     "description": "誰かの幸せのために心を砕き、誰かの不幸を共に涙してくれる魔法少女。自分に自信がなかった過去や、普段から少し控え目な点などで波長が合うのか、共に戦ってからは連絡を取り合うようになった。ふたりはこの出会いが奇跡なのを知らない。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧、麻倉もも"
   },
   {
@@ -1003,17 +1003,17 @@
     "title": "scene0 ver.",
     "description": "繰り返す時の中で出会う心優しき魔法少女。見滝原中学校の２年生。レコンパンスでよく見かけるエイミーと名付けられたネコと仲が良い。仲間と一緒に使い魔や魔女と戦っていたが、ある時から契約した姿を見なくなる。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧"
   },
   {
     "id": 2106,
     "name": "鹿目 まどか",
     "kana": "かなめ まどか",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "夏の陽射しにきらめく魔法少女。いつもの弓から弓型の水鉄砲に持ち替えているが、おもちゃだと思って挑むと痛い目に遭う。今しかできないことを悩み探しながらも、この夏を楽しもうとしている。いつもと違うポニーテールが密かなお気に入り。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "悠木碧"
   },
   {
@@ -1040,7 +1040,7 @@
     "kana": "あくまほむら",
     "description": "摂理を乱し、この世界を蹂躙する存在。“円環の理”の断片を奪い取り、みずからを“魔”なるものと称する。インキュベーターに協力を強いる一方、かつて関わった魔法少女たちに対しては敵対をも辞さない言動を見せる。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
@@ -1050,17 +1050,17 @@
     "title": "晴着ver.",
     "description": "異なる時間軸の記憶を持ったことで、別人のような人格に変貌した暁美ほむら。神浜市を舞台とする不思議な初夢の中をさまよい、まどかとともに夢の出口を探る。一変した状況に戸惑いを覚えつつも、まどかを救うという想いは揺るがない。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
     "id": 2300,
     "name": "暁美 ほむら",
     "kana": "あけみ ほむら",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "友だちと一緒に夏休みを謳歌する魔法少女。普通の水着のように見えるが、魔法少女の衣装であり釣り竿が武器。釣りのセンスはあまりないが、仲間のためになると、どんな大物でも釣り上げる力を発揮する。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
@@ -1070,7 +1070,7 @@
     "title": "scene0 ver.",
     "description": "繰り返す時の中で未来を変えようとしている魔法少女。長らく心臓を患っていたが退院して見滝原中学校の２年生として転入してきた。かつては気弱だったが、ある１人の少女を救うために、その気質を変化させている。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "斎藤千和"
   },
   {
@@ -1080,7 +1080,7 @@
     "title": "晴着ver.",
     "description": "見滝原市に住む魔法少女。美しい晴着には身を守るための力が宿り、剣のように手に馴染む筆を振るって戦う。彼女が果敢に戦い勝利と共に一筆したためる裏には、年相応の恋ごころがあるらしい。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "喜多村英梨"
   },
   {
@@ -1090,7 +1090,7 @@
     "title": "波乗りver.",
     "description": "海辺のバカンスを楽しむ魔法少女。魔法の力を借り、武器兼用のサーフボードで颯爽と波に乗る。本当は初心者なので、自分が無意識にやったことがスイッチスタンス、オフザリップなどと呼ばれる高等テクニックであることを知らない。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "喜多村英梨"
   },
   {
@@ -1100,7 +1100,7 @@
     "title": "scene0 ver.",
     "description": "繰り返す時の中で出会う正義感が強い魔法少女。見滝原中学校の２年生。学校が終わると、幼馴染の上条恭介が入院している病院に通う他、咲笑が営むレコンパンスのお手伝いもしている。クラスメイトのまどかとは親友である。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "喜多村英梨"
   },
   {
@@ -1116,10 +1116,10 @@
     "id": 2501,
     "name": "巴 マミ",
     "kana": "ともえ まみ",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "真夏の魔法によって、新たな装いを得た魔法少女。ロケットランチャーのように見える武器は、魔法で生成した花火。魔法少女として成長を続けるその姿は、彼女を慕う後輩たちのお手本にもなっている。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "水橋かおり"
   },
   {
@@ -1139,17 +1139,17 @@
     "title": "scene0 ver.",
     "description": "繰り返す時の中で出会う誇りが高い魔法少女。見滝原中学校の３年生。まばゆのクラスメイトで気さくに声を掛けてくれる。高い能力を有しており、見滝原市内をテリトリーにしていたが、訳あって別の町での活動を余儀なくされることもあった。",
     "school": "見滝原中学校",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "水橋かおり"
   },
   {
     "id": 2600,
     "name": "佐倉 杏子",
     "kana": "さくら きょうこ",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "夏の海を謳歌する魔法少女。普段は泳げないが、この姿なら自由自在に泳ぐことができ、魚を捕まえるのもお手の物。魔法少女としての戦闘力も健在で、炎をまとったビーチボールは敵を焼き払う。天敵はみたま。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "野中藍"
   },
   {
@@ -1159,7 +1159,7 @@
     "title": "scene0 ver.",
     "description": "繰り返す時の中で出会う一匹狼の魔法少女。勝気な性格とドライな価値感で人と衝突することもあるが、人を想う熱い心を内に秘めている。普段は風見野市を拠点に活動しているが、見滝原市を拠点にしている巴マミとも接点があった。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "野中藍"
   },
   {
@@ -1169,7 +1169,7 @@
     "title": "ドッペルver.",
     "description": "風見野市出身の魔法少女。新しい信仰を説く父親のもとに生まれたが、現在は天涯孤独。ドッペルという新たな可能性が存在する神浜市に出向いたことで、自身の逃れられない過去と向き合うことになる。かつては眩惑の魔法を得意としていた。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "野中藍"
   },
   {
@@ -1179,17 +1179,17 @@
     "title": "バレンタインver.",
     "description": "見滝原の街を騒がす、ちいさなショコラティエ。＠「円環の理」の使者である百江なぎさの、もうひとつの姿。＠お菓子作りのことか、お菓子を食べることばかり考えており、＠使者としての使命を思い出すことはほとんどない。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "阿澄佳奈"
   },
   {
     "id": 2701,
     "name": "百江 なぎさ",
     "kana": "ももえ なぎさ",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "消せない過去を糧にして、パワーアップした魔法少女。「円環の理」の使者として神浜市へやってきたが、役目をほったらかして、夏の思い出作りに勤しんでいる。夏に食べる「海のチーズ」に期待していたが、想像と違っていた。",
     "school": "―",
-    "designer": "蒼樹うめ",
+    "designer": "aokiume",
     "voiceActor": "阿澄佳奈"
   },
   {
@@ -1197,8 +1197,8 @@
     "name": "矢宵 かのこ",
     "kana": "やよい かのこ",
     "description": "ファッションデザイナーになることを夢見る魔法少女。＠板金工場の家に生まれた一人娘で、他に跡取りがおらず、親からは＠工場を受け継いでもらいたいと思われており、苦悩している。＠本人は大真面目だが周囲からは変な目で見られることがままある。",
-    "school": "水名女学園",
-    "designer": "ぷにゃん",
+    "school": "Mizuna Girls' Academy",
+    "designer": "Punyan",
     "voiceActor": "加隈亜衣"
   },
   {
@@ -1206,7 +1206,7 @@
     "name": "空穂 夏希",
     "kana": "うつほ なつき",
     "description": "みんなにエールを送ってくれる、元気はつらつ魔法少女。＠野球が大好きで、学校ではチアガールとして野球部員にエールを＠送っている。＠また、野球部のマネージャーも兼任しており、名実ともに、年中無休＠のみんなのサポーターである。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "八重樫南",
     "voiceActor": "杜野まこ"
   },
@@ -1215,7 +1215,7 @@
     "name": "都 ひなの",
     "kana": "みやこ ひなの",
     "description": "幼い見た目に反して長い経歴を持つ、ベテラン魔法少女。＠学校では化学部の部長も務める、理系女子でもある。＠後輩たちからは慕われている反面、見た目の子供っぽさをイジられる＠ことも多い。本人は至極真面目にセクシー系を目指している。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "GENJIN",
     "voiceActor": "朝日奈丸佳"
   },
@@ -1224,7 +1224,7 @@
     "name": "美凪 ささら",
     "kana": "みなぎ ささら",
     "description": "正義感の強い魔法少女。＠幼い頃、絵本に出てきた正義の騎士に夢中となり、それ以来、自分も＠困っている人たちを助ける騎士になりたいと願っていた。＠レスキュー部隊に所属する父の影響も強く、目の前の敵を倒すことよ＠りも人命救助を優先する。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "戸流ケイ",
     "voiceActor": "高橋李依"
   },
@@ -1233,7 +1233,7 @@
     "name": "常盤 ななか",
     "kana": "ときわ ななか",
     "description": "江戸時代から続く華道の名門「華心流」宗家に生まれた魔法少女。＠容姿端麗で品行方正で頭脳明晰。一見して穏やかでおっとりした性格＠のように思えるが、その実は策もめぐらせる戦略家。＠また、自分に与えられた状況を理解して冷静に対処していく。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "鮠水ちか",
     "voiceActor": "M・A・O"
   },
@@ -1242,7 +1242,7 @@
     "name": "木崎 衣美里",
     "kana": "きさき えみり",
     "description": "「最強にカワイイ」を目指している小悪魔系な魔法少女。＠自分のことを「あーし」と言う。素直で明るく物怖じしない性格で＠初対面の相手でもすぐにあだ名をつけてズケズケと距離を詰めて＠いくが、いつの間にか相手の懐へスルリと潜り込んでしまう。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "ニャン☆ぷぅ",
     "voiceActor": "鬼頭明里"
   },
@@ -1251,7 +1251,7 @@
     "name": "保澄 雫",
     "kana": "ほずみ しずく",
     "description": "居場所を求めてさ迷い歩く、どこかつかみどころのない魔法少女。＠好きなもの、将来の夢など、自分自身のアイデンティティを見付けら＠れないがゆえに、未来に対する漠然とした不安を抱えている。＠純喫茶の一人娘らしく、いつも落ち着いている。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "ササギコウシ",
     "voiceActor": "七瀬彩夏"
   },
@@ -1260,7 +1260,7 @@
     "name": "志伸 あきら",
     "kana": "しのぶ あきら",
     "description": "外見や言動もボーイッシュな魔法少女。空手道場を営む父に、幼い頃＠から男の子たちと等しく鍛えられ育てられてきた。＠頼まれ事は断れない性格で、何でもついつい引き受けて解決してしま＠うことから「参京院のトラブルシューター」と呼ばれている。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "おちゃう",
     "voiceActor": "村中知"
   },
@@ -1269,7 +1269,7 @@
     "name": "胡桃 まなか",
     "kana": "くるみ まなか",
     "description": "父親譲りの料理の腕を持つ、クッキング系魔法少女。＠実家は歴史ある昔ながらの洋食店。料理の腕は文句なしに一級だが＠カチンとくるほどに自信満々なのが玉に瑕。＠本人は努力に裏打ちされた技術に誇りを持っているだけであり、悪意＠は一切ない。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "くらは",
     "voiceActor": "洲崎綾"
   },
@@ -1278,7 +1278,7 @@
     "name": "阿見 莉愛",
     "kana": "あみ りあ",
     "description": "モデルとしても活躍を見せている魔法少女。神浜屈指の美少女との呼び声も。自分が１番目立っていないと気が済まない性格で、何事においても前へ出る。本人としては自信満々に振る舞ってはいるが、傍から見ていると、どこか間が抜けている。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "Nardack",
     "voiceActor": "立花理香"
   },
@@ -1287,7 +1287,7 @@
     "name": "夏目 かこ",
     "kana": "なつめ かこ",
     "description": "とにかく本が大好きな魔法少女。＠神浜市の古書店「夏目書房」の一人娘で、母親は国語の教師。＠日々読書という生活を送っている。＠心優しく、普段は自分を押し出したりはしないが、ここぞという時は＠しっかり主張できる芯の強さも持ち合わせている。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "茨乃",
     "voiceActor": "鈴木絵理"
   },
@@ -1296,7 +1296,7 @@
     "name": "純 美雨",
     "kana": "ちゅん めいゆい",
     "description": "「蒼海幇」という組織に所属する魔法少女。カンフーの使い手。＠中国にいる親の元から離れて、単身で日本に渡って来た。＠普段から口調も振る舞いもクールだが、仲間と地元のことをなにより＠も大切にしている熱い心を秘めている。麻雀をたしなむ。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "一十九二",
     "voiceActor": "西明日香"
   },
@@ -1305,7 +1305,7 @@
     "name": "伊吹 れいら",
     "kana": "いぶき れいら",
     "description": "神浜市・大東区にある団地で暮らしている魔法少女。明朗快活でとても心根が優しく、誰にでも温かく接することから、彼女の人柄に惹かれて、自然と多くの人が周囲に集まる。その反面、周囲の調和のために自分を犠牲にしてしまうこともある。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "ハノカゲ",
     "voiceActor": "高野麻里佳"
   },
@@ -1314,7 +1314,7 @@
     "name": "桑水 せいか",
     "kana": "くみ せいか",
     "description": "内向きな性格で、感情を素直に表現することができない魔法少女。伊吹れいらと相野みとと同じ団地に住んでいて、そのふたり以外とは距離を置いて人付き合いをする。冷たい人間に見られがちだが、実は密かに熱血しているドラマや漫画が好き。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "ハノカゲ",
     "voiceActor": "和氣あず未"
   },
@@ -1323,7 +1323,7 @@
     "name": "相野 みと",
     "kana": "あいの みと",
     "description": "天真爛漫で屈託のない性格の魔法少女。いつも自然体で生きている。だが、ゆったりとした物腰や口調とは裏腹に、人をハッとさせる鋭い一言を放つ時もある。伊吹れいら、桑水せいかとは同じ団地に住む幼馴染で、ふたりを何よりも大事に思っている。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "ハノカゲ",
     "voiceActor": "長縄まりあ"
   },
@@ -1332,7 +1332,7 @@
     "name": "粟根 こころ",
     "kana": "あわね こころ",
     "description": "心の内にわだかまりを押さえつけている魔法少女。＠幼い頃に両親が離婚して以来、父親と共に暮らすが、お互いが正面から向き合えず、ギクシャクした関係がずっと続いてきた。＠表立って態度に示したりもせず、煮え切らない日々を過ごしている。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "GAN",
     "voiceActor": "近藤玲奈"
   },
@@ -1341,7 +1341,7 @@
     "name": "七瀬 ゆきか",
     "kana": "ななせ ゆきか",
     "description": "幼い頃から敷かれたレールを踏み外さないで生きてきた魔法少女。お嬢様育ちで何事もそつなくこなすが、周囲が才媛揃いのため自己評価は極めて低い。退屈な日常に飽きあきしていたが、魔法少女になってからは一転、トラブルに巻き込まれてばかりいる。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "枡狐/蛙空",
     "voiceActor": "鷲見友美ジェナ"
   },
@@ -1350,7 +1350,7 @@
     "name": "更紗 帆奈",
     "kana": "さらさ はんな",
     "description": "本来は内向的で人と接するのが苦手な魔法少女。家庭、学校において虐げられる立場に置かれてしまい、この世を憎んでいる。契約後、ある事件に遭遇してから、さらに数奇な運命を辿る。エキセントリックな性格だが、動物が好きという一面も。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "ムラ黒江",
     "voiceActor": "岡咲美保"
   },
@@ -1359,7 +1359,7 @@
     "name": "毬子 あやか",
     "kana": "まりこ あやか",
     "description": "かつてはネガティブで陰鬱な日々を送っていたが、願いによって明る＠く爽やかな性格を手に入れた魔法少女。＠かつての反動もあって、今は何事にもポジティブ。＠しかし、作られた明るさであることの後ろめたさも、笑顔の裏で時々＠感じている。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "あｆろ",
     "voiceActor": "小澤亜李"
   },
@@ -1368,7 +1368,7 @@
     "name": "眞尾 ひみか",
     "kana": "まお ひみか",
     "description": "たくましい商売人にして魔法少女。８人家族の長女で、母親と死別して以来、父親と共に一家を支えている。家族と共に生きていくことにかけがえのない幸せを感じている。家計はいつも火の車で、それ故に隙があれば小銭稼ぎをしようとする。",
-    "school": "大東学院",
+    "school": "Daito Academy",
     "designer": "PAPA",
     "voiceActor": "大空直美"
   },
@@ -1377,7 +1377,7 @@
     "name": "鈴鹿 さくや",
     "kana": "すずか さくや",
     "description": "プロミストブラッドに所属する、天才的アスリートにして魔法少女。＠生きがいは走ることで、座右の銘は「完全燃焼」。何事も燃え尽きるまで取り組めるほどの集中力を持つが、こと勉強に関しては発揮できない。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "ヒゲ",
     "voiceActor": "峯田茉優"
   },
@@ -1395,7 +1395,7 @@
     "name": "江利 あいみ",
     "kana": "えり あいみ",
     "description": "恋に一生懸命な魔法少女。＠中学生の頃から好きな人がいるが、本人を前にすると＠恥ずかしくなってしまい、うまく話せないことに悩んでいる。＠告白シチュエーション・デートプランを書き綴った妄想ノートは＠誰にも見せられない秘密。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "かんざきひろ",
     "voiceActor": "上田麗奈"
   },
@@ -1404,7 +1404,7 @@
     "name": "若菜 つむぎ",
     "kana": "わかな つむぎ",
     "description": "とにかく食べるのが大好きな魔法少女。鋭い味覚を持っており、食へのこだわりが強いが、どんなものでもおいしく食べるのが信念。食レポサイトへのレビュー投稿が趣味で、料理への愛に満ちた文章からファンがそれなりについている。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "くらは",
     "voiceActor": "徳井青空"
   },
@@ -1413,7 +1413,7 @@
     "name": "五十鈴 れん",
     "kana": "いすず れん",
     "description": "小さい頃から内気で、人と話すことが苦手な魔法少女。＠孤立し、生きていくことに苦しみ、自らを追い詰めてしまうが、＠その時に魔法少女の世界を知ったことで、＠どん底から抜け出すことができた。＠精神的に成長もするが、まだ気弱な所がある。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "さくら小春（QP:flapper）",
     "voiceActor": "尾崎由香"
   },
@@ -1422,7 +1422,7 @@
     "name": "静海 このは",
     "kana": "しずみ このは",
     "description": "神浜市の施設「つつじの家」出身の魔法少女。＠元は裕福な家庭で生まれ育ったが、家業が傾き、父親と母親を相次いで病で亡くし、つつじの家に引き取られた。＠施設内では皆の取りまとめ役で、勉強をはじめ、何をやらせても優秀。＠しかし、料理だけは下手。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "ゆーげん",
     "voiceActor": "Lynn"
   },
@@ -1431,7 +1431,7 @@
     "name": "遊佐 葉月",
     "kana": "ゆさ はづき",
     "description": "神浜市の施設「つつじの家」出身の魔法少女。＠家族との旅行中に事故に遭い、自分だけが生き残り、つつじの家に引き取られる。＠だが、そんな暗い生い立ちにも関わらず、性格は明るく社交性もあり、＠周囲とのコミュニケーションや世渡りも上手。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "ゆーげん",
     "voiceActor": "佳村はるか"
   },
@@ -1440,7 +1440,7 @@
     "name": "三栗 あやめ",
     "kana": "みくり あやめ",
     "description": "神浜市の施設「つつじの家」出身の魔法少女。＠１歳の頃に捨てられて以来、つつじの家で育つ。＠純粋で真っ直ぐな心の持ち主で、なおかつとても野性的。＠常にアクティブで、何でも向こう見ずに突き進んでしまうためにトラブルも頻繁に巻き起こしてきた。",
-    "school": "参京院教育学園",
+    "school": "Sankyoin Academy",
     "designer": "ゆーげん",
     "voiceActor": "木戸衣吹"
   },
@@ -1449,7 +1449,7 @@
     "name": "加賀見 まさら",
     "kana": "かがみ まさら",
     "description": "感情の起伏に乏しい魔法少女。特に波風も立たない穏やかな家庭に＠生まれ、両親の愛情を受けながら成長していった。＠しかし、生来のものなのか、非常に冷めた性格となり、淡々とした＠毎日を送っている。一方、内心では刺激を求めている。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "H2SO4",
     "voiceActor": "石上静香"
   },
@@ -1458,7 +1458,7 @@
     "name": "春名 このみ",
     "kana": "はるな このみ",
     "description": "花への愛は人一倍の、お花屋さんで働く魔法少女。＠尊敬する店長さんのためには苦労も厭わないなど、情に厚い。＠接客もお手の物のしっかり者だが、花のこととなると愛ゆえに空回り＠してしまうことも。フラワーアレンジメントも得意。",
-    "school": "神浜市立大附属学校",
+    "school": "Kamihama University Affiliated School",
     "designer": "アマネシキ",
     "voiceActor": "三森すずこ"
   },
@@ -1467,25 +1467,25 @@
     "name": "綾野 梨花",
     "kana": "あやの りか",
     "description": "最新のファッションやメイクが大好きな、今時のギャル系魔法少女。＠ミーハーな趣向とはウラハラに、恋には一途で、秘めたる切ない想い＠に長年悩み続けている。＠裏表のない性格で、誰とでもすぐに打ち解けられるタイプ。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "マシマサキ",
     "voiceActor": "伊藤かな恵"
   },
   {
     "id": 3032,
-    "name": "梢 麻友",
-    "kana": "こずえ まゆ",
-    "description": "無自覚に男性の好意を引き寄せてしまう、魔性の魔法少女。父性への憧れから、年上男性には隙を見せてしまいがちなのがその所以。今は亡き父の影響で美術を好きになり、美術品の修復の仕事に就くことを目指して、美術館でアルバイトをしている。",
-    "school": "水名女学園",
-    "designer": "植田 亮",
-    "voiceActor": "相坂優歌"
+    "name": "Mayu Kozue",
+    "kana": "Mayu Kozue",
+    "description": "A captivating Magical Girl who unwittingly attracts much attention from men. Her admiration of fatherly figures gives her a tendency to act unguarded around older men. Granted a love of art by her late father, she intends to work in art restoration and got a job at an art museum to realize that dream.",
+    "school": "Mizuna Girls' Academy",
+    "designer": "Ryo Ueda",
+    "voiceActor": "Yuuka Aisaka"
   },
   {
     "id": 3033,
     "name": "史乃 沙優希",
     "kana": "ふみの さゆき",
     "description": "日本刀収集という、ちょっと奇怪な趣味を持つ魔法少女。刀絡みで興奮すると、風変わりな感嘆の声を漏らしてしまうなど、好きなこととなると周りが見えなくなりがち。歴史ある水名の町をPRするローカルアイドルとしても活躍中。",
-    "school": "水名女学園",
+    "school": "Mizuna Girls' Academy",
     "designer": "夜ノみつき",
     "voiceActor": "Machico"
   },
@@ -1494,7 +1494,7 @@
     "name": "恵 萌花",
     "kana": "めぐみ もか",
     "description": "危うい行動で周りをヒヤヒヤさせてしまう天然魔法少女。趣味はお菓子作りに、苦手なものはホラー映画と絵に描いたようなふわふわ女子。自分で作るだけでなく、色んなスイーツ店を巡るのも好き。周囲の人々からも愛され、世の中の汚いものとは一切無縁の人生を送ってきた。",
-    "school": "栄総合学園",
+    "school": "Sakae Academy",
     "designer": "GENJIN",
     "voiceActor": "福緒唯"
   },
@@ -1503,7 +1503,7 @@
     "name": "千秋 理子",
     "kana": "ちあき りこ",
     "description": "お姉さん魔法少女たち全員の、妹的存在の魔法少女。＠普段は、家のお弁当屋さんの看板娘として、お客さんの心を和ませている。小学生らしい無邪気さを持ちながらも、＠周りの大人たちへの気遣いも忘れない、健気な頑張り屋さん。",
-    "school": "工匠学舎",
+    "school": "Kosho Academy",
     "designer": "らぐほのえりか",
     "voiceActor": "赤尾ひかる"
   },
@@ -1512,34 +1512,34 @@
     "name": "由貴 真里愛",
     "kana": "ゆき まりあ",
     "description": "女子高生らしからぬ慈愛に満ち溢れた、聖母のような魔法少女。＠学童保育でアルバイトをしている。大好きな子どもたちの前ではもっぱら優しいお姉さんだが、仲のいい友達が相手となると、ちょっぴり小悪魔な顔を覗かせることがある。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "いもあん",
     "voiceActor": "逢田梨香子"
   },
   {
     "id": 3037,
-    "name": "安名 メル",
-    "kana": "あんな める",
-    "description": "毎朝の占いによって一日のすべての行動を決める魔法少女。占いの結果が良いときはとてもポジティブだが、悪いと魔女狩りすらせずに部屋に引き籠る。占いをするのは好きだが冗談抜きで当たるため、魔法少女内では占い禁止令が出ている。",
-    "school": "大東学院",
+    "name": "Mel Anna",
+    "kana": "Mel Anna",
+    "description": "A Magical Girl who lives by her daily divinations. If the fortune is good, she’s very optimistic. If it’s bad, she won’t even go out to hunt Witches. She loves fortune-telling, but as her predictions always come true, she’s forbidden to do it by other Magical Girls.",
+    "school": "Daito Academy",
     "designer": "katsutake",
-    "voiceActor": "高尾奏音"
+    "voiceActor": "Kanon Takao"
   },
   {
     "id": 3038,
-    "name": "古町 みくら",
-    "kana": "こまち みくら",
+    "name": "Mikura Komachi",
+    "kana": "Mikura Komachi",
     "description": "工匠学舎・歴史研究部所属の魔法少女。部長を務めている。学業優秀でトップクラスの成績を持つが、とにかく歴史が大好きで、その動向は学園内でも注目されている。とりわけ神浜の史跡や文献を調べるのに夢中で、日々研究に明け暮れている。",
-    "school": "工匠学舎",
-    "designer": "おちゃう",
-    "voiceActor": "市ノ瀬加那"
+    "school": "Kosho Academy",
+    "designer": "Ochau",
+    "voiceActor": "Kana Ichinose"
   },
   {
     "id": 3039,
     "name": "三穂野 せいら",
     "kana": "みほの せいら",
     "description": "映画監督志望の魔法少女。いつか自分の映画を撮るべく、常にネタを探しているが、そのことでトラブルを呼び込んでしまうことも。勝ち気でしばしば無茶をするが、持ち前の熱意と行動力で周囲を巻き込み、ついには無茶も実現させてしまう。",
-    "school": "工匠学舎",
+    "school": "Kosho Academy",
     "designer": "みやま零",
     "voiceActor": "桑原由気"
   },
@@ -1548,7 +1548,7 @@
     "name": "吉良 てまり",
     "kana": "きら てまり",
     "description": "変わり者の魔法少女。普段からぼんやりしていて、周囲からは何を考えているのかよく分からないと言われている。だが、文学的素養に優れ、自らも筆を取って感情を表現することがある。幼なじみの古町みくらとはウマが合い、彼女につきあって歴史研究部に所属している。",
-    "school": "工匠学舎",
+    "school": "Kosho Academy",
     "designer": "なかじまゆか",
     "voiceActor": "安齋由香里"
   },
@@ -1557,7 +1557,7 @@
     "name": "柚希 ほとり",
     "kana": "ゆずき ほとり",
     "description": "ヒーローに憧れる魔法少女。戦隊ものに出てくるような強くてカッコいいヒーローが理想で、日々近づくために努力している。しかし超ビビり気質なので、ヒーローになるどころか、わがままな双子の妹に虐げられっぱなしである。",
-    "school": "聖リリアンナ学園",
+    "school": "Saint Liliana Academy",
     "designer": "桜木蓮",
     "voiceActor": "田中美海"
   },
@@ -1566,25 +1566,25 @@
     "name": "枇々木 めぐる",
     "kana": "ひびき めぐる",
     "description": "目の前で起きる出来事を、なんでも実況してしまう魔法少女。それは学校行事だけでなく魔法少女の戦いにまで及び、所構わず姿を現す。普段は放送部の一員として人気番組を受け持っているが、教室では何でも実況するのでウルサイと言われる。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "兎塚エイジ",
     "voiceActor": "夏吉ゆうこ"
   },
   {
     "id": 3043,
-    "name": "万年桜のウワサ",
-    "kana": "まんねんざくらのうわさ",
-    "description": "４人の少女が自分の所に訪れて、満開の花を咲かせることを待ち望んでいたウワサ。現在は内容の調整と現代技術の応用によって外でも活動しているが、常識が欠けており特異な人物として見られている。いつも山か大好きな人の所に帰りたい。",
-    "school": "南凪自由学園",
-    "designer": "藤ちょこ",
-    "voiceActor": "鈴木みのり"
+    "name": "Eternal Sakura",
+    "kana": "Uwasa of the Eternal Sakura",
+    "description": "An Uwasa who awaited the convergence of four girls at her side so that she could burst into full bloom. She is now able to exit her Rumor thanks to some edits to it, but she lacks common knowledge and others see her as unusual. She always wants to return to her mountain or be with the people she loves.",
+    "school": "Minaminagi Liberty Academy",
+    "designer": "Fuzichoco",
+    "voiceActor": "Minori Suzuki"
   },
   {
     "id": 3044,
     "name": "智珠 らんか",
     "kana": "ちず らんか",
     "description": "プロミストブラッドに所属する、ゲームとゲームセンターをこよなく愛する魔法少女。神浜には、魔法少女や自動浄化システムについて潜入調査するためにやって来たが、負けず嫌いな性格と口の悪さが災いして、時々ケンカを起こすことも。",
-    "school": "栄総合学園",
+    "school": "Sakae Academy",
     "designer": "がおう",
     "voiceActor": "幸村恵理"
   },
@@ -1593,7 +1593,7 @@
     "name": "柚希 りおん",
     "kana": "ゆずき りおん",
     "description": "双子の姉への独占欲が強い、超ド級のシスコン魔法少女。姉に近付く人は誰であろうと邪魔者扱い。怒りの原因は全てヤキモチ。ここまで姉を愛しているのに、愛情表現がひねくれ過ぎており、常に空回り。姉には想いがまったく伝わっていない。",
-    "school": "聖リリアンナ学園",
+    "school": "Saint Liliana Academy",
     "designer": "桜木蓮",
     "voiceActor": "田中ちえ美"
   },
@@ -1602,7 +1602,7 @@
     "name": "観鳥 令",
     "kana": "みどり りょう",
     "description": "善悪関係なく全てを撮って伝える、ゴシップ生成魔法少女。学校の問題から俗っぽい生徒間のネタまで収集するので、恐れられているが、同時に皆を楽しませている。実は趣味で撮っている“今日のにゃんこ”が、生徒には一番人気があるらしい。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "凪良",
     "voiceActor": "河瀬茉希"
   },
@@ -1611,7 +1611,7 @@
     "name": "青葉 ちか",
     "kana": "あおば ちか",
     "description": "時女一族に所属する自然が大好きな魔法少女。時女の分家集落に来た静香たちに誘われて、１年前まで住んでいた神浜に帰ってきた。動物や植物への造詣が深く、現在は北養の山奥で自然に囲まれた生活をしながらネイチャーガイドをしている。",
-    "school": "聖リリアンナ学園",
+    "school": "Saint Liliana Academy",
     "designer": "U35",
     "voiceActor": "山田麻莉奈"
   },
@@ -1620,7 +1620,7 @@
     "name": "由良 蛍",
     "kana": "ゆら ほたる",
     "description": "好きなことは寝ること、嫌いなことは頑張ることという、ぐうたら魔法少女。とにかく、しんどい思いをすることが大嫌い。常に省エネモードで、最も楽な道を選んで生きている。怒ることすら面倒くさいと思っているため、性格は非常に温厚。",
-    "school": "栄総合学園",
+    "school": "Sakae Academy",
     "designer": "Tiv",
     "voiceActor": "小坂井祐莉絵"
   },
@@ -1629,7 +1629,7 @@
     "name": "雪野 かなえ",
     "kana": "ゆきの かなえ",
     "description": "本来は幼い頃から大人しく優しい性格だったが、歳を重ねるにつれ目つきの悪さから悪い連中から絡まれやすく、持ち前の負けず嫌いな性格も相まって、いつしか喧嘩ばかりの毎日に。音楽と出会ったことでギターを弾くようになる。",
-    "school": "栄総合学園",
+    "school": "Sakae Academy",
     "designer": "NOCO",
     "voiceActor": "森なな子"
   },
@@ -1638,7 +1638,7 @@
     "name": "香春 ゆうな",
     "kana": "かはる ゆうな",
     "description": "神浜市内屈指の名家にして超大金持ちの家に生まれた令嬢の魔法少女。規格外の上流階級で生きてきたため、大抵のことはお金で解決してきた。憧れの存在と出会ってからは、同じ境地に立つべく、お金以外の方法を模索している。",
-    "school": "聖リリアンナ学園",
+    "school": "Saint Liliana Academy",
     "designer": "柴乃櫂人",
     "voiceActor": "上坂すみれ"
   },
@@ -1647,18 +1647,18 @@
     "name": "飾利 潤",
     "kana": "かざり じゅん",
     "description": "年中駄菓子屋に入り浸っている、駄菓子バカの魔法少女。一風変わった見た目と、人目を気にしない言動から、怪しまれることも多いが、駄菓子や昔の遊びなど、古きを愛する良い姉ちゃんであることを知っている子供たちからは慕われている。",
-    "school": "大東学院",
+    "school": "Daito Academy",
     "designer": "ヤスダスズヒト",
     "voiceActor": "井上麻里奈"
   },
   {
     "id": 3052,
-    "name": "アシュリー・テイラー",
-    "kana": "あしゅりー・ていらー",
-    "description": "日本のKAWAIIを求めてカリフォルニアからやって来た魔法少女。原宿系ファッションからアニメ・マンガまでKAWAIIなら、なんでも大好き。KAWAIIを広めるために故郷アメリカへ動画を配信している。ダディからもらったテディベアの熊乃介は宝物。",
-    "school": "工匠学舎",
-    "designer": "紅緒",
-    "voiceActor": "天城サリー"
+    "name": "Ashley Taylor",
+    "kana": "Ashley Taylor",
+    "description": "A Magical Girl from California who went to Japan in search of Japanese kawaii culture. She is obsessed with all things kawaii, from Harajuku fashion, to anime and manga. She even uploads videos about it for people back home. Kumanosuke, the teddy bear she got from her father, is her most precious treasure.",
+    "school": "Kosho Academy",
+    "designer": "Benio",
+    "voiceActor": "Sally Amaki"
   },
   {
     "id": 3053,
@@ -1674,7 +1674,7 @@
     "name": "三輪 みつね",
     "kana": "みわ みつね",
     "description": "生まれつきのひきこもり体質で不登校だが、自分を変えたいと思っている魔法少女。ネットでは昔から明るいキャラクターを演じており、変身している時はヒーローとしてそのキャラを演じている。かつて外に出た時の美しい思い出が支え。",
-    "school": "中央学園",
+    "school": "Chuo Academy",
     "designer": "文倉十",
     "voiceActor": "水瀬いのり"
   },
@@ -1683,7 +1683,7 @@
     "name": "桐野 紗枝",
     "kana": "きりの さえ",
     "description": "家族を守るために偽りの仮面を被る魔法少女。文武両道の優等生かつ人当たりも良いので、級友からは憧れられている。また、お嬢様としても知られているが、実際は貧乏な家庭で育った雑草根性の持ち主で、成り上がりを目指して奔走している。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "らぐほのえりか",
     "voiceActor": "種﨑敦美"
   },
@@ -1692,7 +1692,7 @@
     "name": "水樹 塁",
     "kana": "みずき るい",
     "description": "妄想全開な中二病の魔法少女。自身を数千年前の大戦で勝利に導いた伝説の覇王の生まれ変わりであり、“奴ら”を追うダークヒーロー、という設定で脳内をいっぱいにしている。この妄想が恥ずかしいことだと自覚しており、普段は隠している。",
-    "school": "工匠学舎",
+    "school": "Kosho Academy",
     "designer": "ファルまろ",
     "voiceActor": "伊瀬茉莉也"
   },
@@ -1701,7 +1701,7 @@
     "name": "真井 あかり",
     "kana": "まい あかり",
     "description": "変身すると16歳の姿に成長してしまうが、実は小学生の魔法少女。クラスメイトからは大人っぽく見られるが、知識と教養を身につけても嗜好は幼く根は素直。大好きな“ぷちうさ”を見るとテンションが上がって子どもらしさが出てしまう。",
-    "school": "栄総合学園",
+    "school": "Sakae Academy",
     "designer": "くろにゃん",
     "voiceActor": "大久保瑠美"
   },
@@ -1710,7 +1710,7 @@
     "name": "南津 涼子",
     "kana": "なつ りょうこ",
     "description": "時女一族に所属する曲がったことが大嫌いな、寺育ちの熱血魔法少女。幼い頃に両親と死別し、神浜の近郊にある寺「浄安寺」に住む厳格な祖父に厳しく育てられた。本家の少女をサポートするため、情熱のおもむくまま神浜へとやってきた。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "あずーる",
     "voiceActor": "戸松ゆきな"
   },
@@ -1719,7 +1719,7 @@
     "name": "入名 クシュ",
     "kana": "いりな くしゅ",
     "description": "いつも眠そうな魔法少女。明るいうちは決して目覚めない体質のため常に眠そうで、出席日数が足りず進級が危ぶまれている。真夜中は目が冴え、魔女退治では普段とは別人のような凛とした表情を見せる。",
-    "school": "聖リリアンナ学園",
+    "school": "Saint Liliana Academy",
     "designer": "茨乃",
     "voiceActor": "古賀葵"
   },
@@ -1737,9 +1737,9 @@
     "id": 3502,
     "name": "万年桜のウワサ",
     "kana": "まんねんざくらのうわさ",
-    "title": "水着ver.",
+    "title": "(Swimsuit)",
     "description": "大切な子のためにウワサアクアリウム・竜宮城を作り上げたウワサ。周囲へのおもてなしを通して様々な感情を学んでいる。だが、怪談の怖さは理解できない。戦う時は、海のお友だちと一緒。",
-    "school": "南凪自由学園",
+    "school": "Minaminagi Liberty Academy",
     "designer": "藤ちょこ",
     "voiceActor": "鈴木みのり"
   },
@@ -1837,12 +1837,12 @@
   },
   {
     "id": 4011,
-    "name": "かずみ",
-    "kana": "かずみ",
-    "description": "記憶を失っているあすなろ市の魔法少女。＠普段は御崎海香、牧カオルと共に行動し、一緒に生活もしている。＠食に対しての意欲は人一倍で、食べるのも好きだが、作る方の腕前もかなりのもの。＠髪の毛の具合で魔女の居場所を察することができる。",
+    "name": "Kazumi",
+    "kana": "Kazumi",
+    "description": "A Magical Girl from Asunaro City who lost her memory. She lives with her teammates, Umika Misaki and Kaoru Maki. Food is a huge motivation for her. Not only does she like to eat, she's a skilled cook too. Her hair points to where Witches are.",
     "school": "―",
-    "designer": "平松正樹/天杉貴志",
-    "voiceActor": "丹下桜"
+    "designer": "Masaki Hiramatsu / Takashi Tensugi",
+    "voiceActor": "Sakura Tange"
   },
   {
     "id": 4012,
@@ -1909,21 +1909,21 @@
   },
   {
     "id": 4025,
-    "name": "コルボー",
-    "kana": "こるぼー",
-    "description": "百年戦争のさなか、イングランド陣営で暗躍する仮面の魔法少女。三姉妹の次女で、粗暴な言動が目立つ反面、身内には優しい。強敵との嬲り合いに異常な興奮を覚える戦闘好き。母親はとある貴人で、姉と妹に惜しみない愛を注ぐ。",
+    "name": "Corbeau",
+    "kana": "Corbeau",
+    "description": "A masked Magical Girl who fights in the shadows for the English in the Hundred Years' War. The second sister of three, and like her mother, adores her family. This love does not spill over to her enemies, though. For nothing excites her more than a strong opponent, it's what she lives for.",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "大坪由佳"
+    "designer": "Masugitsune & Kawazuku",
+    "voiceActor": "Yuka Otsubo"
   },
   {
     "id": 4026,
-    "name": "エリザ",
-    "kana": "えりざ",
-    "description": "名門ドラゴン騎士団に所属する中世の魔法少女。フランス王の戴冠に助力すべくタルトたちと合流した。神聖ローマ皇帝の妃の娘であり、気位が高いが、自身の認めた相手には厚い友情で応える。キューブ（キュゥべえ）を蛇蝎のごとく嫌っている。",
+    "name": "Elisa",
+    "kana": "Elisa",
+    "description": "This Magical Girl is a member of the holy Order of the Dragon. She partnered up with Darc to help with the crowning of the new French king. Even as a daughter of the Roman emperor, she is able to forge deep friendships with the people she sees worthy. Just like snakes, she hates Qube (Kyubey).",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "沢城みゆき"
+    "designer": "Masugitsune & Kawazuku",
+    "voiceActor": "Miyuki Sawashiro"
   },
   {
     "id": 4027,
@@ -1955,19 +1955,19 @@
   },
   {
     "id": 4031,
-    "name": "天乃 鈴音",
-    "kana": "あまの すずね",
-    "description": "茜ヶ咲中学校に転校が決まっている魔法少女。身寄りがなく、アルバイトで生計を立てている。学校などでは人当たりがよい反面、放課後は魔法少女を狙う冷酷な「暗殺者」の顔を持つ。閉ざした心の奥には、悲しい過去を秘めている。",
-    "school": "茜ヶ咲中学校",
+    "name": "Suzune Amano",
+    "kana": "Suzune Amano",
+    "description": "A Magical Girl who recently transferred to Akanegazaki. She has no parents and works part time to make a living. Although amiable and pleasant at school, she bears the cold face of an assassin once classes are over. Her target: Magical Girls. A tragic past lies concealed in her closed off heart.",
+    "school": "Akanegazaki School",
     "designer": "GAN",
-    "voiceActor": "南條愛乃"
+    "voiceActor": "Yoshino Nanjo"
   },
   {
     "id": 4032,
-    "name": "日向 茉莉",
-    "kana": "ひなた まつり",
+    "name": "Matsuri Hinata",
+    "kana": "Matsuri Hinata",
     "description": "茜ヶ咲中学校に通う魔法少女４人組のひとり。純粋で人懐っこく、４人の中ではムードメーカー。友達は多い方が楽しいと思っており誰とでも仲良くしようとする。幼い頃は、目が見えなかったため、あまり外出できず外の世界に憧れを持っていた。",
-    "school": "茜ヶ咲中学校",
+    "school": "Akanegazaki School",
     "designer": "GAN",
     "voiceActor": "村川梨衣"
   },
@@ -1976,25 +1976,25 @@
     "name": "成見 亜里紗",
     "kana": "なるみ ありさ",
     "description": "茜ヶ咲中学校に通う魔法少女４人組のひとり。活発な性格で勉強嫌い。ガサツな言動を千里によくたしなめられている。魔法少女になる前は現在とはまったくイメージの違う、おとなしく気弱な少女だった。",
-    "school": "茜ヶ咲中学校",
+    "school": "Akanegazaki School",
     "designer": "GAN",
     "voiceActor": "植田佳奈"
   },
   {
     "id": 4034,
-    "name": "詩音 千里",
-    "kana": "しおん ちさと",
-    "description": "茜ヶ咲中学校に通う魔法少女４人組のひとり。冷静沈着で、公明正大な行いを良しとする。クールではあるが、過去に素行が悪かった亜里紗を更生させるなど、仲間思いで面倒見の良い一面もある。父親は“かつて”絵本作家だった。",
-    "school": "茜ヶ咲中学校",
+    "name": "Chisato Shion",
+    "kana": "Chisato Shion",
+    "description": "One in a team of 4 Magical Girls who attend school at Akanegazaki. Levelheaded and calm, she values being ethical above all else. While she may come off as cold, she has a caring side for her friends, having reformed Arisa's former bad behavior. Her father used to write and draw picture books.",
+    "school": "Akanegazaki School",
     "designer": "GAN",
-    "voiceActor": "東山奈央"
+    "voiceActor": "Nao Toyama"
   },
   {
     "id": 4035,
     "name": "奏 遥香",
     "kana": "かなで はるか",
     "description": "魔法少女としても学生としても、精力的に善行に勤しむ聖人君子のような魔法少女。学校では勉強においてもスポーツにおいても優秀な成績を収め、さらには生徒会役員までも務めている。魔法少女のチームにおいても皆を統率する、正にリーダーの鑑。",
-    "school": "茜ヶ咲中学校",
+    "school": "Akanegazaki School",
     "designer": "GAN",
     "voiceActor": "松井恵理子"
   },
@@ -2108,21 +2108,21 @@
   },
   {
     "id": 4121,
-    "name": "イザボー",
-    "kana": "いざぼー",
-    "title": "魔女ver.",
+    "name": "Isabeau",
+    "kana": "Isabeau",
+    "title": "(Witch)",
     "description": "百年戦争のさなか、フランス王位をイングランドに売り渡し、「売国妃」と呼ばれたフランスの元王妃。魔法少女に変身することなく、魔女を思わせる規格外の魔法を行使し、タルト（ジャンヌ・ダルク）らの最後の敵として立ちはだかる。",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "たかはし智秋"
+    "designer": "Masugitsune/Kawazu-ku",
+    "voiceActor": "Chiaki Takahashi"
   },
   {
     "id": 4122,
-    "name": "イザボー",
-    "kana": "いざぼー",
+    "name": "Isabeau",
+    "kana": "Isabeau",
     "description": "百年戦争のさなか、支配と権勢の拡大に明け暮れるフランス王妃。強大な因果を持つ魔法少女であり、自らの意志を失った魔法少女を多数従えている。のちにフランスの王権をイングランドに売り渡し、タルト（ジャンヌ・ダルク）の最大の敵となる。",
     "school": "―",
-    "designer": "枡狐/蛙空",
-    "voiceActor": "たかはし智秋"
+    "designer": "Masugitsune/Kawazu-ku",
+    "voiceActor": "Chiaki Takahashi"
   }
 ]
