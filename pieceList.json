@@ -834,6 +834,18 @@
     "illustrator": "Koruri"
   },
   {
+    "pieceId": 1147,
+    "pieceName": "メモリアサーキット",
+    "description": "【メモリア強化素材】かかえきれないもの、少しづつ噛み砕いて。呑み込めないもの、見なかったことにして。落としてしまったもの、なくしたことさえ気づかずに。大事だったはずのもの、時とともに罅割れ風化して。思い出だけを残して、ただ前に進む",
+    "illustrator": "―"
+  },
+  {
+    "pieceId": 1148,
+    "pieceName": "メモリアサーキット・コア",
+    "description": "【メモリア強化素材】取り戻すことなんてもうできない。時とともに千々に砕け、記憶は輪郭を無くしていく。掌からするすると零れ落ちた思い出たちは、けれど静かな夜の粉雪のように、心の中心に降り積もる",
+    "illustrator": "―"
+  },
+  {
     "pieceId": 1149,
     "pieceName": "Tsukuyo's Treasure",
     "description": "It is both painfully nostalgic and dear to me, and has been since I discovered it. As I play it, my heart calms and the sound waltzes upon the breeze. Oh lovely note, where are you headed? I know where you must be going. To where my faraway sister stands...",
@@ -1689,6 +1701,18 @@
     "pieceId": 1295,
     "pieceName": "Let My Prayers Be Heard",
     "description": "\"We became Magical Girls to have our wishes granted. Perhaps it's a little greedy for me to be praying for another wish? But let me wish once more, all the same. Please...let everyone get through this year safely.\"",
+    "illustrator": "―"
+  },
+  {
+    "pieceId": 1297,
+    "pieceName": "オーバーリミッター",
+    "description": "【★3メモリア限界突破素材】瞳を焦し、鼓膜を貫き、鼻腔を狂わせる＠それほど鮮烈な刺激なれど、いずれ記憶は解れゆき、ひと筋の糸となる＠幾多もの糸が絡まる記憶の海原。広がり続けるのは己自身＠必要なら漁れ、１寸たりとも見逃すな。鉤ならばいくらでもあるから",
+    "illustrator": "―"
+  },
+  {
+    "pieceId": 1298,
+    "pieceName": "オーバーリミッター・コア",
+    "description": "【★4メモリア限界突破素材】時間に溶けた一匙の記憶。差し込まれた＠針金に群がると、鮮明になって形を成し、かつての幻を編み上げる＠幻は解れて、いずれ時間の中に溶けて記憶になる。けれどそれは、掌で＠すくい上げられるように形を残して",
     "illustrator": "―"
   },
   {
