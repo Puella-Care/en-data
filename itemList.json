@@ -1,345 +1,345 @@
 [
   {
     "itemCode": "ANNIVERSARY_GACHA10_1109_TICKET",
-    "name": "アニバーサリーピックアップ10連ガチャチケット",
-    "shortDescription": "アニバーサリーピックアップ10連ガチャチケット",
-    "description": "アニバーサリーピックアップ10連ガチャを1回だけ利用することができるチケット",
+    "name": "Anniversary 10x Fate Weave Ticket",
+    "shortDescription": "Anniversary 10x Fate Weave Ticket",
+    "description": "Used to draw a 10x Anniversary Fate Weave",
     "unit": "枚"
   },
   {
     "itemCode": "ARENA_COIN",
-    "name": "ミラーズコイン",
-    "shortDescription": "ミラーズコイン",
-    "description": "ミラーズコイン",
+    "name": "Mirrors Coin",
+    "shortDescription": "Mirrors Coin",
+    "description": "Mirrors Coin",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1004_EXCHANGE",
-    "name": "リリース100日記念メダル",
-    "shortDescription": "リリース100日記念キャンペーンで獲得できるメダル",
-    "description": "リリース100日記念キャンペーンで獲得できるメダル",
+    "name": "100-Day Anniversary Medal",
+    "shortDescription": "Medals obtainable during the 100-Day Anniversary Campaign",
+    "description": "Medals obtainable during the 100-Day Anniversary Campaign",
     "unit": "個"
   },
   {
     "itemCode": "CAMPAIGN_1012_EXCHANGE",
-    "name": "リリース200日記念メダル",
-    "shortDescription": "リリース200日記念キャンペーンで獲得できるメダル",
-    "description": "リリース200日記念キャンペーンで獲得できるメダル",
+    "name": "200-Day Anniversary Medal",
+    "shortDescription": "Medals obtainable during the 200-Day Anniversary Campaign",
+    "description": "Medals obtainable during the 200-Day Anniversary Campaign",
     "unit": "個"
   },
   {
     "itemCode": "CAMPAIGN_1035_EXCHANGE",
-    "name": "ものがチケット",
-    "shortDescription": "MADOGATARi展コラボキャンペーンの交換用アイテムです。",
-    "description": "MADOGATARi展コラボキャンペーンの交換用アイテムです。",
+    "name": "Monogaticket",
+    "shortDescription": "Exchangeable during the MADOGATARi Exhibition collab campaign.",
+    "description": "Exchangeable during the MADOGATARi Exhibition collab campaign.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1038_EXCHANGE",
-    "name": "ハロウィンプレゼント交換チケット",
-    "shortDescription": "ハロウィンログインボーナスの交換用アイテムです。",
-    "description": "ハロウィンログインボーナスの交換用アイテムです。",
+    "name": "Halloween Present Exchange Ticket",
+    "shortDescription": "Exchangeable item from \"Halloween Login Bonus\"",
+    "description": "Exchangeable item from \"Halloween Login Bonus\"",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1044_EXCHANGE",
-    "name": "ものがチケット",
-    "shortDescription": "MADOGATARi展コラボキャンペーン第二弾の交換用アイテムです。",
-    "description": "MADOGATARi展コラボキャンペーン第二弾の交換用アイテムです。",
+    "name": "Monogaticket",
+    "shortDescription": "Exchangeable during the 2nd MADOGATARi Exhibition collab campaign.",
+    "description": "Exchangeable during the 2nd MADOGATARi Exhibition collab campaign.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1052_EXCHANGE",
-    "name": "ものがチケット",
-    "shortDescription": "MADOGATARi展コラボキャンペーン第三弾の交換用アイテムです。",
-    "description": "MADOGATARi展コラボキャンペーン第三弾の交換用アイテムです。",
+    "name": "Monogaticket",
+    "shortDescription": "Exchangeable during the 3rd MADOGATARi Exhibition collab campaign.",
+    "description": "Exchangeable during the 3rd MADOGATARi Exhibition collab campaign.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1062_EXCHANGE",
-    "name": "手仕込とんかつカレー",
-    "shortDescription": "ココイチ コラボ記念キャンペーンの交換用アイテムです。",
-    "description": "ココイチ コラボ記念キャンペーンの交換用アイテムです。",
+    "name": "Handmade Tonkatsu Curry",
+    "shortDescription": "Exchangeable item from \"CoCo ICHIBANYA Collab\"",
+    "description": "Exchangeable item from \"CoCo ICHIBANYA Collab\"",
     "unit": "皿"
   },
   {
     "itemCode": "CAMPAIGN_1085_EXCHANGE",
-    "name": "ハロウィンプレゼント交換チケット",
-    "shortDescription": "ハロウィンログインボーナスの交換用アイテムです。",
-    "description": "ハロウィンログインボーナスの交換用アイテムです。",
+    "name": "Halloween Present Exchange Ticket",
+    "shortDescription": "Exchangeable item from \"Halloween Login Bonus\"",
+    "description": "Exchangeable item from \"Halloween Login Bonus\"",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1112_EXCHANGE",
-    "name": "バレンタインメダル",
-    "shortDescription": "バレンタインミッションの交換用アイテムです。",
-    "description": "バレンタインミッションの交換用アイテムです。",
+    "name": "Valentine Medal",
+    "shortDescription": "Exchangeable item from \"Valentine's Day Missions\"",
+    "description": "Exchangeable item from \"Valentine's Day Missions\"",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1117_EXCHANGE",
-    "name": "ひな祭り交換チケット",
-    "shortDescription": "ひな祭りログインボーナスの交換用アイテムです。",
-    "description": "ひな祭りログインボーナスの交換用アイテムです。",
+    "name": "Doll's Day Exchange Ticket",
+    "shortDescription": "Exchangeable item from \"Doll's Day Login Bonus\"",
+    "description": "Exchangeable item from \"Doll's Day Login Bonus\"",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1168_EXCHANGE",
-    "name": "馴染みの珈琲",
-    "shortDescription": "センチメンタルを見つめての交換用アイテムです。",
-    "description": "センチメンタルを見つめての交換用アイテムです。",
+    "name": "Familiar Coffee",
+    "shortDescription": "An exchangeable item during \"Sentimental Gaze\"",
+    "description": "An exchangeable item during \"Sentimental Gaze\"",
     "unit": "杯"
   },
   {
     "itemCode": "CAMPAIGN_1205_EXCHANGE",
-    "name": "10周年記念メダル",
-    "shortDescription": "10周年キャンペーンの交換用アイテムです。",
-    "description": "10周年キャンペーンの交換用アイテムです。",
+    "name": "10th Anniversary Medal",
+    "shortDescription": "An exchangeable item during the \"10th Anniversary Campaign.\"",
+    "description": "An exchangeable item during the \"10th Anniversary Campaign.\"",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1210_EXCHANGE",
-    "name": "1400日記念メダル",
-    "shortDescription": "リリース1400日記念キャンペーンの交換用アイテムです。",
-    "description": "リリース1400日記念キャンペーンの交換用アイテムです。",
+    "name": "1400-Day Anniversary Medal",
+    "shortDescription": "Can be exchanged for items in the 1400-Day Event Shop.",
+    "description": "Can be exchanged for items in the 1400-Day Event Shop.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1225_KEY",
-    "name": "TVアニメ記念覚醒強化結界の鍵",
-    "shortDescription": "「TVアニメ記念」覚醒・強化クエストプレイ用アイテム",
-    "description": "「TVアニメ記念」覚醒・強化クエストプレイ用アイテム",
+    "name": "TV Anime Labyrinth Key",
+    "shortDescription": "An item needed to play the \"TV Anime Awakening Realm Quests\"",
+    "description": "An item needed to play the \"TV Anime Awakening Realm Quests\"",
     "unit": "個"
   },
   {
     "itemCode": "CAMPAIGN_1251_EXCHANGE",
-    "name": "眠気を誘う羊さん",
-    "shortDescription": "お月見はゆらねむパジャマパーティーの交換用アイテムです。",
-    "description": "お月見はゆらねむパジャマパーティーの交換用アイテムです。",
+    "name": "Sleepytime Sheep",
+    "shortDescription": "An exchangeable item during \"Moon Viewing Pajama Party\"",
+    "description": "An exchangeable item during \"Moon Viewing Pajama Party\"",
     "unit": "個"
   },
   {
     "itemCode": "CAMPAIGN_1251_EXCHANGE_2",
-    "name": "パジャマ交換チケット",
-    "shortDescription": "「パジャマ交換チケット」の交換用アイテム",
-    "description": "「パジャマ交換チケット」の交換用アイテム",
+    "name": "Pajama Exchange Ticket",
+    "shortDescription": "Can be exchanged for items in the Event Shop.",
+    "description": "Can be exchanged for items in the Event Shop.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_1264_EXCHANGE",
-    "name": "ご褒美ドリンク",
-    "shortDescription": "正直になりたい神楽燦の交換用アイテムです。",
-    "description": "正直になりたい神楽燦の交換用アイテムです。",
+    "name": "Reward Drink",
+    "shortDescription": "An exchangeable item during \"San Kagura Wants to be Honest\"",
+    "description": "An exchangeable item during \"San Kagura Wants to be Honest\"",
     "unit": "個"
   },
   {
     "itemCode": "CAMPAIGN_1353_EXCHANGE",
-    "name": "2000日記念交換チケット",
-    "shortDescription": "「2000日記念交換チケット」の交換用アイテム",
-    "description": "「2000日記念交換チケット」の交換用アイテム",
+    "name": "2000-Day Anniversary Exchange Ticket",
+    "shortDescription": "Can be exchanged for items in the 2000-Day Event Shop.",
+    "description": "Can be exchanged for items in the 2000-Day Event Shop.",
     "unit": "枚"
   },
   {
     "itemCode": "CAMPAIGN_RELEASE_MEDAL",
-    "name": "リリース記念メダル",
-    "shortDescription": "リリース記念キャンペーンで獲得できるメダル",
-    "description": "リリース記念キャンペーンで獲得できるメダル",
+    "name": "Release Celebration Medal",
+    "shortDescription": "Medal to commemorate the Release of Magia Record",
+    "description": "Medal to commemorate the Release of Magia Record",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_ALL",
-    "name": "マスタージェム",
-    "shortDescription": "マスタージェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Master Gem",
+    "shortDescription": "Used to Enhance a Magical Girl",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_ALL_P",
-    "name": "マスタージェム＋",
-    "shortDescription": "マスタージェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Master Gem +",
+    "shortDescription": "Master Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_ALL_PP",
-    "name": "マスタージェム＋＋",
-    "shortDescription": "マスタージェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Master Gem ++",
+    "shortDescription": "Master Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_DARK",
-    "name": "ダークジェム",
-    "shortDescription": "ダークジェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Dark Gem",
+    "shortDescription": "Dark Gem",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_DARK_P",
-    "name": "ダークジェム＋",
-    "shortDescription": "ダークジェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Dark Gem +",
+    "shortDescription": "Dark Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_DARK_PP",
-    "name": "ダークジェム＋＋",
-    "shortDescription": "ダークジェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Dark Gem ++",
+    "shortDescription": "Dark Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_FIRE",
-    "name": "フレイムジェム",
-    "shortDescription": "フレイムジェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Flame Gem",
+    "shortDescription": "Flame Gem",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_FIRE_P",
-    "name": "フレイムジェム＋",
-    "shortDescription": "フレイムジェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Flame Gem +",
+    "shortDescription": "Flame Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_FIRE_PP",
-    "name": "フレイムジェム＋＋",
-    "shortDescription": "フレイムジェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Flame Gem ++",
+    "shortDescription": "Flame Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_LIFE",
-    "name": "ライフジェム",
-    "shortDescription": "ライフジェム",
-    "description": "属性強化に使用するアイテム",
+    "name": "Life Gem",
+    "shortDescription": "Life Gem",
+    "description": "Used to Enhance Element",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_LIGHT",
-    "name": "ライトジェム",
-    "shortDescription": "ライトジェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Light Gem",
+    "shortDescription": "Light Gem",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_LIGHT_P",
-    "name": "ライトジェム＋",
-    "shortDescription": "ライトジェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Light Gem +",
+    "shortDescription": "Light Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_LIGHT_PP",
-    "name": "ライトジェム＋＋",
-    "shortDescription": "ライトジェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Light Gem ++",
+    "shortDescription": "Light Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_POWER",
-    "name": "パワージェム",
-    "shortDescription": "パワージェム",
-    "description": "属性強化に使用するアイテム",
+    "name": "Power Gem",
+    "shortDescription": "Power Gem",
+    "description": "Used to Enhance Element",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_PROTECT",
-    "name": "プロテクトジェム",
-    "shortDescription": "プロテクトジェム",
-    "description": "属性強化に使用するアイテム",
+    "name": "Protection Gem",
+    "shortDescription": "Protection Gem",
+    "description": "Used to Enhance Element",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_TIMBER",
-    "name": "フォレストジェム",
-    "shortDescription": "フォレストジェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Forest Gem",
+    "shortDescription": "Forest Gem",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_TIMBER_P",
-    "name": "フォレストジェム＋",
-    "shortDescription": "フォレストジェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Forest Gem +",
+    "shortDescription": "Forest Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_TIMBER_PP",
-    "name": "フォレストジェム＋＋",
-    "shortDescription": "フォレストジェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Forest Gem ++",
+    "shortDescription": "Forest Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_WATER",
-    "name": "アクアジェム",
-    "shortDescription": "アクアジェム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Aqua Gem",
+    "shortDescription": "Aqua Gem",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_WATER_P",
-    "name": "アクアジェム＋",
-    "shortDescription": "アクアジェム＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Aqua Gem +",
+    "shortDescription": "Aqua Gem +",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "COMPOSE_ITEM_WATER_PP",
-    "name": "アクアジェム＋＋",
-    "shortDescription": "アクアジェム＋＋",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Aqua Gem ++",
+    "shortDescription": "Aqua Gem ++",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "CURE_AP",
-    "name": "AP回復薬",
-    "shortDescription": "APを全回復するアイテム",
-    "description": "APをその場で最大まで回復できるアイテム",
+    "name": "AP Potion",
+    "shortDescription": "Restores your max AP",
+    "description": "Item that instantly restores your max AP",
     "unit": "個"
   },
   {
     "itemCode": "CURE_AP_50",
-    "name": "AP回復薬50",
-    "shortDescription": "APを50回復するアイテム",
-    "description": "APをその場で50回復できるアイテム",
+    "name": "50 AP Potion",
+    "shortDescription": "Restores 50 AP",
+    "description": "Item that instantly restores 50 AP",
     "unit": "個"
   },
   {
     "itemCode": "CURE_BP",
-    "name": "BP回復薬",
-    "shortDescription": "BPを回復するアイテム",
-    "description": "BPを回復できるアイテム",
+    "name": "BP Potion",
+    "shortDescription": "Restores your BP",
+    "description": "Item that instantly restores your BP",
     "unit": "個"
   },
   {
     "itemCode": "DAILY_COIN",
-    "name": "デイリーコイン",
-    "shortDescription": "デイリーコインショップの交換用アイテム",
-    "description": "デイリーコインショップの交換用アイテム",
+    "name": "Daily Coin",
+    "shortDescription": "Can be exchanged in the Daily Coin Shop",
+    "description": "Can be exchanged in the Daily Coin Shop",
     "unit": "枚"
   },
   {
     "itemCode": "DESTINY_BOTTLE",
-    "name": "デスティニーボトル",
-    "shortDescription": "デスティニージェムとの交換用アイテム",
-    "description": "デスティニージェムとの交換用アイテムです。",
+    "name": "Destiny Bottle",
+    "shortDescription": "Can be exchanged for Destiny Gems",
+    "description": "Can be exchanged for Destiny Gems",
     "unit": "個"
   },
   {
     "itemCode": "DESTINY_CRYSTAL",
-    "name": "デスティニークリスタル",
-    "shortDescription": "デスティニークリスタル",
-    "description": "ショップで魔法少女と交換できる",
+    "name": "Destiny Crystal",
+    "shortDescription": "Destiny Crystal",
+    "description": "Can be exchanged in the Shop for a Magical Girl",
     "unit": "個"
   },
   {
     "itemCode": "EPISODE_COMPOSE_PP",
-    "name": "クリア・アルバム",
-    "shortDescription": "クリア・アルバム",
-    "description": "魔法少女を強化することができるアイテム",
+    "name": "Clear Album",
+    "shortDescription": "Clear Album",
+    "description": "Used to Enhance a Magical Girl",
     "unit": "個"
   },
   {
@@ -421,142 +421,142 @@
   },
   {
     "itemCode": "EVENT_ARENARANKING_1013_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第1回 ミラーズランキング」の交換用アイテム",
-    "description": "「第1回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 1 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 1 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1024_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第2回 ミラーズランキング」の交換用アイテム",
-    "description": "「第2回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 2 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 2 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1039_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第3回 ミラーズランキング」の交換用アイテム",
-    "description": "「第3回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 3 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 3 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1055_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第4回 ミラーズランキング」の交換用アイテム",
-    "description": "「第4回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 4 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 4 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1070_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第5回 ミラーズランキング」の交換用アイテム",
-    "description": "「第5回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 5 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 5 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1090_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第6回 ミラーズランキング」の交換用アイテム",
-    "description": "「第6回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 6 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 6 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1104_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第7回 ミラーズランキング」の交換用アイテム",
-    "description": "「第7回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 7 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 7 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1112_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第8回 ミラーズランキング」の交換用アイテム",
-    "description": "「第8回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 8 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 8 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1118_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第9回 ミラーズランキング」の交換用アイテム",
-    "description": "「第9回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 9 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 9 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1128_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第10回 ミラーズランキング」の交換用アイテム",
-    "description": "「第10回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 10 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 10 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1138_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第10回 ミラーズランキング」の交換用アイテム",
-    "description": "「第10回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 11 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 11 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1145_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第12回 ミラーズランキング」の交換用アイテム",
-    "description": "「第12回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 12 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 12 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1152_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第13回 ミラーズランキング」の交換用アイテム",
-    "description": "「第13回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 13 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 13 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1163_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第14回 ミラーズランキング」の交換用アイテム",
-    "description": "「第14回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 14 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 14 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1169_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第15回 ミラーズランキング」の交換用アイテム",
-    "description": "「第15回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 15 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 15 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1177_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第16回 ミラーズランキング」の交換用アイテム",
-    "description": "「第16回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 16 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 16 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1187_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第17回 ミラーズランキング」の交換用アイテム",
-    "description": "「第17回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 17 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 17 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1202_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第18回 ミラーズランキング」の交換用アイテム",
-    "description": "「第18回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 18 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 18 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1207_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第19回 ミラーズランキング」の交換用アイテム",
-    "description": "「第19回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 19 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 19 Event Shop",
     "unit": "枚"
   },
   {
     "itemCode": "EVENT_ARENARANKING_1220_EXCHANGE_1",
-    "name": "ランキングメダル",
-    "shortDescription": "「第20回 ミラーズランキング」の交換用アイテム",
-    "description": "「第20回 ミラーズランキング」の交換用アイテム",
+    "name": "Ranking Medals",
+    "shortDescription": "Can be exchanged for items in the Mirrors Ranking 20 Event Shop",
+    "description": "Can be exchanged for items in the Mirrors Ranking 20 Event Shop",
     "unit": "枚"
   },
   {
@@ -8334,16 +8334,16 @@
   },
   {
     "itemCode": "SELECTABLE_ACCOMPLISH_MEMORIA_TICKET_1",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_ACCOMPLISH_MEMORIA_TICKET_2",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
@@ -8425,282 +8425,282 @@
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_1",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_10",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_11",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_12",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_2",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_3",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_4",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_5",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_6",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_7",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_8",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_9",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLACK_1501",
-    "name": "選べる★4メモリア交換チケット 黒",
-    "shortDescription": "選べる★4メモリア交換チケット 黒",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLACK_1594",
-    "name": "選べる★4メモリア交換チケット 黒",
-    "shortDescription": "選べる★4メモリア交換チケット 黒",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLACK_1648",
-    "name": "選べる★4メモリア交換チケット 黒",
-    "shortDescription": "選べる★4メモリア交換チケット 黒",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLACK_1965",
-    "name": "選べる★4メモリア交換チケット 黒",
-    "shortDescription": "選べる★4メモリア交換チケット 黒",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Black)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLUE_1401",
-    "name": "選べる★4メモリア交換チケット 青",
-    "shortDescription": "選べる★4メモリア交換チケット 青",
+    "name": "Choose Your Own ★4 Memoria Ticket (Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Blue)",
     "description": "★4メモリア、 オーバーリミッター・コアと交換できるチケット",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLUE_1531",
-    "name": "選べる★4メモリア交換チケット 青",
-    "shortDescription": "選べる★4メモリア交換チケット 青",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Blue)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BLUE_1680",
-    "name": "選べる★4メモリア交換チケット 青",
-    "shortDescription": "選べる★4メモリア交換チケット 青",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Blue)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BROWN_1419",
-    "name": "選べる★4メモリア交換チケット 茶",
-    "shortDescription": "選べる★4メモリア交換チケット 茶",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Brown)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Brown)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_BROWN_1511",
-    "name": "選べる★4メモリア交換チケット 茶",
-    "shortDescription": "選べる★4メモリア交換チケット 茶",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Brown)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Brown)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_DEEPBLUE_1691",
-    "name": "選べる★4メモリア交換チケット 紺",
-    "shortDescription": "選べる★4メモリア交換チケット 紺",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Navy Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Navy Blue)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_DEEPBLUE_2010",
-    "name": "選べる★4メモリア交換チケット 紺",
-    "shortDescription": "選べる★4メモリア交換チケット 紺",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Navy Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Navy Blue)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_GREEN_1427",
-    "name": "選べる★4メモリア交換チケット 緑",
-    "shortDescription": "選べる★4メモリア交換チケット 緑",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Green)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Green)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_GREEN_1521",
-    "name": "選べる★4メモリア交換チケット 緑",
-    "shortDescription": "選べる★4メモリア交換チケット 緑",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Green)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Green)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_LIGHTBLUE_1745",
-    "name": "選べる★4メモリア交換チケット 水",
-    "shortDescription": "選べる★4メモリア交換チケット 水",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Light Blue)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Light Blue)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_ORANGE_1616",
-    "name": "選べる★4メモリア交換チケット 橙",
-    "shortDescription": "選べる★4メモリア交換チケット 橙",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Orange)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Orange)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_PINK_1487",
-    "name": "選べる★4メモリア交換チケット 桃",
-    "shortDescription": "選べる★4メモリア交換チケット 桃",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_PINK_1603",
-    "name": "選べる★4メモリア交換チケット 桃",
-    "shortDescription": "選べる★4メモリア交換チケット 桃",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_PINK_1956",
-    "name": "選べる★4メモリア交換チケット 桃",
-    "shortDescription": "選べる★4メモリア交換チケット 桃",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_PINK_2002",
-    "name": "選べる★4メモリア交換チケット 桃",
-    "shortDescription": "選べる★4メモリア交換チケット 桃",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Pink)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_PURPLE_1541",
-    "name": "選べる★4メモリア交換チケット 紫",
-    "shortDescription": "選べる★4メモリア交換チケット 紫",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Purple)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Purple)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_RED_1409",
-    "name": "選べる★4メモリア交換チケット 赤",
-    "shortDescription": "選べる★4メモリア交換チケット 赤",
+    "name": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Red)",
     "description": "★4メモリア、 オーバーリミッター・コアと交換できるチケット",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_RED_1576",
-    "name": "選べる★4メモリア交換チケット 赤",
-    "shortDescription": "選べる★4メモリア交換チケット 赤",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_RED_1657",
-    "name": "選べる★4メモリア交換チケット 赤",
-    "shortDescription": "選べる★4メモリア交換チケット 赤",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_RED_1839",
-    "name": "選べる★4メモリア交換チケット 赤",
-    "shortDescription": "選べる★4メモリア交換チケット 赤",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Red)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_YELLOW_1387",
-    "name": "選べる★4メモリア交換チケット 黄",
-    "shortDescription": "選べる★4メモリア交換チケット 黄",
+    "name": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Yellow)",
     "description": "★4メモリア、 オーバーリミッター・コアと交換できるチケット",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_YELLOW_1475",
-    "name": "選べる★4メモリア交換チケット 黄",
-    "shortDescription": "選べる★4メモリア交換チケット 黄",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_YELLOW_1586",
-    "name": "選べる★4メモリア交換チケット 黄",
-    "shortDescription": "選べる★4メモリア交換チケット 黄",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_MEMORIA_TICKET_YELLOW_1795",
-    "name": "選べる★4メモリア交換チケット 黄",
-    "shortDescription": "選べる★4メモリア交換チケット 黄",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket (Yellow)",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
@@ -8803,37 +8803,37 @@
   },
   {
     "itemCode": "SELECTABLE_REGULAR_MEMORIA_TICKET_1",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_REGULAR_MEMORIA_TICKET_2",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_REGULAR_MEMORIA_TICKET_3",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_REGULAR_MEMORIA_TICKET_4",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_REGULAR_MEMORIA_TICKET_5",
-    "name": "選べる★4メモリア交換チケット",
-    "shortDescription": "選べる★4メモリア交換チケット",
-    "description": "ショップで★4メモリアと交換できるアイテム",
+    "name": "Choose Your Own ★4 Memoria Ticket",
+    "shortDescription": "Choose Your Own ★4 Memoria Ticket",
+    "description": "Can be exchanged in the Shop for a ★4 Memoria",
     "unit": "枚"
   },
   {
@@ -8847,7 +8847,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_1104_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8861,7 +8861,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_1251_TICKET",
     "name": "選べる★4魔法少女確定ガチャチケット",
     "shortDescription": "選べる★4魔法少女確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8875,7 +8875,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_1551_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8889,21 +8889,21 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_1787_TICKET",
     "name": "選べる★4魔法少女確定ガチャチケット",
     "shortDescription": "選べる★4魔法少女確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_SPECIAL_GACHA_180_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_SPECIAL_GACHA_286_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8917,7 +8917,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_384_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8931,7 +8931,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_536_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8945,7 +8945,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_600_TICKET",
     "name": "選べる★4確定ガチャチケット",
     "shortDescription": "選べる★4確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8966,7 +8966,7 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_759_TICKET",
     "name": "選べる★4魔法少女確定ガチャチケット",
     "shortDescription": "選べる★4魔法少女確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
@@ -8980,14 +8980,14 @@
     "itemCode": "SELECTABLE_SPECIAL_GACHA_848_TICKET",
     "name": "選べる★4魔法少女確定ガチャチケット",
     "shortDescription": "選べる★4魔法少女確定ガチャチケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
     "itemCode": "SELECTABLE_SPECIAL_GACHA_99_TICKET",
-    "name": "みたまのスペシャル紹介チケット",
-    "shortDescription": "みたまのスペシャル紹介チケット",
-    "description": "選べる★4魔法少女確定ガチャを1回だけ利用することができるチケット",
+    "name": "Mitama's Special Ticket",
+    "shortDescription": "Mitama's Special Ticket",
+    "description": "Choose a ★4 Magical Girl! (One Time Only)",
     "unit": "枚"
   },
   {
