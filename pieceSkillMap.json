@@ -1215,6 +1215,22 @@
     "name": "Magia UP [Ⅹ]",
     "shortDescription": "Magia Damage UP [Ⅹ] (Self/1 Turn)"
   },
+  "114700": {
+    "name": "アタック・アデプト[Ⅰ]",
+    "shortDescription": "攻撃力UP[Ⅰ]"
+  },
+  "114701": {
+    "name": "アタック・アデプト[Ⅰ]",
+    "shortDescription": "攻撃力UP[Ⅰ]"
+  },
+  "114800": {
+    "name": "ガード・アデプト[Ⅰ]",
+    "shortDescription": "防御力UP[Ⅰ]"
+  },
+  "114801": {
+    "name": "ガード・アデプト[Ⅰ]",
+    "shortDescription": "防御力UP[Ⅰ]"
+  },
   "114900": {
     "name": "モノポライズドロー",
     "shortDescription": "自分のDiscドロー"
@@ -2358,6 +2374,22 @@
   "129501": {
     "name": "無病息災",
     "shortDescription": "必ず毒無効 / 確率でやけど無効[Ⅸ] / 確率で呪い無効[Ⅸ]"
+  },
+  "129700": {
+    "name": "アタックアップ[Ⅰ]",
+    "shortDescription": "攻撃力UP[Ⅰ](自/1T)"
+  },
+  "129701": {
+    "name": "アタックアップ[Ⅰ]",
+    "shortDescription": "攻撃力UP[Ⅰ](自/1T)"
+  },
+  "129800": {
+    "name": "ガードアップ[Ⅰ]",
+    "shortDescription": "防御力UP[Ⅰ](自/1T)"
+  },
+  "129801": {
+    "name": "ガードアップ[Ⅰ]",
+    "shortDescription": "防御力UP[Ⅰ](自/1T)"
   },
   "129900": {
     "name": "タイムスキップ[Ⅶ]",
