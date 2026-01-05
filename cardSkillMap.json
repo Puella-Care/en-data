@@ -1,0 +1,2102 @@
+{
+  "10011": {
+    "name": "一緒にいるから大丈夫だよ",
+    "shortDescription": "HP回復[Ⅰ]"
+  },
+  "10012": {
+    "name": "一緒にいるから大丈夫だよ",
+    "shortDescription": "HP回復[Ⅲ]"
+  },
+  "10013": {
+    "name": "一緒にいるから大丈夫だよ",
+    "shortDescription": "HP回復[Ⅴ]"
+  },
+  "10014": {
+    "name": "一緒にいるから大丈夫だよ",
+    "shortDescription": "HP回復[Ⅶ] & やちよにコネクトでMP回復"
+  },
+  "10015": {
+    "name": "一緒にいるから大丈夫だよ",
+    "shortDescription": "HP回復[Ⅷ] & 攻撃力UP[Ⅵ] & やちよにコネクトでMP回復"
+  },
+  "10022": {
+    "name": "道は照らしておくから",
+    "shortDescription": "Blast ダメージUP[Ⅲ] & 確率でクリティカル[Ⅲ]"
+  },
+  "10023": {
+    "name": "道は照らしておくから",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 確率でクリティカル[Ⅴ]"
+  },
+  "10024": {
+    "name": "道は照らしておくから",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "10025": {
+    "name": "道は照らしておくから",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 確率でクリティカル[Ⅸ] & いろはにコネクトでHP回復"
+  },
+  "10032": {
+    "name": "出たとこ勝負で行こうよ！",
+    "shortDescription": "Blast ダメージUP[Ⅲ] & 攻撃力UP[Ⅲ]"
+  },
+  "10033": {
+    "name": "出たとこ勝負で行こうよ！",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 攻撃力UP[Ⅴ]"
+  },
+  "10034": {
+    "name": "出たとこ勝負で行こうよ！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "10035": {
+    "name": "出たとこ勝負で行こうよ！",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 攻撃力UP[Ⅸ]"
+  },
+  "10042": {
+    "name": "私が必要なら、いくらでも",
+    "shortDescription": "ダメージカット状態[Ⅶ]"
+  },
+  "10043": {
+    "name": "私が必要なら、いくらでも",
+    "shortDescription": "ダメージカット状態[Ⅹ]"
+  },
+  "10044": {
+    "name": "私が必要なら、いくらでも",
+    "shortDescription": "ダメージカット状態[XV]"
+  },
+  "10045": {
+    "name": "私が必要なら、いくらでも",
+    "shortDescription": "ダメージカット状態[XV] & 攻撃力UP[Ⅵ] & いろはにコネクトで防御力UP"
+  },
+  "10052": {
+    "name": "ガツンと任せとけって！",
+    "shortDescription": "与えるダメージUP[Ⅲ] & 必ずカウンター無効"
+  },
+  "10053": {
+    "name": "ガツンと任せとけって！",
+    "shortDescription": "与えるダメージUP[Ⅴ] & 必ずカウンター無効"
+  },
+  "10054": {
+    "name": "ガツンと任せとけって！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ずカウンター無効"
+  },
+  "10055": {
+    "name": "ガツンと任せとけって！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ずカウンター無効"
+  },
+  "10064": {
+    "name": "甘えたなんですから",
+    "shortDescription": "Accele MPUP[Ⅶ] & 必ず幻惑"
+  },
+  "10065": {
+    "name": "甘えたなんですから",
+    "shortDescription": "Accele MPUP[Ⅸ] & 必ず幻惑"
+  },
+  "10074": {
+    "name": "確率あげてこー！",
+    "shortDescription": "攻撃力UP[Ⅶ] & MP回復[Ⅳ] & 確率でマギア不可"
+  },
+  "10075": {
+    "name": "確率あげてこー！",
+    "shortDescription": "攻撃力UP[Ⅸ] & MP回復[Ⅵ] & 必ずマギア不可"
+  },
+  "10084": {
+    "name": "アリナの作品に溶けて",
+    "shortDescription": "攻撃力UP [Ⅶ] & 必ず幻惑 & 必ず毒"
+  },
+  "10085": {
+    "name": "アリナの作品に溶けて",
+    "shortDescription": "攻撃力UP [Ⅷ] & 必ず幻惑 & 必ず毒 & 確率でスタン"
+  },
+  "10094": {
+    "name": "仕方ないから手伝ってあげる",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "10095": {
+    "name": "仕方ないから手伝ってあげる",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "10104": {
+    "name": "おせっかいで何がわるい！",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅶ] & 必ず防御無視"
+  },
+  "10105": {
+    "name": "おせっかいで何がわるい！",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅸ] & 必ず防御無視"
+  },
+  "10113": {
+    "name": "わ、私も頑張ります！",
+    "shortDescription": "与えるダメージUP[Ⅴ] & MP獲得量UP[Ⅴ]"
+  },
+  "10114": {
+    "name": "わ、私も頑張ります！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & MP獲得量UP[Ⅶ]"
+  },
+  "10115": {
+    "name": "わ、私も頑張ります！",
+    "shortDescription": "与えるダメージUP[Ⅷ] & MP獲得量UP[Ⅷ] & HP自動回復[Ⅵ](3T)"
+  },
+  "10124": {
+    "name": "一夜限りのお手伝いなのっ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず幻惑 & 確率でマギア不可"
+  },
+  "10125": {
+    "name": "一夜限りのお手伝いなのっ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず幻惑 & 確率でマギア不可"
+  },
+  "10133": {
+    "name": "助太刀つかまつる！",
+    "shortDescription": "必ず挑発 & ダメージカット状態[Ⅴ]"
+  },
+  "10134": {
+    "name": "助太刀つかまつる！",
+    "shortDescription": "必ず挑発 & ダメージカット状態[Ⅶ]"
+  },
+  "10135": {
+    "name": "助太刀つかまつる！",
+    "shortDescription": "必ず挑発 & ダメージカット状態[Ⅸ]"
+  },
+  "10144": {
+    "name": "僕と連作を完成させよう",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅳ] & 確率で幻惑"
+  },
+  "10145": {
+    "name": "僕と連作を完成させよう",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅵ] & 必ず幻惑"
+  },
+  "10154": {
+    "name": "ひよっこでもいいですか!?",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ずダメージカット無視 & 確率で呪い"
+  },
+  "10155": {
+    "name": "ひよっこでもいいですか!?",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ずダメージカット無視 & 必ず呪い"
+  },
+  "10164": {
+    "name": "貸しではないから心配するな",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず回避無効"
+  },
+  "10165": {
+    "name": "貸しではないから心配するな",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず回避無効"
+  },
+  "10174": {
+    "name": "高くついても知らないわよぉ♪",
+    "shortDescription": "HP回復[Ⅶ] & 敵状態異常時ダメージUP[Ⅶ] & 防御力DOWN[Ⅴ]"
+  },
+  "10175": {
+    "name": "高くついても知らないわよぉ♪",
+    "shortDescription": "HP回復[Ⅸ] & 敵状態異常時ダメージUP[Ⅸ] & 防御力DOWN[Ⅴ]"
+  },
+  "10184": {
+    "name": "共に奏でるでございます",
+    "shortDescription": "Charge後ダメージUP[Ⅸ] & 確率でクリティカル[Ⅶ] & 月咲にコネクトで攻撃力UP"
+  },
+  "10185": {
+    "name": "共に奏でるでございます",
+    "shortDescription": "Charge後ダメージUP[XI] & 確率でクリティカル[Ⅸ] & 月咲にコネクトで攻撃力UP"
+  },
+  "10193": {
+    "name": "これがウチらのハーモニー",
+    "shortDescription": "MP回復[Ⅳ] & 月夜にコネクトすると さらにMP回復"
+  },
+  "10194": {
+    "name": "これがウチらのハーモニー",
+    "shortDescription": "MP回復[Ⅵ] & 月夜にコネクトすると さらにMP回復"
+  },
+  "10195": {
+    "name": "これがウチらのハーモニー",
+    "shortDescription": "MP回復[Ⅷ] & 月夜にコネクトすると さらにMP回復"
+  },
+  "10204": {
+    "name": "今度は私が助ける番だよ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず幻惑 & 状態異常解除"
+  },
+  "10205": {
+    "name": "今度は私が助ける番だよ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず幻惑 & 状態異常解除"
+  },
+  "10214": {
+    "name": "共に恨みを晴らしましょう",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず防御無視 & 必ず回避無効"
+  },
+  "10215": {
+    "name": "共に恨みを晴らしましょう",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず防御無視 & 必ず回避無効"
+  },
+  "10224": {
+    "name": "共に駆け抜けるっすよ！",
+    "shortDescription": "BlastダメージUP[Ⅶ] & Charge後ダメージUP[Ⅳ] & Accele MPUP[Ⅴ]"
+  },
+  "10225": {
+    "name": "共に駆け抜けるっすよ！",
+    "shortDescription": "BlastダメージUP[Ⅸ] & Charge後ダメージUP[Ⅵ] & Accele MPUP[Ⅶ]"
+  },
+  "10234": {
+    "name": "プレイヤー２参戦！",
+    "shortDescription": "攻撃力UP[Ⅶ] & MP回復[Ⅳ] & デバフ解除"
+  },
+  "10235": {
+    "name": "プレイヤー２参戦！",
+    "shortDescription": "攻撃力UP[Ⅸ] & MP回復[Ⅵ] & デバフ解除"
+  },
+  "10244": {
+    "name": "一緒に遊んでやろーぜ",
+    "shortDescription": "Blast ダメージUP[Ⅷ] & 必ずやけど & 必ず回避無効"
+  },
+  "10245": {
+    "name": "一緒に遊んでやろーぜ",
+    "shortDescription": "Blast ダメージUP[Ⅹ] & 必ずやけど & 必ず回避無効"
+  },
+  "10254": {
+    "name": "共に日の本のために！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "10255": {
+    "name": "共に日の本のために！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "10264": {
+    "name": "相棒ってカッコイイよね！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず拘束 & 確率でスタン"
+  },
+  "10265": {
+    "name": "相棒ってカッコイイよね！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず拘束 & 必ずスタン"
+  },
+  "10274": {
+    "name": "今はあなたを支えたいんです",
+    "shortDescription": "与えるダメージUP[Ⅶ] & HP回復[Ⅵ] & 防御力UP[Ⅶ]"
+  },
+  "10275": {
+    "name": "今はあなたを支えたいんです",
+    "shortDescription": "与えるダメージUP[Ⅸ] & HP回復[Ⅷ] & 防御力UP[Ⅸ]"
+  },
+  "10284": {
+    "name": "アゲてくんでよろ～★",
+    "shortDescription": "攻撃力UP[Ⅶ] & 水属性攻撃力UP[Ⅶ]"
+  },
+  "10285": {
+    "name": "アゲてくんでよろ～★",
+    "shortDescription": "攻撃力UP[Ⅸ] & 水属性攻撃力UP[Ⅸ]"
+  },
+  "10294": {
+    "name": "どうしてぼくが助けるの…？",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率でクリティカル[Ⅶ] & 確率でスキル不可"
+  },
+  "10295": {
+    "name": "どうしてぼくが助けるの…？",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率でクリティカル[Ⅸ] & 確率でスキル不可"
+  },
+  "10304": {
+    "name": "あっ、私でよければ手伝うよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅷ] & 対魔女ダメージアップ[Ⅳ]"
+  },
+  "10305": {
+    "name": "あっ、私でよければ手伝うよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅹ] & 対魔女ダメージアップ[Ⅴ]"
+  },
+  "10314": {
+    "name": "私の期待に応えなさい",
+    "shortDescription": "攻撃力UP[Ⅶ] & 状態異常解除 & HP回復[Ⅶ]"
+  },
+  "10315": {
+    "name": "私の期待に応えなさい",
+    "shortDescription": "攻撃力UP[Ⅸ] & 状態異常解除 & HP回復[Ⅸ]"
+  },
+  "10324": {
+    "name": "ではでは！ミユも一緒に！",
+    "shortDescription": "攻撃力UP[Ⅶ] & ChargeディスクダメージUP[Ⅶ] & 必ず回避無効"
+  },
+  "10325": {
+    "name": "ではでは！ミユも一緒に！",
+    "shortDescription": "攻撃力UP[Ⅸ] & ChargeディスクダメージUP[Ⅸ] & 必ず回避無効"
+  },
+  "10334": {
+    "name": "見捨てはしませんよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 木属性攻撃力UP[Ⅴ] & Accele MPUP[Ⅴ]"
+  },
+  "10335": {
+    "name": "見捨てはしませんよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 木属性攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "10344": {
+    "name": "手を貸すでありますよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & サヴァイヴ & 味方を必ずかばう"
+  },
+  "10345": {
+    "name": "手を貸すでありますよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & サヴァイヴ & 味方を必ずかばう"
+  },
+  "10354": {
+    "name": "一緒にユニゾンしましょう♪",
+    "shortDescription": "攻撃力UP[Ⅶ] & MP獲得量UP[Ⅶ] & 必ず魅了"
+  },
+  "10355": {
+    "name": "一緒にユニゾンしましょう♪",
+    "shortDescription": "攻撃力UP[Ⅸ] & MP獲得量UP[Ⅸ] & 必ず魅了"
+  },
+  "10364": {
+    "name": "ウチだって役に立てるんよ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅶ] & 必ず霧"
+  },
+  "10365": {
+    "name": "ウチだって役に立てるんよ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 防御力UP[Ⅸ] & 必ず霧"
+  },
+  "10374": {
+    "name": "共同捜査開始ですの！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Accele MPUP[Ⅶ] & HP回復[Ⅲ]"
+  },
+  "10375": {
+    "name": "共同捜査開始ですの！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Accele MPUP[Ⅸ] & HP回復[Ⅴ]"
+  },
+  "10384": {
+    "name": "ミィが手伝ったげよっか？",
+    "shortDescription": "攻撃力UP[Ⅶ] & MP回復 & 必ず魅了"
+  },
+  "10385": {
+    "name": "ミィが手伝ったげよっか？",
+    "shortDescription": "攻撃力UP[Ⅸ] & MP回復 & 必ず魅了"
+  },
+  "10394": {
+    "name": "ふむふむんむふむむむふんむ",
+    "shortDescription": "攻撃力UP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "10395": {
+    "name": "ふむふむんむふむむむふんむ",
+    "shortDescription": "攻撃力UP[Ⅸ] & ダメージカット状態[Ⅸ]"
+  },
+  "10404": {
+    "name": "ご命令とあらばなんなりと…",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 状態異常解除 & 自身に追撃"
+  },
+  "10405": {
+    "name": "ご命令とあらばなんなりと…",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 状態異常解除 & 自身に追撃 "
+  },
+  "10414": {
+    "name": "こんなん一時の戯れやわ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 敵状態異常時ダメージUP[Ⅳ] & 必ず呪い"
+  },
+  "10415": {
+    "name": "こんなん一時の戯れやわ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 敵状態異常時ダメージUP[Ⅵ] & 必ず呪い"
+  },
+  "10424": {
+    "name": "モッキュ、モキューイ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & BlastダメージUP[Ⅶ] & HP回復[Ⅶ]"
+  },
+  "10425": {
+    "name": "モッキュ、モキューイ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & BlastダメージUP[Ⅸ] & HP回復[Ⅸ]"
+  },
+  "10434": {
+    "name": "見捨てることはできないし…",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Accele MPUP[Ⅴ] & MP獲得量UP[Ⅴ]"
+  },
+  "10435": {
+    "name": "見捨てることはできないし…",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Accele MPUP[Ⅶ] & MP獲得量UP[Ⅶ]"
+  },
+  "10444": {
+    "name": "共同実験をはじめてみよっか？",
+    "shortDescription": "必ず挑発 & 必ず強化カウンター & バリア(8000)を付与"
+  },
+  "10445": {
+    "name": "共同実験をはじめてみよっか？",
+    "shortDescription": "必ず挑発 & 必ず強化カウンター & バリア(10000)を付与"
+  },
+  "10454": {
+    "name": "二振りの刃となりましょう",
+    "shortDescription": "攻撃力UP[Ⅶ] & 水属性攻撃力UP[Ⅶ] & 防御力UP[Ⅶ]"
+  },
+  "10455": {
+    "name": "二振りの刃となりましょう",
+    "shortDescription": "攻撃力UP[Ⅸ] & 水属性攻撃力UP[Ⅸ] & 防御力UP[Ⅸ]"
+  },
+  "10464": {
+    "name": "これが泰党の合わせ技だ",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 与えるダメージUP[Ⅰ] & 火属性攻撃力UP[Ⅰ]"
+  },
+  "10465": {
+    "name": "これが泰党の合わせ技だ",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 与えるダメージUP[Ⅲ] & 火属性攻撃力UP[Ⅲ]"
+  },
+  "10473": {
+    "name": "お互い頑張りましょう",
+    "shortDescription": "MP回復[Ⅱ] & Accele MPUP[Ⅱ]"
+  },
+  "10474": {
+    "name": "お互い頑張りましょう",
+    "shortDescription": "MP回復[Ⅲ] & Accele MPUP[Ⅲ]"
+  },
+  "10484": {
+    "name": "ベンヌの双翼",
+    "shortDescription": "与えるダメージUP[Ⅶ] & MP回復[Ⅴ] & 必ず幻惑"
+  },
+  "10485": {
+    "name": "ベンヌの双翼",
+    "shortDescription": "与えるダメージUP[Ⅸ] & MP回復[Ⅶ] & 必ず幻惑"
+  },
+  "10494": {
+    "name": "杯を交わそう！",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 与えるダメージUP[Ⅰ] & 水属性攻撃力UP[Ⅰ]"
+  },
+  "10495": {
+    "name": "杯を交わそう！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 与えるダメージUP[Ⅲ] & 水属性攻撃力UP[Ⅲ]"
+  },
+  "10504": {
+    "name": "目的は同じはず",
+    "shortDescription": "攻撃力UP[Ⅷ] & 火属性攻撃力UP[Ⅷ]"
+  },
+  "10505": {
+    "name": "目的は同じはず",
+    "shortDescription": "攻撃力UP[Ⅹ] & 火属性攻撃力UP[Ⅹ]"
+  },
+  "10514": {
+    "name": "衆生へ私たちの折伏を",
+    "shortDescription": "与えるダメージUP[Ⅷ] & Accele MPUP[Ⅷ]"
+  },
+  "10515": {
+    "name": "衆生へ私たちの折伏を",
+    "shortDescription": "与えるダメージUP[Ⅹ] & Accele MPUP[Ⅹ]"
+  },
+  "10524": {
+    "name": "吾らが次代を照らさん",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Accele MPUP[Ⅴ] & MP獲得量UP[Ⅴ]"
+  },
+  "10525": {
+    "name": "吾らが次代を照らさん",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Accele MPUP[Ⅶ] & MP獲得量UP[Ⅶ]"
+  },
+  "10534": {
+    "name": "具申します！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず呪い & 必ず強化毒"
+  },
+  "10535": {
+    "name": "具申します！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず呪い & 必ず強化毒"
+  },
+  "11014": {
+    "name": "泳げないけどいいですか!?",
+    "shortDescription": "Blast ダメージUP[Ⅷ] & 防御力UP[Ⅷ] & 必ず霧"
+  },
+  "11015": {
+    "name": "泳げないけどいいですか!?",
+    "shortDescription": "Blast ダメージUP[Ⅹ] & 防御力UP[Ⅹ] & 必ず霧"
+  },
+  "11024": {
+    "name": "諦めたら何も残らないよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず防御無視 & 必ず幻惑"
+  },
+  "11025": {
+    "name": "諦めたら何も残らないよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず防御無視 & 必ず幻惑"
+  },
+  "11033": {
+    "name": "一緒にノンビリしよーよ",
+    "shortDescription": "攻撃力UP[Ⅳ] & 確率で魅了"
+  },
+  "11034": {
+    "name": "一緒にノンビリしよーよ",
+    "shortDescription": "攻撃力UP[Ⅵ] & 確率で魅了"
+  },
+  "11035": {
+    "name": "一緒にノンビリしよーよ",
+    "shortDescription": "攻撃力UP[Ⅷ] & 確率で魅了"
+  },
+  "11044": {
+    "name": "今だけは一緒に…",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず呪い & 自身に必ず回避"
+  },
+  "11045": {
+    "name": "今だけは一緒に…",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず呪い & 自身に必ず回避"
+  },
+  "11053": {
+    "name": "だいたいわかったぞ！",
+    "shortDescription": "Charge後ダメージUP[Ⅵ] & 攻撃力UP[Ⅴ] & 自身にスキル不可(2T)"
+  },
+  "11054": {
+    "name": "だいたいわかったぞ！",
+    "shortDescription": "Charge後ダメージUP[Ⅷ] & 攻撃力UP[Ⅶ] & 自身にスキル不可(2T)"
+  },
+  "11055": {
+    "name": "だいたいわかったぞ！",
+    "shortDescription": "Charge後ダメージUP[Ⅹ] & 攻撃力UP[Ⅸ] & 自身にスキル不可(2T)"
+  },
+  "11064": {
+    "name": "ワタシの火で温めます",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 火属性攻撃力UP[Ⅷ]"
+  },
+  "11065": {
+    "name": "ワタシの火で温めます",
+    "shortDescription": "与えるダメージUP[Ⅹ] & 火属性攻撃力UP[Ⅹ]"
+  },
+  "11074": {
+    "name": "一緒に絆を結びなおそー！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 闇属性攻撃力UP[Ⅶ] & 必ず幻惑"
+  },
+  "11075": {
+    "name": "一緒に絆を結びなおそー！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 闇属性攻撃力UP[Ⅸ] & 必ず幻惑"
+  },
+  "11084": {
+    "name": "人類の悲願のアートを一緒に",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず呪い & 確率でスタン"
+  },
+  "11085": {
+    "name": "人類の悲願のアートを一緒に",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず呪い & 確率でスタン"
+  },
+  "11094": {
+    "name": "LOVEきゅんエール",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "11095": {
+    "name": "LOVEきゅんエール",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "11104": {
+    "name": "ふたりなら生命力も倍増さ",
+    "shortDescription": "攻撃力UP[Ⅶ] & デバフ解除 & Charge消費なし"
+  },
+  "11105": {
+    "name": "ふたりなら生命力も倍増さ",
+    "shortDescription": "攻撃力UP[Ⅸ] & デバフ解除 & Charge消費なし"
+  },
+  "11124": {
+    "name": "一緒にお菓子を配るの！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 敵状態異常時ダメージUP[Ⅶ] & 必ず幻惑"
+  },
+  "11125": {
+    "name": "一緒にお菓子を配るの！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 敵状態異常時ダメージUP[Ⅸ] & 必ず幻惑"
+  },
+  "11134": {
+    "name": "福が訪れますように！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ] & スキルクイック"
+  },
+  "11135": {
+    "name": "福が訪れますように！",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 攻撃力UP[Ⅸ] & スキルクイック"
+  },
+  "11164": {
+    "name": "お前も命を食む者か",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅶ] & 必ず回避"
+  },
+  "11165": {
+    "name": "お前も命を食む者か",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅸ] & 必ず回避"
+  },
+  "11174": {
+    "name": "今年もいい１年になりそうね",
+    "shortDescription": "HP回復[Ⅵ] & 攻撃力UP[Ⅴ] & 敵状態異常時ダメージUP[Ⅲ]"
+  },
+  "11175": {
+    "name": "今年もいい１年になりそうね",
+    "shortDescription": "HP回復[Ⅷ] & 攻撃力UP[Ⅶ] & 敵状態異常時ダメージUP[Ⅴ]"
+  },
+  "11184": {
+    "name": "涼夏共鳴(レゾナントサマー)",
+    "shortDescription": "MP回復[Ⅵ] & 確率でクリティカル[Ⅶ] & 状態異常解除"
+  },
+  "11185": {
+    "name": "涼夏共鳴(レゾナントサマー)",
+    "shortDescription": "MP回復[Ⅷ] & 確率でクリティカル[Ⅸ] & 状態異常解除"
+  },
+  "11204": {
+    "name": "助太刀妖怪、参上！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 必ず呪い & 必ずスタン"
+  },
+  "11205": {
+    "name": "助太刀妖怪、参上！",
+    "shortDescription": "攻撃力UP[Ⅹ] & 必ず呪い & 必ずスタン"
+  },
+  "11214": {
+    "name": "赦されない罪を、共に",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 火属性攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "11215": {
+    "name": "赦されない罪を、共に",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 火属性攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ]"
+  },
+  "11254": {
+    "name": "初日の出を共に！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "11255": {
+    "name": "初日の出を共に！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "11334": {
+    "name": "安らかな滅びを共に",
+    "shortDescription": "Blast ダメージUP[Ⅷ] & 必ずダメージカット無視"
+  },
+  "11335": {
+    "name": "安らかな滅びを共に",
+    "shortDescription": "Blast ダメージUP[Ⅹ] & 必ずダメージカット無視"
+  },
+  "11374": {
+    "name": "一緒に想いを届けよう",
+    "shortDescription": "与えるダメージUP[Ⅶ] & MP回復[Ⅴ] & Accele MPUP[Ⅴ]"
+  },
+  "11375": {
+    "name": "一緒に想いを届けよう",
+    "shortDescription": "与えるダメージUP[Ⅸ] & MP回復[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "11394": {
+    "name": "ふむむむふむむんふむむふ！",
+    "shortDescription": "防御力UP[XⅢ] & バリア(8000)を付与"
+  },
+  "11395": {
+    "name": "ふむむむふむむんふむむふ！",
+    "shortDescription": "防御力UP[XV] & バリア(10000)を付与"
+  },
+  "11434": {
+    "name": "一緒に乗ってみる？",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 闇属性攻撃力UP[Ⅷ]"
+  },
+  "11435": {
+    "name": "一緒に乗ってみる？",
+    "shortDescription": "与えるダメージUP[Ⅹ] & 闇属性攻撃力UP[Ⅹ]"
+  },
+  "11444": {
+    "name": "ふたりならどこへでも…",
+    "shortDescription": "与えるダメージUP[Ⅷ] & MP回復[Ⅴ]"
+  },
+  "11445": {
+    "name": "ふたりならどこへでも…",
+    "shortDescription": "与えるダメージUP[Ⅹ] & MP回復[Ⅶ]"
+  },
+  "12014": {
+    "name": "次は引ける気がします！",
+    "shortDescription": "確率でクリティカル[Ⅷ] & 確率で幻惑"
+  },
+  "12015": {
+    "name": "次は引ける気がします！",
+    "shortDescription": "確率でクリティカル[Ⅹ] & 確率で幻惑"
+  },
+  "12024": {
+    "name": "共に星明りに照らされて",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ずダメージカット無視 & 必ず回避無効"
+  },
+  "12025": {
+    "name": "共に星明りに照らされて",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ずダメージカット無視 & 必ず回避無効"
+  },
+  "12034": {
+    "name": "プレゼント、お届け！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 火属性攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "12035": {
+    "name": "プレゼント、お届け！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 火属性攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ]"
+  },
+  "12094": {
+    "name": "夏は楽しんだ者勝ちよ！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ] & HP自動回復[Ⅴ](3T)"
+  },
+  "12095": {
+    "name": "夏は楽しんだ者勝ちよ！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 確率でクリティカル[Ⅸ] & HP自動回復[Ⅶ](3T)"
+  },
+  "12104": {
+    "name": "忘れられない夏にしましょっ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & ダメージカット状態[Ⅴ] & 確率でマギア不可"
+  },
+  "12105": {
+    "name": "忘れられない夏にしましょっ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & ダメージカット状態[Ⅶ] & 確率でマギア不可"
+  },
+  "12164": {
+    "name": "自分と討たれる覚悟か",
+    "shortDescription": "Blast ダメージUP[Ⅷ] & 闇属性攻撃力UP[Ⅷ]"
+  },
+  "12165": {
+    "name": "自分と討たれる覚悟か",
+    "shortDescription": "Blast ダメージUP[Ⅹ] & 闇属性攻撃力UP[Ⅹ]"
+  },
+  "12174": {
+    "name": "まだ繋がれるの…？",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "12175": {
+    "name": "まだ繋がれるの…？",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 攻撃力UP[Ⅸ]"
+  },
+  "13014": {
+    "name": "一緒に環になろう",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅵ] & 確率でクリティカル[Ⅶ]"
+  },
+  "13015": {
+    "name": "一緒に環になろう",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅷ] & 確率でクリティカル[Ⅸ]"
+  },
+  "13024": {
+    "name": "その想いも連れていくから",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 必ず防御無視"
+  },
+  "13025": {
+    "name": "その想いも連れていくから",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 必ず防御無視"
+  },
+  "13034": {
+    "name": "頑張らなくてもいいんだよ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 敵状態異常時ダメージUP[Ⅶ] & 必ず魅了"
+  },
+  "13035": {
+    "name": "頑張らなくてもいいんだよ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 敵状態異常時ダメージUP[Ⅸ] & 必ず魅了"
+  },
+  "13094": {
+    "name": "足は引っ張んないでよね",
+    "shortDescription": "与えるダメージUP[Ⅷ] & Accele MPUP[Ⅷ]"
+  },
+  "13095": {
+    "name": "足は引っ張んないでよね",
+    "shortDescription": "与えるダメージUP[Ⅹ] & Accele MPUP[Ⅹ]"
+  },
+  "14014": {
+    "name": "このご縁が環になりますように",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅷ] & ダメージカット状態[Ⅶ] & 状態異常解除"
+  },
+  "14015": {
+    "name": "このご縁が環になりますように",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅹ] & ダメージカット状態[Ⅸ] & 状態異常解除"
+  },
+  "14024": {
+    "name": "クールに決めましょう",
+    "shortDescription": "与えるダメージUP[Ⅷ] & MP回復[Ⅴ]"
+  },
+  "14025": {
+    "name": "クールに決めましょう",
+    "shortDescription": "与えるダメージUP[Ⅹ] & MP回復[Ⅶ]"
+  },
+  "15014": {
+    "name": "私が手を繋ぐから",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 状態異常解除 & HP回復[Ⅷ]"
+  },
+  "15015": {
+    "name": "私が手を繋ぐから",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 状態異常解除 & HP回復[Ⅹ]"
+  },
+  "15024": {
+    "name": "新たな歴史を刻みましょう",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 水属性攻撃力UP[Ⅷ]"
+  },
+  "15025": {
+    "name": "新たな歴史を刻みましょう",
+    "shortDescription": "与えるダメージUP[Ⅹ] & 水属性攻撃力UP[Ⅹ]"
+  },
+  "16014": {
+    "name": "私たちが思い描いた明日へ！",
+    "shortDescription": "HP自動回復[Ⅷ](3T) & 攻撃力UP[Ⅷ] & 防御力UP[Ⅷ]"
+  },
+  "16015": {
+    "name": "私たちが思い描いた明日へ！",
+    "shortDescription": "HP自動回復[Ⅹ](3T) & 攻撃力UP[Ⅹ] & 防御力UP[Ⅹ]"
+  },
+  "17014": {
+    "name": "可能性は無限大です！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 防御力UP[Ⅷ] & スキルクイック"
+  },
+  "17015": {
+    "name": "可能性は無限大です！",
+    "shortDescription": "攻撃力UP[Ⅹ] & 防御力UP[Ⅹ] & スキルクイック"
+  },
+  "18014": {
+    "name": "誰も見捨てないよ",
+    "shortDescription": "攻撃力UP[Ⅷ] & HP回復[Ⅷ] & MP回復[Ⅷ]"
+  },
+  "18015": {
+    "name": "誰も見捨てないよ",
+    "shortDescription": "攻撃力UP[Ⅹ] & HP回復[Ⅹ] & MP回復[Ⅹ]"
+  },
+  "20014": {
+    "name": "私が受け止めてあげるから",
+    "shortDescription": "HP回復[Ⅵ] & MP回復[Ⅵ]"
+  },
+  "20015": {
+    "name": "私が受け止めてあげるから",
+    "shortDescription": "HP回復[Ⅷ] & MP回復[Ⅷ]"
+  },
+  "20024": {
+    "name": "あなたの獲物よ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率でクリティカル[Ⅶ] & 確率でスタン"
+  },
+  "20025": {
+    "name": "あなたの獲物よ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率でクリティカル[Ⅸ] & 確率でスタン"
+  },
+  "20034": {
+    "name": "一緒に頑張ろうね！",
+    "shortDescription": "必ず回避"
+  },
+  "20035": {
+    "name": "一緒に頑張ろうね！",
+    "shortDescription": "必ず回避 & マギアダメージUP[Ⅲ]"
+  },
+  "20044": {
+    "name": "ここであたしの出番でしょ！",
+    "shortDescription": "HP自動回復[Ⅶ](3T) & 攻撃力UP[Ⅶ]"
+  },
+  "20045": {
+    "name": "ここであたしの出番でしょ！",
+    "shortDescription": "HP自動回復[Ⅸ](3T) & 攻撃力UP[Ⅸ]"
+  },
+  "20054": {
+    "name": "ティロ・デュエット！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず拘束 & 必ずやけど"
+  },
+  "20055": {
+    "name": "ティロ・デュエット！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず拘束 & 必ずやけど"
+  },
+  "20064": {
+    "name": "ったく、見てらんねーな",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "20065": {
+    "name": "ったく、見てらんねーな",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & ダメージカット状態[Ⅸ]"
+  },
+  "20074": {
+    "name": "やれやれなのです",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず霧 & 確率で回避無効"
+  },
+  "20075": {
+    "name": "やれやれなのです",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず回避無効 & 必ず霧"
+  },
+  "20093": {
+    "name": "軍師役ならお任せを",
+    "shortDescription": "攻撃力UP[Ⅴ] & デバフ解除"
+  },
+  "20094": {
+    "name": "軍師役ならお任せを",
+    "shortDescription": "攻撃力UP[Ⅶ] & デバフ解除"
+  },
+  "20095": {
+    "name": "軍師役ならお任せを",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅴ] & デバフ解除"
+  },
+  "21004": {
+    "name": "いい1年にしようね！",
+    "shortDescription": "HP回復[Ⅶ] & 与えるダメージUP[Ⅶ]"
+  },
+  "21005": {
+    "name": "いい1年にしようね！",
+    "shortDescription": "HP回復[Ⅸ] & 与えるダメージUP[Ⅸ]"
+  },
+  "21014": {
+    "name": "待たせちゃってごめんね",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 状態異常耐性UP & 確率でサヴァイヴ & 状態異常解除"
+  },
+  "21015": {
+    "name": "待たせちゃってごめんね",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 状態異常耐性UP & サヴァイヴ & 状態異常解除"
+  },
+  "21023": {
+    "name": "やることなくなっちゃったよ",
+    "shortDescription": "HP回復[Ⅶ] & 攻撃力DOWN[Ⅴ] & 防御力DOWN[Ⅴ]"
+  },
+  "21024": {
+    "name": "やることなくなっちゃったよ",
+    "shortDescription": "HP回復[Ⅸ] & 攻撃力DOWN[Ⅴ] & 防御力DOWN[Ⅴ]"
+  },
+  "21025": {
+    "name": "やることなくなっちゃったよ",
+    "shortDescription": "HP回復[Ⅸ] & 攻撃力DOWN[Ⅲ] & 防御力DOWN[Ⅲ]"
+  },
+  "21034": {
+    "name": "やる気スイッチここかな？",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Charge後ダメージUP[Ⅶ] & ChargeディスクダメージUP[Ⅶ]"
+  },
+  "21035": {
+    "name": "やる気スイッチここかな？",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Charge後ダメージUP[Ⅸ] & ChargeディスクダメージUP[Ⅸ]"
+  },
+  "21044": {
+    "name": "ほら、希望の道へ！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & HP回復[Ⅶ] & MP回復[Ⅵ]"
+  },
+  "21045": {
+    "name": "ほら、希望の道へ！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & HP回復[Ⅸ] & MP回復[Ⅷ]"
+  },
+  "21054": {
+    "name": "また奇跡は起こせるよ",
+    "shortDescription": "光属性攻撃力UP[Ⅷ] & HP回復[Ⅶ] & MP回復[Ⅶ]"
+  },
+  "21055": {
+    "name": "また奇跡は起こせるよ",
+    "shortDescription": "光属性攻撃力UP[Ⅹ] & HP回復[Ⅸ] & MP回復[Ⅸ]"
+  },
+  "21064": {
+    "name": "特別な夏にしようね！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & HP回復[Ⅶ] & Charge消費なし"
+  },
+  "21065": {
+    "name": "特別な夏にしようね！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & HP回復[Ⅸ] & Charge消費なし"
+  },
+  "21074": {
+    "name": "マギアレコード好評配信中！",
+    "shortDescription": "攻撃力UP[Ⅵ] & 光属性攻撃力UP[Ⅵ] & 与えるダメージUP[Ⅵ]"
+  },
+  "21075": {
+    "name": "マギアレコード好評配信中！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 光属性攻撃力UP[Ⅷ] & 与えるダメージUP[Ⅷ]"
+  },
+  "22014": {
+    "name": "ズルをしましょうか",
+    "shortDescription": "必ず回避 & 必ず挑発 & 耐える & 状態異常を1回無効"
+  },
+  "22015": {
+    "name": "ズルをしましょうか",
+    "shortDescription": "必ず回避 & 必ず挑発 & 耐える & 状態異常を2回無効"
+  },
+  "22024": {
+    "name": "仲よくしましょうね",
+    "shortDescription": "闇属性攻撃力UP[XⅧ] & 必ず防御無視 & 必ずダメージカット無視"
+  },
+  "22025": {
+    "name": "仲よくしましょうね",
+    "shortDescription": "闇属性攻撃力UP[XX] & 必ず防御無視 & 必ずダメージカット無視"
+  },
+  "22034": {
+    "name": "あなたに預けるわ",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 与えるダメージUP[Ⅰ] & 闇属性攻撃力UP[Ⅰ]"
+  },
+  "22035": {
+    "name": "あなたに預けるわ",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 与えるダメージUP[Ⅲ] & 闇属性攻撃力UP[Ⅲ]"
+  },
+  "23004": {
+    "name": "ふたりなら大物相手でも！",
+    "shortDescription": "必ず回避 & 攻撃力UP[Ⅶ] & 確率でスキルクイック"
+  },
+  "23005": {
+    "name": "ふたりなら大物相手でも！",
+    "shortDescription": "必ず回避 & 攻撃力UP[Ⅸ] & 確率でスキルクイック"
+  },
+  "23014": {
+    "name": "あなたのためじゃないわ",
+    "shortDescription": "闇属性攻撃力UP[Ⅷ] & スキルクイック"
+  },
+  "23015": {
+    "name": "あなたのためじゃないわ",
+    "shortDescription": "闇属性攻撃力UP[Ⅹ] & スキルクイック"
+  },
+  "24004": {
+    "name": "今年も１年よろしくっ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & サヴァイヴ & 確率で防御無視"
+  },
+  "24005": {
+    "name": "今年も１年よろしくっ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & サヴァイヴ & 必ず防御無視"
+  },
+  "24014": {
+    "name": "相乗り、いっちゃいますか！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & ダメージカット状態[Ⅴ] & 状態異常耐性UP[Ⅶ]"
+  },
+  "24015": {
+    "name": "相乗り、いっちゃいますか！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & ダメージカット状態[Ⅶ] & 状態異常耐性UP[Ⅸ]"
+  },
+  "24024": {
+    "name": "報われてもいいはずだよ！",
+    "shortDescription": "HP自動回復[Ⅷ](3T) & バリア(8000)を付与"
+  },
+  "24025": {
+    "name": "報われてもいいはずだよ！",
+    "shortDescription": "HP自動回復[Ⅹ](3T) & バリア(10000)を付与"
+  },
+  "25004": {
+    "name": "救いの祈りをあなたに",
+    "shortDescription": "敵状態異常時ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ] & 確率で霧 & 状態異常解除"
+  },
+  "25005": {
+    "name": "救いの祈りをあなたに",
+    "shortDescription": "敵状態異常時ダメージUP[Ⅸ] & 攻撃力UP[Ⅸ] & 確率で霧 & 状態異常解除"
+  },
+  "25014": {
+    "name": "一緒に輝きましょ？",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず霧 & 必ずスキル不可(1T) & 確率で拘束(1T)"
+  },
+  "25015": {
+    "name": "一緒に輝きましょ？",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず霧 & 必ずスキル不可(1T) & 確率で拘束(1T)"
+  },
+  "25024": {
+    "name": "さあ、一緒に救われましょう",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 敵状態異常時ダメージUP[Ⅷ] & 必ず霧"
+  },
+  "25025": {
+    "name": "さあ、一緒に救われましょう",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 敵状態異常時ダメージUP[Ⅹ] & 必ず霧"
+  },
+  "25034": {
+    "name": "やられたままじゃないわ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 木属性攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "25035": {
+    "name": "やられたままじゃないわ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 木属性攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ]"
+  },
+  "26004": {
+    "name": "アタック、決めろよ！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "26005": {
+    "name": "アタック、決めろよ！",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 攻撃力UP[Ⅸ]"
+  },
+  "26014": {
+    "name": "今は手伝ってやるよ",
+    "shortDescription": "火属性攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ] & デバフ解除"
+  },
+  "26015": {
+    "name": "今は手伝ってやるよ",
+    "shortDescription": "火属性攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ] & デバフ解除"
+  },
+  "26024": {
+    "name": "共同戦線だな！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 与えるダメージUP[Ⅶ] & 必ず幻惑"
+  },
+  "26025": {
+    "name": "共同戦線だな！",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 与えるダメージUP[Ⅸ] & 必ず幻惑"
+  },
+  "27004": {
+    "name": "おすそわけなのです",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ずダメージカット無視 & 防御力UP[Ⅶ]"
+  },
+  "27005": {
+    "name": "おすそわけなのです",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ずダメージカット無視 & 防御力UP[Ⅸ]"
+  },
+  "27014": {
+    "name": "なぎさと弾けるのです！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Charge後ダメージUP[Ⅶ] & Charge消費なし"
+  },
+  "27015": {
+    "name": "なぎさと弾けるのです！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Charge後ダメージUP[Ⅸ] & Charge消費なし"
+  },
+  "30012": {
+    "name": "私たちのコラボデザイン！",
+    "shortDescription": "与えるダメージUP[Ⅲ] & 必ず魅了"
+  },
+  "30013": {
+    "name": "私たちのコラボデザイン！",
+    "shortDescription": "与えるダメージUP[Ⅴ] & 必ず魅了"
+  },
+  "30014": {
+    "name": "私たちのコラボデザイン！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず魅了"
+  },
+  "30015": {
+    "name": "私たちのコラボデザイン！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず魅了"
+  },
+  "30022": {
+    "name": "ウィキャンドゥーイッ！",
+    "shortDescription": "攻撃力UP[Ⅳ] & 防御力UP[Ⅳ]"
+  },
+  "30023": {
+    "name": "ウィキャンドゥーイッ！",
+    "shortDescription": "攻撃力UP[Ⅵ] & 防御力UP[Ⅵ]"
+  },
+  "30024": {
+    "name": "ウィキャンドゥーイッ！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 防御力UP[Ⅷ]"
+  },
+  "30025": {
+    "name": "ウィキャンドゥーイッ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 防御力UP[Ⅸ]"
+  },
+  "30032": {
+    "name": "共同研究の成果発表だ！",
+    "shortDescription": "与えるダメージUP[Ⅳ] & 必ず毒"
+  },
+  "30033": {
+    "name": "共同研究の成果発表だ！",
+    "shortDescription": "与えるダメージUP[Ⅵ] & 必ず毒"
+  },
+  "30034": {
+    "name": "共同研究の成果発表だ！",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 必ず毒"
+  },
+  "30035": {
+    "name": "共同研究の成果発表だ！",
+    "shortDescription": "与えるダメージUP[Ⅹ] & 必ず毒"
+  },
+  "30042": {
+    "name": "私があなたを守るから！",
+    "shortDescription": "防御力UP[Ⅲ] & ダメージカット状態[Ⅲ]"
+  },
+  "30043": {
+    "name": "私があなたを守るから！",
+    "shortDescription": "防御力UP[Ⅴ] & ダメージカット状態[Ⅴ]"
+  },
+  "30044": {
+    "name": "私があなたを守るから！",
+    "shortDescription": "防御力UP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "30045": {
+    "name": "私があなたを守るから！",
+    "shortDescription": "防御力UP[Ⅸ] & ダメージカット状態[Ⅸ] & 耐える"
+  },
+  "30053": {
+    "name": "この策はいかがでしょうか？",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 攻撃力UP[Ⅴ]"
+  },
+  "30054": {
+    "name": "この策はいかがでしょうか？",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "30055": {
+    "name": "この策はいかがでしょうか？",
+    "shortDescription": "Blast ダメージUP[Ⅷ] & 攻撃力UP[Ⅷ] & デバフ解除"
+  },
+  "30062": {
+    "name": "あーしとドキドキしよ！",
+    "shortDescription": "与えるダメージUP[Ⅳ] & 必ず幻惑"
+  },
+  "30063": {
+    "name": "あーしとドキドキしよ！",
+    "shortDescription": "与えるダメージUP[Ⅵ] & 必ず幻惑"
+  },
+  "30064": {
+    "name": "あーしとドキドキしよ！",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 必ず幻惑"
+  },
+  "30065": {
+    "name": "あーしとドキドキしよ！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず幻惑"
+  },
+  "30072": {
+    "name": "私が繋げるから",
+    "shortDescription": "与えるダメージUP[Ⅲ] & 確率で追撃[Ⅲ]"
+  },
+  "30073": {
+    "name": "私が繋げるから",
+    "shortDescription": "与えるダメージUP[Ⅴ] & 確率で追撃[Ⅴ]"
+  },
+  "30074": {
+    "name": "私が繋げるから",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率で追撃[Ⅶ]"
+  },
+  "30075": {
+    "name": "私が繋げるから",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 確率で追撃[Ⅸ]"
+  },
+  "30082": {
+    "name": "ボクと拳を重ねて！",
+    "shortDescription": "Charge後ダメージUP[Ⅲ] & 攻撃力UP[Ⅲ]"
+  },
+  "30083": {
+    "name": "ボクと拳を重ねて！",
+    "shortDescription": "Charge後ダメージUP[Ⅴ] & 攻撃力UP[Ⅴ]"
+  },
+  "30084": {
+    "name": "ボクと拳を重ねて！",
+    "shortDescription": "Charge後ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "30085": {
+    "name": "ボクと拳を重ねて！",
+    "shortDescription": "Charge後ダメージUP[Ⅷ] & 攻撃力UP[Ⅷ]"
+  },
+  "30092": {
+    "name": "まなかが味を引き出します！",
+    "shortDescription": "HP回復[Ⅲ] & 攻撃力UP[Ⅲ]"
+  },
+  "30093": {
+    "name": "まなかが味を引き出します！",
+    "shortDescription": "HP回復[Ⅴ] & 攻撃力UP[Ⅴ]"
+  },
+  "30094": {
+    "name": "まなかが味を引き出します！",
+    "shortDescription": "HP回復[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "30095": {
+    "name": "まなかが味を引き出します！",
+    "shortDescription": "HP回復[Ⅸ] & 攻撃力UP[Ⅸ]"
+  },
+  "30103": {
+    "name": "私の美しさを見て励みなさい！",
+    "shortDescription": "与えるダメージUP[Ⅴ] & 必ず暗闇"
+  },
+  "30104": {
+    "name": "私の美しさを見て励みなさい！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず暗闇"
+  },
+  "30105": {
+    "name": "私の美しさを見て励みなさい！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず幻惑"
+  },
+  "30112": {
+    "name": "次のページへ進みましょう！",
+    "shortDescription": "HP回復[Ⅲ] & 状態異常解除"
+  },
+  "30113": {
+    "name": "次のページへ進みましょう！",
+    "shortDescription": "HP回復[Ⅴ] & 状態異常解除"
+  },
+  "30114": {
+    "name": "次のページへ進みましょう！",
+    "shortDescription": "HP回復[Ⅶ] & 状態異常解除"
+  },
+  "30115": {
+    "name": "次のページへ進みましょう！",
+    "shortDescription": "HP回復[Ⅷ](状態異常解除後) & 状態異常解除"
+  },
+  "30123": {
+    "name": "助け合うのが組織の掟ヨ",
+    "shortDescription": "必ず回避 & 確率でクリティカル[Ⅴ]"
+  },
+  "30124": {
+    "name": "助け合うのが組織の掟ヨ",
+    "shortDescription": "必ず回避 & 確率でクリティカル[Ⅶ]"
+  },
+  "30125": {
+    "name": "助け合うのが組織の掟ヨ",
+    "shortDescription": "必ず回避 & 確率でクリティカル[Ⅸ]"
+  },
+  "30133": {
+    "name": "気持ちを結ぼう！",
+    "shortDescription": "HP回復[Ⅳ] & 攻撃力UP[Ⅴ] & 確率でやけど"
+  },
+  "30134": {
+    "name": "気持ちを結ぼう！",
+    "shortDescription": "HP回復[Ⅵ] & 攻撃力UP[Ⅶ] & 必ずやけど"
+  },
+  "30135": {
+    "name": "気持ちを結ぼう！",
+    "shortDescription": "HP回復[Ⅷ] & 攻撃力UP[Ⅷ] & 必ずやけど"
+  },
+  "30142": {
+    "name": "あの…その…私と…その…",
+    "shortDescription": "攻撃力UP[Ⅳ] & Charge後ダメージUP[Ⅲ] & 確率で霧"
+  },
+  "30143": {
+    "name": "あの…その…私と…その…",
+    "shortDescription": "攻撃力UP[Ⅵ] & Charge後ダメージUP[Ⅴ] & 必ず霧"
+  },
+  "30144": {
+    "name": "あの…その…私と…その…",
+    "shortDescription": "攻撃力UP[Ⅷ] & Charge後ダメージUP[Ⅶ] & 必ず霧"
+  },
+  "30145": {
+    "name": "あの…その…私と…その…",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅷ] & 必ず霧"
+  },
+  "30154": {
+    "name": "ふたりなら倍だよね～！",
+    "shortDescription": "確率で回避[Ⅶ] & 確率で挑発[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "30155": {
+    "name": "ふたりなら倍だよね～！",
+    "shortDescription": "必ず回避 & 確率で挑発[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "30164": {
+    "name": "もうひとりで我慢しないよ",
+    "shortDescription": "必ずカウンター & ダメージカット状態[Ⅶ]"
+  },
+  "30165": {
+    "name": "もうひとりで我慢しないよ",
+    "shortDescription": "必ずカウンター & ダメージカット状態[Ⅸ]"
+  },
+  "30174": {
+    "name": "ダブルダウンですっ",
+    "shortDescription": "確率でクリティカル[Ⅶ] & 確率で防御無視"
+  },
+  "30175": {
+    "name": "ダブルダウンですっ",
+    "shortDescription": "確率でクリティカル[Ⅸ] & 必ず防御無視"
+  },
+  "30184": {
+    "name": "あたしの言った通りにね！",
+    "shortDescription": "攻撃力UP[Ⅵ] & 敵状態異常時ダメージUP[Ⅱ] & 確率で魅了"
+  },
+  "30185": {
+    "name": "あたしの言った通りにね！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 敵状態異常時ダメージUP[Ⅳ] & 必ず魅了"
+  },
+  "30193": {
+    "name": "任せて！これは鉄板だから！",
+    "shortDescription": "耐える & 確率でクリティカル[Ⅴ]"
+  },
+  "30194": {
+    "name": "任せて！これは鉄板だから！",
+    "shortDescription": "耐える & 確率でクリティカル[Ⅶ]"
+  },
+  "30195": {
+    "name": "任せて！これは鉄板だから！",
+    "shortDescription": "耐える & 確率でクリティカル[Ⅸ] & 確率でスタン"
+  },
+  "30204": {
+    "name": "ギブアンドテイクですよ",
+    "shortDescription": "耐える(3T) & BlastダメージUP[Ⅶ]"
+  },
+  "30205": {
+    "name": "ギブアンドテイクですよ",
+    "shortDescription": "耐える(3T) & BlastダメージUP[Ⅸ]"
+  },
+  "30212": {
+    "name": "バトンは君に託すよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅲ] & 必ず回避"
+  },
+  "30213": {
+    "name": "バトンは君に託すよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅴ] & 必ず回避"
+  },
+  "30214": {
+    "name": "バトンは君に託すよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅶ] & 必ず回避"
+  },
+  "30224": {
+    "name": "気にしないでください…",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅶ] & Charge消費なし"
+  },
+  "30225": {
+    "name": "気にしないでください…",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅸ] & Charge消費なし"
+  },
+  "30233": {
+    "name": "恋する力！みせてあげる！",
+    "shortDescription": "必ず回避無効 & Blast ダメージUP[Ⅵ]"
+  },
+  "30234": {
+    "name": "恋する力！みせてあげる！",
+    "shortDescription": "必ず回避無効 & Blast ダメージUP[Ⅷ]"
+  },
+  "30235": {
+    "name": "恋する力！みせてあげる！",
+    "shortDescription": "必ず回避無効 & Blast ダメージUP[Ⅸ] & 自身に確率で追撃[Ⅸ] "
+  },
+  "30244": {
+    "name": "美味しい食べ方教えちゃうよ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "30245": {
+    "name": "美味しい食べ方教えちゃうよ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & ダメージカット状態[Ⅸ]"
+  },
+  "30254": {
+    "name": "私に続きを記させて",
+    "shortDescription": "ターゲット生存時に必ず追撃 & 攻撃力UP[Ⅶ]"
+  },
+  "30255": {
+    "name": "私に続きを記させて",
+    "shortDescription": "ターゲット生存時に必ず追撃 & 攻撃力UP[Ⅸ] & 必ず回避"
+  },
+  "30264": {
+    "name": "私に任せてもらえるかしら",
+    "shortDescription": "HP回復[Ⅵ]&Accele MPUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "30265": {
+    "name": "私に任せてもらえるかしら",
+    "shortDescription": "HP回復[Ⅷ]&Accele MPUP[Ⅸ] & 攻撃力UP[Ⅸ]"
+  },
+  "30273": {
+    "name": "完璧ー！一緒に仕留めるよ！",
+    "shortDescription": "与えるダメージUP[Ⅵ] & 必ず呪い"
+  },
+  "30274": {
+    "name": "完璧ー！一緒に仕留めるよ！",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 必ず呪い"
+  },
+  "30275": {
+    "name": "完璧ー！一緒に仕留めるよ！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず呪い"
+  },
+  "30282": {
+    "name": "あちしの力、見せてやんよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅲ] & 必ずやけど"
+  },
+  "30283": {
+    "name": "あちしの力、見せてやんよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅴ] & 必ずやけど"
+  },
+  "30284": {
+    "name": "あちしの力、見せてやんよ！",
+    "shortDescription": "Charge後ダメージUP[Ⅶ] & 必ずやけど"
+  },
+  "30285": {
+    "name": "あちしの力、見せてやんよ！",
+    "shortDescription": "ChargeディスクダメージUP[Ⅸ] & Charge後ダメージUP[Ⅶ] & 必ずやけど"
+  },
+  "30293": {
+    "name": "もう終わらせようよ",
+    "shortDescription": "確率でクリティカル[Ⅹ]"
+  },
+  "30294": {
+    "name": "もう終わらせようよ",
+    "shortDescription": "確率でクリティカル[XII]"
+  },
+  "30295": {
+    "name": "もう終わらせようよ",
+    "shortDescription": "必ずクリティカル & 確率で防御無視"
+  },
+  "30302": {
+    "name": "こんなアレンジはどう？",
+    "shortDescription": "HP自動回復[Ⅲ](3T) & 必ず霧 & 必ず毒"
+  },
+  "30303": {
+    "name": "こんなアレンジはどう？",
+    "shortDescription": "HP自動回復[Ⅴ](3T) & 必ず霧 & 必ず毒"
+  },
+  "30304": {
+    "name": "こんなアレンジはどう？",
+    "shortDescription": "HP自動回復[Ⅶ](3T) & 必ず霧 & 必ず毒"
+  },
+  "30305": {
+    "name": "こんなアレンジはどう？",
+    "shortDescription": "HP自動回復[Ⅸ](3T) & 必ず霧 & 必ず毒 & 必ず幻惑"
+  },
+  "30313": {
+    "name": "一緒なら大丈夫だよ！",
+    "shortDescription": "Accele MPUP[Ⅵ] & 確率でクリティカル[Ⅵ]"
+  },
+  "30314": {
+    "name": "一緒なら大丈夫だよ！",
+    "shortDescription": "Accele MPUP[Ⅷ] & 確率でクリティカル[Ⅷ]"
+  },
+  "30315": {
+    "name": "一緒なら大丈夫だよ！",
+    "shortDescription": "Accele MPUP[Ⅹ] & 確率でクリティカル[Ⅹ]"
+  },
+  "30324": {
+    "name": "側にいてくれますか？",
+    "shortDescription": "与えるダメージUP[Ⅶ] & MP回復[Ⅳ] & Accele MPUP[Ⅲ]"
+  },
+  "30325": {
+    "name": "側にいてくれますか？",
+    "shortDescription": "与えるダメージUP[Ⅸ] & MP回復[Ⅵ] & Accele MPUP[Ⅴ]"
+  },
+  "30334": {
+    "name": "いざ、討ち入りじゃ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "30335": {
+    "name": "いざ、討ち入りじゃ！",
+    "shortDescription": "攻撃力UP[Ⅹ] & Accele MPUP[Ⅸ]"
+  },
+  "30343": {
+    "name": "ドジ…したらごめんね…？",
+    "shortDescription": "Charge後ダメージUP[Ⅶ] & ChargeディスクダメージUP[Ⅶ] & Accele MPUP[Ⅳ]"
+  },
+  "30344": {
+    "name": "ドジ…したらごめんね…？",
+    "shortDescription": "Charge後ダメージUP[Ⅸ] & ChargeディスクダメージUP[Ⅸ] & Accele MPUP[Ⅵ]"
+  },
+  "30354": {
+    "name": "こんな風にするの！",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅷ] & 確率でスキル不可"
+  },
+  "30355": {
+    "name": "こんな風にするの！",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅹ] & 必ずスキル不可"
+  },
+  "30363": {
+    "name": "頑張れたら褒めてあげる",
+    "shortDescription": "HP回復[Ⅴ] & 必ず拘束"
+  },
+  "30364": {
+    "name": "頑張れたら褒めてあげる",
+    "shortDescription": "HP回復[Ⅶ] & 必ず拘束"
+  },
+  "30373": {
+    "name": "メルと運命を切り開くのです",
+    "shortDescription": "攻撃力UP[Ⅴ] & 確率で回避無効 & 確率でカウンター無効"
+  },
+  "30374": {
+    "name": "メルと運命を切り開くのです",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率で回避無効 & 確率でカウンター無効"
+  },
+  "30375": {
+    "name": "メルと運命を切り開くのです",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず回避無効 & 必ずカウンター無効"
+  },
+  "30384": {
+    "name": "共同研究ね",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅴ] & 確率で拘束"
+  },
+  "30385": {
+    "name": "共同研究ね",
+    "shortDescription": "攻撃力UP[Ⅸ] & HP回復[Ⅶ] & 必ず拘束"
+  },
+  "30393": {
+    "name": "ダブルキャストで！",
+    "shortDescription": "攻撃力UP[Ⅴ] & ダメージカット状態[Ⅴ]"
+  },
+  "30394": {
+    "name": "ダブルキャストで！",
+    "shortDescription": "攻撃力UP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "30403": {
+    "name": "ともに新章へ",
+    "shortDescription": "攻撃力UP[Ⅴ] & Accele MPUP[Ⅴ]"
+  },
+  "30404": {
+    "name": "ともに新章へ",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "30413": {
+    "name": "うん！合体技だねっ!?",
+    "shortDescription": "Charge後ダメージUP[Ⅴ] & 確率でクリティカル[Ⅴ]"
+  },
+  "30414": {
+    "name": "うん！合体技だねっ!?",
+    "shortDescription": "Charge後ダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "30423": {
+    "name": "ショーを進行させるよっ！",
+    "shortDescription": "BlastダメージUP[Ⅴ] & Charge後ダメージUP[Ⅲ] & Accele MPUP[Ⅲ]"
+  },
+  "30424": {
+    "name": "ショーを進行させるよっ！",
+    "shortDescription": "BlastダメージUP[Ⅶ] & Charge後ダメージUP[Ⅳ] & Accele MPUP[Ⅴ]"
+  },
+  "30434": {
+    "name": "｜あの子たちのためなら｜",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "30435": {
+    "name": "｜あの子たちのためなら｜",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率でクリティカル[Ⅸ] & 確率で回避"
+  },
+  "30443": {
+    "name": "一気に狩るぞ！",
+    "shortDescription": "攻撃力UP[Ⅴ] & Charge後ダメージUP[Ⅴ]"
+  },
+  "30444": {
+    "name": "一気に狩るぞ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅶ]"
+  },
+  "30453": {
+    "name": "あたしがいなきゃダメなんだから",
+    "shortDescription": "攻撃力UP[Ⅴ] & 必ず拘束"
+  },
+  "30454": {
+    "name": "あたしがいなきゃダメなんだから",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず拘束"
+  },
+  "30463": {
+    "name": "サイッコーの被写体ってね！",
+    "shortDescription": "攻撃力UP[Ⅳ] & 確率で回避無効"
+  },
+  "30464": {
+    "name": "サイッコーの被写体ってね！",
+    "shortDescription": "攻撃力UP[Ⅵ] & 確率で回避無効"
+  },
+  "30465": {
+    "name": "サイッコーの被写体ってね！",
+    "shortDescription": "攻撃力UP[Ⅷ] & 必ず回避無効"
+  },
+  "30473": {
+    "name": "険しい道は私が案内します",
+    "shortDescription": "与えるダメージUP[Ⅴ] & 確率でクリティカル[Ⅴ]"
+  },
+  "30474": {
+    "name": "険しい道は私が案内します",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "30483": {
+    "name": "え～…一緒に寝てよーよ…",
+    "shortDescription": "攻撃力UP[Ⅴ] & HP回復[Ⅴ]"
+  },
+  "30484": {
+    "name": "え～…一緒に寝てよーよ…",
+    "shortDescription": "攻撃力UP[Ⅶ] & HP回復[Ⅶ]"
+  },
+  "30494": {
+    "name": "ん、手伝う…",
+    "shortDescription": "状態異常耐性UP[Ⅶ](3T) & 攻撃力UP[Ⅶ] & デバフ解除"
+  },
+  "30495": {
+    "name": "ん、手伝う…",
+    "shortDescription": "状態異常耐性UP[Ⅸ](3T) & 攻撃力UP[Ⅸ] & デバフ解除"
+  },
+  "30504": {
+    "name": "救いの施しをあなたに",
+    "shortDescription": "敵状態異常時ダメージUP[Ⅸ] & 攻撃力UP[Ⅶ] & 状態異常耐性UP[Ⅶ] "
+  },
+  "30505": {
+    "name": "救いの施しをあなたに",
+    "shortDescription": "敵状態異常時ダメージUP[XI] & 攻撃力UP[Ⅸ] & 状態異常耐性UP[Ⅸ] "
+  },
+  "30514": {
+    "name": "一緒にハイになろうぜ…？",
+    "shortDescription": "ChargeディスクダメージUP[Ⅸ] & 与えるダメージUP[Ⅶ]"
+  },
+  "30515": {
+    "name": "一緒にハイになろうぜ…？",
+    "shortDescription": "ChargeディスクダメージUP[XI] & 与えるダメージUP[Ⅸ]"
+  },
+  "30524": {
+    "name": "ニコイチですネー！",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ] & 必ず魅了"
+  },
+  "30525": {
+    "name": "ニコイチですネー！",
+    "shortDescription": "Blast ダメージUP[Ⅸ] & 攻撃力UP[Ⅸ] & 必ず魅了"
+  },
+  "30534": {
+    "name": "一緒に魔法をかけますよぉ～っ？",
+    "shortDescription": "HP回復[Ⅶ] & 攻撃力UP[Ⅴ] & 確率でマギア不可"
+  },
+  "30535": {
+    "name": "一緒に魔法をかけますよぉ～っ？",
+    "shortDescription": "HP回復[Ⅸ] & 攻撃力UP[Ⅶ] & 確率でマギア不可"
+  },
+  "30544": {
+    "name": "まずはコンビネーションかなｗ",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅴ] & Charge消費なし"
+  },
+  "30545": {
+    "name": "まずはコンビネーションかなｗ",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅶ] & Charge消費なし"
+  },
+  "30554": {
+    "name": "わたしが勝手に手伝うだけだよ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Charge消費なし"
+  },
+  "30555": {
+    "name": "わたしが勝手に手伝うだけだよ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Charge消費なし"
+  },
+  "30564": {
+    "name": "行くぜ！相棒!!",
+    "shortDescription": "攻撃力UP[Ⅶ] & ダメージカット状態[Ⅴ] & 防御力UP[Ⅳ]"
+  },
+  "30565": {
+    "name": "行くぜ！相棒!!",
+    "shortDescription": "攻撃力UP[Ⅸ] & ダメージカット状態[Ⅶ] & 防御力UP[Ⅵ]"
+  },
+  "30574": {
+    "name": "もうっ！仕方ないわね",
+    "shortDescription": "攻撃力UP[Ⅶ] & 光属性攻撃力UP[Ⅶ]"
+  },
+  "30575": {
+    "name": "もうっ！仕方ないわね",
+    "shortDescription": "攻撃力UP[Ⅸ] & 光属性攻撃力UP[Ⅸ]"
+  },
+  "30584": {
+    "name": "信じろ、あたしが救ってやる",
+    "shortDescription": "攻撃力UP[Ⅶ] & Blast ダメージUP[Ⅵ] & Accele MPUP[Ⅴ]"
+  },
+  "30585": {
+    "name": "信じろ、あたしが救ってやる",
+    "shortDescription": "攻撃力UP[Ⅸ] & Blast ダメージUP[Ⅷ] & Accele MPUP[Ⅶ]"
+  },
+  "30594": {
+    "name": "…私の手を取って",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "30595": {
+    "name": "…私の手を取って",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Accele MPUP[Ⅸ]"
+  },
+  "35014": {
+    "name": "クリスマスを盛り上げよっ!?",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ] & 必ず回避"
+  },
+  "35015": {
+    "name": "クリスマスを盛り上げよっ!?",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ] & 必ず回避"
+  },
+  "35024": {
+    "name": "｜いい思い出にしよう｜",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 状態異常解除"
+  },
+  "35025": {
+    "name": "｜いい思い出にしよう｜",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 状態異常解除"
+  },
+  "35034": {
+    "name": "依頼はきっちりこなすよ！",
+    "shortDescription": "HP自動回復[Ⅴ](3T) & 攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "35035": {
+    "name": "依頼はきっちりこなすよ！",
+    "shortDescription": "HP自動回復[Ⅶ](3T) & 攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ]"
+  },
+  "35044": {
+    "name": "花束をあなたに！",
+    "shortDescription": "与えるダメージUP[Ⅷ] & 光属性攻撃力UP[Ⅷ]"
+  },
+  "35045": {
+    "name": "花束をあなたに！",
+    "shortDescription": "与えるダメージUP[Ⅹ] & 光属性攻撃力UP[Ⅹ]"
+  },
+  "35054": {
+    "name": "心を結ぼう！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 火属性攻撃力UP[Ⅶ] & HP回復[Ⅶ]"
+  },
+  "35055": {
+    "name": "心を結ぼう！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 火属性攻撃力UP[Ⅸ] & HP回復[Ⅸ]"
+  },
+  "39001": {
+    "name": "…………",
+    "shortDescription": "Accele MPUP[Ⅱ]"
+  },
+  "39014": {
+    "name": "いい匂いがするね！",
+    "shortDescription": "攻撃力UP[XⅢ] & 必ず呪い"
+  },
+  "39015": {
+    "name": "いい匂いがするね！",
+    "shortDescription": "攻撃力UP[XV] & 必ず呪い"
+  },
+  "39024": {
+    "name": "繋がりたくないけど…",
+    "shortDescription": "攻撃力UP[Ⅷ] & 闇属性攻撃力UP[Ⅷ]"
+  },
+  "39025": {
+    "name": "繋がりたくないけど…",
+    "shortDescription": "攻撃力UP[Ⅹ] & 闇属性攻撃力UP[Ⅹ]"
+  },
+  "40013": {
+    "name": "私の力が必要ですか？",
+    "shortDescription": "攻撃力UP[Ⅴ] & Accele MPUP[Ⅴ]"
+  },
+  "40014": {
+    "name": "私の力が必要ですか？",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ]"
+  },
+  "40015": {
+    "name": "私の力が必要ですか？",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅷ] & 確率でクリティカル[Ⅶ]"
+  },
+  "40024": {
+    "name": "これも織莉子のため",
+    "shortDescription": "必ずカウンター & 必ず挑発 & 防御力UP[Ⅴ]"
+  },
+  "40025": {
+    "name": "これも織莉子のため",
+    "shortDescription": "必ずカウンター & 必ず挑発 & 防御力UP[Ⅶ]"
+  },
+  "40033": {
+    "name": "ゆまがお手伝いするの！",
+    "shortDescription": "HP回復[Ⅴ]"
+  },
+  "40034": {
+    "name": "ゆまがお手伝いするの！",
+    "shortDescription": "HP回復[Ⅶ]"
+  },
+  "40035": {
+    "name": "ゆまがお手伝いするの！",
+    "shortDescription": "HP回復[Ⅷ] & ダメージカット状態[Ⅷ] & 防御力UP[Ⅷ]"
+  },
+  "40044": {
+    "name": "自分の世界を守りましょう",
+    "shortDescription": "攻撃力UP[Ⅶ] & Accele MPUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "40045": {
+    "name": "自分の世界を守りましょう",
+    "shortDescription": "攻撃力UP[Ⅸ] & Accele MPUP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "40114": {
+    "name": "いまのわたしはこう動く！",
+    "shortDescription": "BlastダメージUP[Ⅶ] & 必ず防御無視"
+  },
+  "40115": {
+    "name": "いまのわたしはこう動く！",
+    "shortDescription": "BlastダメージUP[Ⅸ] & 必ず防御無視"
+  },
+  "40123": {
+    "name": "読めたわ！仕掛けるわよ！",
+    "shortDescription": "HP回復[Ⅴ] & ダメージカット状態[Ⅴ]"
+  },
+  "40124": {
+    "name": "読めたわ！仕掛けるわよ！",
+    "shortDescription": "HP回復[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "40125": {
+    "name": "読めたわ！仕掛けるわよ！",
+    "shortDescription": "HP回復[Ⅷ] & ダメージカット状態[Ⅷ] & 防御力UP[Ⅷ]"
+  },
+  "40133": {
+    "name": "あんたを置いて行けるか!!",
+    "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅴ]"
+  },
+  "40134": {
+    "name": "あんたを置いて行けるか!!",
+    "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅶ]"
+  },
+  "40135": {
+    "name": "あんたを置いて行けるか!!",
+    "shortDescription": "攻撃力UP[Ⅷ] & 防御力UP[Ⅷ] & ChargeディスクダメージUP[Ⅶ]"
+  },
+  "40144": {
+    "name": "行こう！ココロをひとつに！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ずクリティカル"
+  },
+  "40145": {
+    "name": "行こう！ココロをひとつに！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ずクリティカル"
+  },
+  "40214": {
+    "name": "必ず守ってみせる！",
+    "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅶ]"
+  },
+  "40215": {
+    "name": "必ず守ってみせる！",
+    "shortDescription": "攻撃力UP[Ⅸ] & 防御力UP[Ⅸ]"
+  },
+  "40224": {
+    "name": "それにしても危なっかしいわね",
+    "shortDescription": "必ず防御無視 & 確率でクリティカル[Ⅶ]"
+  },
+  "40225": {
+    "name": "それにしても危なっかしいわね",
+    "shortDescription": "必ず防御無視 & 確率でクリティカル[Ⅸ]"
+  },
+  "40233": {
+    "name": "誰が欠けてもダメなんですっ！",
+    "shortDescription": "Accele MPUP[Ⅴ] & デバフ解除"
+  },
+  "40234": {
+    "name": "誰が欠けてもダメなんですっ！",
+    "shortDescription": "Accele MPUP[Ⅶ] & デバフ解除"
+  },
+  "40235": {
+    "name": "誰が欠けてもダメなんですっ！",
+    "shortDescription": "Accele MPUP[Ⅸ] & デバフ解除"
+  },
+  "40244": {
+    "name": "退屈はさせませんわ",
+    "shortDescription": "攻撃力UP[Ⅷ] & 必ず幻惑 & 確率で魅了"
+  },
+  "40245": {
+    "name": "退屈はさせませんわ",
+    "shortDescription": "攻撃力UP[Ⅹ] & 必ず幻惑 & 必ず魅了"
+  },
+  "40253": {
+    "name": "まとめて遊んでやるよ",
+    "shortDescription": "攻撃力UP[Ⅴ] & 状態異常耐性UP[Ⅶ] & 確率で呪い"
+  },
+  "40254": {
+    "name": "まとめて遊んでやるよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 状態異常耐性UP[Ⅸ] & 確率で呪い"
+  },
+  "40255": {
+    "name": "まとめて遊んでやるよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 状態異常耐性UP[Ⅸ] & 必ず呪い"
+  },
+  "40264": {
+    "name": "主役を譲って差し上げますわ",
+    "shortDescription": "必ず防御無視 & デバフ解除 & 確率でやけど"
+  },
+  "40265": {
+    "name": "主役を譲って差し上げますわ",
+    "shortDescription": "必ず防御無視 & デバフ解除 & 必ずやけど"
+  },
+  "40273": {
+    "name": "まだまだ遊ぶの",
+    "shortDescription": "Blast ダメージUP[Ⅴ] & 攻撃力UP[Ⅴ]"
+  },
+  "40274": {
+    "name": "まだまだ遊ぶの",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ]"
+  },
+  "40275": {
+    "name": "まだまだ遊ぶの",
+    "shortDescription": "Blast ダメージUP[Ⅶ] & 攻撃力UP[Ⅶ] & Blast ダメージカット状態[Ⅶ]"
+  },
+  "40284": {
+    "name": "あなたに光あれ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "40285": {
+    "name": "あなたに光あれ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 防御力UP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "40294": {
+    "name": "あらあら、大変ね",
+    "shortDescription": "防御力UP[XⅢ] & ダメージカット状態[XⅢ] & HP自動回復[Ⅴ](3T)"
+  },
+  "40295": {
+    "name": "あらあら、大変ね",
+    "shortDescription": "防御力UP[XV] & ダメージカット状態[XV] & HP自動回復[Ⅶ](3T)"
+  },
+  "40314": {
+    "name": "今だけは私が…",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ]"
+  },
+  "40315": {
+    "name": "今だけは私が…",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 確率でクリティカル[Ⅸ]"
+  },
+  "40324": {
+    "name": "みんな仲良くねっ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず回避 & 確率で回避無効"
+  },
+  "40325": {
+    "name": "みんな仲良くねっ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず回避 & 必ず回避無効"
+  },
+  "40333": {
+    "name": "ハンパな力じゃやられるよ",
+    "shortDescription": "攻撃力UP[Ⅴ] & 防御力UP[Ⅴ]"
+  },
+  "40334": {
+    "name": "ハンパな力じゃやられるよ",
+    "shortDescription": "攻撃力UP[Ⅶ] & 防御力UP[Ⅶ]"
+  },
+  "40335": {
+    "name": "ハンパな力じゃやられるよ",
+    "shortDescription": "攻撃力UP[Ⅸ] & 防御力UP[Ⅸ]"
+  },
+  "40343": {
+    "name": "一緒に更生させましょう",
+    "shortDescription": "攻撃力UP[Ⅵ] & 確率でスキル不可"
+  },
+  "40344": {
+    "name": "一緒に更生させましょう",
+    "shortDescription": "攻撃力UP[Ⅷ] & 確率でスキル不可 & Charge後ダメージUP[Ⅷ]"
+  },
+  "40345": {
+    "name": "一緒に更生させましょう",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率でスキル不可 & Charge後ダメージUP[Ⅸ]"
+  },
+  "40353": {
+    "name": "必ず完璧に支えてみせる",
+    "shortDescription": "攻撃力UP[Ⅴ] & 必ず魅了"
+  },
+  "40354": {
+    "name": "必ず完璧に支えてみせる",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ず魅了"
+  },
+  "40355": {
+    "name": "必ず完璧に支えてみせる",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ず魅了"
+  },
+  "40364": {
+    "name": "大丈夫、見守っています",
+    "shortDescription": "攻撃力UP[Ⅶ] & デバフ効果を1回無効(1T) & 必ず回避"
+  },
+  "40365": {
+    "name": "大丈夫、見守っています",
+    "shortDescription": "攻撃力UP[Ⅸ] & デバフ効果を1回無効(1T) & 必ず回避"
+  },
+  "40413": {
+    "name": "ツンデレサービス",
+    "shortDescription": "攻撃力UP[Ⅳ] & 必ず毒 & ダメージカット状態[Ⅳ]"
+  },
+  "40414": {
+    "name": "ツンデレサービス",
+    "shortDescription": "攻撃力UP[Ⅵ] & 必ず毒 & ダメージカット状態[Ⅵ]"
+  },
+  "40415": {
+    "name": "ツンデレサービス",
+    "shortDescription": "攻撃力UP[Ⅷ] & 必ず毒 & ダメージカット状態[Ⅷ]"
+  },
+  "40424": {
+    "name": "失礼。噛みました",
+    "shortDescription": "攻撃力UP[Ⅶ] & 必ずダメージカット無視 & 確率で防御無視"
+  },
+  "40425": {
+    "name": "失礼。噛みました",
+    "shortDescription": "攻撃力UP[Ⅸ] & 必ずダメージカット無視 & 必ず防御無視"
+  },
+  "40434": {
+    "name": "称賛は、チームのみんなで",
+    "shortDescription": "攻撃力UP[Ⅶ] & Charge後ダメージUP[Ⅵ] & 確率でクリティカル[Ⅳ]"
+  },
+  "40435": {
+    "name": "称賛は、チームのみんなで",
+    "shortDescription": "攻撃力UP[Ⅸ] & Charge後ダメージUP[Ⅷ] & 確率でクリティカル[Ⅵ]"
+  },
+  "40444": {
+    "name": "ストロベリー色の女子オーラ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ずやけど & 確率で魅了"
+  },
+  "40445": {
+    "name": "ストロベリー色の女子オーラ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ずやけど & 必ず魅了"
+  },
+  "40454": {
+    "name": "友達、できちゃったね",
+    "shortDescription": "デバフ解除 & 攻撃力UP[Ⅶ] & 必ずやけど"
+  },
+  "40455": {
+    "name": "友達、できちゃったね",
+    "shortDescription": "デバフ解除 & 攻撃力UP[Ⅸ] & 必ずやけど"
+  },
+  "40464": {
+    "name": "ぱないの！",
+    "shortDescription": "HP自動回復[Ⅵ](3T) & 攻撃力UP[Ⅶ] & 必ず呪い"
+  },
+  "40465": {
+    "name": "ぱないの！",
+    "shortDescription": "HP自動回復[Ⅷ](3T) & 攻撃力UP[Ⅸ] & 必ず呪い"
+  },
+  "40514": {
+    "name": "ふたりできっちり、半分こ！",
+    "shortDescription": "攻撃力UP[Ⅶ] & ダメージカット状態[Ⅶ]"
+  },
+  "40515": {
+    "name": "ふたりできっちり、半分こ！",
+    "shortDescription": "攻撃力UP[Ⅸ] & ダメージカット状態[Ⅸ]"
+  },
+  "40524": {
+    "name": "…だけど、ふたりでなら",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 確率でクリティカル[Ⅶ] & 確率で回避無効"
+  },
+  "40525": {
+    "name": "…だけど、ふたりでなら",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 確率でクリティカル[Ⅸ] & 確率で回避無効"
+  },
+  "40533": {
+    "name": "ただ、側にいてくれたら",
+    "shortDescription": "攻撃力UP[Ⅴ] & 確率で拘束"
+  },
+  "40534": {
+    "name": "ただ、側にいてくれたら",
+    "shortDescription": "攻撃力UP[Ⅶ] & 確率で拘束"
+  },
+  "40535": {
+    "name": "ただ、側にいてくれたら",
+    "shortDescription": "攻撃力UP[Ⅸ] & 確率で拘束"
+  },
+  "40614": {
+    "name": "力を貸して！",
+    "shortDescription": "与えるダメージUP[Ⅶ] & Accele MPUP[Ⅴ] & 必ず回避"
+  },
+  "40615": {
+    "name": "力を貸して！",
+    "shortDescription": "与えるダメージUP[Ⅸ] & Accele MPUP[Ⅶ] & 必ず回避"
+  },
+  "40624": {
+    "name": "協力してもらいますよ",
+    "shortDescription": "与えるダメージUP[Ⅶ] & 必ず防御無視 & 必ず回避無効"
+  },
+  "40625": {
+    "name": "協力してもらいますよ",
+    "shortDescription": "与えるダメージUP[Ⅸ] & 必ず防御無視 & 必ず回避無効"
+  },
+  "41214": {
+    "name": "女王が命ずる…",
+    "shortDescription": "攻撃力UP[Ⅶ] & 闇属性攻撃力UP[Ⅶ] & 防御力UP[Ⅶ]"
+  },
+  "41215": {
+    "name": "女王が命ずる…",
+    "shortDescription": "攻撃力UP[Ⅸ] & 闇属性攻撃力UP[Ⅸ] & 防御力UP[Ⅸ]"
+  },
+  "41224": {
+    "name": "女王が与える…",
+    "shortDescription": "攻撃力UP[Ⅶ] & 闇属性攻撃力UP[Ⅶ] & 必ず呪い"
+  },
+  "41225": {
+    "name": "女王が与える…",
+    "shortDescription": "攻撃力UP[Ⅸ] & 闇属性攻撃力UP[Ⅸ] & 必ず呪い"
+  }
+}
