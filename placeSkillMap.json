@@ -1,162 +1,162 @@
 {
   "1": {
-    "name": "ブレイブ・エシュロン",
-    "shortDescription": "攻撃力上昇[Ⅰ]&防御力上昇[Ⅰ]"
+    "name": "Brave Echelon",
+    "shortDescription": "ATK UP [I] / DEF UP [I]"
   },
   "2": {
-    "name": "効果無しマス（ダミー）",
+    "name": "Placeholder (Dummy)",
     "shortDescription": "0"
   },
   "3": {
-    "name": "ブライト・ファランクス",
-    "shortDescription": "攻撃力上昇[Ⅰ]"
+    "name": "Bright Phalanx",
+    "shortDescription": "ATK UP [I]"
   },
   "4": {
-    "name": "ブライト・ファランクス",
-    "shortDescription": "防御力上昇[Ⅰ]"
+    "name": "Bright Phalanx",
+    "shortDescription": "DEF UP [I]"
   },
   "5": {
-    "name": "マイティ・クロス",
-    "shortDescription": "防御力上昇[Ⅰ]&攻撃力減少[Ⅰ]"
+    "name": "Mighty Cross",
+    "shortDescription": "DEF UP [I] / ATK DOWN [I]"
   },
   "6": {
-    "name": "マイティ・クロス",
-    "shortDescription": "攻撃力上昇[Ⅰ]"
+    "name": "Mighty Cross",
+    "shortDescription": "ATK UP [I]"
   },
   "7": {
-    "name": "アトリビュート・デルタ[火]",
-    "shortDescription": "火属性の攻撃力上昇[Ⅱ]"
+    "name": "Attribute Delta (Flame)",
+    "shortDescription": "Flame ATK UP [II]"
   },
   "8": {
-    "name": "アトリビュート・デルタ[水]",
-    "shortDescription": "水属性の攻撃力上昇[Ⅱ]"
+    "name": "Attribute Delta (Aqua)",
+    "shortDescription": "Aqua ATK UP [II]"
   },
   "9": {
-    "name": "アトリビュート・デルタ[木]",
-    "shortDescription": "木属性の攻撃力上昇[Ⅱ]"
+    "name": "Attribute Delta (Forest)",
+    "shortDescription": "Forest ATK UP [II]"
   },
   "10": {
-    "name": "アトリビュート・デルタ[光]",
-    "shortDescription": "光属性の攻撃力上昇[Ⅱ]"
+    "name": "Attribute Delta (Light)",
+    "shortDescription": "Light ATK UP [II]"
   },
   "11": {
-    "name": "アトリビュート・デルタ[闇]",
-    "shortDescription": "闇属性の攻撃力上昇[Ⅱ]"
+    "name": "Attribute Delta (Dark)",
+    "shortDescription": "Dark ATK UP [II]"
   },
   "12": {
-    "name": "ユニオン・アサルト",
-    "shortDescription": "火属性の攻撃力上昇[Ⅱ]"
+    "name": "Union Assault",
+    "shortDescription": "Flame ATK UP [II]"
   },
   "13": {
-    "name": "ユニオン・アサルト",
-    "shortDescription": "木属性の防御力上昇[Ⅱ]"
+    "name": "Union Assault",
+    "shortDescription": "Forest DEF UP [II]"
   },
   "14": {
-    "name": "ユニオン・アサルト",
-    "shortDescription": "闇属性の攻撃力上昇[Ⅱ]"
+    "name": "Union Assault",
+    "shortDescription": "Dark ATK UP [II]"
   },
   "15": {
-    "name": "ユニオン・アサルト",
-    "shortDescription": "水属性の攻撃力上昇[Ⅰ]&防御力上昇[Ⅰ]"
+    "name": "Union Assault",
+    "shortDescription": "Aqua ATK UP [I] / DEF UP [I]"
   },
   "16": {
-    "name": "ユニオン・アサルト",
-    "shortDescription": "光属性の防御力上昇[Ⅱ]"
+    "name": "Union Assault",
+    "shortDescription": "Light DEF UP [II]"
   },
   "17": {
-    "name": "トリコロール・レイド",
-    "shortDescription": "木属性の攻撃力上昇[Ⅱ]"
+    "name": "Tricolor Raid",
+    "shortDescription": "Forest ATK UP [II]"
   },
   "18": {
-    "name": "トリコロール・レイド",
-    "shortDescription": "火属性の攻撃力上昇[Ⅱ]"
+    "name": "Tricolor Raid",
+    "shortDescription": "Flame ATK UP [II]"
   },
   "19": {
-    "name": "トリコロール・レイド",
-    "shortDescription": "水属性の防御力上昇[Ⅱ]&攻撃力上昇[Ⅰ]"
+    "name": "Tricolor Raid",
+    "shortDescription": "Aqua DEF UP [II] / ATK UP [I]"
   },
   "20": {
-    "name": "デュオ・レゾナンス",
-    "shortDescription": "水属性の防御力上昇[Ⅲ]&マギアダメージUP[Ⅰ]"
+    "name": "Duo Resonance",
+    "shortDescription": "Aqua DEF UP [III] / Magia Damage UP [I]"
   },
   "21": {
-    "name": "デュオ・レゾナンス",
-    "shortDescription": "火属性の攻撃力上昇[Ⅰ]&Blast ダメージUP[Ⅰ]"
+    "name": "Duo Resonance",
+    "shortDescription": "Flame ATK UP [I] / Blast Damage UP [I]"
   },
   "22": {
-    "name": "ブレイブ・クロス",
-    "shortDescription": "防御力上昇[Ⅲ]&状態異常耐性UP[Ⅱ]&Blast ダメージUP[Ⅰ]"
+    "name": "Brave Cross",
+    "shortDescription": "DEF UP [III] / Status Ailment Resistance UP [II] / Blast Damage UP [I]"
   },
   "23": {
-    "name": "エクリプス・ヴァンガード",
-    "shortDescription": "闇属性のHP自動回復[Ⅲ]&防御力上昇[Ⅲ]"
+    "name": "Eclipse Vanguard",
+    "shortDescription": "Dark HP Regen [III] / DEF UP [III]"
   },
   "24": {
-    "name": "エクリプス・ヴァンガード",
-    "shortDescription": "闇属性の攻撃力上昇[Ⅰ]&Blast ダメージUP[Ⅰ]"
+    "name": "Eclipse Vanguard",
+    "shortDescription": "Dark ATK UP [I] / Blast Damage UP [I]"
   },
   "25": {
-    "name": "ルーセント・ヴァンガード",
-    "shortDescription": "光属性のHP自動回復[Ⅲ]&防御力上昇[Ⅲ]"
+    "name": "Lucent Vanguard",
+    "shortDescription": "Light HP Regen [III] / DEF UP [III]"
   },
   "26": {
-    "name": "ルーセント・ヴァンガード",
-    "shortDescription": "光属性の攻撃力上昇[Ⅰ]&Blast ダメージUP[Ⅰ]"
+    "name": "Lucent Vanguard",
+    "shortDescription": "Light ATK UP [I] / Blast Damage UP [I]"
   },
   "27": {
-    "name": "マーメイド・デュエット",
-    "shortDescription": "水属性のHP自動回復[Ⅲ]&ダメージカット[Ⅱ]"
+    "name": "Mermaid Duet",
+    "shortDescription": "Aqua HP Regen [III] / Damage Cut [II]"
   },
   "28": {
-    "name": "マーメイド・デュエット",
-    "shortDescription": "水属性のBlast ダメージカット[Ⅳ]&HP自動回復[Ⅲ]&マギアダメージUP[Ⅲ]"
+    "name": "Mermaid Duet",
+    "shortDescription": "Aqua Blast Damage Cut [IV] / HP Regen [III] / Magia Damage UP [III]"
   },
   "29": {
-    "name": "グランディール・ストライク",
-    "shortDescription": "木属性のマギアダメージUP[Ⅱ]&攻撃力上昇[Ⅰ]"
+    "name": "Grandir Strike",
+    "shortDescription": "Forest Magia Damage UP [II] / ATK UP [I]"
   },
   "30": {
-    "name": "ガーディアン・フォース",
-    "shortDescription": "HP自動回復[Ⅱ]&防御力上昇[Ⅰ]"
+    "name": "Guardian Force",
+    "shortDescription": "HP Regen [II] / DEF UP [I]"
   },
   "31": {
-    "name": "マイティ・エシュロン",
-    "shortDescription": "攻撃力上昇[Ⅰ]&ダメージカット[Ⅰ]"
+    "name": "Mighty Echelon",
+    "shortDescription": "ATK UP [I] / Damage Cut [I]"
   },
   "32": {
-    "name": "プロミネンス・ヴァンガード",
-    "shortDescription": "火属性のHP自動回復[Ⅲ]&防御力上昇[Ⅲ]"
+    "name": "Prominence Vanguard",
+    "shortDescription": "Flame HP Regen [III] / DEF UP [III]"
   },
   "33": {
-    "name": "プロミネンス・ヴァンガード",
-    "shortDescription": "火属性の攻撃力上昇[Ⅰ]&Blast ダメージUP[Ⅰ]"
+    "name": "Prominence Vanguard",
+    "shortDescription": "Flame ATK UP [I] / Blast Damage UP [I]"
   },
   "34": {
-    "name": "ヴァルト・パラディーゾ",
-    "shortDescription": "木属性の攻撃力上昇[Ⅲ]&マギアダメージUP[Ⅱ]"
+    "name": "Wald Paradiso",
+    "shortDescription": "Forest ATK UP [III] / Magia Damage UP [II]"
   },
   "35": {
-    "name": "ヴァルト・パラディーゾ",
-    "shortDescription": "木属性のHP自動回復[Ⅲ]&状態異常耐性UP[Ⅱ]"
+    "name": "Wald Paradiso",
+    "shortDescription": "Forest HP Regen [III] / Status Ailment Resistance UP [II]"
   },
   "91": {
     "name": "Light Tercio",
-    "shortDescription": "光属性の攻撃力上昇[Ⅰ]&防御力上昇[Ⅱ]"
+    "shortDescription": "Light ATK UP [I] / DEF UP [II]"
   },
   "92": {
     "name": "Dark Tercio",
-    "shortDescription": "闇属性の攻撃力上昇[Ⅱ]&防御力上昇[Ⅰ]"
+    "shortDescription": "Dark ATK UP [II] / DEF UP [I]"
   },
   "93": {
     "name": "Tercio (Forest)",
-    "shortDescription": "木属性の攻撃力上昇[Ⅳ]"
+    "shortDescription": "Forest ATK UP [IV]"
   },
   "94": {
     "name": "Tercio (Flame)",
-    "shortDescription": "火属性の攻撃力上昇[Ⅳ]"
+    "shortDescription": "Flame ATK UP [IV]"
   },
   "95": {
     "name": "Tercio (Aqua)",
-    "shortDescription": "水属性の攻撃力上昇[Ⅳ]"
+    "shortDescription": "Aqua ATK UP [IV]"
   }
 }
