@@ -1417,7 +1417,7 @@
   },
   {
     "sectionId": 102304,
-    "areaDetailName": "那由他の家・リビング",
+    "areaDetailName": "Nayuta's House - Living Room",
     "title": "父を探して…",
     "charaName": "Nayuta Satomi",
     "message": "越してきて時間は経っても＠パパの足跡は見つからないですの",
@@ -1425,7 +1425,7 @@
   },
   {
     "sectionId": 102401,
-    "areaDetailName": "町並み",
+    "areaDetailName": "Streets",
     "title": "手がかりは交差して",
     "charaName": "Livia Medeiros",
     "message": "状況も動いてきたし＠ちょっと話を聞かせてもらうで",
@@ -1441,7 +1441,7 @@
   },
   {
     "sectionId": 102403,
-    "areaDetailName": "参京区・水徳寺・庭",
+    "areaDetailName": "Sankyo Ward - Suitoku Temple - Garden",
     "title": "古より連なる矜持",
     "charaName": "Sunao Toki",
     "message": "静香、まだ胸のモヤモヤが＠晴れないみたいですね…",
@@ -1449,7 +1449,7 @@
   },
   {
     "sectionId": 102404,
-    "areaDetailName": "屋上",
+    "areaDetailName": "Rooftop",
     "title": "地下墓地の嘆き",
     "charaName": "Iroha Tamaki",
     "message": "ひかるちゃんに＠教えてもらって来たんですか…？",
@@ -1465,178 +1465,178 @@
   },
   {
     "sectionId": 102501,
-    "areaDetailName": "南凪自由学園・教室",
-    "title": "最後の賭け",
+    "areaDetailName": "Minaminagi Liberty Academy - Classroom",
+    "title": "The Last Gamble",
     "charaName": "Eternal Sakura",
-    "message": "｜どうして先生は、＠災害の話なんてしてるのかな｜",
+    "message": "| I wonder why the Teacher is talking about the disaster. |",
     "outline": "いろはたちがういを奪還するために動く一方、那由他は父親の足取りを掴むため、伯父を訪ねに病院へと向かった。＠そこで那由他は、灯花がバカにしていたはずの父に、今では影響されているという話を聞き、出会ったアリナからは迷っているなら入口に戻れと言われる。＠意を決して、前に父から送られてきたメールの送信元を灯花に調べてもらった那由他。すると那由他が住んでいた頃に実家から送られていたことが判明。どこか捜すのを拒まれているように感じつつも、那由他に諦めるつもりはなかった。＠その翌日、病院ではみふゆが驚いていた。何故ならアリナの描く絵がミラーズの地図だと判明したからだった。"
   },
   {
     "sectionId": 102502,
-    "areaDetailName": "南凪区・コンテナターミナル",
-    "title": "繰り返すあの頃",
+    "areaDetailName": "Minaminagi Ward - Container Port",
+    "title": "Repeating Those Days",
     "charaName": "Juri Oba",
-    "message": "あいつらの話通りなら、＠そろそろ環ういが来るころだな",
+    "message": "According to those guys, it's about time for Ui Tamaki to get here.",
     "outline": "ういを奪還したいろはたち。その中で結菜が持つ仲間への強い優しさを感じ取ったいろはは、互いに被害を出さないために手を取り合う、最後の賭けに出た。＠話を聞いた結菜は、キモチを巡ってプロミストブラッドと時女一族が膠着している状況を動かすことを条件に、何が提案できるのか話を聞くと言う。＠しかし後日、代理として来たひかるとさくやに良い提案ができなかったいろは。ところが灯花とねむはソウルジェムを差し出すと、自分たちの死を提案した。＠その一方でプロミストブラッドの急所を見つけられそうだと言う令は、単独で行動をしていた。"
   },
   {
     "sectionId": 102503,
-    "areaDetailName": "竜真館",
-    "title": "決裂へのカウントダウン",
+    "areaDetailName": "Ryushinkan",
+    "title": "Countdown to Breakdown",
     "charaName": "Ryo Midori",
-    "message": "協調路線ねぇ…観鳥さんとしては＠他にも手を打っておくべきだと思うね",
+    "message": "The cooperation route, huh... I'm thinking we should try something else.",
     "outline": "いろはたちが交渉をする一方で、ういはプロミストブラッドと時女一族がキモチを巡って膠着している状況を解決した。＠結界はアイが居たウワサ空間。ホログラム相手に攻撃できず苦戦するが、一緒にいたさながアイと過ごした日々を思い出し、友だちになることでキモチへの道が開かれた。＠そして、現れた恐怖を司るキモチを相手に勝ったのは時女一族。ちはるがキモチの石を手に入れた。＠しかし同時に判明したのはいろはたちの交渉決裂。プロミストブラッドが神浜監獄へ向かうと、そこでひなのたち南の魔法少女がピンチだと知ったさなたちも向かい始める。＠続こうとする時女一族を制したのは、ネオマギウスだった。"
   },
   {
     "sectionId": 102504,
-    "areaDetailName": "大東区・神浜監獄",
-    "title": "甘美なる悲しみ",
+    "areaDetailName": "Daito Ward - Kamihama Prison",
+    "title": "Sweet Sorrow",
     "charaName": "Ao Kasane",
-    "message": "うっ…わたし、＠ちゃんとカメラ…壊せたかな…",
+    "message": "Ugh... Did I... break... the camera...",
     "outline": "プロミストブラッドとの交渉が決裂したいろはたちユニオン。その原因を溯ると８日前が始まりだった。＠令は果てなしのミラーズを介して、プロミストブラッドがショートカットして神浜に来ている話を聞くと、交渉が決裂した時を考えて動き出した。＠その中でアリナと出会い、彼女もミラーズを探っていることを知ると、令は誘いに乗って共に神浜監獄へと向かう。それを止めに入ったひなのたちも諦めて付いて行った。＠その結果、令たちは神浜監獄でアオに遭遇。結菜たちにユニオンが裏で動いていたと思われてしまい、交渉決裂の原因となった。さらにプロミストブラッドにとって急所となる情報を手に入れた令は、アオと刺し違えて倒れてしまった。"
   },
   {
     "sectionId": 102505,
-    "areaDetailName": "那由他の家・リビング",
-    "title": "別れが結んだ繋がり",
+    "areaDetailName": "Nayuta's House - Living Room",
+    "title": "The Relationship Tied by Separation",
     "charaName": "Nayuta Satomi",
-    "message": "パパは捜してもらいたくないだなんて＠そんなの認めませんのっ！",
+    "message": "To think that Papa doesn't want to be found. I won't accept it!",
     "outline": "アオと刺し違えた令の死が確認されると、郁美の悲しみに惹かれて最後のキモチが現れる。皆が苦戦する中、いろはは自分が保有するキモチ（サファイア）から力を借りて致命傷を与えると、続く郁美がトドメを刺して８つの石が揃った。＠石の奪い合いが始まる前に、プロミストブラッドがユニオンの魔法少女を纏めて殺そうとするが失敗する。それはキモチが奪い合いに参加できる魔法少女を選抜したからだった。＠その後、家に居ることを危険だと判断したみかづき荘の面々は、灯花の導きで避難先となるシェルターに向かった。＠一方の時女一族は手に入れた石をネオマギウスに奪われ、ちはるは腕を落とされる程の重傷を負っていた。"
   },
   {
     "sectionId": 102601,
-    "areaDetailName": "屋上",
-    "title": "固かったはずの信念",
+    "areaDetailName": "Rooftop",
+    "title": "Beliefs Should be Held Firm",
     "charaName": "Hikaru Kirari",
-    "message": "見つけた…！＠今度こそいただくっすよ！＠そのキモチの石！",
+    "message": "Got you...! Hikaru's got the Kimochi stone this time!",
     "outline": "ユニオンとプロミストブラッド、時女一族とネオマギウスの衝突があったその一方で、那由他は行方をくらました父の足取りを追っていた。＠父の行方を探る鍵は母にあると考えた那由他は、母の連絡先を知る灯花の父に電話をするも課題を与えられる。＠その課題を通して自身の行っていることを改めて見つめ直した那由他は母と会うことを許され、ついに対面。互いの気持ちを伝え合い、父の足跡に関する資料を受け取った。＠父の捜索に光明が刺したと思ったのもつかの間、当の父から手紙が届く。その内容は魔法少女を救うことを諦めるというものだった。"
   },
   {
     "sectionId": 102602,
-    "areaDetailName": "南凪自由学園・廊下",
-    "title": "生き抜いた証",
+    "areaDetailName": "Minaminagi Liberty Academy - Hallway",
+    "title": "Proof of Survival",
     "charaName": "Hinano Miyako",
-    "message": "まったく…＠先輩に片付けを任せるなんて＠前代未聞の後輩だな…",
+    "message": "Goodness... A senpai leaving all the work to her kouhai is practically unheard of...",
     "outline": "ユニオンと時女一族の同盟が解消された。そんな両グループの動向を知ったひめなは、これを好機と捉えて動く。＠一方の時女一族も、ひめなの通う学校を特定するとキモチの石を奪取するために攻撃を仕掛ける。しかし逆に“ゆさぶり”をかけられて取り逃がしてしまった。＠時女一族を退けたひめなは、かねてより気がかりだったアレクサンドラの怪しげな行動の理由を突き止めると、彼女が午前０時のフォークロアに所属する魔法少女だと知る。＠その頃、いろはは後戻りができない現状を見つめながら、戦いを通して目指す先が見えなくなっていることを口にした。"
   },
   {
     "sectionId": 102603,
-    "areaDetailName": "クレセントハウス・ＰＣルーム",
-    "title": "獄中の叫び",
+    "areaDetailName": "Crescent House - PC Room",
+    "title": "Screams from Prison",
     "charaName": "Nemu Hiiragi",
-    "message": "風の伝道師のウワサに手を加える…＠成否については本当に賭けだよ…",
+    "message": "Completing the Uwasa of the Wind Evangelist... We really are betting on the results...",
     "outline": "プロミストブラッドに対して攻めあぐねているいろはたちは、状況打破の切っ掛けを得るために大学図書館へ向かった。＠一方、灯花は那由他に魔法少女を広める計画の協力を打診。＠さらにひなのたちが用意した令のスマホのロックを外すと、神浜監獄の地下の写真を発見する。＠それは、いろはが大学図書館で見つけた図面と合わせることで二木市へのショートカットを攻略する糸口になった。＠そんな中、度重なるネオマギウスからの勧誘に困惑していた時女一族は、拠点である水徳寺にひめなたちの侵入を許すと、すなおとちかを奪われてしまう。"
   },
   {
     "sectionId": 102604,
-    "areaDetailName": "電車・車内",
-    "title": "心は一つ、魂も一つ",
+    "areaDetailName": "Train - Inside",
+    "title": "One Heart, One Soul",
     "charaName": "Alexandra Kurusu",
-    "message": "ひめちゃんの地元…＠私にいったい何を見せたいんだろう…",
+    "message": "Hime's hometown... Why in the world would she show me that...",
     "outline": "監獄地下で起きるユニオンとプロミストブラッドとの衝突。ユニオンの魔法少女たちの目標ははショートカットがあると思われる最深部まで鶴乃を送り出すことだった。＠図面と写真により作戦は順調に進むかと思われたが、窮地に追いやられた揚げ句、郁美とアオが接触。精神の乱れたアオはキモチに体を支配されると暴れ出した。＠両グループの協力によりアオを抑え込んだがユニオンの作戦は失敗。さらに二木と神浜を結ぶショートカットへのルートはひとつではないと判明した。＠一方、灯花とねむによってウワサを強化してもらったかごめは、リィとの対話の末に風の伝道師のウワサを完成させた。"
   },
   {
     "sectionId": 102605,
     "areaDetailName": "Daito Ward - Streets",
-    "title": "鏡の奥に映るもの",
+    "title": "What Is Seen Behind the Mirror",
     "charaName": "Mikage Yakumo",
-    "message": "遊びに行きたいな～＠姉ちゃになんてお願いしよう",
+    "message": "Mii wants to go play~ I'll go ask Sis.",
     "outline": "神浜市民会館ではすなおとちかがネオマギウスの集会に参加していた。潜入のため理念に賛同したフリをしていたふたりだったが、静香への連絡時にその嘘が露見してしまう。＠その後、会館に着く静香たちだったが、すでにホールではひめなの演説とみつねのドッペルによる認識の改竄で時女一族の洗脳が行われていた。崩壊を始める時女一族に対して、静香は壇上に立ち、時女一心流の力で仲間の目を覚まさせる。＠形成が逆転し戦いは泥沼になると思われた矢先、旭の放った弾丸がひめなのソウルジェムを撃ち抜く。死亡したと思われたひめなだったが、それもまた作戦の内だった。"
   },
   {
     "sectionId": 102701,
-    "areaDetailName": "町並み",
-    "title": "静かなる歪み",
+    "areaDetailName": "Streets",
+    "title": "Silent Distortion",
     "charaName": "Livia Medeiros",
-    "message": "これは想定してへんかった＠番狂わせやわ",
+    "message": "I wasn't expectin' this. What a surprise.",
     "outline": "『魔法少女を救うことを諦めた』そう記された父親の手紙にショックを受けた那由他。だが、父親が魔法少女を救うために記していた本を持ち出していることを知ると、再奮起して父親を探すために“湯国市”へ行く決意をした。＠その一方で果てなしのミラーズを探索していたみふゆたちは、アリナが描いたミラーズの地図が本物だと確認すると同時に、無数の株分けのミラーズと繋ぐ鏡が集められたターミナルを発見した。＠その最中に進んでいた神浜市長選では、灯花の父親が応援演説中に投石を受ける事件が起き、東の住人のせいであるという不穏な言葉が聞こえ始めていた。"
   },
   {
     "sectionId": 102702,
-    "areaDetailName": "十七夜の家・部屋",
-    "title": "光と影法師",
+    "areaDetailName": "Kanagi's House - Room",
+    "title": "The Master of Light and Dark",
     "charaName": "Kanagi Izumi",
-    "message": "自分が動かねば＠このまま皆が影に飲まれる…",
+    "message": "I have to move, otherwise everyone will be swallowed up by darkness...",
     "outline": "神浜監獄での戦いのあと廃地下鉄の存在を知ったユニオンは、プロミストブラッドが使う神浜と二木を繋ぐショートカットの位置をほぼ特定した。その後“らんか”から情報提供と、その裏付けにより廃地下鉄に攻め込んだが、相手の計略によって撤退することになり、十七夜も負傷してしまった。＠この時ユニオンは、西が東を陥れているという噂を払拭するために、両陣営からキモチに選ばれていない魔法少女を連れてきていた。だが今回の一件で逆効果となり、東の魔法少女たちに不信感を植え付ける結果になってしまった。＠同時に神浜で行われた市長選でも東西の関係に亀裂を入れるような不穏な気配が漂っていた。"
   },
   {
     "sectionId": 102703,
-    "areaDetailName": "河川敷",
-    "title": "恵みを与える子",
+    "areaDetailName": "River Bank",
+    "title": "The Girl Who Gives Blessings",
     "charaName": "Felicia Mitsuki",
-    "message": "オレ、もう居られねえ＠みんなと一緒に居ちゃダメだ…！",
+    "message": "I can't be here anymore, I can't stay with you guys...!",
     "outline": "神浜と二木を繋ぐショートカット。その正体である株分けのミラーズをプロミストブラッドが移動させないうちに、ユニオンは新たなルートからの侵入と、ターミナルにある鏡の破壊を軸にして、再び攻めようとしていた。＠ところが、レナはかつて友人だったらんかにダマされた影響で心を磨耗させ、フェリシアも親を殺した夢を見た影響で“かこ”や“あやめ”に心配されるほど、ボロボロになっており、大事をとって作戦の決行は明け方になった。＠一方、夢の中でミラーズを探索していたアリナは次の階層を見つけると、自分の中に居るのがもうひとりの自分ではなく、赤の他人であることに気付いた。"
   },
   {
     "sectionId": 102704,
-    "areaDetailName": "神浜市営霊園",
-    "title": "生きた意味",
+    "areaDetailName": "Kamihama City Cemetery",
+    "title": "The Meaning of Life",
     "charaName": "Ikumi Makino",
-    "message": "それじゃあ、行ってくるね＠令ちゃん",
+    "message": "Alright, I'll see you soon, Ryo.",
     "outline": "明け方の作戦決行の前。家を去ったフェリシアを追いかけるいろはたち。ドッペルを出したフェリシアは、親を殺したという記憶の真偽を確認するために実家に向かうと、焼け焦げた部屋を見て真実だと確信した。＠追いついたいろはたちは、自暴自棄になってキモチに体を渡そうとするフェリシアの心に入って説得した。だが、彼女の心から両親に憎まれているという思いは消えなかった。＠刹那、現れたのはフェリシアの両親の亡霊。両親から憎んでいないことや自身の名前の意味を教えてもらうと、フェリシアは生きることを決めた。その亡霊を遣わせたのは時女一族の旭の力で、彼女を呼んで来たのは、かことあやめだった。"
   },
   {
     "sectionId": 102705,
     "areaDetailName": "Coordinator's Shop",
-    "title": "砕け、滲み、滴る",
+    "title": "Break, Melt, Drip",
     "charaName": "Mitama Yakumo",
-    "message": "このまま放置してたら＠東は勘違いされたままになるわ",
+    "message": "If things stay the way they are, the east will be misunderstood.",
     "outline": "みかづき荘のメンバーが不在のまま開始した神浜と二木を結ぶショートカットを破壊する作戦。それはフェリシアを揺さぶり、十七夜を討ち、神浜の東西を分断しようとするプロミストブラッドの謀略によって混迷を極めた。＠だが、遅れたみかづき荘の助けによって十七夜は救われ、みふゆたちがターミナルからももこたちを助けたことで事無きを得る。しかし、株分けのミラーズの魔女を倒すことと引き換えに、郁美が令の遺志と共に散ってしまった。＠ショートカットを失い追い詰められたプロミストブラッド。だが、郁美のキモチの石を手にして４つが集まった。そこで判明したのは、キモチの魔女に戻りたいという真意だった。"
   },
   {
     "sectionId": 102801,
-    "areaDetailName": "スーパー",
-    "title": "ホームへの帰還",
+    "areaDetailName": "Supermarket",
+    "title": "Returning Home",
     "charaName": "Sudachi Sawa",
-    "message": "ふっふむふんむふんふん♪＠（リッヴィアさんのたっこやき♪）",
+    "message": "Fuffumufunmufunfun♪＠(Livia's Takoyaki♪)",
     "outline": "いろはたちがプロミストブラッドとの争いを繰り広げていた傍らで、かごめはみたまと共にいた。市長選挙を機に東西の関係が良くなることを願うみたまだったが、選挙での不正報道が続き、神浜市に不穏な空気が漂うのを感じ取る。＠また那由他は、父と再会の約束をするが、当日、伯父が父を監禁していると取れる会話を聞き、ラビからも嘘の情報を伝えられると、伯父や灯花に対して疑心暗鬼に陥る。＠一方、みたまは新市長と院長の密談を盗聴。そこで投石事件は西側の謀略だと知り絶望する。いくつもの想いが複雑に絡み合う中、いろはは全ての魔法少女を救いたいという想いを改めて確認して、戦いの中における自分の在り方を決めた。"
   },
   {
     "sectionId": 102802,
-    "areaDetailName": "開発地",
-    "title": "想いの坩堝",
+    "areaDetailName": "Construction Site",
+    "title": "The Crucible of Hope",
     "charaName": "Yuna Kureha",
-    "message": "さぁ、神浜市の連中を迎え撃つ＠準備を始めるわよぉ…",
+    "message": "Now, let us begin preparing to meet Kamihama in battle...",
     "outline": "追い詰められたプロミストブラッドは短期決戦に望みをかけ、最後の戦場を二木市にするべく策を巡らす。＠一方、ユニオン側では、いろはが仲間たちに敵味方関係なく全ての希望を守る決意を告白し、受け入れられる。また、神浜市での短期決戦を想定し、時女一族へ協力を取り付けるなど守りを固めていた。しかしプロミストブラッドのキモチの石を盾にした策略により二木市に行かざるを得ない状況に陥る。＠そして両陣営だけでなく戦いに参加しない者、両陣営以外の者たちも各々の想いを交錯させる中、ユニオン・時女一族とプロミストブラッドとの最終決戦が二木市で始まろうとしていた。"
   },
   {
     "sectionId": 102803,
     "areaDetailName": "Coordinator's Shop",
-    "title": "真実のパズル",
+    "title": "The Puzzle of Truth",
     "charaName": "Mikage Yakumo",
-    "message": "なぎたんが困ってる！＠ミィにできることないかな!?",
+    "message": "Nagitan's in trouble! Isn't there something Mii can do?!",
     "outline": "二木市でついに最終決戦の火蓋が切られた。＠地理的には不利なので大人数で有利を取ろうとするユニオン側。しかしプロミストブラッドはキモチが定めたルールの穴を突いて人数差までも覆す。さらには仲間と分断され、それぞれが交戦する中、窮地に追い込まれるユニオン陣営。様々な想いがぶつかり合う戦場で、アオは深く暗い考えに染まっていく。何とか合流を図ろうとするユニオンと時女一族だったが、それさえも結菜の策略の内で囲まれてしまう。＠そこへプロミストブラッドの総攻撃がいろはたちを襲った。"
   },
   {
     "sectionId": 102804,
-    "areaDetailName": "クレセントハウス・地下ホール",
-    "title": "怒りと悲しみの共鳴",
+    "areaDetailName": "Crescent House - Basement Hall",
+    "title": "Resonance of Anger and Sorrow",
     "charaName": "Shizuku Hozumi",
-    "message": "チャンスは一瞬…＠私が必ず…！",
+    "message": "This is my one chance... I won't fail...!",
     "outline": "二木市での戦いが始まる日。十七夜は仲間を守るため神浜市に残り、灯花たちは魔法少女を取り巻く不思議な現象について調べていた。その中で灯花は、父も魔法少女を世間に広める準備を整えていることを知った。その裏では、選挙による東西の関係悪化を受けて、十七夜やみたまをはじめ月咲たちに暗い影を落としていた。＠一方、二木市での開戦後クレセントハウスにて連絡を待っていた雫を狙って、プロミストブラッドの別動隊が現れる。それをみふゆやひなのが撃退する。連絡が入ると同時に雫はもう誰かの未来を奪わせないために戦場へと赴いた。"
   },
   {
     "sectionId": 102805,
-    "areaDetailName": "水族館",
-    "title": "父が見つめるもの",
+    "areaDetailName": "Aquarium",
+    "title": "What My Father Sees",
     "charaName": "Alexandra Kurusu",
-    "message": "あらあら…プロミストブラッドも＠思い切りましたね",
+    "message": "Oh my... So Promised Blood's made up their minds too.",
     "outline": "プロミストブラッドの総攻撃によりいろはたちは全滅したかに見えた。しかし割って入った雫の力により難を逃れ、さらにはプロミストブラッドの背後を取り大打撃を与える。＠勝負がついたかに見えたが、結菜は４つのキモチの石から力を借り圧倒的な暴力でいろはたちを倒していく。再び形勢が逆転したかに思えたが、戦闘の最中さくやが命を散らしたことを知り、結菜は力の制御を失う。敵味方関係なく襲う結菜を助けるべくいろはは単身立ち向かう。互いの精神に干渉しそれぞれの過去と想いを知るふたり。なんとか暴走を止めた結菜は、いろはの決意も想いも本物だと受け入れると、未来を託すことで二木市で起きた戦いは決着をみた。"
   },
   {
     "sectionId": 102901,
-    "areaDetailName": "病院",
+    "areaDetailName": "Hospital",
     "title": "Prologue",
     "charaName": "Livia Medeiros",
-    "message": "かごめちゃんのケガ＠ちゃんと治ってたらええんやけど…",
+    "message": "I hope Kagome's injuries are healin' well...",
     "outline": "二木市での熾烈な戦いはユニオンと時女一族側の勝利で幕を閉じた。そんな中、那由他はラビの誘導により灯花親子への警戒心を強めていた。＠一方の太助は灯花の父の元から逃げ出すと、那由他と再会を果たして自分が知った魔法少女について全て話そうとする。ところが、そこに到着した灯花から、灯花の父が魔法少女の存在を広めるために政治家との会合の準備を進めていると知ると、それを食い止めるために灯花の父の元に戻った。＠残された那由他は湯国市で、一般人に襲われた件を灯花に伝える。灯花はそこから太助は滅びを見ているのでは？と思考を巡らせた。"
   },
   {
     "sectionId": 102902,
-    "areaDetailName": "大東区・団地",
+    "areaDetailName": "Daito Ward - Apartment Complex",
     "title": "Union: Part 1",
     "charaName": "Mito Aino",
-    "message": "うーん…＠なんか学校に行く気になれないな…",
+    "message": "Hmmm... Somehow, I can’t find the will to go to school...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
@@ -1644,87 +1644,87 @@
     "areaDetailName": "Coordinator's Shop",
     "title": "Union: Part 2",
     "charaName": "Iroha Tamaki",
-    "message": "そこまで不信感が＠強くなっているんですね…",
+    "message": "I can't believe the distrust's gotten as intense as it has...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102904,
-    "areaDetailName": "クレセントハウス・ＰＣルーム",
+    "areaDetailName": "Crescent House - PC Room",
     "title": "Union: Part 3",
     "charaName": "Ui Tamaki",
-    "message": "あ、さなさん＠お姉ちゃん帰って来るって！",
+    "message": "Ah, Sana, Sis is coming home!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102905,
-    "areaDetailName": "あした屋",
+    "areaDetailName": "Tomorrow Shop",
     "title": "Union: Part 4",
     "charaName": "Mikage Yakumo",
-    "message": "ちゃんとお婆ちゃに＠この間のお礼を言わないとだよね！",
+    "message": "I gotta properly thank Granny for the other day!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102906,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 5",
     "charaName": "Asuka Tatsuki",
-    "message": "蔵の中をさらうのは大変ですが＠これで東西の因縁がわかるのであれば＠安いものです！",
+    "message": "Emptying the storeroom requires terrible effort, but it will have been worth it if we can understand the east-west grudge from this!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102907,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 6",
     "charaName": "Kaede Akino",
-    "message": "ほんとだ…＠かりんちゃん、無事だったんだ…！",
+    "message": "It's true... Karin's safe...!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102908,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 7",
     "charaName": "Felicia Mitsuki",
-    "message": "みんな集まってくると＠ユニオンもすげえ数だな",
+    "message": "With everyone in the Union together, our numbers are huge!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102909,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 8",
     "charaName": "Yachiyo Nanami",
-    "message": "古い文献から＠東西の関係を修復する材料が＠見つかれば良かったけど…",
+    "message": "Would've been nice if we found something to help restore east-west relations in that old document, but...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102910,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 9",
     "charaName": "Yuna Kureha",
-    "message": "私たちが仲間になったと思っている＠その勘違いはやめなさぃ",
+    "message": "Make no mistake. We are not friends.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102911,
-    "areaDetailName": "竜真館",
+    "areaDetailName": "Ryushinkan",
     "title": "Union: Part 10",
     "charaName": "Mifuyu Azusa",
-    "message": "やっちゃん、ここはなるべく＠スマートに終わらせましょう！",
+    "message": "Yacchan, let's try to end this in the smartest way we can!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102912,
-    "areaDetailName": "竜ケ崎の拠点",
+    "areaDetailName": "Ryugasaki's Base",
     "title": "Promised Blood: Part 1",
     "charaName": "Juri Oba",
-    "message": "おいおいこのノリ…＠まさか打ち切りじゃねーだろーな…",
+    "message": "Oi oi, what's with this... It better not be canceled...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102913,
-    "areaDetailName": "生徒会室",
+    "areaDetailName": "Student Council Room",
     "title": "Promised Blood: Part 2",
     "charaName": "Yuna Kureha",
-    "message": "落ち着いて生徒会の仕事をするのも＠久しぶりな気がするわぁ",
+    "message": "It feels so long since I've been able to calmly do student council work.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
@@ -1732,31 +1732,31 @@
     "areaDetailName": "Outer Road",
     "title": "Promised Blood: Part 3",
     "charaName": "Hikaru Kirari",
-    "message": "なんだか樹里さんが＠また何かやらかしそうな＠気がするっす！",
+    "message": "It feels like Juri's gonna do something again!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102915,
-    "areaDetailName": "竜ケ崎の拠点",
+    "areaDetailName": "Ryugasaki's Base",
     "title": "Promised Blood: Part 4",
     "charaName": "Ranka Chizu",
-    "message": "ちょっとはアタシのことも考えてよ！",
+    "message": "Think about me for a minute here!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102916,
-    "areaDetailName": "カタコンベ",
+    "areaDetailName": "Catacombs",
     "title": "Promised Blood: Part 5",
     "charaName": "Juri Oba",
-    "message": "さーて、この機会に＠溜まったもんを発散させてもらうぞ",
+    "message": "Now then, Juri the Great'll take this opportunity to vent some of this pent-up frustration.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102917,
-    "areaDetailName": "カタコンベ",
+    "areaDetailName": "Catacombs",
     "title": "Promised Blood: Part 6",
     "charaName": "Iroha Tamaki",
-    "message": "あれ…これってもしかして＠私、タイミング悪かったみたい…？",
+    "message": "Oh...did I maybe come in at a bad time...?",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
@@ -1764,68 +1764,68 @@
     "areaDetailName": "Outer Road",
     "title": "Promised Blood: Part 7",
     "charaName": "Hikaru Kirari",
-    "message": "えっ、いや、結菜さん！＠アオさんから殺気なんて…！",
+    "message": "Eh— no way, Yuna! Ao can't possibly be trying to kill you...!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102919,
-    "areaDetailName": "生徒会室",
+    "areaDetailName": "Student Council Room",
     "title": "Promised Blood: Part 8",
     "charaName": "Yuna Kureha",
-    "message": "監視を付けているとは言っても＠アオも頭が回るのよねぇ…",
+    "message": "Ao is under surveillance, and yet her head is still going places...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102920,
-    "areaDetailName": "蛇の宮の拠点",
+    "areaDetailName": "Janomiya's Base",
     "title": "Promised Blood: Part 9",
     "charaName": "Ao Kasane",
-    "message": "そろそろ身のフリを＠決めちゃわないとね～",
+    "message": "It's about time to pretend I'm myself, huh~",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102921,
-    "areaDetailName": "神浜市営霊園",
+    "areaDetailName": "Kamihama City Cemetery",
     "title": "Promised Blood: Part 10",
     "charaName": "Juri Oba",
-    "message": "墓場に来るだなんて＠なんのつもりだよ姉さん",
+    "message": "What're we doin' comin' to a graveyard, Sis?",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102922,
-    "areaDetailName": "水徳寺・広間",
+    "areaDetailName": "Suitoku Temple - Hall",
     "title": "Tokime Clan: Part 1",
     "charaName": "Yozuru Sasame",
-    "message": "どうやら時女一族も＠これからの方針を決めたようですね",
+    "message": "It seems the Tokime Clan has also decided on a plan for the future.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102923,
-    "areaDetailName": "水徳寺・広間",
+    "areaDetailName": "Suitoku Temple - Hall",
     "title": "Tokime Clan: Part 2",
     "charaName": "Ryoko Natsu",
-    "message": "本家たちは集落に向かったけど＠あんたはどうするんだ？",
+    "message": "The head family's headed to their village, but what are you gonna do?",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102924,
-    "areaDetailName": "水徳寺・部屋",
+    "areaDetailName": "Suitoku Temple - Room",
     "title": "Tokime Clan: Part 3",
     "charaName": "Chika Aoba",
-    "message": "旭さんの傷もだいぶよくなりましたね＠安心しました…",
+    "message": "Asahi's wounds have gotten much better. I'm so relieved...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102925,
-    "areaDetailName": "時女集落・道",
+    "areaDetailName": "Tokime Village - Pathway",
     "title": "Tokime Clan: Part 4",
     "charaName": "Sunao Toki",
-    "message": "はぁ…生まれ育った場所が近付くと＠なんだか落ち着いてきますね",
+    "message": "*Sigh*... It's kind of calming once you get closer to the place you were born and raised.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102926,
-    "areaDetailName": "部屋",
+    "areaDetailName": "Room",
     "title": "Tokime Clan: Part 5",
     "charaName": "Shizuka Tokime",
     "message": "…",
@@ -1833,58 +1833,58 @@
   },
   {
     "sectionId": 102927,
-    "areaDetailName": "時女集落・道",
+    "areaDetailName": "Tokime Village - Pathway",
     "title": "Tokime Clan: Part 6",
     "charaName": "Chiharu Hiroe",
-    "message": "よぉし、準備はできたよ！＠静香ちゃん、すなおちゃん！＠いざ湯国市へ！",
+    "message": "All right, I'm all set! Shizuka, Sunao! We're off to Yukuni City!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102928,
-    "areaDetailName": "湯国市・町並み",
+    "areaDetailName": "Yukuni City - Streets",
     "title": "Tokime Clan: Part 7",
     "charaName": "Chiharu Hiroe",
-    "message": "ううん…やっぱり変だよぅ…＠近くからにおう気がする…！",
+    "message": "Hmm...something's definitely weird... The smell's somewhere nearby...!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102929,
-    "areaDetailName": "湯国市・森",
+    "areaDetailName": "Yukuni City - Woods",
     "title": "Tokime Clan: Part 8",
     "charaName": "Sunao Toki",
-    "message": "ダメです静香！＠手を上げちゃいけません!!",
+    "message": "Stop this, Shizuka! Do not raise your hand against them!!",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102930,
-    "areaDetailName": "水徳寺・広間",
+    "areaDetailName": "Suitoku Temple - Hall",
     "title": "Tokime Clan: Part 9",
     "charaName": "Shizuka Tokime",
-    "message": "ただいま…＠今、戻ったわよ…",
+    "message": "I'm home... I'm back now...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102931,
-    "areaDetailName": "水徳寺・庭",
+    "areaDetailName": "Suitoku Temple - Garden",
     "title": "Tokime Clan: Part 10",
     "charaName": "Shizuka Tokime",
-    "message": "もしも気のせいでなければ＠きっと旭は今日…",
+    "message": "Was it my imagination, or today is Asahi...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102932,
-    "areaDetailName": "水族館",
+    "areaDetailName": "Aquarium",
     "title": "Folklore: Part 1",
     "charaName": "Alexandra Kurusu",
-    "message": "状況は大きく動きました＠みんなの確認をしないといけませんね",
+    "message": "The situation has changed dramatically. We need to check on everyone.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102933,
-    "areaDetailName": "水族館",
+    "areaDetailName": "Aquarium",
     "title": "Folklore: Part 2",
     "charaName": "Livia Medeiros",
-    "message": "灯花ちゃんのおとんからすれば＠えらい手のひら返しやからなぁ",
+    "message": "From Touka's point of view, it's quite the turnaround.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
@@ -1892,143 +1892,143 @@
     "areaDetailName": "Hospital - Ward",
     "title": "Folklore: Part 3",
     "charaName": "Touka Satomi",
-    "message": "あれ、もしかして叔父様かにゃ？",
+    "message": "Huh, could that be Uncle?",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102935,
-    "areaDetailName": "那由他の家・リビング",
+    "areaDetailName": "Nayuta's House - Living Room",
     "title": "Folklore: Part 4",
     "charaName": "Nayuta Satomi",
-    "message": "もしかたらパパ＠また伯父様に捕まったのかも…",
+    "message": "Perhaps Papa was taken by Uncle again...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102936,
-    "areaDetailName": "那由他の家・リビング",
+    "areaDetailName": "Nayuta's House - Living Room",
     "title": "Folklore: Part 5",
     "charaName": "Nayuta Satomi",
-    "message": "パパがいなくなった理由＠何を聞いても私は驚かないですの",
+    "message": "I would not be the least bit surprised to hear why Papa is gone.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102937,
-    "areaDetailName": "那由他の家・リビング",
+    "areaDetailName": "Nayuta's House - Living Room",
     "title": "Folklore: Part 6",
     "charaName": "Nayuta Satomi",
-    "message": "もっとパパには＠私を信用して欲しかったんですの",
+    "message": "I only wanted you to trust me more, Papa.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102938,
-    "areaDetailName": "那由他の家・リビング",
+    "areaDetailName": "Nayuta's House - Living Room",
     "title": "Folklore: Part 7",
     "charaName": "Nayuta Satomi",
-    "message": "ラビさんがいないとひとりだった＠ラビさんが居てくれたから＠私は安心できて、信頼していたのに…",
+    "message": "I was alone without you, Rabi. I was at ease with you by my side, Rabi. I trusted you...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102939,
-    "areaDetailName": "那由他の家・部屋",
+    "areaDetailName": "Nayuta's House - Room",
     "title": "Folklore: Part 8",
     "charaName": "Livia Medeiros",
-    "message": "ようやくお目覚めやな＠相変わらず邪魔させてもらってるで",
+    "message": "Up and at 'em, are ya. As always, hope ya don't mind me intruding.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102940,
-    "areaDetailName": "水族館",
+    "areaDetailName": "Aquarium",
     "title": "Folklore: Part 9",
     "charaName": "Alexandra Kurusu",
-    "message": "みんなそろうことができましたね＠ラビちゃん",
+    "message": "We got everyone together, Rabi.",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
     "sectionId": 102941,
-    "areaDetailName": "公民館・部屋",
-    "title": "Neomagius: Part 1",
+    "areaDetailName": "Community Center - Room",
+    "title": "Neo-Magius: Part 1",
     "charaName": "Shigure Miyabi",
-    "message": "なんだかぼく…＠このメンバーと一緒なら＠目的を果たせる気がする…",
+    "message": "It feels like...with these members I can achieve my goal...",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102942,
-    "areaDetailName": "公民館・部屋",
-    "title": "Neomagius: Part 2",
+    "areaDetailName": "Community Center - Room",
+    "title": "Neo-Magius: Part 2",
     "charaName": "San Kagura",
-    "message": "私たちの作戦は肝心な部分に穴がある＠このままじゃダメよ、姫様",
+    "message": "A key part in our strategy has a glaring hole in it. We cannot leave it as is, Princess.",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102943,
     "areaDetailName": "Park",
-    "title": "Neomagius: Part 3",
+    "title": "Neo-Magius: Part 3",
     "charaName": "Alexandra Kurusu",
-    "message": "ひめちゃんが自分で諦念へ進むのなら＠私がとめないと…",
+    "message": "If Hime gives up on her own, then I won't stop her...",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102944,
-    "areaDetailName": "橋",
+    "areaDetailName": "Bridge",
     "title": "Mikage: Part 1",
     "charaName": "Mitama Yakumo",
-    "message": "嫌だわ…紛らわせる音がないと＠悪夢のように過去がよみがえる…",
+    "message": "I hate this... When there's no noise to distract me, the past comes back to me like a nightmare...",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102945,
-    "areaDetailName": "あした屋",
+    "areaDetailName": "Tomorrow Shop",
     "title": "Mikage: Part 2",
     "charaName": "Mikage Yakumo",
-    "message": "どうしよ…＠姉ちゃとなぎたんに見られちゃった…",
+    "message": "What to do... Sis and Nagitan saw...",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102946,
-    "areaDetailName": "果てなしのミラーズ",
+    "areaDetailName": "Endless Mirrors",
     "title": "Alina: Part 1",
     "charaName": "Alina Gray",
-    "message": "アリナの中にいたのは＠もうひとりのアリナじゃなかった…＠なら、誰なワケ？",
+    "message": "Inside Alina was not another Alina... Then, who is this?",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102947,
-    "areaDetailName": "果てなしのミラーズ",
+    "areaDetailName": "Endless Mirrors",
     "title": "Alina: Part 2",
     "charaName": "Karin Misono",
-    "message": "アリナ先輩にだけ聞こえてる声…＠いったい誰なの…？",
+    "message": "A voice that only Alina-senpai can hear... Just who could it be...?",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102948,
-    "areaDetailName": "果てなしのミラーズ",
+    "areaDetailName": "Endless Mirrors",
     "title": "Alina: Part 3",
     "charaName": "Alina Gray",
-    "message": "アナタが何者で、どうやって＠アリナの中に入ってきたのか＠アンサーを全部見せてヨネ",
+    "message": "You will show me, Alina, all answers to who you are and how you got inside Alina, NOW.",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102949,
-    "areaDetailName": "果てなしのミラーズ",
+    "areaDetailName": "Endless Mirrors",
     "title": "Alina: Part 4",
     "charaName": "Karin Misono",
-    "message": "わたし…アリナ先輩の中の人…＠見えちゃったの…",
+    "message": "I...I saw her... The person inside Alina-senpai...",
     "outline": "ユニオン側とプロミストブラッドが手を結ぼうとする中、今までの軋轢が原因で、両陣営共に内部では意見が割れていた。しかしユニオン側は結菜が、プロミストブラッド側はいろはが想いを伝えることで、一旦の収束をみる。＠一方、旭の古傷の真相を探るべく、彼女の故郷である湯国市に向かった静香たち。そこで魔法少女を知る一般人からの悪意を知ると、静香はある想いを固めることにした。＠その頃、那由他は再会した父から、魔法少女の存在を広めることが絶望に繋がるという仮説を伝えられる。そして、仮説を深く知るために湯国市へ向かおうとするが、同時に灯花から魔法少女を世間に広める方法が完成したと連絡が届いた。"
   },
   {
     "sectionId": 102950,
-    "areaDetailName": "クレセントハウス・リビング",
+    "areaDetailName": "Crescent House - Living Room",
     "title": "Intermission",
     "charaName": "Yachiyo Nanami",
-    "message": "キモチの石が８つ集まる…＠ようやくホッと息がつけそうね…",
+    "message": "The Eight Kimochi stones will be gathered... We can finally breathe easy...",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102951,
-    "areaDetailName": "町並み",
+    "areaDetailName": "Streets",
     "title": "Everyone: Part 1",
     "charaName": "Livia Medeiros",
-    "message": "ほんで、あんたの方は＠そんな悠長に構えててええんかいな",
+    "message": "And aren't you just takin' things nice 'n easy.",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
@@ -2036,63 +2036,63 @@
     "areaDetailName": "Coordinator's Shop",
     "title": "Everyone: Part 2",
     "charaName": "Momoko Togame",
-    "message": "ったく調整屋も十七夜さんも＠なにを考えてるんだよ…！",
+    "message": "Geez, the hell are the Coordinator and Kanagi thinking...!",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102953,
-    "areaDetailName": "理科実験室",
+    "areaDetailName": "Science Laboratory",
     "title": "Everyone: Part 3",
     "charaName": "Hinano Miyako",
-    "message": "確かに、今はみんなで＠足並みをそろえた方がいいだろうな…",
+    "message": "You're right, it'd be better getting everyone on the same page here...",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102954,
-    "areaDetailName": "キモチの結界",
+    "areaDetailName": "Kimochi Labyrinth",
     "title": "Everyone: Part 4",
     "charaName": "Iroha Tamaki",
-    "message": "ど、どうしてキモチが!?＠みんな、ういを狙ってる…!?",
+    "message": "W-what's wrong with the Kimochi?! They're all going after Ui...?!",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102955,
-    "areaDetailName": "キモチの結界",
+    "areaDetailName": "Kimochi Labyrinth",
     "title": "Everyone: Part 5",
     "charaName": "Kanagi Izumi",
-    "message": "今はキモチを石に戻すのが最優先だ＠まさか本当に暴れ出すとは…",
+    "message": "Right now, getting the Kimochi back to their stones is top priority. For them to just go on a rampage like this...",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102956,
-    "areaDetailName": "南凪区・海浜公園",
+    "areaDetailName": "Minaminagi Ward - Seaside Park",
     "title": "Everyone: Part 6",
     "charaName": "Iroha Tamaki",
-    "message": "まさかキュゥべえを遮る被膜も＠失われたっていうこと…？",
+    "message": "Does this mean that the barrier that blocked out Kyubey is gone too...?",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102957,
-    "areaDetailName": "南凪区・海浜公園",
+    "areaDetailName": "Minaminagi Ward - Seaside Park",
     "title": "Everyone: Part 7",
     "charaName": "Ui Tamaki",
-    "message": "わたしだけが自動浄化システムを＠手に入れられる…",
+    "message": "I'm the only one who can get into the Automatic Purification System...",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102958,
-    "areaDetailName": "南凪区・海浜公園",
+    "areaDetailName": "Minaminagi Ward - Seaside Park",
     "title": "Everyone: Part 8",
     "charaName": "Mikage Yakumo",
-    "message": "うそだ…ダメだよ姉ちゃ…＠悪い気持ちに負けないで…お願い…！",
+    "message": "It can't be... Don't do it, Sis... Don't let your bad thoughts win... Please...!",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 102959,
-    "areaDetailName": "南凪区・海浜公園",
+    "areaDetailName": "Minaminagi Ward - Seaside Park",
     "title": "Everyone: Part 9",
     "charaName": "Iroha Tamaki",
-    "message": "藍家さん…あなたはいったい＠何を考えてるんですか…",
+    "message": "Miss Aika... What in the world are you thinking...",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
@@ -2100,12 +2100,12 @@
     "areaDetailName": "Eternal Sakura",
     "title": "Everyone: Part 10",
     "charaName": "Nemu Hiiragi",
-    "message": "みんなよく来てくれたね",
+    "message": "I'm glad you all made it.",
     "outline": "いろはたちが手を取り合う以前のこと、裏では動きがあった。１つ目はネオマギウス。彼女たちは藍家ひめなの死を偽装し、力を蓄えていた。ひめなの計画で多くの犠牲が出ることを恐れたサーシャは、自分か計画遂行かを天秤にかけさせる。だが、ひめなは止まらないことを選んだ。＠２つ目はみたまと十七夜。東西の関係が悪化した中で、みかげが西の人間にいじめられている姿を目撃。今まで多くの理不尽に耐えてきたふたりは、ついに限界を迎えた。＠３つ目はアリナ。かりんが語ったのは、アリナが記憶を取り戻した話と、その記憶を隠していた意識だけを残す瀬奈みことという魔法少女の話。彼女は滅びを望んでいた。"
   },
   {
     "sectionId": 103001,
-    "areaDetailName": "水徳寺・広間",
+    "areaDetailName": "Suitoku Temple - Hall",
     "title": "決意の香り",
     "charaName": "Iroha Tamaki",
     "message": "あれからキモチの石に変化はないけど＠もう、暴走しないのかな…？",
@@ -2113,7 +2113,7 @@
   },
   {
     "sectionId": 103002,
-    "areaDetailName": "ケアトレーラー・車内",
+    "areaDetailName": "Care Trailer - Inside",
     "title": "水面下の足音",
     "charaName": "Livia Medeiros",
     "message": "捜してる人はうちに集まる…＠確かに間違ってへんかもな",
@@ -2121,7 +2121,7 @@
   },
   {
     "sectionId": 103003,
-    "areaDetailName": "水徳寺・広間",
+    "areaDetailName": "Suitoku Temple - Hall",
     "title": "語られた目的",
     "charaName": "Shizuka Tokime",
     "message": "もう一度、話を聞いてちょうだい",
@@ -2129,7 +2129,7 @@
   },
   {
     "sectionId": 103004,
-    "areaDetailName": "北養区・町並み",
+    "areaDetailName": "Hokuyo Ward - Streets",
     "title": "魔法少女至上主義へ",
     "charaName": "San Kagura",
     "message": "これで材料はそろった＠あとは実行に移すだけよ",
@@ -2137,7 +2137,7 @@
   },
   {
     "sectionId": 103005,
-    "areaDetailName": "電車・車内",
+    "areaDetailName": "Train - Inside",
     "title": "見えざる意思",
     "charaName": "Nayuta Satomi",
     "message": "…灯花…どうして…",
@@ -2145,7 +2145,7 @@
   },
   {
     "sectionId": 103101,
-    "areaDetailName": "電車・車内",
+    "areaDetailName": "Train - Inside",
     "title": "思惑の糸を探って",
     "charaName": "Nayuta Satomi",
     "message": "魔法少女の存在が広く知れ渡るかも…＠そのとき、宇宙の意思が働くか＠この戦いにかかってますの…",
@@ -2169,7 +2169,7 @@
   },
   {
     "sectionId": 103104,
-    "areaDetailName": "湯国市駅",
+    "areaDetailName": "Yukuni City Train Station",
     "title": "怒りが生んだ感情の末",
     "charaName": "Hikaru Kirari",
     "message": "うぅ…＠速いのはいいんすけど…＠寒すぎるっすよ…",
@@ -2177,9 +2177,9 @@
   },
   {
     "sectionId": 103105,
-    "areaDetailName": "北養区・展望台",
+    "areaDetailName": "Hokuyo Ward - Observation Deck",
     "title": "哀歌は倫理を飛び越える",
-    "charaName": "三浦 旭",
+    "charaName": "Asahi Miura",
     "message": "本当に何も起きない…＠もしかしたら我々は＠救われるかもしれないであります…",
     "outline": "アオを止めるため、湯国市に来た結菜たち。既にくららたち撲滅派はアオたちに囚われていたが、アオの暴走に耐えかねた他のメンバーによりくららたちは解放される。＠さらに、結菜たちはキモチの石を使ってアオの精神に入ると、彼女の心を正常に戻すためにあるゲームを提案する。それはアオを０歳から14歳まで育てる中で、恐怖の感情を守り切れるかというものだった。14年という時の中で、アオの育児とキモチとの攻防に悪戦苦闘する結菜たちは、アオに恐怖を守りきって心を治すと精神空間から脱出する。＠そこに、ひめなからネオマギウス全体へ宛てたメッセージが、アオに届く。それは神浜市から出るようにという指示だった。"
   },
@@ -2193,7 +2193,7 @@
   },
   {
     "sectionId": 103202,
-    "areaDetailName": "海",
+    "areaDetailName": "Ocean",
     "title": "喜びで終わる世界へ",
     "charaName": "Livia Medeiros",
     "message": "船で渡ったら本州や…＠そしたら劇団の悪行を訴えたる…",
@@ -2201,7 +2201,7 @@
   },
   {
     "sectionId": 103203,
-    "areaDetailName": "果てなしのミラーズ",
+    "areaDetailName": "Endless Mirrors",
     "title": "悲しみと滅びの歴史",
     "charaName": "Karin Misono",
     "message": "改心させないとなのに＠アリナ先輩が見つからないの…",
@@ -2209,7 +2209,7 @@
   },
   {
     "sectionId": 103204,
-    "areaDetailName": "自動浄化システム・コア",
+    "areaDetailName": "Automatic Purification System - Core",
     "title": "諦念にようこそ",
     "charaName": "Rabi Himuro",
     "message": "みんなの死で終わりはしない…＠未来を見ていてもいいんだ…",
@@ -2225,7 +2225,7 @@
   },
   {
     "sectionId": 103301,
-    "areaDetailName": "自動浄化システム・内部",
+    "areaDetailName": "Automatic Purification System - Interior",
     "title": "鏡に映る滅びの景色",
     "charaName": "Ui Tamaki",
     "message": "わたしたちが望み続けた未来って＠これで守られたのかな…？",
@@ -2233,7 +2233,7 @@
   },
   {
     "sectionId": 103302,
-    "areaDetailName": "ケアトレーラー",
+    "areaDetailName": "Care Trailer",
     "title": "誰も生まれない世界",
     "charaName": "Himena Aika",
     "message": "これで鏡は全部消えたし＠ワンチャン魔女だって倒せるって",
@@ -2257,7 +2257,7 @@
   },
   {
     "sectionId": 103305,
-    "areaDetailName": "鏡の魔女の結界",
+    "areaDetailName": "Mirror Witch's Labyrinth",
     "title": "それなら奇跡を見せて",
     "charaName": "Shizuka Tokime",
     "message": "必ず未来はこの手でつかむ！＠里見さんたちの力は無駄にしないわ！",
@@ -2274,57 +2274,57 @@
   {
     "sectionId": 103401,
     "areaDetailName": "Eternal Sakura",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Kagome Satori",
-    "message": "違和感を覚えて来たけど…＠なんだろう…胸がざわつく…",
+    "message": "I'm starting to feel uncomfortable... But why... my heart is pounding...",
     "outline": "自身の存在を削ることにより、ウワサとなった魔法少女たちを元に戻したいろは。しかし、その影響で彼女は魔法少女だけが記憶する存在となり、この世界から姿を消してしまった。魔法少女を魔女化のくびきから解放する“自動浄化システム”を世界に残して…。＠それからしばらく…世界に広がった自動浄化システムは問題なく魔法少女の穢れを回収し続け、いろはと交流のあった魔法少女たちも新たな日々を過ごしていた。＠ところが、少しずつ異変が起き始める…。"
   },
   {
     "sectionId": 103402,
     "areaDetailName": "Eternal Sakura",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Kanagi Izumi",
-    "message": "自分も急いで来たんだ＠着替える時間がなくても＠おかしくはないだろう",
+    "message": "I was in a rush as well. You wouldn't find it funny if you had no time to change clothes either.",
     "outline": "「自動浄化システムが正常に動いてない…？」＠違和感を覚えたかごめは、万年桜のうわさに足を運ぶとやちよと遭遇。続けて桜子から受け取った本からウワサになったねむが現れると、彼女から異変に関する真相を聞いた。＠それは、自動浄化システムが不安定になったのは、いろはが過去の魔法少女の記録を集めに行った結果、“自身の概念を崩してしまって消えかかっている”ことが原因だということ。＠事態を知ったかごめとやちよは方々に情報を拡散。そして、かつていろはと関わった各グループの魔法少女たちが集うと、彼女たちは“いろはの概念”を集めるために“魂の器”を持ち、各時代に繋がる“鏡”を通って概念の回収に向かった。"
   },
   {
     "sectionId": 103403,
     "areaDetailName": "Eternal Sakura",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Mitama Yakumo",
-    "message": "これは…＠わたしたちが思っていた以上に＠消耗するかもしれないわ…",
+    "message": "This...may be more draining than we thought it would be...",
     "outline": "現代に残ったやちよとフェリシアが倒れたいろはに魔力を供給する中、アルちゃんから話を聞いた魔法少女たちが続々と万年桜のうわさに集まる。＠彼女たちは“鏡を破壊すれば過去の改ざんはリセットされる”という鏡の仕組みを利用しようとしたが、いろはの魂に影響がでる恐れがあり、実行には移せなかった。＠そこで、自身の考えを述べようとするやちよ。ところが、いろはの維持に必要な魔力が膨大で、こんどはやちよが倒れてしまう。事態の悪化に動揺が広がる中、現れたのはピュエラケア。彼女たちは、いろはを維持するために力を貸してくれることになった。"
   },
   {
     "sectionId": 103404,
     "areaDetailName": "Eternal Sakura",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Kagome Satori",
-    "message": "みんな、いろはさんのために動いてる＠それなのに、私は…",
+    "message": "Everyone is working for Iroha's sake. And yet, I...",
     "outline": "ピュエラケアとみたまがいろはを維持するために魔力を供給する中、目を覚ましたやちよ。彼女がいろはを救うために提案したのは、現代でいろはの概念を集める方法。以前、いろはは魂を削って魔法少女たちをウワサから元に戻したので、いろははみんなの周りにいると考えていた。＠ところが、集まった魔法少女からいろはの概念は回収できず、やちよとフェリシアが鏡の魔女と戦った場所にいろはの概念があると想定して動き始めると、他の魔法少女たちもグリーフシードを捜しに向かった。＠そして残った者たちは、マギアレコードにある本を使い、いろはと共にある“瀬奈みこと”から話を聞くことにした。"
   },
   {
     "sectionId": 103405,
-    "areaDetailName": "大東区・池",
-    "title": "現代神浜編",
+    "areaDetailName": "Daito Ward - Pond",
+    "title": "Present Day Kamihama",
     "charaName": "Yachiyo Nanami",
-    "message": "いろはが姿を消した場所なら＠概念を回収できるかもしれない",
+    "message": "If this is where Iroha disappeared, we may be able to recover her concept.",
     "outline": "みんなが、グリーフシードを手に入れるために魔女を捜しに行く中、体の張りどころのなく、嘆いているかごめ。＠ところが、桜子が“瀬奈みこと”の本を持って戻ってくると、かごめは自身の“情報を収集する力”を使って、みことがいろはを裏切っていないか内容を探ることになった。＠しかし、記録されたみことの逆鱗に触れたかごめは、本の中に捕われてしまう。＠そこで彼女が知ったのは、みことはいろはを裏切るどころか力を貸しているということ。そして、万年桜のうわさの中に、魔女が気づかずに存在しているということだった。"
   },
   {
     "sectionId": 103406,
     "areaDetailName": "Eternal Sakura",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Felicia Mitsuki",
-    "message": "マジか…＠魂の器に入っていったのって＠いろはの概念だよな…？",
+    "message": "Seriously... That's Iroha's concept that went into the soul vessel, ain't it...?",
     "outline": "やちよたちは、いろはの概念を見つけるために、鏡の魔女と戦った大東区の湖を訪れていた。だが、魂の器に反応はなく、やちよは自分が犠牲になればと悔やむだけだった。＠その後、万年桜のうわさに戻ったやちよたちは、かごめから魔女が侵入していると知らされると、急いで撃破に向かう。＠結果、相手は使い魔だったが、撃破すると魂の器にいろはの概念が戻る…。これらの事実から判明したのは、使い魔がいろはの概念を奪っていることと、調整に使う魔力の塊の影響で、その使い魔にやちよたちが気づきにくい状態になっているということだった。"
   },
   {
     "sectionId": 103407,
     "areaDetailName": "象徴の魔女の結界",
-    "title": "現代神浜編",
+    "title": "Present Day Kamihama",
     "charaName": "Yachiyo Nanami",
-    "message": "奪ったものは返してもらうわよ！＠いろはを好きにはさせないわ！",
+    "message": "You're going to give back what you stole! I won't let you do what you want with Iroha!",
     "outline": "いろはの概念を奪っていた使い魔。その親である魔女について話を聞いたかごめは、詳細をやちよたちに説明した。＠それによると、魔女は古代から現代にかけて生き延びているばかりか、子機のような自分の分体をばらまいた上で、その分体を時空を越えて操る能力を持っているらしい。＠今は大きく過去を改竄する力のない魔女だが、いろはの概念を得て力が増幅してしまえば、魔女の都合で過去を変えられる状態になる可能性は否めない。＠危機感を抱いたやちよたちは、魔女の本体がいる水名城へと向かい、それを倒していろはの概念を回収することにした。＠その一方で、過去へ行った魔法少女たちが戻り始める。"
   },
   {
@@ -2343,13 +2343,13 @@
     "sectionId": 103601,
     "title": "Mirage of Alexandria",
     "charaName": "Shizuka Tokime",
-    "message": "We have work to do...@That's why we come this far."
+    "message": "We have work to do...＠That's why we come this far."
   },
   {
     "sectionId": 103602,
     "title": "Mirage of Alexandria",
     "charaName": "Ebony",
-    "message": "I've made it too far to turn back...@That's means I can't give up now...!"
+    "message": "I've made it too far to turn back...＠That's means I can't give up now...!"
   },
   {
     "sectionId": 103701,
@@ -2379,13 +2379,13 @@
     "sectionId": 103901,
     "title": "Heiress of Yamatai",
     "charaName": "Toyo",
-    "message": "I have this strange feeling...@Let's see what my fortune says!"
+    "message": "I have this strange feeling...＠Let's see what my fortune says!"
   },
   {
     "sectionId": 103902,
     "title": "Heiress of Yamatai",
     "charaName": "Toyo",
-    "message": "Those happy days I dreamed of...@They're not so easy to grasp..."
+    "message": "Those happy days I dreamed of...＠They're not so easy to grasp..."
   },
   {
     "sectionId": 104001,
@@ -2397,7 +2397,7 @@
     "sectionId": 104002,
     "title": "Sweetheart of Pax Romana",
     "charaName": "Amaryllis",
-    "message": "The sky turned black on that day of calamity...@...Such tragedy must never strike again!"
+    "message": "The sky turned black on that day of calamity...＠...Such tragedy must never strike again!"
   },
   {
     "sectionId": 104003,
@@ -2583,17 +2583,17 @@
   },
   {
     "sectionId": 104240,
-    "title": "困難級",
+    "title": "Difficult",
     "charaName": "Heruka"
   },
   {
     "sectionId": 104250,
-    "title": "窮地級",
+    "title": "Perilous",
     "charaName": "Heruka"
   },
   {
     "sectionId": 104260,
-    "title": "絶望級",
+    "title": "Despair",
     "charaName": "Heruka"
   },
   {
@@ -2839,190 +2839,190 @@
   {
     "sectionId": 207101,
     "areaDetailName": "Park",
-    "title": "平穏の終わりは襲撃から",
+    "title": "The Peace That Ended Because of the Attack",
     "charaName": "Kako Natsume",
-    "message": "フェリシアちゃんとあやめちゃんと＠集まって遊ぶ…＠ずっとこんな日々ならいいのに…",
+    "message": "Getting together to play with Felicia and Ayame... I wish I could always enjoy days like this...",
     "outline": "神浜市を大災害に巻き込んだ魔女との戦いを終え、マギウスの翼も無くなったあと、神浜市の魔法少女たちは“神浜マギアユニオン”という互助組織を結成していた。＠多くの魔法少女が参加する中、一部の魔法少女は、それぞれの理由から参加を見送り、グループからは一定の距離を保ってきた。＠ところが、神浜市外からやってきた魔法少女たちが牙を剥いたことで、彼女たちはひとつの決断を迫られることになる。"
   },
   {
     "sectionId": 207102,
     "areaDetailName": "Café",
-    "title": "惑っても自分の意思で…",
+    "title": "Even If I'm Unsure, It's Still My Choice...",
     "charaName": "Nanaka Tokiwa",
-    "message": "厄介なことになりつつあるようです＠…そちらも心当たりが＠あるようですね？",
+    "message": "It appears things are about to get worse. ...You have some idea about this, don't you?",
     "outline": "見知らぬ魔法少女たちに突如襲われたこのは・葉月・あやめ。的確にソウルジェムを狙ってくる襲撃者たちを倒すと「神浜の魔法少女を絶対に許さない」と言い残しては去っていった。嫌な予感を得た葉月は、情報収集のため、彼女たちと同じく神浜マギアユニオンに所属していないななかと接触する。＠一方その頃、あやめやかこたち、神浜マギアユニオンに所属していない魔法少女たちも、それぞれに抱えた悩みと向き合おうとしていた"
   },
   {
     "sectionId": 207103,
-    "areaDetailName": "このはたちの家・居間",
-    "title": "大切な人たちのために",
+    "areaDetailName": "Azalea Sisters' Home - Living Room",
+    "title": "For Those I Love",
     "charaName": "Ayame Mikuri",
-    "message": "葉月も帰ってきたら…＠ちゃんと話そう＠あちしの気持ち…",
+    "message": "When Hazuki comes back... I want to tell them how I really feel...",
     "outline": "平穏が破られたことを悟った神浜マギアユニオンに所属していない魔法少女たち。平穏だった頃と同じ対応ではいられないことを悟った彼女たちは、仲間と話したことで、自分がすべきこと・したいことを己の意思で決める。一方、神浜マギアユニオンに“チームとして所属しない”ことを貫いていたななかはこの事態を受けて対応を変える決意をしていた…"
   },
   {
     "sectionId": 207201,
-    "areaDetailName": "神浜市民会館・大ホール",
-    "title": "望郷と葛藤",
+    "areaDetailName": "Kamihama Civic Center - Large Hall",
+    "title": "Nostalgia and Conflict",
     "charaName": "Shigure Miyabi",
-    "message": "ユニオンの中で…＠これからぼくたちは＠どうしたらいいのかな…",
+    "message": "Now that we're in the Union... Where do we go from here...?",
     "outline": "神浜マギアユニオンに所属していなかった魔法少女たちは、それぞれ異なった選択をした。＠参加はしなくてもいいから困っているときには助けになりたいと考え、このはや葉月と話し合うあやめ。チームとして神浜マギアユニオンとの橋渡し役を買って出たあきら。神浜マギアユニオンを内部から観察し、いち早く情報をつかみたいと考える美雨。ひとり、すぐには答えを出せないかこは、自分にできることをちゃんと見つけなければと考えるのだった。"
   },
   {
     "sectionId": 207202,
     "areaDetailName": "Daito Ward - Streets",
-    "title": "求めるは罰",
+    "title": "Seeking Is Punishment",
     "charaName": "Hagumu Azumi",
-    "message": "十七夜さんの呼び出し…＠怖いけど…逃げちゃダメ、だよね",
+    "message": "Kanagi called us... It's terrifying, but... we can't run away, can we?",
     "outline": "ネオマギウスが事実上崩壊したのち、神浜マギアユニオンに参加することになった時雨とはぐむ。ふたりは神浜マギアユニオン内での身の振り方を決めあぐねていた。＠そんな折、ふたりは「東の魔法少女がプロミストブラッドと手を組んでいる」という噂を耳にする。これが事実なら、東と西の魔法少女が再び対立してしまうのではないか。時雨とはぐむは不安を抱き、十七夜のもとを訪ねることにした。"
   },
   {
     "sectionId": 207203,
     "areaDetailName": "Park",
-    "title": "繋がりの芽生え",
+    "title": "A Budding Connection",
     "charaName": "Shigure Miyabi",
-    "message": "お帰りなさい会とか…＠なんでぼくたちのために＠そんな…",
+    "message": "A welcome home party... Why are you doing this for us? I don't get it...",
     "outline": "十七夜の手引きで、東の魔法少女たちのもとを訪ねた時雨とはぐむ。黙ってマギウスの翼へ出奔した時雨とはぐむを、東の魔法少女たちは暖かく迎えいれた。＠「神浜マギアユニオンの一員として、仲良くしてほしい」という十七夜の言葉を、自責の念と“魔法少女至上主義”への思いから受け入れられない時雨とはぐむ。その様子をみた十七夜は、東の魔法少女たちを招集するのだった。"
   },
   {
     "sectionId": 207301,
-    "areaDetailName": "竜ケ崎拠点",
-    "title": "追いかけた優しさ",
+    "areaDetailName": "Ryugasaki Base",
+    "title": "Chasing That Kindness",
     "charaName": "Sakuya Suzuka",
-    "message": "…時間だ＠そろそろふたりが来る頃合いかな…",
+    "message": "...The two of them should be here any minute now...",
     "outline": "“魔法少女至上主義”への思いを捨てられない時雨とはぐむは、東の魔法少女たちによる「お帰りなさい会」に招待されるが居心地の悪さを感じていた。ところが、自分たちを温かく迎え入れる東の魔法少女たちの優しさにほだされていくとふたりは神浜マギアユニオンに所属しつつ、自分たちに賛同してくれる魔法少女を捜すことで、ネオマギウスの再興を目指すことにした。"
   },
   {
     "sectionId": 207302,
-    "areaDetailName": "町並み",
-    "title": "当たり前のこと",
+    "areaDetailName": "Streets",
+    "title": "It's Only Natural",
     "charaName": "Sakuya Suzuka",
-    "message": "まさかとは思ったけど…＠本当に二木に来るとはね…",
+    "message": "I didn't think they were... seriously going to come to Futatsugi...",
     "outline": "プロミストブラッドが計画していた環いろはの殺害計画。＠その失敗の責任を追及されたさくやは、「結菜に、人となりを知る相手を簡単に殺せるようになってほしくなかった」と理由を話すが、樹里に激怒されてしまう。後日、さくやたちプロミストブラッドのメンバーに伝えられた三姉妹の指示は二木に侵入する神浜の魔法少女の目的調査と始末だった。＠一方、樹里から報告を受けた結菜は、さくやの監視役にひかるをつけていた。"
   },
   {
     "sectionId": 207303,
-    "areaDetailName": "河川敷",
-    "title": "伝えたい想い",
+    "areaDetailName": "River Bank",
+    "title": "The Feelings I Want To Convey",
     "charaName": "Sakuya Suzuka",
-    "message": "このまま地下墓地に行けば＠きっと私は…＠…それでも、行かなきゃ…",
+    "message": "If I go to the catacombs, I'll be... But I still have to go...",
     "outline": "二木に侵入する沙優希たちを追いかけるさくや。彼女たちの目的は二木のアイドルイベントに出演するためだったが、さくやは見せしめとして始末する必要があった。ところが同じプロミストブラッドのメンバーがそれを邪魔する。＠二木を裏切る行為だとしても、ファンとして沙優希を殺せない彼女に自分と昔の結菜を重ねたさくやは、とっさに沙優希たちを二木から逃がすのだった。"
   },
   {
     "sectionId": 207401,
     "areaDetailName": "Shinsei Ward - Streets",
-    "title": "翌朝の傷跡",
+    "title": "Scars of the Next Morning",
     "charaName": "Yozuru Sasame",
-    "message": "この重たい空気…＠…気のせいではないのでしょう＠やはり魔法少女たちに何かが…",
+    "message": "This heavy atmosphere... It can't just be my imagination. Something must be going on with the Magical Girls...",
     "outline": "神浜の魔法少女を逃がした落とし前をつけるため、プロミストブラッドの地下墓地に来たさくや。結菜に届けたい想いがあると伝えると、決闘を申し込まれる。＠惜しくも敗れたさくやだったが、結菜から“独り言”の許可をもらい、自らの言葉を伝える。その言葉が届いたと信じるさくやは、心の中で結菜のそばに居続けることを誓った。"
   },
   {
     "sectionId": 207402,
-    "areaDetailName": "エミリーの相談所",
-    "title": "相談所のお悩み",
+    "areaDetailName": "Emily's Counseling Room",
+    "title": "Trouble at the Counseling Room",
     "charaName": "Emiri Kisaki",
-    "message": "今日は相談所、お休みでいいよね…＠さすがのあーしも、ちょっと…",
+    "message": "It's okay to take today off from the counseling room, right...? Even I'm a little...",
     "outline": "観鳥令が死に、みかづき荘から人が消えた。それを知ったリヴィアはヨヅルと月出里にふたつの指示を出した。それは昨日起きた事の調査と、状況次第では調整屋として力になることだった。途中、立ち寄った喫茶店ではソウルジェムを濁らせた雫に出会い、ヨヅルは浄化を施した。"
   },
   {
     "sectionId": 207403,
     "areaDetailName": "Sankyo Ward - Streets",
-    "title": "どうしようもない清算",
+    "title": "No Way Towards Redemption",
     "charaName": "Sudachi Sawa",
-    "message": "（相談所のみんなが言ってたこと…＠あれが本当なら＠雫さんに…謝らないと…）",
+    "message": "(What everyone at the counseling room said... If that's true, then we need to...apologize to Shizuku...)",
     "outline": "調査で立ち寄った相談所には衣美里と明日香とささらがいた。３人は警戒していたがヨヅルが雫を助けたことを知ると、昨日起きたプロミストブラッドとの衝突やキモチによる選抜について聞くことができた。その情報をリヴィアに報告するふたりだが、ヨヅルの気がかりは他にもあり、自ら出したコーヒーが残されてしまったことを伝えた。"
   },
   {
     "sectionId": 207404,
-    "areaDetailName": "外部の町・町並み",
-    "title": "希望の味",
+    "areaDetailName": "City Outskirts - Streets",
+    "title": "A Taste of Hope",
     "charaName": "Livia Medeiros",
-    "message": "さあ、話を聞かせてもらおうやないか＠ま、答えが出るとは＠思っとらんけどな",
+    "message": "Come now, I'll talk ta ya. Well, I don't expect ta get any answers, though.",
     "outline": "令と雫の仲を知ったふたりは、改めて雫のことが心配となる。喫茶店へ向かうと、その近くの公園にはドッペルを吐き出す雫とそれを見守るあやかの姿があった。＠雫とあやかの様子から自分たちに何もできることがないと悟ったふたりは、何もせずに公園を後にした。"
   },
   {
     "sectionId": 207501,
-    "areaDetailName": "参京区・水徳寺・広間",
-    "title": "庇護か傲慢か",
+    "areaDetailName": "Sankyo Ward - Suitoku Temple - Hall",
+    "title": "Patronage or Pride?",
     "charaName": "Chiharu Hiroe",
-    "message": "あぁ～、もうっ…！＠もやもやするぅ…",
+    "message": "Ahh~, damn...! I don't get it...",
     "outline": "キュゥべえとコンタクトを取るリヴィア。ふたりにとって、キモチによる魔法少女の選抜は予想外のことだった。＠だが、計画に狂いが生じたことを危惧しながらも、神浜という地が抱える波乱を起こす要因に“希望”を見出す。＠そんな彼女にキュゥべえは、イレギュラーであるかごめの動向を探って欲しいと頼むのだった。"
   },
   {
     "sectionId": 207502,
-    "areaDetailName": "広い公園",
-    "title": "善という答え",
+    "areaDetailName": "Large Park",
+    "title": "The Answer to Good",
     "charaName": "Shizuka Tokime",
-    "message": "ありがとう、夏希さん＠私、いろんな人に＠支えられてばっかりね…",
+    "message": "Thank you, Natsuki. I am always supported by so many people...",
     "outline": "“特別である魔法少女は崇められるべき”と主張するネオマギウスと、“人々を守る刃たる力を持つ巫を特別視している”時女一族。両者が“似ている”とひめなに言われたちはるは、“時女一族も他者を見下している”ことを暗に示していると受け取って憤慨した。＠これまで、“見下す”という考えがなかった静香は、他者が持つ時女一族への印象に衝撃を受けると同時に、原因と解決策を見つけたいと考える。＠ところが、一族以外の視点から意見を貰いたくても、協力関係を解消したばかりの神浜マギアユニオンには頼れない。ひとり苦悩する静香の前に現れた夏希は、“友人”として静香の話を聞いてくれる。"
   },
   {
     "sectionId": 207503,
-    "areaDetailName": "参京区・水徳寺・広間",
-    "title": "悪を挫くのは善か",
+    "areaDetailName": "Sankyo Ward - Suitoku Temple - Room",
+    "title": "Is Breaking Evil Good?",
     "charaName": "Shizuka Tokime",
-    "message": "慎重に、でも急いで運んで…＠早くふたりを休ませないと…",
+    "message": "Carry them quickly, but carefully... We need to hurry and let these two rest...",
     "outline": "夏希に励まされ、水徳寺の住職に“性善説”という思想を聞いた静香は、己の中にあるものをはっきりとさせることができた。＠そんな折りに見かけたのは、交通事故に遭いそうな瞬間。とっさに子どもを助ける姿を目にしたことで静香は、“性善説”の正しさを確信する。＠静香は、“力を特別視し、特別な力を持たない者を見下している”という誤解に胸を張って“違う”と言える自信を得た。しかし、それも束の間、静香はひめなが残した言葉によって再び苦悩することになる。"
   },
   {
     "sectionId": 207601,
-    "areaDetailName": "さなの家・リビング",
-    "title": "絵本の魔法",
+    "areaDetailName": "Sana's Household - Living Room",
+    "title": "The Magic of Picture Books",
     "charaName": "Sana Futaba",
-    "message": "ミクにゃん…＠どうして死んじゃったの…",
+    "message": "Miku-meow... Why did you have to die...",
     "outline": "ひめなの散り際に放った言葉は静香を苦悩させていた。＠寺の庭に旭を呼び出した静香はひめなを撃った時のことを聞く。旭はあの場面で、静香がひめなに殺意を抱いていたことを見抜いていた。だからこそ、自分が手を汚すべきと考えてソウルジェムを撃った。今でもあれが最善の方法だったと述べる。＠旭の言葉を受け、静香はあの時自分のしていたことが気に入らない者の排除だったと気づく。人間の善性を信じたい心と、ひめなの言葉、そしてひめなを前にして殺意を抱いた本心との間で揺れるのであった。"
   },
   {
     "sectionId": 207602,
     "areaDetailName": "Shinsei Ward - Streets",
-    "title": "歩き回る人々",
+    "title": "People Walking About",
     "charaName": "Felicia Mitsuki",
-    "message": "絶対そうだよなー…＠でも、なんて言えば…",
+    "message": "They're totally right... But what do I say...",
     "outline": "牧野郁美が死んだ。その数日後、かごめは各地を巡り魔法少女の取材をしていた。＠一方、クレセントハウスでさなは兄弟の夢を見る。夢の内容はさなの行動を現実逃避と非難するものだったが、それはさな自身が深層で考えているものだと解釈する。＠現実逃避ではなく現実に影響を与える行動をするため、さなはかごめの取材に着いていくことを決めた。"
   },
   {
     "sectionId": 207603,
-    "areaDetailName": "工匠区・メイド喫茶",
-    "title": "見えない存在",
+	"areaDetailName": "Kosho Ward - Maid Cafe",
+    "title": "Invisible Existence",
     "charaName": "Kanagi Izumi",
-    "message": "ぐっ…！＠まだ痛むが…＠自分が行かねば誰が行く…！",
+    "message": "Ggh...! It still hurts...but if I don't go, who will...?!",
     "outline": "かごめと共に各地への取材に向かうさな。＠フェリシアがマンションで見た両親の亡霊についてあやめとかこと話をする様子や、雫が実家の喫茶店を留守にしている様子を確認しつつ、取材を続けるためにデンキ街へ向かう。＠その道中でさなは、かごめから取材に同行した理由を改めて聞かれると、自分が現実逃避をしていて、絵本の力も信じられなくなっていることを告白した。"
   },
   {
     "sectionId": 207604,
-    "areaDetailName": "クレセントハウス・リビング",
-    "title": "私たちの武器",
+    "areaDetailName": "Crescent House - Living Room",
+    "title": "Our Weapon",
     "charaName": "Sana Futaba",
-    "message": "頑張ったつもりだけど…＠何も…できなかったなぁ…",
+    "message": "I thought I was doing my best... But... I couldn't do anything...",
     "outline": "デンキ街のメイド喫茶に来たさなとかごめ。そこでは郁美の追悼イベントの準備が行われており、十七夜も手伝いをしていた。店内に充満する郁美の死に対してモヤモヤする人たちの様子を感じ取りながら、ふたりは魔法少女の死がどんな影響を与えるのかを受け止めた。＠続けて訪れた果てなしのミラーズでは、キモチに選ばれなかった魔法少女たちがアリナとかりんの捜索をしていた。その様子を追う中で、ターミナルに現れた強力な魔女を前に、さなは勇気を振り絞って捨て身の特攻をしかけた。"
   },
   {
     "sectionId": 207701,
-    "areaDetailName": "宝崎市・公民館",
-    "title": "戦いの裏、蠢く思惑",
+    "areaDetailName": "Takarazaki City - Community Center",
+    "title": "Behind the Battle, Schemes Writhe",
     "charaName": "Shigure Miyabi",
-    "message": "なんか今…＠変な音が聞こえたような…",
+    "message": "Just now... I thought I heard a strange noise...",
     "outline": "絵本を書くという自分の行為に意味はあるのかと思い悩むさな。しかし、さなは自身の行動が“こねこのゴロゴロ”の物語に影響を受けたものだと気付き、その物語は監督自身の経験をもとに作られたことを知った。＠経験を創作に乗せて描くことに意味を見出したさなは、自分がしていたのは現実逃避ではないと思うと、自分を信じてもう一度絵本を描くことにした。"
   },
   {
     "sectionId": 207702,
     "areaDetailName": "Park",
-    "title": "自分たちで選んだこと",
+    "title": "What We Chose",
     "charaName": "Nanaka Tokiwa",
-    "message": "今後について＠いま一度話し合いましょう",
+    "message": "Let's discuss the future once more.",
     "outline": "他のグループの魔法少女たちに生きていることがバレてはいけないと、宝崎市に潜伏するひめな。彼女は次の作戦のために“合成”の固有魔法を練習していた。その目的は物体に他人の固有魔法を合成させること。＠ところが、作戦決行を前に失敗ばかり。神浜マギアユニオンとプロミストブラッドの決着のときが近いのを悟ったひめなは、燦による特訓を受けることにした。だが、それでも合成の固有魔法は成功せず、一度気分転換に公民館の仕事を手伝うことに。"
   },
   {
     "sectionId": 207703,
     "areaDetailName": "Back Alley",
-    "title": "天女は不敵に微笑む",
+    "title": "The Angel Smiles Fearlessly",
     "charaName": "Meiyui Chun",
-    "message": "まさかこんなところで＠見つかてしまうとはネ",
+    "message": "I didn't expect we would be found here.",
     "outline": "最終決戦を目前に宝崎市に避難することにしたななかたち。なぜなら、特殊な固有魔法を持った魔法少女が狙われる可能性があったからだ。＠ところが、宝崎市でななかたちが出会ったのはネオマギウスのリーダー。死んだはずのひめなが生きていたという情報を神浜市に持ち帰りたいななかたちは、美雨の固有魔法でひめなと会ったことをなかったことにしようとする。ところが、立ち去ろうとした刹那、魔法少女が立ち塞がる。それはネオマギウスの燦だった。"
   },
   {
     "sectionId": 207801,
-    "areaDetailName": "栄区・メイド喫茶",
+    "areaDetailName": "Sakae Ward - Maid Cafe",
     "title": "未来への一歩",
     "charaName": "Kanagi Izumi",
     "message": "画伯は無事に＠彼女たちと会えただろうか",
@@ -3030,7 +3030,7 @@
   },
   {
     "sectionId": 207802,
-    "areaDetailName": "電車内",
+    "areaDetailName": "Train Car",
     "title": "平等に必要な力",
     "charaName": "Kanagi Izumi",
     "message": "天辺か…＠大したスローガンだが＠果たして…",
@@ -3038,7 +3038,7 @@
   },
   {
     "sectionId": 207803,
-    "areaDetailName": "南凪区・海浜公園",
+    "areaDetailName": "Minaminagi Ward - Seaside Park",
     "title": "背中を押した神浜の人々",
     "charaName": "Kanagi Izumi",
     "message": "神浜市の皆には悪いが＠これが自分の結論だ",
@@ -3046,63 +3046,63 @@
   },
   {
     "sectionId": 207901,
-    "areaDetailName": "湯国市・宿場町",
-    "title": "宇宙の意志と諦念",
+    "areaDetailName": "Yukuni City - Inn Town",
+    "title": "The Will of the Universe and Resignation",
     "charaName": "Nayuta Satomi",
-    "message": "…昨日聞かされた＠パパの話を思い出してしまって＠よく眠れなかったんですの",
+    "message": "...I could hardly sleep since recalling everything Papa told me yesterday.",
     "outline": "自分の居場所と家族に手を出されたことで、十七夜は反社会的勢力の事務所を襲撃し、構成員を手にかけた。＠それは、魔法少女が一般人に手を出すという越えられないと思っていた一線を越えた瞬間であり、踏みとどまらせていた彼女のストッパーを壊す切っ掛けにもなってしまった。＠真なる平等を求めて、神浜市を蹂躙する決意を固めた十七夜。その心は晴れやかで解放感に満ちていた。"
   },
   {
     "sectionId": 207902,
-    "areaDetailName": "湯国市・町並み",
-    "title": "償うことさえ許されない過去",
+    "areaDetailName": "Yukuni City - Streets",
+    "title": "A Past That Allows No Recompense",
     "charaName": "Nayuta Satomi",
-    "message": "このお店でお醤油を買えば＠おつかいは完了ですの！",
+    "message": "If I purchase soy sauce at this store the errand will be complete!",
     "outline": "ラビたちに連れられて湯国市にやってきた那由他。＠そこで那由他は、魔法少女の存在を人々に広めようとして起きた惨劇や、“宇宙の意志”によって魔法少女の存在が広まらないようにされているという父・太助の仮説を聞かされた。＠ところが那由他は、父の仮説も、魔女と魔法少女を同一視して排除を望む撲滅派も、それらに対するラビたちの諦念も、全てに納得がいかなかった。それでもラビたちとの交流の中で、彼女たちを形作る輪郭が徐々に見え始めてくる。"
   },
   {
     "sectionId": 207903,
-    "areaDetailName": "湯国市・宿場町",
-    "title": "いつか、再び灯るように",
+    "areaDetailName": "Yukuni City - Inn Town",
+    "title": "Someday, We Hope to Light Up Again",
     "charaName": "Alexandra Kurusu",
-    "message": "魔女退治はこのくらいで＠大丈夫そうですね＠そろそろ帰りましょうか",
+    "message": "That should be enough witch exterminating, right? Shall we head home?",
     "outline": "町で撲滅派と出会った那由他。魔法少女に対する誤解を解こうとするも、撲滅派の心に付いた傷は深く、彼女の言葉は届かなった。＠それでも、撲滅派の一方的な暴力に無抵抗でいるラビたちの態度に納得していない那由他。その様子を見たラビたちは、事故が起こった現場を巡りながら何があったのかを聞かせた。＠辛い過去に苦しくなる那由他だが、フォークロアの４人のように諦念を受け入れることはできない。むしろ、その諦念を消し去りたいと考えた彼女は、自分の気持ちと向き合うことにした。"
   },
   {
     "sectionId": 208001,
     "areaDetailName": "Mizuna Ward - Streets",
-    "title": "不完全燃焼な正義の心",
+    "title": "Sense of Imperfect Justice",
     "charaName": "Sasara Minagi",
-    "message": "ばらまかれた魔女が＠おとりなのは見え見えだけど…＠放っておくわけにもいかないよね",
+    "message": "I can tell these scattered Witches are a decoy, but... It's not like we can just leave them be.",
     "outline": "町に現れた魔女を倒した那由他たちは、ラビの実家である大地のゆりかごへと戻った。リラックスした様子で母と話すラビの意外な一面に驚いた那由他は、その後、魔法少女が救われないという諦念に至った過去を振り返りながらも、それは理不尽だとして希望は捨てたくないとラビへ伝えた。＠那由他の出した結論はラビと相反するものであったが、諦めないことを選んだ那由他に一抹の嬉しさを感じるラビ。その一方で、もし神浜市が湯国市と同じ顛末を迎えた場合には魔法少女を滅ぼすという諦念の覚悟を決めるのだった。"
   },
   {
     "sectionId": 208002,
-    "areaDetailName": "Minaminagi Ward - Shops",
-    "title": "ログに刻まれ掘り起こされ",
+    "areaDetailName": "Minaminagi Ward - Streets",
+    "title": "Etched Log Unearthed",
     "charaName": "Meguru Hibiki",
-    "message": "SNSならめぐるはよく使ってますよ＠目的はもちろん実況です！",
+    "message": "Meguru uses social media pretty often. For live broadcasts, of course!",
     "outline": "ネオマギウスがばらまいた魔女を、ほぼ倒し終えた明日香たち。続けていろはから連絡のあった仲良し大作戦を後押しするために、署名サイトの拡散を進める。一般人のファンがいる莉愛からは拡散の了承を得たものの、同様にファンを抱える沙優希からは事務所から政治的発言はNGが出たという理由で断られてしまう。改めて問題のセンシティブさを実感した一同は、同時に、どうして魔法少女たちは東に対し分け隔てなく接することができるのか、という疑問をいだいた。"
   },
   {
     "sectionId": 208003,
-    "areaDetailName": "橋",
-    "title": "急浮上のキーワード",
+    "areaDetailName": "Bridge",
+    "title": "Keyword of Sudden Interest",
     "charaName": "Rui Mizuki",
-    "message": "なんでみんな、そんな荷物を持って＠大東に行くの…？＠まさか…そ、そんなはずないよね…",
+    "message": "Why is everyone going to Daito with such heavy bags...? Don't tell me... t-they can't be, can they...",
     "outline": "引き続き署名サイトの拡散方法を考える明日香たち。#（ハッシュタグ）やトレンドを使った方法も挙がるが、光明を見いだせないでいた。そんな中、工匠区で戦っているはずの塁からSOSが届く。＠一方、ネットの生配信で東西問題を語る莉愛は、東に嫌がらせをする人々と、それを問題と考える自分たちとの間に大きな差はないと答えた。＠その配信を見ながら移動していた沙優希は、道中、明日香たちと合流し塁の待つ工匠区に着く。大きな川の橋近くには、魔女の口づけを受けた人が押し寄せるのを必死で食い止める塁の姿があった。"
   },
   {
     "sectionId": 208004,
-    "areaDetailName": "橋",
-    "title": "#私も一緒、私が一緒",
+    "areaDetailName": "Bridge",
+    "title": "#I'm Like You, I'm With You",
     "charaName": "Sayuki Fumino",
-    "message": "『私も、一緒』…＠なら、沙優希は…",
+    "message": "\"I'm like you...\" Then, Sayuki is...",
     "outline": "大きな川の近くに現れた魔女の口づけを受けている人々を抑えつけることに成功した魔法少女たち。彼らの目的は、東への嫌がらせをしてきた自身の浅はかさを自覚したことによる絶望の自殺だった。＠口々に東へ嫌がらせをした動機を語る人々。その弱さと東への無知による動機は、ただ強くて知識があったから東西問題を回避していただけに過ぎない魔法少女たちと彼らの間に根本的な違いはないことを気づかせた。"
   },
   {
     "sectionId": 208101,
-    "areaDetailName": "緑地公園",
+    "areaDetailName": "Nature Park",
     "title": "戒めのための記録",
     "charaName": "Yuna Kureha",
     "message": "先のことを考えても＠取材を受けるのが良さそうねぇ",
@@ -3110,7 +3110,7 @@
   },
   {
     "sectionId": 208102,
-    "areaDetailName": "栄区・1090前",
+    "areaDetailName": "Sakae Ward - 1090 Front",
     "title": "学びを示す記録",
     "charaName": "Shizuka Tokime",
     "message": "私も分家の子たちと一緒に＠知識をしっかり身に付けないと",
@@ -3118,7 +3118,7 @@
   },
   {
     "sectionId": 208103,
-    "areaDetailName": "ケアトレーラー・外観",
+    "areaDetailName": "Care Trailer - Exterior",
     "title": "含みを残した記録",
     "charaName": "Livia Medeiros",
     "message": "なんちゅー盛況ぶりや！＠嬉しいけど、目が回ってまうわ…！",
@@ -3604,7 +3604,7 @@
     "sectionId": 310203,
     "title": "From Now Until Forever",
     "charaName": "Kagome Satori",
-    "message": "Wait for me, Hibari!@I'll definitely rescue you!"
+    "message": "Wait for me, Hibari!＠I'll definitely rescue you!"
   },
   {
     "sectionId": 310204,
@@ -3628,7 +3628,7 @@
     "sectionId": 310213,
     "title": "Those Days are Long Gone",
     "charaName": "Yuna Kureha",
-    "message": "Now, everything’s ready to go…@All that’s left to do is…"
+    "message": "Now, everything's ready to go…＠All that's left to do is…"
   },
   {
     "sectionId": 310214,
@@ -3656,55 +3656,55 @@
   },
   {
     "sectionId": 310224,
-    "title": "Hikaru’s Doppel",
+    "title": "Hikaru's Doppel",
     "charaName": "Hikaru Kirari",
     "message": "…"
   },
   {
     "sectionId": 310231,
-    "title": "回るルーレット",
+    "title": "Spinning Roulette",
     "charaName": "Ao Kasane",
-    "message": "わたしは忘れてなんかない…＠今、ここにいる目的を…"
+    "message": "I haven’t forgotten at all... Right now, I'm here to..."
   },
   {
     "sectionId": 310232,
-    "title": "プレイヤーの覚悟",
+    "title": "Resolve of the Player",
     "charaName": "Ao Kasane",
-    "message": "うぅ…まだビリか＠まずいな～、早めに挽回しないと…"
+    "message": "Ahh... still in last place? Oh nooo, if I can't get back on track soon..."
   },
   {
     "sectionId": 310233,
-    "title": "ルート選択の先に",
+    "title": "Route Selection Ahead",
     "charaName": "Ao Kasane",
-    "message": "…時間だ＠そろそろ拠点に行こう…………"
+    "message": "...It's time. I should head to the base......."
   },
   {
     "sectionId": 310234,
-    "title": "Ao’s Doppel",
+    "title": "Ao's Doppel",
     "charaName": "Ao Kasane",
     "message": "…"
   },
   {
     "sectionId": 310241,
-    "title": "終わりからの苦しみ",
+    "title": "Suffering Since The End",
     "charaName": "Juri Oba",
-    "message": "今日は負けねーぞ妹＠この樹里サマが叩き潰してやる！"
+    "message": "I ain't losing today, Lil' Sis. I, Juri the Great, am gonna get your ass wrecked!"
   },
   {
     "sectionId": 310242,
-    "title": "溜められた炎の意味",
+    "title": "Meaning of The Pent-Up Flames",
     "charaName": "Juri Oba",
-    "message": "学校なんて、行くほど＠ムカツクことしかねーんだよな…"
+    "message": "School? The more I go, the more it manages to piss me off."
   },
   {
     "sectionId": 310243,
-    "title": "定められた別れ",
+    "title": "The Predestined Farewell",
     "charaName": "Juri Oba",
-    "message": "おっし、親父＠今日はふたりで勝ちに行くぞ！"
+    "message": "All right, old man—let's both go for the win today!"
   },
   {
     "sectionId": 310244,
-    "title": "Juri’s Doppel",
+    "title": "Juri's Doppel",
     "charaName": "Juri Oba",
     "message": "…"
   },
@@ -3728,7 +3728,7 @@
   },
   {
     "sectionId": 310254,
-    "title": "Shizuka’s Doppel",
+    "title": "Shizuka's Doppel",
     "charaName": "Shizuka Tokime",
     "message": "…"
   },
@@ -3746,13 +3746,13 @@
   },
   {
     "sectionId": 310263,
-    "title": "解決!?集落の救世主",
+    "title": "解決?!集落の救世主",
     "charaName": "Chiharu Hiroe",
     "message": "だからね、わたし…＠コレしかないと思うんだよ！"
   },
   {
     "sectionId": 310264,
-    "title": "Chiharu’s Doppel",
+    "title": "Chiharu's Doppel",
     "charaName": "Chiharu Hiroe",
     "message": "…"
   },
@@ -3776,31 +3776,31 @@
   },
   {
     "sectionId": 310274,
-    "title": "Sunao’s Doppel",
+    "title": "Sunao's Doppel",
     "charaName": "Sunao Toki",
     "message": "…"
   },
   {
     "sectionId": 310281,
-    "title": "思い込みブルー",
+    "title": "Assumption Blue",
     "charaName": "Himena Aika",
-    "message": "今日も１日ここにいるのかぁ…＠ぴえん"
+    "message": "I'm here all day again, huh... Boohoo."
   },
   {
     "sectionId": 310282,
-    "title": "繋がるマインド",
+    "title": "Connected Mind",
     "charaName": "Himena Aika",
-    "message": "私チャンには…＠ヒコ君しかいないから…！"
+    "message": "'Cause this cutie... she's only got you, Hiko..."
   },
   {
     "sectionId": 310283,
-    "title": "離れないでマイメン",
+    "title": "Stay Close, Bestie",
     "charaName": "Himena Aika",
-    "message": "決めたら即行動！＠私チャンの鉄則だし★"
+    "message": "Act immediately once you've made up your mind! That's my golden rule, see★"
   },
   {
     "sectionId": 310284,
-    "title": "Himena’s Doppel",
+    "title": "Himena's Doppel",
     "charaName": "Himena Aika",
     "message": "…"
   },
@@ -3824,7 +3824,7 @@
   },
   {
     "sectionId": 310294,
-    "title": "Shigure’s Doppel",
+    "title": "Shigure's Doppel",
     "charaName": "Shigure Miyabi",
     "message": "…"
   },
@@ -3848,151 +3848,151 @@
   },
   {
     "sectionId": 310304,
-    "title": "Hagumu’s Doppel",
+    "title": "Hagumu's Doppel",
     "charaName": "Hagumu Azumi",
     "message": "…"
   },
   {
     "sectionId": 310311,
-    "title": "神様に気づいたとき",
+    "title": "When I Noticed the God",
     "charaName": "San Kagura",
-    "message": "この提灯は修理しないとね…＠まとめて中に持って行きましょう"
+    "message": "These lanterns need to be repaired... Let me pack them up and bring them inside."
   },
   {
     "sectionId": 310312,
-    "title": "奇跡にはもう頼らない",
+    "title": "I Won't Rely On Miracles Anymore",
     "charaName": "San Kagura",
-    "message": "それじゃあもう一度最初から＠演舞の稽古をやるわよ"
+    "message": "All right, let's rehearse the dance from the start once again."
   },
   {
     "sectionId": 310313,
-    "title": "全てを失っても",
+    "title": "Even If I Lose It All",
     "charaName": "San Kagura",
-    "message": "火祭り本番も近づいてきたし＠気を取り直して準備を進めないとね"
+    "message": "Now that the actual Fire Festival is approaching, we better pull ourselves together and proceed with preparations."
   },
   {
     "sectionId": 310314,
-    "title": "San’s Doppel",
+    "title": "San's Doppel",
     "charaName": "San Kagura",
     "message": "…"
   },
   {
     "sectionId": 310321,
-    "title": "ミユと燦様の馴れ初め",
+    "title": "How Miyu Met Lady San",
     "charaName": "Miyuri Yukari",
-    "message": "燦様燦様ぁ！＠もっともっとお願いしますぅ！"
+    "message": "Lady San, Lady Saaan! More, please, more!"
   },
   {
     "sectionId": 310322,
-    "title": "ミユの好きなもの",
+    "title": "Miyu's Favorite Thing",
     "charaName": "Miyuri Yukari",
-    "message": "あのとき、ミユは＠足フェチなんだって自覚したんです"
+    "message": "That was when I realized I had a leg fetish."
   },
   {
     "sectionId": 310323,
-    "title": "ミユの神様",
+    "title": "Miyu's God",
     "charaName": "Miyuri Yukari",
-    "message": "ミユだってミユだって＠好きでこんな風に＠なってるわけじゃ…！"
+    "message": "I'm not— I'm not like this because I want to be...!"
   },
   {
     "sectionId": 310324,
-    "title": "Miyuri’s Doppel",
+    "title": "Miyuri's Doppel",
     "charaName": "Miyuri Yukari",
     "message": "…"
   },
   {
     "sectionId": 310331,
-    "title": "覆水盆に返らずとも",
+    "title": "Naturally, Spilled Water Does Not Return to the Tray",
     "charaName": "Rabi Himuro",
-    "message": "那由他様はまだ寝てるんですか…＠こうなったら仕方ありませんね"
+    "message": "Is Lady Nayuta still asleep...? If she's like this I suppose I have no choice, do I."
   },
   {
     "sectionId": 310332,
-    "title": "それは、青天の霹靂",
+    "title": "That's a Bolt Out of the Blue",
     "charaName": "Rabi Himuro",
-    "message": "天気予報では晴れだったけど…＠自然のことばかりは＠我々の力で予測しきれない…"
+    "message": "The weather forecast said clear skies... But we cannot predict everything from nature..."
   },
   {
     "sectionId": 310333,
-    "title": "胡蝶之夢の如く",
+    "title": "Like a Butterfly's Dream",
     "charaName": "Rabi Himuro",
-    "message": "人間とは不思議なもので＠順調すぎると、なぜか不安になる…"
+    "message": "Humans are such strange creatures. Things are going well, yet for some reason I'm worried..."
   },
   {
     "sectionId": 310334,
-    "title": "Rabi’s Doppel",
+    "title": "Rabi's Doppel",
     "charaName": "Rabi Himuro",
     "message": "…"
   },
   {
     "sectionId": 310341,
-    "title": "新入りの素顔",
-    "charaName": "三浦 旭",
-    "message": "わざわざこんな会まで…＠なんだか申し訳ないでありますな"
+    "title": "The Newcomer's True Face",
+    "charaName": "Asahi Miura",
+    "message": "Coming all the way out to this assembly... I'm beginning to regret it."
   },
   {
     "sectionId": 310342,
-    "title": "オニババ騒動",
-    "charaName": "三浦 旭",
-    "message": "魔法少女と言えども＠寝不足は堪えるでありますな…"
+    "title": "The Onibaba Battle",
+    "charaName": "Asahi Miura",
+    "message": "Even as a Magical Girl I have to put up with insufficient sleep..."
   },
   {
     "sectionId": 310343,
-    "title": "叶わない願い",
-    "charaName": "三浦 旭",
-    "message": "なにはともあれ＠誤解がとけて良かったであります"
+    "title": "A Wish That Won't Come True",
+    "charaName": "Asahi Miura",
+    "message": "At any rate, I am glad the misunderstanding was resolved."
   },
   {
     "sectionId": 310344,
-    "title": "旭のドッペル",
-    "charaName": "三浦 旭",
+    "title": "Asahi's Doppel",
+    "charaName": "Asahi Miura",
     "message": "…"
   },
   {
     "sectionId": 310351,
-    "title": "屋上と夕日",
+    "title": "The Rooftop and the Setting Sun",
     "charaName": "Alexandra Kurusu",
-    "message": "久しぶりに＠先生の話をして疲れたな…＠今日は早く寝よう"
+    "message": "It's been such a long time since I've talked about Teacher that I'm worn out... I'll go to bed early tonight."
   },
   {
     "sectionId": 310352,
-    "title": "先生と私",
+    "title": "Teacher and I",
     "charaName": "Alexandra Kurusu",
-    "message": "初めて男の人を好きになっちゃった…＠こういう時…何をすればいいんだろ…"
+    "message": "I've fallen in love with a man for the first time... I don't know what to do..."
   },
   {
     "sectionId": 310353,
-    "title": "初恋とさようなら",
+    "title": "First Love and Farewell",
     "charaName": "Alexandra Kurusu",
-    "message": "見られちゃった…＠怪しまれても…しょうがない…よね…"
+    "message": "I've been seen... even if they suspect something... there's nothing I can do... is there..."
   },
   {
     "sectionId": 310354,
-    "title": "Alexandra’s Doppel",
+    "title": "Alexandra's Doppel",
     "charaName": "Alexandra Kurusu",
     "message": "…"
   },
   {
     "sectionId": 310361,
-    "title": "ウチだってできるんよ！",
+    "title": "I Can Do It, See!",
     "charaName": "Urara Yume",
-    "message": "ウチでも役に立てるんだって＠ラビさんにわかってもらうんよ！"
+    "message": "I gotta show Rabi that even someone like me can be helpful!"
   },
   {
     "sectionId": 310362,
-    "title": "もう戻れないから…",
+    "title": "We Can't Go Back...",
     "charaName": "Urara Yume",
-    "message": "ウチ、そんなに信用ないのん…？"
+    "message": "Do you really think I'm that untrustworthy...?"
   },
   {
     "sectionId": 310363,
-    "title": "前に進むだけなんよ",
+    "title": "All I Can Do Is Move On",
     "charaName": "Urara Yume",
-    "message": "ウチを頼ってくれるのは嬉しいけど…＠ひとまず話を聞いてみるんよ"
+    "message": "I'm glad you're relyin' on me, but... I wanna talk this over first."
   },
   {
     "sectionId": 310364,
-    "title": "Urara’s Doppel",
+    "title": "Urara's Doppel",
     "charaName": "Urara Yume",
     "message": "…"
   },
@@ -4016,31 +4016,31 @@
   },
   {
     "sectionId": 310374,
-    "title": "Nayuta’s Doppel",
+    "title": "Nayuta's Doppel",
     "charaName": "Nayuta Satomi",
     "message": "…"
   },
   {
     "sectionId": 310381,
-    "title": "お友だちを作ろう",
+    "title": "Let's Make Some Friends",
     "charaName": "Mikage Yakumo",
-    "message": "うぅ…姉ちゃに裏切られた…＠姉ちゃもミィと同じで…"
+    "message": "Ugh... Sis betrayed me... I thought we were the same..."
   },
   {
     "sectionId": 310382,
     "title": "Looking For \"Big Sis\"",
     "charaName": "Mikage Yakumo",
-    "message": "姉ちゃばっかりずるい！＠ミィだってもっとみんなと＠遊びたいのに！"
+    "message": "Sis is the only one who gets to play with her friends! It isn't fair!"
   },
   {
     "sectionId": 310383,
-    "title": "大きな波の中で",
+    "title": "In the Middle of a Big Flow",
     "charaName": "Mikage Yakumo",
-    "message": "やっぱりミィの姉ちゃに＠代わりなんていないよねっ！"
+    "message": "I knew it! Nobody can replace Sis after all!"
   },
   {
     "sectionId": 310384,
-    "title": "Mikage’s Doppel",
+    "title": "Mikage's Doppel",
     "charaName": "Mikage Yakumo",
     "message": "…"
   },
@@ -4064,79 +4064,79 @@
   },
   {
     "sectionId": 310394,
-    "title": "Sudachi’s Doppel",
+    "title": "Sudachi's Doppel",
     "charaName": "Sudachi Sawa",
     "message": "…"
   },
   {
     "sectionId": 310401,
-    "title": "観察対象：ヨヅル",
+    "title": "Surveillee: Yozuru",
     "charaName": "Yozuru Sasame",
     "message": "さて、今日も元気よくお仕事です＠スマイルスマイル"
   },
   {
     "sectionId": 310402,
-    "title": "対話者：ヨヅル",
+    "title": "Interlocutor: Yozuru",
     "charaName": "Yozuru Sasame",
     "message": "困ります…先生…"
   },
   {
     "sectionId": 310403,
-    "title": "主演：ヨヅル",
+    "title": "Protagonist: Yozuru",
     "charaName": "Yozuru Sasame",
     "message": "私が優しい？＠はは、ご冗談を"
   },
   {
     "sectionId": 310404,
-    "title": "Yoruzu’s Doppel",
+    "title": "Yoruzu's Doppel",
     "charaName": "Yozuru Sasame",
     "message": "…"
   },
   {
     "sectionId": 310411,
-    "title": "簡単には話さない",
+    "title": "I Can't Talk About It That Easily",
     "charaName": "Livia Medeiros",
-    "message": "デリケートな話やしな＠私の過去を聞くのは諦めた方がええわ"
+    "message": "My past, eh? It's a delicate topic, so I'd give up on askin' if I were you."
   },
   {
     "sectionId": 310412,
-    "title": "連れ歩く者について",
+    "title": "About My Companions",
     "charaName": "Livia Medeiros",
-    "message": "足繁く通うなぁ＠まぁ話相手がおるのはええことやし＠ゆっくりしていき"
+    "message": "You sure swing by often, don'tcha? Well, it's good to have someone to talk to. Make yourself comfortable."
   },
   {
     "sectionId": 310413,
-    "title": "聞いておいて欲しいこと",
+    "title": "Something I Want You To Hear",
     "charaName": "Livia Medeiros",
-    "message": "ほんまに、ごめんな…＠私のせいや…"
+    "message": "I'm sorry, I really am... It's all my fault..."
   },
   {
     "sectionId": 310414,
-    "title": "Livia’s Doppel",
+    "title": "Livia's Doppel",
     "charaName": "Livia Medeiros",
     "message": "…"
   },
   {
     "sectionId": 310421,
-    "title": "生態に関する研究",
+    "title": "Observational Research on Behavioral Patterns",
     "charaName": "Kyubert",
-    "message": "モキュ！＠キュモキュップィモキューイ！"
+    "message": "Mokyu! Kyu, mokyu-pui, mokyuu!"
   },
   {
     "sectionId": 310422,
-    "title": "実録！夜の町を駆ける謎の影",
+    "title": "A True Story! The Mysterious Shadow Running Through Town",
     "charaName": "Kyubert",
-    "message": "…………キュゥ＠モギュウ、モキュ…キュゥ…"
+    "message": "...Kyuu. Mogyuu, mokyu… kyuu..."
   },
   {
     "sectionId": 310423,
-    "title": "ういの観察日記",
+    "title": "Ui’s Observation Journal",
     "charaName": "Kyubert",
-    "message": "モキュモッキュ＠キュモッキュイキュイ！"
+    "message": "Mokyu-mokkyu, kyu-mokkyui-kyui!"
   },
   {
     "sectionId": 310424,
-    "title": "Kyubert’s Doppel",
+    "title": "Kyubert's Doppel",
     "charaName": "Kyubert",
     "message": "…"
   },
@@ -4160,31 +4160,31 @@
   },
   {
     "sectionId": 310434,
-    "title": "Kuroe’s Doppel",
+    "title": "Kuroe's Doppel",
     "charaName": "Kuroe",
     "message": "…"
   },
   {
     "sectionId": 310441,
-    "title": "出会ってしまったふたり",
+    "title": "The Two Who Happened to Meet",
     "charaName": "Mikoto Sena",
-    "message": "何も報われなかったけど…＠もしこの出会いが本物だったら…"
+    "message": "Nothing I tried ever bore fruit, but... If this meeting was real..."
   },
   {
     "sectionId": 310442,
-    "title": "偽りの中で",
+    "title": "Inside a Lie",
     "charaName": "Mikoto Sena",
-    "message": "わかっていたの＠掛け違いが起きていたのは"
+    "message": "I knew it. I knew that we weren't understanding each other."
   },
   {
     "sectionId": 310443,
-    "title": "夜になる前に",
+    "title": "Before Night Comes",
     "charaName": "Mikoto Sena",
-    "message": "ねえ…どうしてこんなにも＠夕日はまぶしいんだろうね"
+    "message": "Hey... How come the setting sun is so radiant?"
   },
   {
     "sectionId": 310444,
-    "title": "Mikoto’s Doppel",
+    "title": "Mikoto's Doppel",
     "charaName": "Mikoto Sena",
     "message": "…"
   },
@@ -4204,11 +4204,11 @@
     "sectionId": 310453,
     "title": "消えた千鶴の気持ち",
     "charaName": "Tsuyu Mizuna",
-    "message": "うそでしょ…＠小さな子どもがひとりなんて＠さらわれるわよ!?"
+    "message": "うそでしょ…＠小さな子どもがひとりなんて＠さらわれるわよ?!"
   },
   {
     "sectionId": 310454,
-    "title": "Tsuyu’s Doppel",
+    "title": "Tsuyu's Doppel",
     "charaName": "Tsuyu Mizuna",
     "message": "…"
   },
@@ -4232,7 +4232,7 @@
   },
   {
     "sectionId": 310464,
-    "title": "Chizuru’s Doppel",
+    "title": "Chizuru's Doppel",
     "charaName": "Chizuru",
     "message": "…"
   },
@@ -4270,11 +4270,11 @@
     "sectionId": 310483,
     "title": "他に道はなし",
     "charaName": "Ebony",
-    "message": "手に入れた力を使う時…＠それが今…なの…!?"
+    "message": "手に入れた力を使う時…＠それが今…なの…?!"
   },
   {
     "sectionId": 310484,
-    "title": "Ebony’s Doppel",
+    "title": "Ebony's Doppel",
     "charaName": "Ebony",
     "message": "…"
   },
@@ -4282,13 +4282,13 @@
     "sectionId": 310491,
     "title": "Enduring the Days",
     "charaName": "Olga",
-    "message": "Alrighty... there... that should do it... @Okay! This job's done!"
+    "message": "Alrighty... there... that should do it... ＠Okay! This job's done!"
   },
   {
     "sectionId": 310492,
     "title": "My Sister's Quick Wit",
     "charaName": "Olga",
-    "message": "Huh? It's unusually quiet...@Oh, right... They've all gone out..."
+    "message": "Huh? It's unusually quiet...＠Oh, right... They've all gone out..."
   },
   {
     "sectionId": 310493,
@@ -4322,31 +4322,31 @@
   },
   {
     "sectionId": 310504,
-    "title": "Gunhild’s Doppel",
+    "title": "Gunhild's Doppel",
     "charaName": "Gunhild",
     "message": "…"
   },
   {
     "sectionId": 310511,
-    "title": "尼僧院にて",
+    "title": "At the Nunnery",
     "charaName": "Heruka",
-    "message": "みんな、楽しいことだけ＠していればいいのに…"
+    "message": "If only everyone could just have fun..."
   },
   {
     "sectionId": 310512,
-    "title": "少女たちの反乱",
+    "title": "The Girls' Uprising",
     "charaName": "Heruka",
-    "message": "どうして誰もかれも＠特別になりたがるんでしょう…"
+    "message": "Why does everyone want to be special..."
   },
   {
     "sectionId": 310513,
-    "title": "ふたりの檻",
+    "title": "Our Cage",
     "charaName": "Heruka",
-    "message": "ドルマを守るためなら…＠私は…"
+    "message": "To protect Dolma... I will..."
   },
   {
     "sectionId": 310514,
-    "title": "Heruka’s Doppel",
+    "title": "Heruka's Doppel",
     "charaName": "Heruka",
     "message": "…"
   },
@@ -4370,31 +4370,31 @@
   },
   {
     "sectionId": 310524,
-    "title": "Toyo’s Doppel",
+    "title": "Toyo's Doppel",
     "charaName": "Toyo",
     "message": "…"
   },
   {
     "sectionId": 310531,
-    "title": "乙女は遊戯をたしなむべし",
+    "title": "A Maiden Ought to Play Games",
     "charaName": "Amaryllis",
-    "message": "忙しい日々のささやかな息抜き…＠コルネリア様とルドゥスの時間です！"
+    "message": "A small respite from our busy days... It's time to enjoy Ludus with Lady Cornelia!"
   },
   {
     "sectionId": 310532,
-    "title": "燃えあがる恋の火種",
+    "title": "A Spark of Flaring Love",
     "charaName": "Amaryllis",
-    "message": "はわ…＠タイムパラドクスってなんでしょう？＠何をどうすれば解決できるのか…"
+    "message": "Hwuh... What exactly is a time paradox? How can we possibly resolve it?"
   },
   {
     "sectionId": 310533,
-    "title": "恋は戦争である",
+    "title": "Love is War",
     "charaName": "Amaryllis",
-    "message": "こ、この展開は＠予想していませんでした…＠幽霊騒ぎの原因はこれですね…！"
+    "message": "Th-this turn of events... I didn't see this coming...! So this is the cause of the ghostly disturbances...!"
   },
   {
     "sectionId": 310534,
-    "title": "Amaryllis’ Doppel",
+    "title": "Amaryllis' Doppel",
     "charaName": "Amaryllis",
     "message": "…"
   },
@@ -4442,7 +4442,7 @@
   },
   {
     "sectionId": 311024,
-    "title": "Yachiyo & Mifuyu’s Trials",
+    "title": "Yachiyo & Mifuyu's Trials",
     "charaName": "Mifuyu Azusa",
     "message": "…"
   },
@@ -4472,21 +4472,21 @@
   },
   {
     "sectionId": 311041,
-    "title": "ゆめの理由",
+    "title": "The Reason For My Dream",
     "charaName": "Sana Futaba",
-    "message": "参考に読み直すなら…＠うん、この絵本にしよう…！"
+    "message": "If I'm going to reread something to reference... Yeah, it has to be this picture book...!"
   },
   {
     "sectionId": 311042,
-    "title": "のこしたい物語",
+    "title": "The Story I Want To Leave Behind",
     "charaName": "Sana Futaba",
-    "message": "テーマとあらすじは決まってきたし…＠絵本作りを進められそう…！"
+    "message": "I have my main idea and the synopsis... I'm ready to start making my picture book...!"
   },
   {
     "sectionId": 311043,
-    "title": "想いをつたえて",
+    "title": "Conveying My Thoughts",
     "charaName": "Sana Futaba",
-    "message": "うぅ…緊張してきた…＠私の話を聞いたら＠ねむちゃん、どう思うかな…"
+    "message": "Mgh... I'm getting nervous… What will Nemu-chan think when she hears what I have to say...?"
   },
   {
     "sectionId": 311044,
@@ -4496,25 +4496,25 @@
   },
   {
     "sectionId": 311051,
-    "title": "Mitama’s Camera",
+    "title": "Mitama's Camera",
     "charaName": "Felicia-chan",
-    "message": "Aaahhhhh…＠Wonder what Iroha’s buying…＠Aaahhhhh…"
+    "message": "Aaahhhhh…＠Wonder what Iroha's buying…＠Aaahhhhh…"
   },
   {
     "sectionId": 311052,
     "title": "Felicia-chan and the Camera",
     "charaName": "Felicia-chan",
-    "message": "Ya wanna take a photo, too?＠…’s fine, I guess. If you’re gonna take one, make sure it looks cool."
+    "message": "Ya wanna take a photo, too?＠…'s fine, I guess. If you're gonna take one, make sure it looks cool."
   },
   {
     "sectionId": 311053,
     "title": "Bye-Bye Camera",
     "charaName": "Felicia-chan",
-    "message": "UWAAAAAAAAAHHH?!＠WHAT! THE! HECK! IS! THIS!＠This don’t taste like sweet potatoes at ALL!"
+    "message": "UWAAAAAAAAAHHH?!＠WHAT! THE! HECK! IS! THIS!＠This don't taste like sweet potatoes at ALL!"
   },
   {
     "sectionId": 311054,
-    "title": "Felicia-chan’s Doppel",
+    "title": "Felicia-chan's Doppel",
     "charaName": "Felicia-chan",
     "message": "…"
   },
@@ -4538,7 +4538,7 @@
   },
   {
     "sectionId": 311064,
-    "title": "Mifuyu’s Doppel",
+    "title": "Mifuyu's Doppel",
     "charaName": "Mifuyu Azusa",
     "message": "…"
   },
@@ -4562,7 +4562,7 @@
   },
   {
     "sectionId": 311074,
-    "title": "Touka & Nemu’s Trials",
+    "title": "Touka & Nemu's Trials",
     "charaName": "Nemu Hiiragi",
     "message": "…"
   },
@@ -4598,7 +4598,7 @@
   },
   {
     "sectionId": 311092,
-    "title": "Rena Can’t Do It",
+    "title": "Rena Can't Do It",
     "charaName": "Rena-chan",
     "message": "W-well, I can't just leave her hanging, so I guess I can hear her out at least..."
   },
@@ -4606,11 +4606,11 @@
     "sectionId": 311093,
     "title": "Rena Wants To Be...!",
     "charaName": "Rena-chan",
-    "message": "Rena will be…an idol…@An idol…me?"
+    "message": "Rena will be…an idol…＠An idol…me?"
   },
   {
     "sectionId": 311094,
-    "title": "Rena-chan ‘s Doppel",
+    "title": "Rena-chan's Doppel",
     "charaName": "Rena-chan",
     "message": "…"
   },
@@ -4634,31 +4634,31 @@
   },
   {
     "sectionId": 311104,
-    "title": "Momoko’s Doppel",
+    "title": "Momoko's Doppel",
     "charaName": "Momoko Togame",
     "message": "…"
   },
   {
     "sectionId": 311121,
-    "title": "ハロウィン感とは何か",
+    "title": "What Does Halloween Feel Like?",
     "charaName": "Karin Misono",
-    "message": "うーん…うーん…"
+    "message": "Uun... Uun..."
   },
   {
     "sectionId": 311122,
-    "title": "迷走するアイデンティティ",
+    "title": "Straying Identity",
     "charaName": "Karin Misono",
-    "message": "かぼちゃ…仮装…＠トリックオアトリート…？"
+    "message": "Pumpkins... Costumes... Trick or treat...?"
   },
   {
     "sectionId": 311123,
-    "title": "王と従者のディスタンス",
+    "title": "The Distance Between King and Servant",
     "charaName": "Karin Misono",
-    "message": "ハロウィン感をテーマにした漫画が＠ついに完成したの！"
+    "message": "The Halloween-themed manga is finally finished!"
   },
   {
     "sectionId": 311124,
-    "title": "Karin & Alina’s Trials",
+    "title": "Karin & Alina's Trials",
     "charaName": "Karin Misono",
     "message": "…"
   },
@@ -4682,31 +4682,31 @@
   },
   {
     "sectionId": 311134,
-    "title": "Asuka’s Doppel",
+    "title": "Asuka's Doppel",
     "charaName": "Asuka Tatsuki",
     "message": "…"
   },
   {
     "sectionId": 311161,
-    "title": "吸血鬼の違和感",
+    "title": "A Vampire's Discomfort",
     "charaName": "Kanagi Izumi",
     "message": "この町の平穏も＠今日で終わり…"
   },
   {
     "sectionId": 311162,
-    "title": "走るメイド吸血鬼",
+    "title": "Novice Maid Vampire",
     "charaName": "Kanagi Izumi",
     "message": "今日は自分が責任をもって＠みんなをもてなすぞ！"
   },
   {
     "sectionId": 311163,
-    "title": "十七夜の答え",
+    "title": "Kanagi's Answer",
     "charaName": "Kanagi Izumi",
     "message": "ふむ…少々緊張するな＠こんな感覚は久しぶりだ"
   },
   {
     "sectionId": 311164,
-    "title": "Kanagi’s Doppel",
+    "title": "Kanagi's Doppel",
     "charaName": "Kanagi Izumi",
     "message": "…"
   },
@@ -4778,7 +4778,7 @@
   },
   {
     "sectionId": 311204,
-    "title": "Kagome’s Trials",
+    "title": "Kagome's Doppel",
     "charaName": "Kagome Satori",
     "message": "…"
   },
@@ -4802,7 +4802,7 @@
   },
   {
     "sectionId": 311214,
-    "title": "Yuna & Juri’s Trials",
+    "title": "Yuna & Juri's Trials",
     "charaName": "Yuna Kureha",
     "message": "…"
   },
@@ -4826,7 +4826,7 @@
   },
   {
     "sectionId": 311254,
-    "title": "Shizuka’s Doppel",
+    "title": "Shizuka's Doppel",
     "charaName": "Shizuka Tokime",
     "message": "…"
   },
@@ -4850,7 +4850,7 @@
   },
   {
     "sectionId": 311334,
-    "title": "Rabi’s Doppel",
+    "title": "Rabi's Doppel",
     "charaName": "Rabi Himuro",
     "message": "…"
   },
@@ -4874,31 +4874,31 @@
   },
   {
     "sectionId": 311374,
-    "title": "Nayuta & Mikage’s Trials",
+    "title": "Nayuta & Mikage's Trials",
     "charaName": "Nayuta Satomi",
     "message": "…"
   },
   {
     "sectionId": 311391,
-    "title": "わたしの大切な人",
+    "title": "My Beloved One",
     "charaName": "Sudachi Sawa",
-    "message": "（今日は調整屋がお休み！＠ミィちゃんと遊ぶんだ！）"
+    "message": "(Today is the Coordinator shop's day off! I'm going to go play with Mii!)"
   },
   {
     "sectionId": 311392,
-    "title": "月出里の繋がり",
+    "title": "Sudachi's Connections",
     "charaName": "Sudachi Sawa",
-    "message": "（バレンタイン…＠考えることが多くて大変だ…＠みんなよくやってるよね…）"
+    "message": "(Valentine's... There's so much to think about... And everyone does this all the time...)"
   },
   {
     "sectionId": 311393,
-    "title": "巣立ちの挨拶",
+    "title": "Greeting the World Beyond Her Nest",
     "charaName": "Sudachi Sawa",
-    "message": "（お家が…住んでた町が…＠どんどん近づいてる…＠少し、緊張する…）"
+    "message": "(My home...the town I live in... It's getting closer and closer... I'm getting a little nervous...)"
   },
   {
     "sectionId": 311394,
-    "title": "Sudachi’s Doppel",
+    "title": "Sudachi's Doppel",
     "charaName": "Sudachi Sawa",
     "message": "…"
   },
@@ -4922,55 +4922,55 @@
   },
   {
     "sectionId": 311434,
-    "title": "Kuroe’s Doppel",
+    "title": "Kuroe's Doppel",
     "charaName": "Kuroe",
     "message": "…"
   },
   {
     "sectionId": 311441,
-    "title": "手に入れたい普通",
+    "title": "The Normalcy I Want",
     "charaName": "Uwasa Mikoto",
-    "message": "帆奈ちゃんと一緒に逃避行…＠んふふ、楽しいなあ…＠次はどの町に行こっか？"
+    "message": "I'm escaping with Hanna... *Giggle* So much fun... Which town shall we go to next?"
   },
   {
     "sectionId": 311442,
-    "title": "幸せは手からこぼれ落ち",
+    "title": "Happiness Spills Out of My Hands",
     "charaName": "Uwasa Mikoto",
-    "message": "ずっと欲しかったものを＠ようやく手に入れることができて…＠私、幸せすぎて怖いな"
+    "message": "I finally got what I've always wanted... I'm afraid I'm too happy."
   },
   {
     "sectionId": 311443,
-    "title": "きらきら",
+    "title": "Sparkling",
     "charaName": "Uwasa Mikoto",
-    "message": "期待するだけムダ…＠なら、はじめるしかないね＠第二次全部台なしにするぞ計画を"
+    "message": "It's not worth getting our hopes up... I guess we'll just have to start the second phase of the \"Let's Ruin Everything Plan\"."
   },
   {
     "sectionId": 311444,
-    "title": "Uwasa Mikoto’s Doppel",
+    "title": "Uwasa Mikoto's Doppel",
     "charaName": "Uwasa Mikoto",
     "message": "…"
   },
   {
     "sectionId": 312011,
-    "title": "いろはちゃん参上する",
+    "title": "Iroha-chan Makes Her Debut",
     "charaName": "Iroha-chan",
-    "message": "ついに私もLive2Dになりました！＠見てください！私が動いてますよ！＠ほら、ほら！どうですか？"
+    "message": "I've finally become a Live2D! Look! I'm moving! Hey, hey! How is it?"
   },
   {
     "sectionId": 312012,
-    "title": "いろはちゃん闇落ちする",
+    "title": "Iroha-chan Falls to the Dark Side",
     "charaName": "Iroha-chan",
-    "message": "まどか先輩に続き私まで＠マギレコ世界にリリースされるなんて＠ちょっと、狙ってましたけど"
+    "message": "First Madoka-senpai got released into the Magia Record world, and now me. Not that I didn't want that..."
   },
   {
     "sectionId": 312013,
-    "title": "いろはちゃんネタバレする",
+    "title": "Iroha-chan Spoils the Plot",
     "charaName": "Iroha-chan",
-    "message": "あの…暗黒いろはになったので＠Live2Dの色も変えて頂くことは…＠あっ、いろいろ厳しいですか…"
+    "message": "Well... Since I've become Dark Iroha, could we change the color of my Live2D too...? Ah... That would be tough for a few reasons...?"
   },
   {
     "sectionId": 312014,
-    "title": "Iroha-chan’s Trials",
+    "title": "Iroha-chan's Trials",
     "charaName": "Iroha-chan",
     "message": "…"
   },
@@ -4994,7 +4994,7 @@
   },
   {
     "sectionId": 312024,
-    "title": "Yachiyo’s Doppel",
+    "title": "Yachiyo's Doppel",
     "charaName": "Yachiyo Nanami",
     "message": "…"
   },
@@ -5002,7 +5002,7 @@
     "sectionId": 312031,
     "title": "Endless Homework",
     "charaName": "Tsuruno Yui",
-    "message": "I can see it now!＠Let’s deliver smiles to that town next!"
+    "message": "I can see it now!＠Let's deliver smiles to that town next!"
   },
   {
     "sectionId": 312032,
@@ -5014,11 +5014,11 @@
     "sectionId": 312033,
     "title": "Lost & Found",
     "charaName": "Tsuruno Yui",
-    "message": "We couldn’t think of a way to make things normal again..."
+    "message": "We couldn't think of a way to make things normal again..."
   },
   {
     "sectionId": 312034,
-    "title": "Tsuruno & Felicia’s Trials",
+    "title": "Tsuruno & Felicia's Trials",
     "charaName": "Tsuruno Yui",
     "message": "…"
   },
@@ -5042,7 +5042,7 @@
   },
   {
     "sectionId": 312094,
-    "title": "Rena & Kaede’s Trials",
+    "title": "Rena & Kaede's Trials",
     "charaName": "Kaede Akino",
     "message": "…"
   },
@@ -5066,7 +5066,7 @@
   },
   {
     "sectionId": 312104,
-    "title": "Momoko & Mitama’s Trials",
+    "title": "Momoko & Mitama's Trials",
     "charaName": "Momoko Togame",
     "message": "…"
   },
@@ -5090,7 +5090,7 @@
   },
   {
     "sectionId": 312164,
-    "title": "Kanagi’s Doppel",
+    "title": "Kanagi's Doppel",
     "charaName": "Kanagi Izumi",
     "message": "…"
   },
@@ -5114,7 +5114,7 @@
   },
   {
     "sectionId": 312174,
-    "title": "Mitama’s Doppel",
+    "title": "Mitama's Doppel",
     "charaName": "Mitama Yakumo",
     "message": "…"
   },
@@ -5138,37 +5138,37 @@
   },
   {
     "sectionId": 313014,
-    "title": "Iroha & Yachiyo’s Trials",
+    "title": "Iroha & Yachiyo's Trials",
     "charaName": "Iroha Tamaki",
     "message": "…"
   },
   {
     "sectionId": 313021,
-    "title": "七海やちよ　戒めの記憶",
+    "title": "Memory of Admonishment",
     "charaName": "Yachiyo Nanami",
     "message": "記憶ミュージアムではね＠過去を振り返ることができるの…"
   },
   {
     "sectionId": 313022,
-    "title": "七海やちよ　喪失の記憶",
+    "title": "Memory of Loss",
     "charaName": "Yachiyo Nanami",
     "message": "いろはは消えたわ…＠死なないって、言ったのに…"
   },
   {
     "sectionId": 313023,
-    "title": "七海やちよ　傲慢の記憶",
+    "title": "Memory of Arrogance",
     "charaName": "Yachiyo Nanami",
     "message": "あの頃の私は＠いろはたちを失った現実を＠認めたくなくて、諦めたくなかったの"
   },
   {
     "sectionId": 313024,
-    "title": "Yachiyo’s Doppel",
+    "title": "Yachiyo's Doppel",
     "charaName": "Yachiyo Nanami",
     "message": "…"
   },
   {
     "sectionId": 313031,
-    "title": "Memories of Solitude",
+    "title": "Memories of Loneliness",
     "charaName": "Tsuruno Yui",
     "message": "ほうほう、記憶ミュージアムでは＠過去の出来事がわかるんだね！"
   },
@@ -5186,7 +5186,7 @@
   },
   {
     "sectionId": 313034,
-    "title": "Uwasa Tsuruno’s Trials",
+    "title": "Uwasa Tsuruno's Trials",
     "charaName": "Uwasa Tsuruno",
     "message": "…"
   },
@@ -5210,7 +5210,7 @@
   },
   {
     "sectionId": 313094,
-    "title": "Rena’s Trials",
+    "title": "Rena's Trials",
     "charaName": "Rena Minami",
     "message": "…"
   },
@@ -5234,7 +5234,7 @@
   },
   {
     "sectionId": 314014,
-    "title": "Iroha & Ui’s Trials",
+    "title": "Iroha & Ui's Trials",
     "charaName": "Iroha Tamaki",
     "message": "…"
   },
@@ -5258,31 +5258,31 @@
   },
   {
     "sectionId": 314024,
-    "title": "Yachiyo’s Doppel",
+    "title": "Yachiyo's Doppel",
     "charaName": "Yachiyo Nanami",
     "message": "…"
   },
   {
     "sectionId": 315011,
-    "title": "環いろはの失った記憶",
+    "title": "Lost Memories of Iroha Tamaki",
     "charaName": "Iroha Tamaki",
-    "message": "記憶ミュージアムでは＠昔を振り返ることができるみたい"
+    "message": "It looks like you can look back in time at the Memory Museum."
   },
   {
     "sectionId": 315012,
-    "title": "環いろはのひび割れた記憶",
+    "title": "Cracked Memories of Iroha Tamaki",
     "charaName": "Iroha Tamaki",
-    "message": "あの頃、マギウスの翼のことは＠何も知らなかったの…"
+    "message": "Back then, I knew nothing about the Wings of the Magius..."
   },
   {
     "sectionId": 315013,
-    "title": "環いろはの残酷な記憶",
+    "title": "Cruel Memories of Iroha Tamaki",
     "charaName": "Iroha Tamaki",
     "message": "死なないって約束したのに＠私、何もわかってなかった…"
   },
   {
     "sectionId": 315014,
-    "title": "Iroha’s Doppel",
+    "title": "Iroha's Doppel",
     "charaName": "Iroha Tamaki",
     "message": "…"
   },
@@ -5306,7 +5306,7 @@
   },
   {
     "sectionId": 315024,
-    "title": "Yachiyo’s Doppel",
+    "title": "Yachiyo's Doppel",
     "charaName": "Yachiyo Nanami",
     "message": "…"
   },
@@ -5330,7 +5330,7 @@
   },
   {
     "sectionId": 316014,
-    "title": "∞ Iroha’s Doppel",
+    "title": "∞ Iroha's Doppel",
     "charaName": "∞ Iroha",
     "message": "…"
   },
@@ -5354,7 +5354,7 @@
   },
   {
     "sectionId": 317014,
-    "title": "Infinite Iroha’s Trials",
+    "title": "Infinite Iroha's Trials",
     "charaName": "Infinite Iroha-chan",
     "message": "…"
   },
@@ -5378,7 +5378,7 @@
   },
   {
     "sectionId": 318014,
-    "title": "Iroha & Kuroe’s Trials",
+    "title": "Iroha & Kuroe's Trials",
     "charaName": "Kuroe",
     "message": "…"
   },
@@ -5402,7 +5402,7 @@
   },
   {
     "sectionId": 320014,
-    "title": "Madoka’s Doppel",
+    "title": "Madoka's Doppel",
     "charaName": "Madoka Kaname",
     "message": "…"
   },
@@ -5474,7 +5474,7 @@
   },
   {
     "sectionId": 320044,
-    "title": "Sayaka’s Doppel",
+    "title": "Sayaka's Doppel",
     "charaName": "Sayaka Miki",
     "message": "…"
   },
@@ -5498,7 +5498,7 @@
   },
   {
     "sectionId": 320054,
-    "title": "Mami’s Doppel",
+    "title": "Mami's Doppel",
     "charaName": "Mami Tomoe",
     "message": "…"
   },
@@ -5522,7 +5522,7 @@
   },
   {
     "sectionId": 320064,
-    "title": "Kyoko’s Doppel",
+    "title": "Kyoko's Doppel",
     "charaName": "Kyoko Sakura",
     "message": "…"
   },
@@ -5546,7 +5546,7 @@
   },
   {
     "sectionId": 320074,
-    "title": "Nagisa’s Doppel",
+    "title": "Nagisa's Doppel",
     "charaName": "Nagisa Momoe",
     "message": "…"
   },
@@ -5566,11 +5566,11 @@
     "sectionId": 320093,
     "title": "Sunshine After the Rain",
     "charaName": "Mabayu Aki",
-    "message": "Mngh… Looks like it’s starting to rain…"
+    "message": "Mngh… Looks like it's starting to rain…"
   },
   {
     "sectionId": 320094,
-    "title": "Mabayu’s Trials",
+    "title": "Mabayu's Trials",
     "charaName": "Mabayu Aki",
     "message": "…"
   },
@@ -5594,7 +5594,7 @@
   },
   {
     "sectionId": 321004,
-    "title": "Madoka’s Doppel",
+    "title": "Madoka's Doppel",
     "charaName": "Madoka Kaname",
     "message": "…"
   },
@@ -5642,31 +5642,31 @@
   },
   {
     "sectionId": 321024,
-    "title": "Madoka-senpai’s Doppel",
+    "title": "Madoka-senpai's Doppel",
     "charaName": "Madoka-senpai",
     "message": "…"
   },
   {
     "sectionId": 321031,
-    "title": "究極の力",
+    "title": "Ultimate Power",
     "charaName": "Ultimate Madoka-senpai",
-    "message": "見よ！これが究極の力＠これでわたしも横綱になれるね"
+    "message": "Behold! This is my ultimate power! Now I can be a grand sumo wrestler too!"
   },
   {
     "sectionId": 321032,
-    "title": "本気の勝負",
+    "title": "Earnest Match",
     "charaName": "Ultimate Madoka-senpai",
-    "message": "ちょっとずるくても関係ない！＠名誉のためなら手段は選ばないよ！"
+    "message": "I don't care if I'm a bit sneaky! I'll do whatever it takes for the honor!"
   },
   {
     "sectionId": 321033,
-    "title": "戦いの末",
+    "title": "End of the Competition",
     "charaName": "Ultimate Madoka-senpai",
-    "message": "このまま優勝までまっしぐら！＠さて決勝の相手は誰かな？"
+    "message": "I'll be the champion! Who's my final opponent?"
   },
   {
     "sectionId": 321034,
-    "title": "究極まどか先輩の試練",
+    "title": "Ultimate Madoka-senpai's Trials",
     "charaName": "Ultimate Madoka-senpai",
     "message": "…"
   },
@@ -5696,21 +5696,21 @@
   },
   {
     "sectionId": 321051,
-    "title": "バタフライ効果",
+    "title": "Butterfly Effect",
     "charaName": "Madoka Kaname",
-    "message": "パパにお願いされてたお買いものは＠次で最後だね！"
+    "message": "This is the last thing Dad asked me to buy!"
   },
   {
     "sectionId": 321052,
-    "title": "確かに甘いわね",
+    "title": "That Sure is Sweet",
     "charaName": "Madoka Kaname",
-    "message": "エイミー、大丈夫かなあ…"
+    "message": "Amy, I hope you're okay..."
   },
   {
     "sectionId": 321053,
-    "title": "何度生まれ変わっても",
+    "title": "No Matter How Many Times She Is Reborn",
     "charaName": "Madoka Kaname",
-    "message": "えへへ…＠よろしくね、ほむらちゃん！"
+    "message": "Hehehe... Nice to meet you, Homura!"
   },
   {
     "sectionId": 321054,
@@ -5738,7 +5738,7 @@
   },
   {
     "sectionId": 321064,
-    "title": "Madoka’s Doppel",
+    "title": "Madoka's Doppel",
     "charaName": "Madoka Kaname",
     "message": "…"
   },
@@ -5758,7 +5758,7 @@
     "sectionId": 321073,
     "title": "新たなる探検を求めて",
     "charaName": "Iroha-chan",
-    "message": "…って、いつの間にか＠魔女の結界に迷いこんでたぁ!?"
+    "message": "…って、いつの間にか＠魔女の結界に迷いこんでたぁ?!"
   },
   {
     "sectionId": 321074,
@@ -5840,21 +5840,21 @@
   },
   {
     "sectionId": 323001,
-    "title": "釣り大会とマーメイド",
+    "title": "Fishing Contest & Mermaids",
     "charaName": "Homura Akemi",
-    "message": "神浜の異変…＠それを解き明かせばきっと＠鹿目さんを救う手掛かりになる"
+    "message": "If I can figure out what's happening in Kamihama... I'm sure it'll lead to a clue on how to save Madoka."
   },
   {
     "sectionId": 323002,
-    "title": "眼鏡釣りと悪夢のエリンギ",
+    "title": "Reel Specs & Shroom Gloom",
     "charaName": "Homura Akemi",
-    "message": "少し動きづらそうだけど＠美樹さんの水着可愛いですね"
+    "message": "It looks hard to move around in, but Sayaka's swimsuit is really precious."
   },
   {
     "sectionId": 323003,
-    "title": "伝説の奥義と暴走ドッペル",
+    "title": "Famed Method & Wild Doppel",
     "charaName": "Homura Akemi",
-    "message": "本当に私でよかったんでしょうか？＠自分の眼鏡を釣っただけなのに…"
+    "message": "Is it really okay that I won? All I did was fish up my own glasses..."
   },
   {
     "sectionId": 323004,
@@ -5864,21 +5864,21 @@
   },
   {
     "sectionId": 323011,
-    "title": "あの日の約束",
+    "title": "The Promise From That Day",
     "charaName": "Homura Akemi",
-    "message": "この魔女の動きは＠全部知っている…"
+    "message": "I know all of this Witch's moves..."
   },
   {
     "sectionId": 323012,
-    "title": "新たな惨劇",
+    "title": "A New Tragedy",
     "charaName": "Homura Akemi",
-    "message": "こんな風にして＠だんだん慣れていくのね…"
+    "message": "I guess this is how you get used to it..."
   },
   {
     "sectionId": 323013,
-    "title": "第３の選択",
+    "title": "A Third Option",
     "charaName": "Homura Akemi",
-    "message": "知らなければ、迷うことも＠なかったのに…"
+    "message": "If I didn't know, I wouldn't have been lost..."
   },
   {
     "sectionId": 323014,
@@ -5888,25 +5888,25 @@
   },
   {
     "sectionId": 324001,
-    "title": "冬の好奇心",
+    "title": "Winter Curiosity",
     "charaName": "Sayaka Miki",
     "message": "もうすぐ年末かぁ…＠なんて、毎年考えるけど＠結局いつもと変わらないんだろうな…"
   },
   {
     "sectionId": 324002,
-    "title": "戸惑いのこころ",
+    "title": "Bewildered Heart",
     "charaName": "Sayaka Miki",
     "message": "…あぁ、どうしよう＠あの晴着のことで頭がいっぱいだよ…"
   },
   {
     "sectionId": 324003,
-    "title": "焦心と本心",
+    "title": "Anxiety and the Real Me",
     "charaName": "Sayaka Miki",
     "message": "やっぱり諦めよう…＠あたしなんかに晴着が＠似合うわけないよ…"
   },
   {
     "sectionId": 324004,
-    "title": "Sayaka’s Doppel",
+    "title": "Sayaka's Doppel",
     "charaName": "Sayaka Miki",
     "message": "…"
   },
@@ -5930,31 +5930,31 @@
   },
   {
     "sectionId": 324014,
-    "title": "Sayaka’s Doppel",
+    "title": "Sayaka's Doppel",
     "charaName": "Sayaka Miki",
     "message": "…"
   },
   {
     "sectionId": 324021,
-    "title": "最初のファン",
+    "title": "His First Fan",
     "charaName": "Sayaka Miki",
-    "message": "とことんツイてない日って＠あるもんだよね…"
+    "message": "There are days when you have no luck at all..."
   },
   {
     "sectionId": 324022,
-    "title": "応援してるから",
+    "title": "I'm Cheering For You",
     "charaName": "Sayaka Miki",
-    "message": "あたしの叶えたい願いが＠もしあるとしたら…"
+    "message": "If I had a wish that I wanted to come true..."
   },
   {
     "sectionId": 324023,
-    "title": "アヴェ・マリア",
+    "title": "Ave Maria",
     "charaName": "Sayaka Miki",
-    "message": "恭介が検査から戻ってくる前に＠なんとかしないと…！"
+    "message": "I have to do something before Kyosuke returns..!"
   },
   {
     "sectionId": 324024,
-    "title": "さやかの試練",
+    "title": "Sayaka's Trials",
     "charaName": "Sayaka Miki",
     "message": "…"
   },
@@ -5962,19 +5962,19 @@
     "sectionId": 325001,
     "title": "Studying With the Magius",
     "charaName": "Mami Tomoe",
-    "message": "I still have tea left, but...@Is it really okay for me to@keep relaxing like this?"
+    "message": "I still have tea left, but...＠Is it really okay for me to＠keep relaxing like this?"
   },
   {
     "sectionId": 325002,
     "title": "Black and White Feathers",
     "charaName": "Mami Tomoe",
-    "message": "Time to collect Grief Seeds...@This is an important part of our@duties as Wings of Magius, too."
+    "message": "Time to collect Grief Seeds...＠This is an important part of our＠duties as Wings of Magius, too."
   },
   {
     "sectionId": 325003,
     "title": "The Savior, Florence",
     "charaName": "Holy Mami",
-    "message": "So she came to Kamihama as @well... I feel bad that I worried@her, but...even so..."
+    "message": "So she came to Kamihama as ＠well... I feel bad that I worried＠her, but...even so..."
   },
   {
     "sectionId": 325004,
@@ -5984,45 +5984,45 @@
   },
   {
     "sectionId": 325011,
-    "title": "後輩と夏衣装",
+    "title": "Summer Costume and the Juniors",
     "charaName": "Mami Tomoe",
-    "message": "魔女のお出ましね…＠捕まえた人を放してもらうわよ！"
+    "message": "The Witch is here... I'm going to make it release the people it's captured!"
   },
   {
     "sectionId": 325012,
-    "title": "花火と努力",
+    "title": "Fireworks and Hard Work",
     "charaName": "Mami Tomoe",
-    "message": "新しい戦い方を試すことができるのも＠一緒に戦ってくれる＠後輩たちのおかげよね"
+    "message": "It's thanks to the juniors who fight with me that I can try out new ways of fighting."
   },
   {
     "sectionId": 325013,
-    "title": "誇りと見返り",
+    "title": "Pride and Reward",
     "charaName": "Mami Tomoe",
-    "message": "魔女は本当に現れるかしら…？"
+    "message": "Will that Witch really show up...?"
   },
   {
     "sectionId": 325014,
-    "title": "Mami’s Doppel",
+    "title": "Mami's Doppel",
     "charaName": "Mami Tomoe",
     "message": "…"
   },
   {
     "sectionId": 325021,
-    "title": "巴マミの奇妙な記憶",
+    "title": "Mami Tomoe's Strange Memories",
     "charaName": "Mami Tomoe",
-    "message": "ここは記憶ミュージアム＠あらゆる記憶を見られる場所よ"
+    "message": "This is the Memory Museum. It's a place where one can see all kinds of memories."
   },
   {
     "sectionId": 325022,
-    "title": "巴マミの足掻いた記憶",
+    "title": "Mami Tomoe's Struggling Memories",
     "charaName": "Mami Tomoe",
-    "message": "魔法少女の残酷な真実は＠あのときから、少しずつ＠私を変えてしまっていたのかもね…"
+    "message": "Perhaps the cruel truth about Magical Girls has been slowly changing me since then..."
   },
   {
     "sectionId": 325023,
-    "title": "巴マミの希望ある記憶",
+    "title": "Mami Tomoe's Hopeful Memories",
     "charaName": "Mami Tomoe",
-    "message": "「全てはマギウスの導きのままに」＠…あのときの私はそれが全てだった"
+    "message": "\"Everything must be done as guided by the Magius\" ...That's all I could think at the time."
   },
   {
     "sectionId": 325024,
@@ -6032,21 +6032,21 @@
   },
   {
     "sectionId": 325031,
-    "title": "守れる力があるのなら",
+    "title": "If You Have the Power to Protect",
     "charaName": "Mami Tomoe",
-    "message": "暁美さんの魔法、見せてもらうわ"
+    "message": "Miss Akemi, let me see your magic."
   },
   {
     "sectionId": 325032,
-    "title": "わかちあえる仲間",
+    "title": "A Supporting Friend",
     "charaName": "Mami Tomoe",
-    "message": "放課後…＠見回りの時間ね"
+    "message": "After school... it's time for patrols."
   },
   {
     "sectionId": 325033,
-    "title": "巴マミが残したもの",
+    "title": "What Mami Tomoe Left Behind",
     "charaName": "Mami Tomoe",
-    "message": "魔女の気配は…＠ここにはないようね"
+    "message": "There doesn't seem to be any sign of Witches here..."
   },
   {
     "sectionId": 325034,
@@ -6074,27 +6074,27 @@
   },
   {
     "sectionId": 326004,
-    "title": "Kyoko’s Doppel",
+    "title": "Kyoko's Doppel",
     "charaName": "Kyoko Sakura",
     "message": "…"
   },
   {
     "sectionId": 326011,
-    "title": "りんご味といちご味",
+    "title": "Apple Flavor and Strawberry Flavor",
     "charaName": "Kyoko Sakura",
-    "message": "今日の遠征は…ハズレかもな"
+    "message": "Today's expedition... might be a fail."
   },
   {
     "sectionId": 326012,
-    "title": "誰が信じてやるんだよ",
+    "title": "Who Will Believe Me",
     "charaName": "Kyoko Sakura",
-    "message": "なんか…＠ムシャクシャするな"
+    "message": "I feel.. kinda frustrated."
   },
   {
     "sectionId": 326013,
-    "title": "あたしは知ってる",
+    "title": "I Know It",
     "charaName": "Kyoko Sakura",
-    "message": "おっ、今日は＠ステップの調子がいいな！"
+    "message": "Woah, my steps are looking good today!"
   },
   {
     "sectionId": 326014,
@@ -6146,7 +6146,7 @@
   },
   {
     "sectionId": 327004,
-    "title": "Nagisa’s Doppel",
+    "title": "Nagisa's Doppel",
     "charaName": "Nagisa Momoe",
     "message": "…"
   },
@@ -6170,7 +6170,7 @@
   },
   {
     "sectionId": 327014,
-    "title": "Nagisa’s Doppel",
+    "title": "Nagisa's Doppel",
     "charaName": "Nagisa Momoe",
     "message": "…"
   },
@@ -6563,21 +6563,21 @@
   },
   {
     "sectionId": 330171,
-    "title": "毎度お騒がせしております",
+    "title": "Apologies for Always Bothering You",
     "charaName": "Yukika Nanase",
-    "message": "う～ん…困りましたっ＠いえ、いつも困っていると言われれば＠その通りなんですけど"
+    "message": "Hmm... I'm quite troubled... No, well, it would be proper to say that I'm always encountering trouble..."
   },
   {
     "sectionId": 330172,
-    "title": "ディスコミュニケーション",
+    "title": "Communication Failure",
     "charaName": "Yukika Nanase",
-    "message": "こういう場合…＠いったい、誰を頼りにすれば＠いいんでしょうか？"
+    "message": "In a situation such as this... Who in the world could I possibly turn to?"
   },
   {
     "sectionId": 330173,
-    "title": "つながった瞬間",
+    "title": "The Moment of Connection",
     "charaName": "Yukika Nanase",
-    "message": "いつものパターンだと＠ただの迷子探しで終わるとは＠思えないのですけど…"
+    "message": "According to the usual pattern, I don't think this will end as an ordinary search for a lost child..."
   },
   {
     "sectionId": 330174,
@@ -6659,21 +6659,21 @@
   },
   {
     "sectionId": 330211,
-    "title": "苦悩のスプリンター",
+    "title": "Anguished Sprinter",
     "charaName": "Sakuya Suzuka",
-    "message": "せっかく陸上部に入ったのに＠このままじゃちっとも楽しくないよ…"
+    "message": "I went through all the trouble of joining the track team, but I’m not having any fun at all..."
   },
   {
     "sectionId": 330212,
-    "title": "友からの追い風",
+    "title": "Tailwind From a Friend",
     "charaName": "Sakuya Suzuka",
-    "message": "私のこのもやもやした気持ちも＠結菜に相談すれば＠少しは晴れるかな…"
+    "message": "If I can talk to Yuna about this weird, fuzzy feeling, maybe it’ll go away..."
   },
   {
     "sectionId": 330213,
-    "title": "再起と加速",
+    "title": "Revival and Acceleration",
     "charaName": "Sakuya Suzuka",
-    "message": "やるからには本気で＠私の持つ全てを使って＠鍛え上げてみせる！"
+    "message": "If I'm gonna do this, I’m doing it for real! I'll train you with everything I've got!"
   },
   {
     "sectionId": 330221,
@@ -7007,19 +7007,19 @@
   },
   {
     "sectionId": 330361,
-    "title": "真里愛様は見逃さない",
+    "title": "Nothing Gets Past Mistress Maria",
     "charaName": "Maria Yuki",
     "message": "今日の放課後は＠あの子たちに会えるわね！＠ふふっ"
   },
   {
     "sectionId": 330362,
-    "title": "真里愛様は見守る",
+    "title": "Mistress Maria Will Watch Over You",
     "charaName": "Maria Yuki",
     "message": "私なりに精一杯考えたけど…＠少し心配だわ…"
   },
   {
     "sectionId": 330363,
-    "title": "聖母の魔法",
+    "title": "The Magic of the Virgin Mary",
     "charaName": "Maria Yuki",
     "message": "一緒に遊んで＠少しでも楽しい思い出になるなら…！"
   },
@@ -7049,21 +7049,21 @@
   },
   {
     "sectionId": 330381,
-    "title": "不意の仮説",
+    "title": "An Unexpected Hypothesis",
     "charaName": "Mikura Komachi",
-    "message": "そろそろあの件の連絡がくる頃かな…"
+    "message": "Perhaps they'll contact me about the dig soon...?"
   },
   {
     "sectionId": 330382,
-    "title": "願いの初稿",
+    "title": "The First Draft of My Wish",
     "charaName": "Mikura Komachi",
-    "message": "もし本当に仮説が正しいなら＠…なんとしても見たい！＠そのためには…！"
+    "message": "If my hypothesis is somehow correct... I have to see it, no matter what! And to do that...!"
   },
   {
     "sectionId": 330383,
-    "title": "答えの最終稿",
+    "title": "The Final Draft of My Answer",
     "charaName": "Mikura Komachi",
-    "message": "古墳だと思ったんだけどなあ…＠やっぱり、違うのかな…"
+    "message": "I was SO sure it was a kofun... but I guess I was wrong, in the end...?"
   },
   {
     "sectionId": 330384,
@@ -7073,39 +7073,39 @@
   },
   {
     "sectionId": 330391,
-    "title": "願わなかった夢",
+    "title": "The Dream I Didn't Wish For",
     "charaName": "Seira Mihono",
-    "message": "授業終わり！＠今日はなに観ようかなー"
+    "message": "Class dismissed! Now, what should I watch today...?"
   },
   {
     "sectionId": 330392,
-    "title": "夢の敵",
+    "title": "The Enemy of My Dream",
     "charaName": "Seira Mihono",
-    "message": "映画制作の準備開始！＠まずは仲間集めだね！"
+    "message": "Thus begins our movie production prep! First up: recruiting the team!"
   },
   {
     "sectionId": 330393,
-    "title": "いつか見た夢を",
+    "title": "Reaching the Dream I Had Back Then",
     "charaName": "Seira Mihono",
-    "message": "はは…＠さすがに堪えるね…"
+    "message": "Haha... just gotta deal with it, I guess..."
   },
   {
     "sectionId": 330401,
-    "title": "新たな日常",
+    "title": "A New Daily Life",
     "charaName": "Temari Kira",
-    "message": "このまま時間の許す限り＠読書を続けられたら＠とても幸せなんですが…"
+    "message": "I'd be very happy if I could simply continue my reading as long as time permits, but..."
   },
   {
     "sectionId": 330402,
-    "title": "３人の成果",
+    "title": "The Trio's Results",
     "charaName": "Temari Kira",
-    "message": "ここが果てなしのミラーズ…＠腕試しとはいえ＠気を引き締めていきましょう"
+    "message": "So this is Endless Mirrors... This may only be a test run, but we've got to keep our wits about us."
   },
   {
     "sectionId": 330403,
-    "title": "取り戻すべき日々",
+    "title": "The Days We Need to Retrieve",
     "charaName": "Temari Kira",
-    "message": "私の魔法…それに、魔女との戦い…＠考えるべきことが多すぎて＠ちっとも本に集中できません…"
+    "message": "My magic... and battling Witches... There's so much to think about that I can hardly focus on my reading at all..."
   },
   {
     "sectionId": 330411,
@@ -7127,21 +7127,21 @@
   },
   {
     "sectionId": 330421,
-    "title": "魔法少女の秘密をめぐって",
+    "title": "Concerning the Secret of Magical Girls",
     "charaName": "Meguru Hibiki",
-    "message": "さーて、部活、部活＠今日も頑張ろう～っと！"
+    "message": "Alriiight, club activities, club activities... I'll have to work hard at them today too!"
   },
   {
     "sectionId": 330422,
-    "title": "めぐるをめぐる大活劇",
+    "title": "Action-Packed Blockbuster Featuring Meguru",
     "charaName": "Meguru Hibiki",
-    "message": "いよいよ本番です！＠めぐる選手、爪痕を残せるか!?"
+    "message": "We're finally about to go live! Will Hibiki leave her mark on her enemies?!"
   },
   {
     "sectionId": 330423,
-    "title": "夢に向かってここからめぐれ！",
+    "title": "Turning Towards My Dream!",
     "charaName": "Meguru Hibiki",
-    "message": "ふんふんふーん＠この調子で、＠人気MCへの道を大爆走っ！"
+    "message": "Hmhmhmm. At this rate, I'll charge up the road to being a popular MC!"
   },
   {
     "sectionId": 330431,
@@ -7169,21 +7169,21 @@
   },
   {
     "sectionId": 330441,
-    "title": "息詰まる日常",
+    "title": "The Stifling Routine",
     "charaName": "Ranka Chizu",
-    "message": "神浜の魔法少女たちのこと…＠自動浄化システムのこと…＠知りたいことは山ほどある"
+    "message": "About the Magical Girls of Kamihama... about the Automatic Purification System... There's so much that I wanna know."
   },
   {
     "sectionId": 330442,
-    "title": "埋まらない溝",
+    "title": "An Unbridgeable Gap",
     "charaName": "Ranka Chizu",
-    "message": "ここまで収穫なし…＠今のやり方じゃダメだ…＠考えなきゃ、別の方法を…！"
+    "message": "No progress so far... My current method isn't working... I gotta think of another way...!"
   },
   {
     "sectionId": 330443,
-    "title": "選ばない未来",
+    "title": "A Future Unselected",
     "charaName": "Ranka Chizu",
-    "message": "アタシに利用されてるとも知らずに…＠ホント、おめでたいヤツら…"
+    "message": "Not even knowing I'm using them... They really ARE a bunch of happy-go-lucky fools..."
   },
   {
     "sectionId": 330451,
@@ -7235,7 +7235,7 @@
   },
   {
     "sectionId": 330472,
-    "title": "険しい道",
+    "title": "険しいPathway",
     "charaName": "Chika Aoba",
     "message": "早く…山に帰ろう…"
   },
@@ -7247,21 +7247,21 @@
   },
   {
     "sectionId": 330481,
-    "title": "ぐーたらだらだら…",
+    "title": "Loafer Loafing...",
     "charaName": "Hotaru Yura",
-    "message": "すぅ…すぅ…むにゃ…ん～…＠まだ寝るぅ～…＠むにゃ…すぅ…すぅ…"
+    "message": "Zzz...zzz...mmnngh...mm~... Still so sleeeepy~... Mmnngh...zzz...zzz..."
   },
   {
     "sectionId": 330482,
-    "title": "やろうと思えばシャキッと",
+    "title": "If I Want To, I Will",
     "charaName": "Hotaru Yura",
-    "message": "…準備よしっと＠学校に行かないとね"
+    "message": "I'm all set. I need to go to school, after all."
   },
   {
     "sectionId": 330483,
-    "title": "やっぱりぐーたら…",
+    "title": "I'm a Slacker After All...",
     "charaName": "Hotaru Yura",
-    "message": "えっ…？えっと…＠どーしよ…？＠なんで泣かせたのかわかんない…"
+    "message": "Eh...? Umm... What do I do...? I don't know why I made her cry..."
   },
   {
     "sectionId": 330491,
@@ -7481,21 +7481,21 @@
   },
   {
     "sectionId": 330581,
-    "title": "ただの血筋",
+    "title": "Only A Bloodline",
     "charaName": "Ryoko Natsu",
-    "message": "この辺りじゃあ＠久しぶりの魔女だな"
+    "message": "'Round here somewhere. Been a while, Witch."
   },
   {
     "sectionId": 330582,
-    "title": "すれ違う血脈",
+    "title": "Disparaging Bloodlines",
     "charaName": "Ryoko Natsu",
-    "message": "実感はねぇけど…＠ここにあたしのルーツがあるのか…"
+    "message": "I don't really feel anythin', but... this is where my roots are..."
   },
   {
     "sectionId": 330583,
-    "title": "かけがえのない魂",
+    "title": "An Irreplaceable Soul",
     "charaName": "Ryoko Natsu",
-    "message": "かーちゃんの…生き方…"
+    "message": "My mom's...way of life..."
   },
   {
     "sectionId": 330584,
@@ -7505,21 +7505,21 @@
   },
   {
     "sectionId": 330591,
-    "title": "粛清少女の受難",
+    "title": "Purge Girl's Ordeal",
     "charaName": "Kushu Irina",
-    "message": "…ふぁあ…＠少し…休ませてもらいます…"
+    "message": "...*Yaaawn*... I'm going to rest... just a little..."
   },
   {
     "sectionId": 330592,
-    "title": "粛清少女の困惑",
+    "title": "Purge Girl's Embarrassment",
     "charaName": "Kushu Irina",
-    "message": "あ、少し…＠喉が渇いたかも"
+    "message": "Ah, I think I'm a little thirsty."
   },
   {
     "sectionId": 330593,
-    "title": "粛清少女の誤算",
+    "title": "Purge Girl's Miscalculation",
     "charaName": "Kushu Irina",
-    "message": "やっぱり…暗い方が＠頭が冴えてくる"
+    "message": "Sure enough... My head is much clearer when it's dark."
   },
   {
     "sectionId": 330594,
@@ -7537,13 +7537,13 @@
     "sectionId": 335012,
     "title": "I Care Because We're Friends",
     "charaName": "Rika Ayano",
-    "message": "Okaaay!! Well then, let's do introductions!@Should I start us off?"
+    "message": "Okaaay!! Well then, let's do introductions!＠Should I start us off?"
   },
   {
     "sectionId": 335013,
     "title": "Christmas Eve With You",
     "charaName": "Ren Isuzu",
-    "message": "Is it...almost time...?@Ah, not yet... Still a little...longer to go..."
+    "message": "Is it...almost time...?＠Ah, not yet... Still a little...longer to go..."
   },
   {
     "sectionId": 335014,
@@ -7595,7 +7595,7 @@
   },
   {
     "sectionId": 335034,
-    "title": "このはと葉月のドッペル",
+    "title": "Konoha & Hazuki's Doppel",
     "charaName": "Konoha Shizumi",
     "message": "…"
   },
@@ -7643,7 +7643,7 @@
   },
   {
     "sectionId": 335054,
-    "title": "れいらとせいかのドッペル",
+    "title": "Leila & Seika's Doppel",
     "charaName": "Leila Ibuki",
     "message": "…"
   },
@@ -7883,21 +7883,21 @@
   },
   {
     "sectionId": 340141,
-    "title": "チャオ、昴かずみ",
+    "title": "Ciao, Kazumi Subaru",
     "charaName": "Kazumi Subaru",
-    "message": "神浜市のみんなは元気かな！＠早く会っていっぱいお話したい！"
+    "message": "I wonder if everyone in Kamihama's doing well! Can't wait to catch up with them!"
   },
   {
     "sectionId": 340142,
-    "title": "あすなろアラカルト",
+    "title": "Asunaro A La Carte",
     "charaName": "Kazumi Subaru",
-    "message": "料理は人のココロを救う！＠なんてね！"
+    "message": "Food helps people's hearts! Something like that!"
   },
   {
     "sectionId": 340143,
-    "title": "イチゴリゾットパーティー",
+    "title": "Strawberry Risotto Party",
     "charaName": "Kazumi Subaru",
-    "message": "ミチルのグランマが＠わたしに残してくれた想い…＠みんなに届けたいな"
+    "message": "Those feelings Michiru's grandma left with me... I want to convey them to everyone."
   },
   {
     "sectionId": 340144,
@@ -8053,13 +8053,13 @@
     "sectionId": 340271,
     "title": "A Sister's Promise",
     "charaName": "Lapin",
-    "message": "C'mon, c'mon!@Hey, come over here♪"
+    "message": "C'mon, c'mon!＠Hey, come over here♪"
   },
   {
     "sectionId": 340272,
     "title": "The Dawn of Doubt",
     "charaName": "Lapin",
-    "message": "I was JUST getting bored, you know? @Alrighty then, let's get going!!"
+    "message": "I was JUST getting bored, you know? ＠Alrighty then, let's get going!!"
   },
   {
     "sectionId": 340273,
@@ -8497,7 +8497,7 @@
     "sectionId": 340613,
     "title": "Life is short.",
     "charaName": "Chisato Nishikigi",
-    "message": "Whatever your problem, we're here to help!@We'll be happy to lend you a hand!"
+    "message": "Whatever your problem, we're here to help!＠We'll be happy to lend you a hand!"
   },
   {
     "sectionId": 340614,
@@ -8699,7 +8699,7 @@
   },
   {
     "sectionId": 420095,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420101,
@@ -8723,7 +8723,7 @@
   },
   {
     "sectionId": 420115,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420121,
@@ -8759,7 +8759,7 @@
   },
   {
     "sectionId": 420165,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420171,
@@ -8791,7 +8791,7 @@
   },
   {
     "sectionId": 420205,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420211,
@@ -8823,7 +8823,7 @@
   },
   {
     "sectionId": 420245,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420251,
@@ -8887,7 +8887,7 @@
   },
   {
     "sectionId": 420385,
-    "title": "EXTERMINATION BATTLE EXCHALLENGE"
+    "title": "EXTERMINATION BATTLE EX CHALLENGE"
   },
   {
     "sectionId": 420391,
@@ -8899,31 +8899,31 @@
   },
   {
     "sectionId": 521810,
-    "title": "かごめの百怪波瀾",
+    "title": "Kagome's Hundred Monsters",
     "charaName": "Kagome Satori",
     "message": "教授の家は…あった！＠約束の時間通り…だね"
   },
   {
     "sectionId": 521820,
-    "title": "かごめの百怪波瀾",
+    "title": "Kagome's Hundred Monsters",
     "charaName": "Kagome Satori",
-    "message": "いったい、今…＠何が起きているの…＠私、どうなっちゃうの…!?"
+    "message": "いったい、今…＠何が起きているの…＠私、どうなっちゃうの…?!"
   },
   {
     "sectionId": 521830,
-    "title": "かごめの百怪波瀾",
+    "title": "Kagome's Hundred Monsters",
     "charaName": "Nayuta Satomi",
     "message": "私も調査に協力して＠真相を明らかにしますの！"
   },
   {
     "sectionId": 521840,
-    "title": "かごめの百怪波瀾",
+    "title": "Kagome's Hundred Monsters",
     "charaName": "Rabi Himuro",
     "message": "今回の私の役回りは＠サポートだと心得てます＠どうぞお任せを"
   },
   {
     "sectionId": 521850,
-    "title": "かごめの百怪波瀾",
+    "title": "Kagome's Hundred Monsters",
     "charaName": "San Kagura",
     "message": "火祭りの炎が＠きっと導きを示してくれるはず…＠始めるわよ…！"
   },
@@ -8959,7 +8959,7 @@
   },
   {
     "sectionId": 710014,
-    "title": "感動のおもてなしを貴方に",
+    "title": "Giving You Touching Hospitality",
     "charaName": "Iroha Tamaki",
     "message": "お茶にケーキに準備は万端っ＠やちよさん喜んでくれるかな"
   },
@@ -8971,9 +8971,9 @@
   },
   {
     "sectionId": 710016,
-    "title": "寝顔をキャッチ",
+    "title": "Capturing a Sleeping Face",
     "charaName": "Iroha Tamaki",
-    "message": "いつもはお茶だから＠今日は少し変えてみようかな"
+    "message": "We usually have tea, but maybe I can try something a little new today..."
   },
   {
     "sectionId": 710017,
@@ -9013,9 +9013,9 @@
   },
   {
     "sectionId": 710026,
-    "title": "思いがけない幸運",
+    "title": "Unexpected Luck",
     "charaName": "Yachiyo Nanami",
-    "message": "この冬物のワンピース＠なかなか気に入ったわ"
+    "message": "I really am pleased with this winter dress."
   },
   {
     "sectionId": 710031,
@@ -9031,9 +9031,9 @@
   },
   {
     "sectionId": 710033,
-    "title": "いくつになっても",
+    "title": "No Matter How Old",
     "charaName": "Tsuruno Yui",
-    "message": "んじゃわたし、＠外に出てるからねー！"
+    "message": "Well then, I'm gonna go outside—!"
   },
   {
     "sectionId": 710034,
@@ -9067,7 +9067,7 @@
   },
   {
     "sectionId": 710042,
-    "title": "海でゴロゴロ",
+    "title": "Purrs-a-lot at the Beach",
     "charaName": "Sana Futaba",
     "message": "まっすぐな水平線…＠澄み切った青い空…＠はぁ～…落ち着きますね～…"
   },
@@ -9121,21 +9121,21 @@
   },
   {
     "sectionId": 710056,
-    "title": "内緒の夜更かし作戦！",
+    "title": "The Secret All-Nighter Strategy!",
     "charaName": "Felicia Mitsuki",
-    "message": "よしっ、ばっちり着替えたぜ！＠これでいつあいつらが来ても＠大丈夫だな！"
+    "message": "Alright, got my clothes all changed! Now I'll be good to go when they get here!"
   },
   {
     "sectionId": 710061,
-    "title": "幸せだった日々",
+    "title": "The Days When I Was Happy",
     "charaName": "Mifuyu Azusa",
-    "message": "…………＠まさか、また制服を＠着ることになるなんて…"
+    "message": "…………＠I can't believe that I'm wearing my school uniform again..."
   },
   {
     "sectionId": 710062,
-    "title": "十何回目かの夏、初めての敵",
+    "title": "1Xth Summer, and the First Threat",
     "charaName": "Mifuyu Azusa",
-    "message": "あんなことを言われてしまっては…＠ワタシが直々に動くしかありません"
+    "message": "There's no choice for me but to start moving more after having been told something like that, is there?​"
   },
   {
     "sectionId": 710063,
@@ -9151,63 +9151,63 @@
   },
   {
     "sectionId": 710072,
-    "title": "特別なしるし",
+    "title": "Special Mark",
     "charaName": "Touka Satomi",
-    "message": "くふふっ！＠みんなに自慢しちゃおーっと！"
+    "message": "Kuhuhu—! I'm gonna brag about this to everyooone!"
   },
   {
     "sectionId": 710081,
-    "title": "名作に犠牲はつきもの",
+    "title": "For a Masterpiece, Sacrifice Is Essential",
     "charaName": "Alina Gray",
-    "message": "アリナ、ショップで水着が見たいワケ＠そっちの買い物は＠とっとと済ませてヨネ"
+    "message": "I, Alina want to see a swimsuit in a negozio. Finish your own shopping right away."
   },
   {
     "sectionId": 710082,
-    "title": "揺るがぬ志",
+    "title": "Unwavering Will",
     "charaName": "Alina Gray",
-    "message": "アンサーはシンプル＠何があってもアリナはアリナ＠それだけなワケ"
+    "message": "Risposta è semplice. No matter what happens, Alina is Alina. That is all."
   },
   {
     "sectionId": 710091,
-    "title": "サンタの証明",
+    "title": "Proof of Santa",
     "charaName": "Rena Minami",
-    "message": "だーかーらー！＠何度も何度も言ってるでしょ！"
+    "message": "That - is - why! That's what I've been saying to you over and over again!"
   },
   {
     "sectionId": 710092,
-    "title": "とびっきりの１日",
+    "title": "An Extraordinary Day",
     "charaName": "Rena Minami",
-    "message": "さてと！＠次はペガサスの浮き輪を借りて…＠その次は２回目のかき氷！"
+    "message": "All right! Next, we'll rent a pegasus float, and after that, we'll have our second shaved ice!"
   },
   {
     "sectionId": 710093,
-    "title": "36度に包まれれば",
+    "title": "When It's 36 Degrees Out",
     "charaName": "Rena Minami",
-    "message": "うー、寒…＠雪とか降らなきゃいいけど"
+    "message": "Brr, it's cold. I hope it doesn't snow or anything..."
   },
   {
     "sectionId": 710101,
-    "title": "冬限定熱々特別メニュー",
+    "title": "The Hot Winter Special!",
     "charaName": "Momoko Togame",
     "message": "万々歳の食事券もらったけど…＠レナもかえでも用事かぁ…＠でも、せっかくだしなぁ…"
   },
   {
     "sectionId": 710102,
-    "title": "ももこ、女の子らしく",
+    "title": "A More Feminine Momoko",
     "charaName": "Momoko Togame",
-    "message": "ちょ、ちょっと待ってって…＠ふたりとも…話を聞いてくれよ…"
+    "message": "W-wait a second...both of you have to listen to me...!"
   },
   {
     "sectionId": 710111,
-    "title": "３人であそぼ！",
+    "title": "The Three of Us Will Play Together!",
     "charaName": "Kaede Akino",
-    "message": "わぁー…！＠海、広いね！大きいね！＠ねぇねぇ、何して遊ぼっか？"
+    "message": "Wow! The ocean is so wide! It's huge! Hey, guys, what should we play?"
   },
   {
     "sectionId": 710112,
-    "title": "ちょうどいいサイズ",
+    "title": "Just the Right Size",
     "charaName": "Kaede Akino",
-    "message": "えと…じゃあ私、＠ちょっと試着してくるね…！"
+    "message": "Um... Then I guess I'll try a few things on...!"
   },
   {
     "sectionId": 710113,
@@ -9217,15 +9217,15 @@
   },
   {
     "sectionId": 710121,
-    "title": "探せ！前世の宝",
+    "title": "Find It! A Past Life's Treasure!",
     "charaName": "Karin Misono",
-    "message": "約束の日になっちゃったの…＠できるところまではやったけど…"
+    "message": "I have a meeting... I got as far as I could, but..."
   },
   {
     "sectionId": 710122,
-    "title": "不屈の漫画家・かりん",
+    "title": "Indomitable Mangaka Karin",
     "charaName": "Karin Misono",
-    "message": "まさかの入院生活…＠だけど、せっかくだし＠この体験を漫画に活かすの！"
+    "message": "I never thought I'd be living the hospital life... But, since I'm here, I'm putting this experience into my manga!"
   },
   {
     "sectionId": 710131,
@@ -9241,9 +9241,9 @@
   },
   {
     "sectionId": 710142,
-    "title": "素直になれたら",
+    "title": "If I Could be Honest",
     "charaName": "Nemu Hiiragi",
-    "message": "この色…＠あまり僕に＠似合っていないような…"
+    "message": "This color... It doesn't feel like it suits me..."
   },
   {
     "sectionId": 710151,
@@ -9259,9 +9259,9 @@
   },
   {
     "sectionId": 710153,
-    "title": "やっぱり姉妹",
+    "title": "Sisters After All",
     "charaName": "Ui Tamaki",
-    "message": "うぅ…静電気＠またバチってこないかな？"
+    "message": "Ugh...this static electricity... Is it going to zap us again?"
   },
   {
     "sectionId": 710161,
@@ -9283,9 +9283,9 @@
   },
   {
     "sectionId": 710164,
-    "title": "成長の証",
+    "title": "Proof of Growth",
     "charaName": "Kanagi Izumi",
-    "message": "これを捨てるなんてとんでもない＠ならば自分が…"
+    "message": "Throwing this away is unthinkable, so I'll just..."
   },
   {
     "sectionId": 710171,
@@ -9325,9 +9325,9 @@
   },
   {
     "sectionId": 710201,
-    "title": "星月夜の悩み",
+    "title": "Starry Night Troubles",
     "charaName": "Kagome Satori",
-    "message": "はぁ…＠今日はまるでダメな１日だったな…"
+    "message": "*Sigh*... Today was just such a bad day..."
   },
   {
     "sectionId": 710211,
@@ -9421,9 +9421,9 @@
   },
   {
     "sectionId": 710272,
-    "title": "神様のいじわる！",
+    "title": "God's Unkindness!",
     "charaName": "Sunao Toki",
-    "message": "気にする必要はないはず＠あくまでおみくじは指標ですよ、はい"
+    "message": "There's no need to worry over it. The fortune is only an indicator, yes."
   },
   {
     "sectionId": 710273,
@@ -9439,15 +9439,15 @@
   },
   {
     "sectionId": 710291,
-    "title": "エンカウント事故",
+    "title": "Accidental Encounter",
     "charaName": "Shigure Miyabi",
-    "message": "あ、電話…＠…はぐむんから？"
+    "message": "Ah, my phone...＠...From Hagumun?"
   },
   {
     "sectionId": 710301,
-    "title": "ちぐはぐコラボレーション",
+    "title": "Mismatched Collaboration",
     "charaName": "Hagumu Azumi",
-    "message": "ウォーターパークのペアチケット＠もらっちゃった…"
+    "message": "I got a pair's ticket to the water park..."
   },
   {
     "sectionId": 710311,
@@ -9463,21 +9463,21 @@
   },
   {
     "sectionId": 710331,
-    "title": "命長ければ恥多し",
+    "title": "To Live Long is to Outlive Much",
     "charaName": "Rabi Himuro",
-    "message": "ハロウィンパーティー…だなんて＠私も浮かれているな…"
+    "message": "A Halloween party... What a surprise. I guess I'm getting excited too..."
   },
   {
     "sectionId": 710332,
-    "title": "うたた心に弄ばれて",
+    "title": "Toyed With by a Drowsy Heart",
     "charaName": "Rabi Himuro",
-    "message": "そろそろ作るか…＠那由他様の大好物を"
+    "message": "I should start cooking Lady Nayuta's favorite food..."
   },
   {
     "sectionId": 710341,
-    "title": "時女流はろうぃん",
-    "charaName": "三浦 旭",
-    "message": "この時期は、どこもかしこも＠ハロウィン一色でありますな"
+    "title": "Tokime-Style Hall o' Ween",
+    "charaName": "Asahi Miura",
+    "message": "This time of year, everywhere you go is caught up in Halloween."
   },
   {
     "sectionId": 710351,
@@ -9499,21 +9499,21 @@
   },
   {
     "sectionId": 710391,
-    "title": "雰囲気ふんふむ",
+    "title": "Feeling Funfumu",
     "charaName": "Sudachi Sawa",
-    "message": "（わたしは言葉が話せないし…＠みんなとの会話はヨヅルに任せて＠黙って立ってればいいよね…？）"
+    "message": "(I can't speak, so... I should leave all the conversation to Yozuru and just stand quietly, right...?)"
   },
   {
     "sectionId": 710401,
-    "title": "優しさを貴方に",
+    "title": "Kindness to You",
     "charaName": "Yozuru Sasame",
-    "message": "TPOをわきまえた服装をすること…＠これも相手への気遣い、と"
+    "message": "Dressing appropriately for the time, place, and occasion... This, too, is a way of showing consideration for the other party."
   },
   {
     "sectionId": 710402,
-    "title": "賢者の失敗",
+    "title": "The Wise Man's Mistake",
     "charaName": "Yozuru Sasame",
-    "message": "さすがはクリスマス＠みなさん、きらびやかな衣装で＠美しく着飾っていますね"
+    "message": "As one would expect on Christmas, everyone is dressed in resplendently beautiful costumes."
   },
   {
     "sectionId": 712011,
@@ -9541,9 +9541,9 @@
   },
   {
     "sectionId": 720013,
-    "title": "たまにはふたりで",
+    "title": "Sometimes It's the Two of Us",
     "charaName": "Madoka Kaname",
-    "message": "さやかちゃんとのお泊まり会…＠何して遊ぼうかなぁ"
+    "message": "A sleepover with Sayaka... I wonder what we should play."
   },
   {
     "sectionId": 720031,
@@ -9559,9 +9559,9 @@
   },
   {
     "sectionId": 720033,
-    "title": "どこでだってあなたとなら",
+    "title": "Anywhere With You",
     "charaName": "Homura Akemi",
-    "message": "あと１科目でテストは終わり…！＠そしたら…！"
+    "message": "Just one more test and it's over...! And then...!"
   },
   {
     "sectionId": 720041,
@@ -9573,17 +9573,17 @@
     "sectionId": 720042,
     "title": "夜のお遣い",
     "charaName": "Sayaka Miki",
-    "message": "おーしっ、準備はいい!?＠じゃあみんな、花火を構えて…＠行くよ！…着火ァーッ!!"
+    "message": "おーしっ、準備はいい?!＠じゃあみんな、花火を構えて…＠行くよ！…着火ァーッ!!"
   },
   {
     "sectionId": 720043,
-    "title": "テスト勉強は計画的に",
+    "title": "Plans to Study for the Test",
     "charaName": "Sayaka Miki",
-    "message": "明日はテスト当日…＠今晩が勝負だよ！"
+    "message": "Tomorrow's the day of the test... Tonight decides it all!"
   },
   {
     "sectionId": 720051,
-    "title": "最後は笑顔で",
+    "title": "With a Smile in the End",
     "charaName": "Mami Tomoe",
     "message": "私にしてあげられること…＠何でもしてあげなきゃ…！"
   },
@@ -9601,9 +9601,9 @@
   },
   {
     "sectionId": 720054,
-    "title": "静かだけど寂しくない",
+    "title": "It's Quiet, but Not Lonely",
     "charaName": "Mami Tomoe",
-    "message": "お掃除も完了！＠きっと朝まで大騒ぎだから＠しっかり準備しないとね"
+    "message": "That takes care of the cleaning! I'm sure it will be hectic until morning, so it's better to be prepared."
   },
   {
     "sectionId": 720061,
@@ -9613,9 +9613,9 @@
   },
   {
     "sectionId": 720062,
-    "title": "一番欲しいもの",
+    "title": "What I Wanted Most",
     "charaName": "Kyoko Sakura",
-    "message": "ふー…腹も減ってきたし、＠ここらで一息入れるとするか"
+    "message": "Whew... I'm startin' to feel a little hungry. Maybe I'll take a break."
   },
   {
     "sectionId": 720063,
@@ -9631,9 +9631,9 @@
   },
   {
     "sectionId": 720065,
-    "title": "生まれながらの美しさ",
+    "title": "Natural Beauty",
     "charaName": "Kyoko Sakura",
-    "message": "マミん家の洗面台…＠ちっこいビンとか＠いろんなモンが置いてあるなー"
+    "message": "Mami's washroom sink... She's got all kinds of pins and stuff here."
   },
   {
     "sectionId": 720071,
@@ -9643,45 +9643,45 @@
   },
   {
     "sectionId": 720072,
-    "title": "晴着も悪くないのです",
+    "title": "Kimono Isn't Bad Either",
     "charaName": "Nagisa Momoe",
-    "message": "魔女にはお正月も＠関係ないみたいなのです…"
+    "message": "New Year's doesn't seem to matter for Witches, either..."
   },
   {
     "sectionId": 720091,
-    "title": "バックステージの悶々",
+    "title": "Backstage Agony",
     "charaName": "Mabayu Aki",
-    "message": "鹿目さんたち５人の＠魔法少女ストーリーの解決編は＠ここで観られますよー"
+    "message": "Here you can watch the answer arc of Miss Kaname and co.'s Magical Girl Stories!"
   },
   {
     "sectionId": 721021,
-    "title": "遊んだ後の楽しみと言えば",
+    "title": "Speaking of Fun After Playing",
     "charaName": "Madoka-senpai",
-    "message": "アロハはひとりで十分＠それが宇宙の意思だよ"
+    "message": "Only one Aloha is enough. That's the will of the universe."
   },
   {
     "sectionId": 722031,
-    "title": "選択の理由",
+    "title": "The Reason for a Choice",
     "charaName": "Homura Akemi",
-    "message": "振袖に草履だと＠ちょっと動きづらいわね"
+    "message": "It's a little difficult to move in furisode and zori, isn't it."
   },
   {
     "sectionId": 730011,
-    "title": "隠されたアドバイス",
+    "title": "Hidden Advice",
     "charaName": "Kanoko Yayoi",
-    "message": "ふふっ！＠全身全霊で作ったこの冬服、＠阿見さんに見せるのが楽しみだな～！"
+    "message": "Hehe! I can't wait to show Miss Ami this winter outfit I poured my blood, sweat, and tears into~!"
   },
   {
     "sectionId": 730021,
-    "title": "シンプル・イズ・ザ・ベスト",
+    "title": "Simple is Best",
     "charaName": "Natsuki Utsuho",
     "message": "どうしようかなぁ…＠とりあえず、参考になりそうなものを＠探してみようかな…"
   },
   {
     "sectionId": 730022,
-    "title": "衣装に秘めた想い",
+    "title": "Thoughts Kept in Costume",
     "charaName": "Natsuki Utsuho",
-    "message": "確かにオーダー通りだけど…＠ちょっとだけ恥ずかしいかも…？"
+    "message": "It's certainly what I ordered, but... This might be kind of embarrassing...?"
   },
   {
     "sectionId": 730031,
@@ -9691,21 +9691,21 @@
   },
   {
     "sectionId": 730032,
-    "title": "真夏のダイナマイトクイーン",
+    "title": "Midsummer Dynamite Queen",
     "charaName": "Hinano Miyako",
     "message": "ふっふっふっ…＠これでビーチの視線は＠全部アタシのものだな！"
   },
   {
     "sectionId": 730041,
-    "title": "あなたの視線を一人占め",
+    "title": "I Want You to Only Have Eyes for Me",
     "charaName": "Sasara Minagi",
     "message": "明日香！＠トドメの一撃、決めちゃって！"
   },
   {
     "sectionId": 730051,
-    "title": "素敵なひとときはいかが？",
+    "title": "How About a Wonderful Time?",
     "charaName": "Nanaka Tokiwa",
-    "message": "ふふっ、動きやすく着心地もいい…＠とても良い服ですね"
+    "message": "*Chuckle* They're light and comfortable to wear... These clothes are very fine."
   },
   {
     "sectionId": 730061,
@@ -9717,7 +9717,7 @@
     "sectionId": 730062,
     "title": "Running Before You Can Walk",
     "charaName": "Emiri Kisaki",
-    "message": "Huh?!@Is this really me?! No WAY!"
+    "message": "Huh?!＠Is this really me?! No WAY!"
   },
   {
     "sectionId": 730071,
@@ -9751,15 +9751,15 @@
   },
   {
     "sectionId": 730102,
-    "title": "夏のリベンジ（？）マッチ！",
+    "title": "Summer Revenge(?) Match!",
     "charaName": "Ria Ami",
-    "message": "初日は散々だったけど…＠臨海学校はこれからよ！"
+    "message": "Day one was a total disaster... But seaside school is just getting started!"
   },
   {
     "sectionId": 730111,
-    "title": "Let’s Enjoy Halloween!",
+    "title": "Let's Enjoy Halloween!",
     "charaName": "Kako Natsume",
-    "message": "Okay, looks like I'm all set!@Alrighty then, here I go!"
+    "message": "Okay, looks like I'm all set!＠Alrighty then, here I go!"
   },
   {
     "sectionId": 730112,
@@ -9769,9 +9769,9 @@
   },
   {
     "sectionId": 730121,
-    "title": "勘違いと照れ隠し",
+    "title": "The Wrong Idea and Hiding Embarrassment",
     "charaName": "Meiyui Chun",
-    "message": "…はぁ…＠どうしてこうなたネ…"
+    "message": "...*Sigh*... How could this have happened..."
   },
   {
     "sectionId": 730131,
@@ -9781,15 +9781,15 @@
   },
   {
     "sectionId": 730151,
-    "title": "闇堕ちしたい！",
+    "title": "I Want to Join the Dark Side!",
     "charaName": "Mito Aino",
-    "message": "闇のみと参上！＠…だと元気が良すぎるから＠もっと闇っぽく…"
+    "message": "Dark Mito at your service! ...That's too cheery, so I need to be more darklike..."
   },
   {
     "sectionId": 730161,
     "title": "Sharing Happiness",
     "charaName": "Kokoro Awane",
-    "message": "*Giggle* That was such a fun hike!@But I think I gathered WAY too much!"
+    "message": "*Giggle* That was such a fun hike!＠But I think I gathered WAY too much!"
   },
   {
     "sectionId": 730162,
@@ -9801,13 +9801,13 @@
     "sectionId": 730163,
     "title": "Warmth of Kindness",
     "charaName": "Kokoro Awane",
-    "message": "Hmm... It's not here... Did I drop it somewhere...? @Ah, but I really need to get going soon!"
+    "message": "Hmm... It's not here... Did I drop it somewhere...? ＠Ah, but I really need to get going soon!"
   },
   {
     "sectionId": 730191,
-    "title": "あたしが選んであげる！",
+    "title": "Perception Ruffled",
     "charaName": "Ayaka Mariko",
-    "message": "雫ちゃんはどんな衣装を＠選んでくれたのかな～＠わくわくっ…わくわくっ…！"
+    "message": "Here's a \"cool\" gag that'll blow the cold away! Wait, that's \"hot\" ain't it?! Naaa ha ha!"
   },
   {
     "sectionId": 730192,
@@ -9841,9 +9841,9 @@
   },
   {
     "sectionId": 730281,
-    "title": "アブナイってそういうこと",
+    "title": "That's What She Meant By Risky",
     "charaName": "Ayame Mikuri",
-    "message": "あっ、帰ってきた！＠このはと葉月を驚かせちゃおっと！"
+    "message": "Ah, they're back! I'm gonna surprise Konoha and Hazuki!"
   },
   {
     "sectionId": 730291,
@@ -9883,9 +9883,9 @@
   },
   {
     "sectionId": 730321,
-    "title": "思い出と今を重ねて",
+    "title": "Memories and the Present Overlapping",
     "charaName": "Mayu Kozue",
-    "message": "新しい水着…＠嬉しいけど＠なんだか恥ずかしいなぁ…"
+    "message": "A new swimsuit... I'm happy, but it's kind of embarrassing..."
   },
   {
     "sectionId": 730331,
@@ -9895,9 +9895,9 @@
   },
   {
     "sectionId": 730341,
-    "title": "究極の味を求めて",
+    "title": "The Search for the Ultimate Taste",
     "charaName": "Moka Megumi",
-    "message": "おいしい食材を手に入れたなら＠やっぱり＠最高な状態で食べたいよね！"
+    "message": "When you have yummy food, sure enough, you want to eat it when it's at its best, don't you!"
   },
   {
     "sectionId": 730351,
@@ -9907,9 +9907,9 @@
   },
   {
     "sectionId": 730352,
-    "title": "ビーチの話題をひとり占め",
+    "title": "Hogging the Talk of the Beach",
     "charaName": "Riko Chiaki",
-    "message": "本当に、マメジそっくりですよね＠この浮き輪…！ "
+    "message": "This floaty really does look just like Mameji!"
   },
   {
     "sectionId": 730371,
@@ -9949,15 +9949,15 @@
   },
   {
     "sectionId": 730471,
-    "title": "カモフラージュは完璧",
+    "title": "The Perfect Camouflage",
     "charaName": "Chika Aoba",
-    "message": "うぅ…大きなお金を渡されると＠やっぱり気が引けちゃうな…"
+    "message": "Ugh... I still feel nervous being given large sums of money..."
   },
   {
     "sectionId": 730481,
-    "title": "お家は最強の砦",
+    "title": "Home is the Strongest Fortress",
     "charaName": "Hotaru Yura",
-    "message": "ううぅ～…寒ぅ～い…＠こんな日はお家から＠１歩も出たくなぁ～い…"
+    "message": "Uuugh~...so coooo~ld... On days like this I don't wanna take a single step outsiii~de..."
   },
   {
     "sectionId": 730491,
@@ -9993,7 +9993,7 @@
     "sectionId": 730532,
     "title": "A Maid Even at the Beach",
     "charaName": "Ikumi Makino",
-    "message": "Ta-daaaaah!＠Here's Kumi in a swimsuit!@How's it look? Does it suit me?"
+    "message": "Ta-daaaaah!＠Here's Kumi in a swimsuit!＠How's it look? Does it suit me?"
   },
   {
     "sectionId": 730571,
@@ -10009,8 +10009,8 @@
   },
   {
     "sectionId": 730591,
-    "title": "女王様が笑顔なら",
+    "title": "As Long as My Queen Smiles",
     "charaName": "Kushu Irina",
-    "message": "…………すぅ…すぅ…女王様…＠…あのね…私…すぅ…………"
+    "message": ".....Zzz...zzz...my Queen...＠...You know...I....."
   }
 ]
