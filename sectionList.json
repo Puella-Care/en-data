@@ -1529,7 +1529,7 @@
   },
   {
     "sectionId": 102604,
-    "areaDetailName": "Train - Inside",
+    "areaDetailName": "Train - Interior",
     "title": "One Heart, One Soul",
     "charaName": "Alexandra Kurusu",
     "message": "Hime's hometown... Why in the world would she show me that...",
@@ -1636,7 +1636,7 @@
     "areaDetailName": "Daito Ward - Apartment Complex",
     "title": "Union: Part 1",
     "charaName": "Mito Aino",
-    "message": "Hmmm... Somehow, I can’t find the will to go to school...",
+    "message": "Hmmm... Somehow, I can't find the will to go to school...",
     "outline": "二木市での戦いの後、ユニオン側とプロミストブラッドのメンバーに、両者が手を結ぶ話が伝わった。しかし元々の恨みや死んだ魔法少女たちのこともあり、両陣営の間には大きな歪みが生まれていた。＠そんな魔法少女たちへの取材と記録をすることになったリヴィアたちピュエラケア。全ては二木市での戦いでかごめを守ることができず、入院させる原因を作ってしまった自分たちの罪滅ぼしだった。＠そんな中、小さなキュゥべえは藍家ひめなが生きており、危険が迫っていることをいろはたちに伝えようとする。だが、肝心なときに限ってうまく伝わらなかった。"
   },
   {
@@ -2113,7 +2113,7 @@
   },
   {
     "sectionId": 103002,
-    "areaDetailName": "Care Trailer - Inside",
+    "areaDetailName": "Care Trailer - Interior",
     "title": "水面下の足音",
     "charaName": "Livia Medeiros",
     "message": "捜してる人はうちに集まる…＠確かに間違ってへんかもな",
@@ -2137,7 +2137,7 @@
   },
   {
     "sectionId": 103005,
-    "areaDetailName": "Train - Inside",
+    "areaDetailName": "Train - Interior",
     "title": "見えざる意思",
     "charaName": "Nayuta Satomi",
     "message": "…灯花…どうして…",
@@ -2145,7 +2145,7 @@
   },
   {
     "sectionId": 103101,
-    "areaDetailName": "Train - Inside",
+    "areaDetailName": "Train - Interior",
     "title": "思惑の糸を探って",
     "charaName": "Nayuta Satomi",
     "message": "魔法少女の存在が広く知れ渡るかも…＠そのとき、宇宙の意思が働くか＠この戦いにかかってますの…",
@@ -2321,7 +2321,7 @@
   },
   {
     "sectionId": 103407,
-    "areaDetailName": "象徴の魔女の結界",
+    "areaDetailName": "Symbol Witch's Labyrinth",
     "title": "Present Day Kamihama",
     "charaName": "Yachiyo Nanami",
     "message": "You're going to give back what you stole! I won't let you do what you want with Iroha!",
@@ -3089,7 +3089,7 @@
     "areaDetailName": "Bridge",
     "title": "Keyword of Sudden Interest",
     "charaName": "Rui Mizuki",
-    "message": "Why is everyone going to Daito with such heavy bags...? Don't tell me... t-they can't be, can they...",
+    "message": "Why is everyone going to Daito with such heavy bags...? Don't tell me...＠t-they can't be, can they...",
     "outline": "引き続き署名サイトの拡散方法を考える明日香たち。#（ハッシュタグ）やトレンドを使った方法も挙がるが、光明を見いだせないでいた。そんな中、工匠区で戦っているはずの塁からSOSが届く。＠一方、ネットの生配信で東西問題を語る莉愛は、東に嫌がらせをする人々と、それを問題と考える自分たちとの間に大きな差はないと答えた。＠その配信を見ながら移動していた沙優希は、道中、明日香たちと合流し塁の待つ工匠区に着く。大きな川の橋近くには、魔女の口づけを受けた人が押し寄せるのを必死で食い止める塁の姿があった。"
   },
   {
@@ -3664,13 +3664,13 @@
     "sectionId": 310231,
     "title": "Spinning Roulette",
     "charaName": "Ao Kasane",
-    "message": "I haven’t forgotten at all... Right now, I'm here to..."
+    "message": "I haven't forgotten at all...＠Right now, I'm here to..."
   },
   {
     "sectionId": 310232,
     "title": "Resolve of the Player",
     "charaName": "Ao Kasane",
-    "message": "Ahh... still in last place? Oh nooo, if I can't get back on track soon..."
+    "message": "Ahh... still in last place? Oh nooo,＠if I can't get back on track soon..."
   },
   {
     "sectionId": 310233,
@@ -3688,7 +3688,7 @@
     "sectionId": 310241,
     "title": "Suffering Since The End",
     "charaName": "Juri Oba",
-    "message": "I ain't losing today, Lil' Sis. I, Juri the Great, am gonna get your ass wrecked!"
+    "message": "I ain't losing today, Lil' Sis.＠I, Juri the Great, am gonna get your ass wrecked!"
   },
   {
     "sectionId": 310242,
@@ -3784,19 +3784,19 @@
     "sectionId": 310281,
     "title": "Assumption Blue",
     "charaName": "Himena Aika",
-    "message": "I'm here all day again, huh... Boohoo."
+    "message": "I'm here all day again, huh...＠Boohoo."
   },
   {
     "sectionId": 310282,
     "title": "Connected Mind",
     "charaName": "Himena Aika",
-    "message": "'Cause this cutie... she's only got you, Hiko..."
+    "message": "'Cause this cutie...＠she's only got you, Hiko..."
   },
   {
     "sectionId": 310283,
     "title": "Stay Close, Bestie",
     "charaName": "Himena Aika",
-    "message": "Act immediately once you've made up your mind! That's my golden rule, see★"
+    "message": "Act immediately once you've＠made up your mind!＠That's my golden rule, see★"
   },
   {
     "sectionId": 310284,
@@ -3880,19 +3880,19 @@
     "sectionId": 310321,
     "title": "How Miyu Met Lady San",
     "charaName": "Miyuri Yukari",
-    "message": "Lady San, Lady Saaan! More, please, more!"
+    "message": "Lady San, Lady Saaan!＠More, please, more!"
   },
   {
     "sectionId": 310322,
     "title": "Miyu's Favorite Thing",
     "charaName": "Miyuri Yukari",
-    "message": "That was when I realized I had a leg fetish."
+    "message": "That was when I realized I had＠a leg fetish."
   },
   {
     "sectionId": 310323,
     "title": "Miyu's God",
     "charaName": "Miyuri Yukari",
-    "message": "I'm not— I'm not like this because I want to be...!"
+    "message": "I'm not—I'm not like this because＠I want to be...!"
   },
   {
     "sectionId": 310324,
@@ -3934,7 +3934,7 @@
     "sectionId": 310342,
     "title": "The Onibaba Battle",
     "charaName": "Asahi Miura",
-    "message": "Even as a Magical Girl I have to put up with insufficient sleep..."
+    "message": "Even as a Magical Girl I have to＠put up with insufficient sleep..."
   },
   {
     "sectionId": 310343,
@@ -3964,7 +3964,7 @@
     "sectionId": 310353,
     "title": "First Love and Farewell",
     "charaName": "Alexandra Kurusu",
-    "message": "I've been seen... even if they suspect something... there's nothing I can do... is there..."
+    "message": "I've been seen... Even if they suspect something... there's nothing I can do... is there..."
   },
   {
     "sectionId": 310354,
@@ -3988,7 +3988,7 @@
     "sectionId": 310363,
     "title": "All I Can Do Is Move On",
     "charaName": "Urara Yume",
-    "message": "I'm glad you're relyin' on me, but... I wanna talk this over first."
+    "message": "I'm glad you're relyin' on me, but...＠I wanna talk this over first."
   },
   {
     "sectionId": 310364,
@@ -4024,7 +4024,7 @@
     "sectionId": 310381,
     "title": "Let's Make Some Friends",
     "charaName": "Mikage Yakumo",
-    "message": "Ugh... Sis betrayed me... I thought we were the same..."
+    "message": "Ugh... Sis betrayed me... I thought＠we were the same..."
   },
   {
     "sectionId": 310382,
@@ -4108,7 +4108,7 @@
     "sectionId": 310413,
     "title": "Something I Want You To Hear",
     "charaName": "Livia Medeiros",
-    "message": "I'm sorry, I really am... It's all my fault..."
+    "message": "I'm sorry, I really am...＠It's all my fault..."
   },
   {
     "sectionId": 310414,
@@ -4126,17 +4126,17 @@
     "sectionId": 310422,
     "title": "A True Story! The Mysterious Shadow Running Through Town",
     "charaName": "Kyubert",
-    "message": "...Kyuu. Mogyuu, mokyu… kyuu..."
+    "message": "...Kyuu. Mogyuu, mokyu... kyuu..."
   },
   {
     "sectionId": 310423,
-    "title": "Ui’s Observation Journal",
+    "title": "Ui's Observation Journal",
     "charaName": "Kyubert",
     "message": "Mokyu-mokkyu, kyu-mokkyui-kyui!"
   },
   {
     "sectionId": 310424,
-    "title": "Kyubert's Doppel",
+    "title": "Kyubert's Trials",
     "charaName": "Kyubert",
     "message": "…"
   },
@@ -4330,13 +4330,13 @@
     "sectionId": 310511,
     "title": "At the Nunnery",
     "charaName": "Heruka",
-    "message": "If only everyone could just have fun..."
+    "message": "If only everyone could just＠have fun..."
   },
   {
     "sectionId": 310512,
     "title": "The Girls' Uprising",
     "charaName": "Heruka",
-    "message": "Why does everyone want to be special..."
+    "message": "Why does everyone want＠to be special..."
   },
   {
     "sectionId": 310513,
@@ -4378,7 +4378,7 @@
     "sectionId": 310531,
     "title": "A Maiden Ought to Play Games",
     "charaName": "Amaryllis",
-    "message": "A small respite from our busy days... It's time to enjoy Ludus with Lady Cornelia!"
+    "message": "A small respite from our busy days... It's time to enjoy Ludus with＠Lady Cornelia!"
   },
   {
     "sectionId": 310532,
@@ -4486,7 +4486,7 @@
     "sectionId": 311043,
     "title": "Conveying My Thoughts",
     "charaName": "Sana Futaba",
-    "message": "Mgh... I'm getting nervous… What will Nemu-chan think when she hears what I have to say...?"
+    "message": "Mgh... I'm getting nervous...＠What will Nemu think when she hears what I have to say...?"
   },
   {
     "sectionId": 311044,
@@ -4594,19 +4594,19 @@
     "sectionId": 311091,
     "title": "Rena, An Idol?!",
     "charaName": "Rena-chan",
-    "message": "…Huh, a phone call? Is it…Momoko?"
+    "message": "...Huh, a phone call?＠Is it...Momoko?"
   },
   {
     "sectionId": 311092,
     "title": "Rena Can't Do It",
     "charaName": "Rena-chan",
-    "message": "W-well, I can't just leave her hanging, so I guess I can hear her out at least..."
+    "message": "W-well, I can't just leave her hanging,＠so I guess I can hear her out＠at least..."
   },
   {
     "sectionId": 311093,
     "title": "Rena Wants To Be...!",
     "charaName": "Rena-chan",
-    "message": "Rena will be…an idol…＠An idol…me?"
+    "message": "Rena will be...an idol...＠An idol...me?"
   },
   {
     "sectionId": 311094,
@@ -4642,19 +4642,19 @@
     "sectionId": 311121,
     "title": "What Does Halloween Feel Like?",
     "charaName": "Karin Misono",
-    "message": "Uun... Uun..."
+    "message": "Nngh... Nnnghh..."
   },
   {
     "sectionId": 311122,
     "title": "Straying Identity",
     "charaName": "Karin Misono",
-    "message": "Pumpkins... Costumes... Trick or treat...?"
+    "message": "Pumpkins... Costumes...＠Trick or treat...?"
   },
   {
     "sectionId": 311123,
     "title": "The Distance Between King and Servant",
     "charaName": "Karin Misono",
-    "message": "The Halloween-themed manga is finally finished!"
+    "message": "The Halloween-themed manga＠is finally finished!"
   },
   {
     "sectionId": 311124,
@@ -4894,7 +4894,7 @@
     "sectionId": 311393,
     "title": "Greeting the World Beyond Her Nest",
     "charaName": "Sudachi Sawa",
-    "message": "(My home...the town I live in... It's getting closer and closer... I'm getting a little nervous...)"
+    "message": "(My home...the town I live in...＠It's getting closer and closer...＠I'm getting a little nervous...)"
   },
   {
     "sectionId": 311394,
@@ -5002,13 +5002,13 @@
     "sectionId": 312031,
     "title": "Endless Homework",
     "charaName": "Tsuruno Yui",
-    "message": "I can see it now!＠Let's deliver smiles to that town next!"
+    "message": "I can see it now!＠Let's deliver smiles＠to that town next!"
   },
   {
     "sectionId": 312032,
     "title": "Miracle Illusion",
     "charaName": "Felicia Mitsuki",
-    "message": "We failed at Maze Town… But I'll make sure we deliver those smiles next time!"
+    "message": "We failed at Maze Town... But I'll make sure we deliver those smiles next time!"
   },
   {
     "sectionId": 312033,
@@ -5662,7 +5662,7 @@
     "sectionId": 321033,
     "title": "End of the Competition",
     "charaName": "Ultimate Madoka-senpai",
-    "message": "I'll be the champion! Who's my final opponent?"
+    "message": "I'll be the champion!＠Who's my final opponent?"
   },
   {
     "sectionId": 321034,
@@ -5710,7 +5710,7 @@
     "sectionId": 321053,
     "title": "No Matter How Many Times She Is Reborn",
     "charaName": "Madoka Kaname",
-    "message": "Hehehe... Nice to meet you, Homura!"
+    "message": "Hehehe...＠Nice to meet you, Homura!"
   },
   {
     "sectionId": 321054,
@@ -5794,7 +5794,7 @@
     "sectionId": 322021,
     "title": "Act I",
     "charaName": "Homura Akemi",
-    "message": "I'm Homura Akemi. Nice to meet you."
+    "message": "I'm Homura Akemi.＠Nice to meet you."
   },
   {
     "sectionId": 322022,
@@ -5842,7 +5842,7 @@
     "sectionId": 323001,
     "title": "Fishing Contest & Mermaids",
     "charaName": "Homura Akemi",
-    "message": "If I can figure out what's happening in Kamihama... I'm sure it'll lead to a clue on how to save Madoka."
+    "message": "If I can figure out what's happening in Kamihama... I'm sure it'll lead to＠a clue on how to save Madoka."
   },
   {
     "sectionId": 323002,
@@ -5872,13 +5872,13 @@
     "sectionId": 323012,
     "title": "A New Tragedy",
     "charaName": "Homura Akemi",
-    "message": "I guess this is how you get used to it..."
+    "message": "I guess this is how＠you get used to it..."
   },
   {
     "sectionId": 323013,
     "title": "A Third Option",
     "charaName": "Homura Akemi",
-    "message": "If I didn't know, I wouldn't have been lost..."
+    "message": "If I didn't know, I wouldn't have＠been lost..."
   },
   {
     "sectionId": 323014,
@@ -5938,13 +5938,13 @@
     "sectionId": 324021,
     "title": "His First Fan",
     "charaName": "Sayaka Miki",
-    "message": "There are days when you have no luck at all..."
+    "message": "There are days when you have＠no luck at all..."
   },
   {
     "sectionId": 324022,
     "title": "I'm Cheering For You",
     "charaName": "Sayaka Miki",
-    "message": "If I had a wish that I wanted to come true..."
+    "message": "If I had a wish that I wanted＠to come true..."
   },
   {
     "sectionId": 324023,
@@ -6010,7 +6010,7 @@
     "sectionId": 325021,
     "title": "Mami Tomoe's Strange Memories",
     "charaName": "Mami Tomoe",
-    "message": "This is the Memory Museum. It's a place where one can see all kinds of memories."
+    "message": "This is the Memory Museum. It's＠a place where one can see all kinds＠of memories."
   },
   {
     "sectionId": 325022,
@@ -6040,13 +6040,13 @@
     "sectionId": 325032,
     "title": "A Supporting Friend",
     "charaName": "Mami Tomoe",
-    "message": "After school... it's time for patrols."
+    "message": "After school...＠It's time for patrols."
   },
   {
     "sectionId": 325033,
     "title": "What Mami Tomoe Left Behind",
     "charaName": "Mami Tomoe",
-    "message": "There doesn't seem to be any sign of Witches here..."
+    "message": "There doesn't seem to be any sign＠of Witches here..."
   },
   {
     "sectionId": 325034,
@@ -6082,13 +6082,13 @@
     "sectionId": 326011,
     "title": "Apple Flavor and Strawberry Flavor",
     "charaName": "Kyoko Sakura",
-    "message": "Today's expedition... might be a fail."
+    "message": "Today's expedition...might be a fail."
   },
   {
     "sectionId": 326012,
     "title": "Who Will Believe Me",
     "charaName": "Kyoko Sakura",
-    "message": "I feel.. kinda frustrated."
+    "message": "I feel...kinda frustrated."
   },
   {
     "sectionId": 326013,
@@ -6130,7 +6130,7 @@
     "sectionId": 327001,
     "title": "The War Has Already Begun",
     "charaName": "Nagisa Momoe",
-    "message": "The real war begins after Valentine's Day!"
+    "message": "The real war begins after＠Valentine's Day!"
   },
   {
     "sectionId": 327002,
@@ -6577,7 +6577,7 @@
     "sectionId": 330173,
     "title": "The Moment of Connection",
     "charaName": "Yukika Nanase",
-    "message": "According to the usual pattern, I don't think this will end as an ordinary search for a lost child..."
+    "message": "According to the usual pattern,＠I don't think this will end as an＠ordinary search for a lost child..."
   },
   {
     "sectionId": 330174,
@@ -6661,19 +6661,19 @@
     "sectionId": 330211,
     "title": "Anguished Sprinter",
     "charaName": "Sakuya Suzuka",
-    "message": "I went through all the trouble of joining the track team, but I’m not having any fun at all..."
+    "message": "I went through all the trouble of joining the track team, but I'm not having any fun at all..."
   },
   {
     "sectionId": 330212,
     "title": "Tailwind From a Friend",
     "charaName": "Sakuya Suzuka",
-    "message": "If I can talk to Yuna about this weird, fuzzy feeling, maybe it’ll go away..."
+    "message": "If I can talk to Yuna about this weird, fuzzy feeling, maybe it'll go away..."
   },
   {
     "sectionId": 330213,
     "title": "Revival and Acceleration",
     "charaName": "Sakuya Suzuka",
-    "message": "If I'm gonna do this, I’m doing it for real! I'll train you with everything I've got!"
+    "message": "If I'm gonna do this, I'm doing it＠for real! I'll train you with＠everything I've got!"
   },
   {
     "sectionId": 330221,
@@ -7051,7 +7051,7 @@
     "sectionId": 330381,
     "title": "An Unexpected Hypothesis",
     "charaName": "Mikura Komachi",
-    "message": "Perhaps they'll contact me about the dig soon...?"
+    "message": "Perhaps they'll contact me about＠the dig soon...?"
   },
   {
     "sectionId": 330382,
@@ -7063,7 +7063,7 @@
     "sectionId": 330383,
     "title": "The Final Draft of My Answer",
     "charaName": "Mikura Komachi",
-    "message": "I was SO sure it was a kofun... but I guess I was wrong, in the end...?"
+    "message": "I was SO sure it was a kofun...but＠I guess I was wrong, in the end...?"
   },
   {
     "sectionId": 330384,
@@ -7075,7 +7075,7 @@
     "sectionId": 330391,
     "title": "The Dream I Didn't Wish For",
     "charaName": "Seira Mihono",
-    "message": "Class dismissed! Now, what should I watch today...?"
+    "message": "Class dismissed! Now, what should＠I watch today...?"
   },
   {
     "sectionId": 330392,
@@ -7087,7 +7087,7 @@
     "sectionId": 330393,
     "title": "Reaching the Dream I Had Back Then",
     "charaName": "Seira Mihono",
-    "message": "Haha... just gotta deal with it, I guess..."
+    "message": "Haha... Just gotta deal with it,＠I guess..."
   },
   {
     "sectionId": 330401,
@@ -7105,7 +7105,7 @@
     "sectionId": 330403,
     "title": "The Days We Need to Retrieve",
     "charaName": "Temari Kira",
-    "message": "My magic... and battling Witches... There's so much to think about that I can hardly focus on my reading at all..."
+    "message": "My magic...and battling Witches...＠There's so much to think about that＠I can hardly focus on my reading＠at all..."
   },
   {
     "sectionId": 330411,
@@ -7483,13 +7483,13 @@
     "sectionId": 330581,
     "title": "Only A Bloodline",
     "charaName": "Ryoko Natsu",
-    "message": "'Round here somewhere. Been a while, Witch."
+    "message": "'Round here somewhere.＠Been a while, Witch."
   },
   {
     "sectionId": 330582,
     "title": "Disparaging Bloodlines",
     "charaName": "Ryoko Natsu",
-    "message": "I don't really feel anythin', but... this is where my roots are..."
+    "message": "I don't really feel anythin', but...＠this is where my roots are..."
   },
   {
     "sectionId": 330583,
@@ -7531,7 +7531,7 @@
     "sectionId": 335011,
     "title": "The Perfect Place",
     "charaName": "Ren Isuzu",
-    "message": "Hm… I don't know…which one to pick…"
+    "message": "Hm… I don't know…which one＠to pick…"
   },
   {
     "sectionId": 335012,
@@ -7543,7 +7543,7 @@
     "sectionId": 335013,
     "title": "Christmas Eve With You",
     "charaName": "Ren Isuzu",
-    "message": "Is it...almost time...?＠Ah, not yet... Still a little...longer to go..."
+    "message": "Is it...almost time...?＠Ah, not yet...＠Still a little...longer to go..."
   },
   {
     "sectionId": 335014,
@@ -7609,7 +7609,7 @@
     "sectionId": 335042,
     "title": "Wanting to Know the Unseen Heart",
     "charaName": "Kokoro Awane",
-    "message": "Well, I admit I was in the wrong too, but you didn't have to put it that way…"
+    "message": "Well, I admit I was in the wrong too,＠but you didn't have to put it＠that way…"
   },
   {
     "sectionId": 335043,
@@ -8497,7 +8497,7 @@
     "sectionId": 340613,
     "title": "Life is short.",
     "charaName": "Chisato Nishikigi",
-    "message": "Whatever your problem, we're here to help!＠We'll be happy to lend you a hand!"
+    "message": "Whatever your problem, we're here＠to help! We'll be happy to＠lend you a hand!"
   },
   {
     "sectionId": 340614,
@@ -9805,15 +9805,15 @@
   },
   {
     "sectionId": 730191,
-    "title": "Perception Ruffled",
+    "title": "あたしが選んであげる！",
     "charaName": "Ayaka Mariko",
-    "message": "Here's a \"cool\" gag that'll blow the cold away! Wait, that's \"hot\" ain't it?! Naaa ha ha!"
+    "message": "雫ちゃんはどんな衣装を＠選んでくれたのかな～＠わくわくっ…わくわくっ…！"
   },
   {
     "sectionId": 730192,
-    "title": "認識そごそご",
+    "title": "Perception Ruffled",
     "charaName": "Ayaka Mariko",
-    "message": "寒さも吹き飛ばすクールなギャグ！＠って、そこはホットやないんかー！＠なーっはっは！"
+    "message": "Here's a \"cool\" gag that'll blow the cold away! Wait, that's \"hot\" ain't it?! Naaa ha ha!"
   },
   {
     "sectionId": 730231,
